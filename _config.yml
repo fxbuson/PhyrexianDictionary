@@ -3,4 +3,3 @@ description: Web version of Osmago's phyrexian dictionary v3. Heavily based on t
 author: Felipe Xavier Buson
 baseurl: /
 url: https://fxbuson.github.io/PhyrexianDictionary
-theme: minima

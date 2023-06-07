@@ -4,5 +4,5 @@ html {
 
 @font-face {
     font-family: "Phyrexian Regular";
-    src: url("/fonts/Phyrexian-Regular.ttf") format('ttf');
+    src: url("{{ site.baseurl }}/fonts/Phyrexian-Regular.ttf") format('ttf');
   }

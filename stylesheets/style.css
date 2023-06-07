@@ -6,3 +6,7 @@ html {
     font-family: "Phyrexian Regular";
     src: url("/fonts/Phyrexian-Regular.ttf") format('ttf');
   }
+
+p.red{
+    color:red;
+}

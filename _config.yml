@@ -1,6 +1,0 @@
-name: Osmago's Phyrexian Dictionary Fork
-description: Web version of Osmago's phyrexian dictionary v3. Heavily based on the infofrmation on MTGWiki
-author: Felipe Xavier Buson
-baseurl: /
-url: https://fxbuson.github.io/PhyrexianDictionary
-theme: minima

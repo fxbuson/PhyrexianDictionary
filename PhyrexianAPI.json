@@ -1,0 +1,3699 @@
+{
+    "dictionary": {
+        "0": {
+            "phyrexian": "'əǆɒnii'",
+            "IPA": "ʔədʒɒniiʔ",
+            "plural": false,
+            "translation": "Ajani",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "name"
+        },
+        "1": {
+            "phyrexian": "'avričt",
+            "IPA": "ʔavritʃt",
+            "plural": false,
+            "translation": "Avaricta",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "name"
+        },
+        "2": {
+            "phyrexian": "'elš",
+            "IPA": "ʔelʃ",
+            "plural": false,
+            "translation": "Elesh",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "name"
+        },
+        "3": {
+            "phyrexian": "ɢytx",
+            "IPA": "ɢytx",
+            "plural": false,
+            "translation": "Gitaxias",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "name"
+        },
+        "4": {
+            "phyrexian": "ǆes",
+            "IPA": "dʒes",
+            "plural": false,
+            "translation": "Jace",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "name"
+        },
+        "5": {
+            "phyrexian": "ǆi'n",
+            "IPA": "dʒiʔn",
+            "plural": false,
+            "translation": "Jin",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "name"
+        },
+        "6": {
+            "phyrexian": "ǩərrk",
+            "IPA": "k'ərrk",
+            "plural": false,
+            "translation": "K'rrik",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "name"
+        },
+        "7": {
+            "phyrexian": "lyku'",
+            "IPA": "lykuʔ",
+            "plural": false,
+            "translation": "Lukka",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "name"
+        },
+        "8": {
+            "phyrexian": "nhirii'",
+            "IPA": "nhiriiʔ",
+            "plural": false,
+            "translation": "Nahiri",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "name"
+        },
+        "9": {
+            "phyrexian": "nisə'",
+            "IPA": "nisəʔ",
+            "plural": false,
+            "translation": "Nissa",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "name"
+        },
+        "10": {
+            "phyrexian": "norn",
+            "IPA": "norn",
+            "plural": false,
+            "translation": "Norn",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "name"
+        },
+        "11": {
+            "phyrexian": "φyrxkeθəɢð",
+            "IPA": "ɸyrxkeθəɢð",
+            "plural": false,
+            "translation": "Phyrexia (plane)",
+            "root": [
+                "φyrx",
+                "θəɢð"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "name"
+        },
+        "12": {
+            "phyrexian": "šøldrd",
+            "IPA": "ʃøldrd",
+            "plural": false,
+            "translation": "Sheoldred",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "name"
+        },
+        "13": {
+            "phyrexian": "'urbrask",
+            "IPA": "ʔurbrask",
+            "plural": false,
+            "translation": "Urabrask",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "name"
+        },
+        "14": {
+            "phyrexian": "vornχlx",
+            "IPA": "vornχlx",
+            "plural": false,
+            "translation": "Vorinclex",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "name"
+        },
+        "15": {
+            "phyrexian": "vraskə'",
+            "IPA": "vraskəʔ",
+            "plural": false,
+            "translation": "Vraska",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "name"
+        },
+        "16": {
+            "phyrexian": "tam'joo'",
+            "IPA": "tamʔjooʔ",
+            "plural": false,
+            "translation": "Tamiyo",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "name"
+        },
+        "17": {
+            "phyrexian": "jɒ'gmo'θ",
+            "IPA": "jɒʔgmoʔθ",
+            "plural": false,
+            "translation": "Yawgmoth",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "name"
+        },
+        "18": {
+            "phyrexian": "ɣøπi't",
+            "IPA": "ɣøp'iʔt",
+            "plural": false,
+            "translation": "Basic",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "19": {
+            "phyrexian": "ʁajg",
+            "IPA": "ʁajg",
+            "plural": false,
+            "translation": "Legendary",
+            "root": [
+                "ʁajg"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "20": {
+            "phyrexian": "qxuna'k",
+            "IPA": "qxunaʔk",
+            "plural": "qxunaa'k",
+            "translation": "Artifact",
+            "root": [
+                "qxuna'k"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "21": {
+            "phyrexian": "φe'x",
+            "IPA": "ɸeʔx",
+            "plural": "φee'x",
+            "translation": "Creature",
+            "root": [
+                "φe'x"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "22": {
+            "phyrexian": "myθž",
+            "IPA": "myθʒ",
+            "plural": "myyθž",
+            "translation": "Enchantment",
+            "root": [
+                "myθž"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "23": {
+            "phyrexian": "ziklʁums",
+            "IPA": "ziklʁums",
+            "plural": "ziklʁuums",
+            "translation": "Instant",
+            "root": [
+                "zikl",
+                "ʁums"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "24": {
+            "phyrexian": "kašplʁums",
+            "IPA": "kaʃplʁums",
+            "plural": "kašplʁuums",
+            "translation": "Sorcery",
+            "root": [
+                "kašpl",
+                "ʁums"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "25": {
+            "phyrexian": "θəɢð",
+            "IPA": "θəɢð",
+            "plural": "θəəɢð",
+            "translation": "Land",
+            "root": [
+                "θəɢð"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "26": {
+            "phyrexian": "nmhupment",
+            "IPA": "nmhupment",
+            "plural": "nmhupment",
+            "translation": "Planeswalker",
+            "root": [
+                "ment"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "27": {
+            "phyrexian": "'ičql",
+            "IPA": "ʔitʃql",
+            "plural": "'iičql",
+            "translation": "Plains",
+            "root": [
+                "'ičql"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "28": {
+            "phyrexian": "kẅθəɢð",
+            "IPA": "kɯθəɢð",
+            "plural": "kẅθəəɢð",
+            "translation": "Island",
+            "root": [
+                "θəɢð"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "29": {
+            "phyrexian": "qaškm",
+            "IPA": "qaʃkm",
+            "plural": "qaaškm",
+            "translation": "Swamp",
+            "root": [
+                "qaškm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "30": {
+            "phyrexian": "ktakx",
+            "IPA": "ktakx",
+            "plural": "ktaakx",
+            "translation": "Mountain",
+            "root": [
+                "ktakx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "31": {
+            "phyrexian": "'oɢθəsð",
+            "IPA": "ʔoɢθəsð",
+            "plural": "'oɢθəəsð",
+            "translation": "Forest",
+            "root": [
+                "'oɢθəsð"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "32": {
+            "phyrexian": "pnpe'k",
+            "IPA": "pnpeʔk",
+            "plural": "pnpee'k",
+            "translation": "Beast",
+            "root": [
+                "pe'k"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "33": {
+            "phyrexian": "dlabzǆfyll",
+            "IPA": "dlabzdʒfyll",
+            "plural": "dlabzǆfyyll",
+            "translation": "Blinkmoth",
+            "root": [
+                "dlabz",
+                "ǆfyll"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "34": {
+            "phyrexian": "jalf",
+            "IPA": "jalf",
+            "plural": "jaalf",
+            "translation": "Elf",
+            "root": [
+                "jalf"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "root"
+        },
+        "35": {
+            "phyrexian": "qipmt",
+            "IPA": "qipmt",
+            "plural": "qiipmt",
+            "translation": "Equipment",
+            "root": [
+                "qipmt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "root"
+        },
+        "36": {
+            "phyrexian": "šχʁɒčχ",
+            "IPA": "ʃχʁɒtʃχ",
+            "plural": "šχʁɒɒčχ",
+            "translation": "Horror",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "37": {
+            "phyrexian": "'ønəķ",
+            "IPA": "ʔønəkʰ",
+            "plural": "'øønəķ",
+            "translation": "Human",
+            "root": [
+                "'ønəķ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "38": {
+            "phyrexian": "'əqoq'",
+            "IPA": "ʔəqoqʔ",
+            "plural": "'əqooq'",
+            "translation": "Minion",
+            "root": [
+                "qoq'"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "39": {
+            "phyrexian": "φyrx",
+            "IPA": "ɸyrx",
+            "plural": "φyyrx",
+            "translation": "Phyrexian",
+            "root": [
+                "φyrx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "40": {
+            "phyrexian": "pxajtr",
+            "IPA": "pxajtr",
+            "plural": "pxaajtr",
+            "translation": "Praetor",
+            "root": [
+                "pxajtr"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "root"
+        },
+        "41": {
+            "phyrexian": "θutlzətč",
+            "IPA": "θutlzəttʃ",
+            "plural": "θutlzəətč",
+            "translation": "Rogue",
+            "root": [
+                "θutl",
+                "zətč"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "42": {
+            "phyrexian": "ǩliŋš",
+            "IPA": "k'liŋʃ",
+            "plural": "ǩliiŋš",
+            "translation": "Treasure",
+            "root": [
+                "ǩliŋš"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "43": {
+            "phyrexian": "naķmtǆyφķ",
+            "IPA": "nakʰmtdʒyɸkʰ",
+            "plural": "naķmtǆyyφķ",
+            "translation": "Warrior",
+            "root": [
+                "naķm",
+                "tǆyφķ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "44": {
+            "phyrexian": "plinexs",
+            "IPA": "plinexs",
+            "plural": false,
+            "translation": "Compleated",
+            "root": [
+                "plinexs"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "45": {
+            "phyrexian": "ɣwiθuqx'əkš",
+            "IPA": "ɣwiθuqxʔəkʃ",
+            "plural": false,
+            "translation": "Deathtouch",
+            "root": [
+                "θuqx",
+                "'əkš"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "46": {
+            "phyrexian": "qiplt",
+            "IPA": "qiplt",
+            "plural": false,
+            "translation": "Equip",
+            "root": [
+                "qiplt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": false,
+            "notes": null,
+            "type": "root"
+        },
+        "47": {
+            "phyrexian": "ɣwiziklʁums",
+            "IPA": "ɣwiziklʁums",
+            "plural": false,
+            "translation": "Flash",
+            "root": [
+                "zikl",
+                "ʁums"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "48": {
+            "phyrexian": "ɣwitøšq",
+            "IPA": "ɣwitøʃq",
+            "plural": false,
+            "translation": "Flying",
+            "root": [
+                "tøšq"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "49": {
+            "phyrexian": "ɣwiziklvuwk",
+            "IPA": "ɣwiziklvuwk",
+            "plural": false,
+            "translation": "Haste",
+            "root": [
+                "zikl",
+                "vuwk"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "50": {
+            "phyrexian": "ɣwiɮəɣð",
+            "IPA": "ɣwiɮəɣð",
+            "plural": false,
+            "translation": "Infect",
+            "root": [
+                "ɮəɣð"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "51": {
+            "phyrexian": "ɣwinsa'qraφoj",
+            "IPA": "ɣwinsaʔqraɸoj",
+            "plural": false,
+            "translation": "Lifelink",
+            "root": [
+                "nsa'q",
+                "raφj"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "52": {
+            "phyrexian": "jektlexøq",
+            "IPA": "jektlexøq",
+            "plural": false,
+            "translation": "Proliferate",
+            "root": [
+                "jekt",
+                "lexq"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "53": {
+            "phyrexian": "ɣwiqaškmjment",
+            "IPA": "ɣwiqaʃkmjment",
+            "plural": false,
+            "translation": "Swampwalk",
+            "root": [
+                "qaškm",
+                "ment"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "54": {
+            "phyrexian": "ɣwikfɒǧpan'g",
+            "IPA": "ɣwikfɒg'panʔg",
+            "plural": false,
+            "translation": "Trample",
+            "root": [
+                "pan'g"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "55": {
+            "phyrexian": "ɬaʁq",
+            "IPA": "ɬaʁq",
+            "plural": false,
+            "translation": "Toxic",
+            "root": [
+                "ɬaʁq"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "56": {
+            "phyrexian": "ɣwipnrukm",
+            "IPA": "ɣwipnrukm",
+            "plural": false,
+            "translation": "Vigilance",
+            "root": [
+                "rukm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "57": {
+            "phyrexian": "twøǩxθəxt",
+            "IPA": "twøk'xθəxt",
+            "plural": "twøǩxθəəxt",
+            "translation": "Battlefield",
+            "root": [
+                "twøǩx",
+                "θəxt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "58": {
+            "phyrexian": "čxəťu'θəxt",
+            "IPA": "tʃxət'uʔθəxt",
+            "plural": "čxəťu'θəəxt",
+            "translation": "Exile (zone)",
+            "root": [
+                "čxəť'",
+                "θəxt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "59": {
+            "phyrexian": "θuqxiwwθəxt",
+            "IPA": "θuqxiwwθəxt",
+            "plural": "θuqxiwwθəəxt",
+            "translation": "Graveyard",
+            "root": [
+                "θuqx",
+                "θəxt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "60": {
+            "phyrexian": "naql",
+            "IPA": "naql",
+            "plural": "naaql",
+            "translation": "Hand",
+            "root": [
+                "naql"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "61": {
+            "phyrexian": "tektθəxt",
+            "IPA": "tektθəxt",
+            "plural": "tektθəəxt",
+            "translation": "Library",
+            "root": [
+                "tekt",
+                "θəxt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "62": {
+            "phyrexian": "θəxt",
+            "IPA": "θəxt",
+            "plural": "θəəxt",
+            "translation": "Zone",
+            "root": [
+                "θəxt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "63": {
+            "phyrexian": "dlabzqpenč",
+            "IPA": "dlabzqpøntʃ",
+            "plural": "dlabzqpeenč",
+            "translation": "Upkeep",
+            "root": [
+                "dlabz",
+                "qpenč"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "64": {
+            "phyrexian": "twøǩx",
+            "IPA": "twøk'x",
+            "plural": "twøøǩx",
+            "translation": "Combat",
+            "root": [
+                "twøǩx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "65": {
+            "phyrexian": "πlnaķmqpenč",
+            "IPA": "p'lnakʰmqkentʃ",
+            "plural": "πlnaķmqpeenč",
+            "translation": "End step",
+            "root": [
+                "naķm",
+                "qpenč"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "66": {
+            "phyrexian": "qpenč",
+            "IPA": "qpentʃ",
+            "plural": "qpeenč",
+            "translation": "Step",
+            "root": [
+                "qpenč"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "67": {
+            "phyrexian": "ronɣ",
+            "IPA": "ronɣ",
+            "plural": "roonɣ",
+            "translation": "Turn",
+            "root": [
+                "ronɣ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "68": {
+            "phyrexian": "faxt",
+            "IPA": "faxt",
+            "plural": false,
+            "translation": "Black",
+            "root": [
+                "faxt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "69": {
+            "phyrexian": "ɮiww",
+            "IPA": "ɮiww",
+            "plural": false,
+            "translation": "Green",
+            "root": [
+                "ɮiww"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "70": {
+            "phyrexian": "ɣwi't",
+            "IPA": "ɣwiʔt",
+            "plural": "ɣwii't",
+            "translation": "Ability",
+            "root": [
+                "ɣwi't"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "71": {
+            "phyrexian": "ɢʁičtx",
+            "IPA": "ɢʁitʃtx",
+            "plural": false,
+            "translation": "Attack",
+            "root": [
+                "ɢʁičtx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "72": {
+            "phyrexian": "kfɒ'ǧ'",
+            "IPA": "kfɒʔg'ʔ",
+            "plural": false,
+            "translation": "Block (action)",
+            "root": [
+                "kfɒ'ǧ'"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "73": {
+            "phyrexian": "ɢwinš",
+            "IPA": "ɢwinʃ",
+            "plural": "ɢwiinš",
+            "translation": "Card",
+            "root": [
+                "ɢwinš"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "74": {
+            "phyrexian": "ʁums",
+            "IPA": "ʁums",
+            "plural": "ʁuums",
+            "translation": "Cast,Spell",
+            "root": [
+                "ʁums"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "75": {
+            "phyrexian": "sopšikt",
+            "IPA": "sopʃikt",
+            "plural": "sopšiikt",
+            "translation": "Color",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "76": {
+            "phyrexian": "qxuπl",
+            "IPA": "qxup'l",
+            "plural": false,
+            "translation": "Control",
+            "root": [
+                "qxuπl"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "77": {
+            "phyrexian": "tluxt",
+            "IPA": "tluxt",
+            "plural": "tluuxt",
+            "translation": "Copy",
+            "root": [
+                "tluxt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "78": {
+            "phyrexian": "χanj",
+            "IPA": "χanj",
+            "plural": "χaanj",
+            "translation": "Cost",
+            "root": [
+                "χanj"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "79": {
+            "phyrexian": "šuqn",
+            "IPA": "ʃuqn",
+            "plural": false,
+            "translation": "Counter (action)",
+            "root": [
+                "šuqn"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "80": {
+            "phyrexian": "juvẅķ",
+            "IPA": "juvɯkʰ",
+            "plural": "juuvẅķ",
+            "translation": "Counter (marker)",
+            "root": [
+                "juvẅķ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "81": {
+            "phyrexian": "naǩm",
+            "IPA": "nak'm",
+            "plural": false,
+            "translation": "Create",
+            "root": [
+                "naǩm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "82": {
+            "phyrexian": "ðpačk",
+            "IPA": "ðpatʃk",
+            "plural": false,
+            "translation": "Damage",
+            "root": [
+                "ðpačk"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "83": {
+            "phyrexian": "qab'",
+            "IPA": "qabʔ",
+            "plural": false,
+            "translation": "Destroy",
+            "root": [
+                "qab'"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "84": {
+            "phyrexian": "šteǩʁ",
+            "IPA": "ʃtek'ʁ",
+            "plural": false,
+            "translation": "Discard",
+            "root": [
+                "šteǩʁ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "85": {
+            "phyrexian": "mprasw",
+            "IPA": "mprasw",
+            "plural": false,
+            "translation": "Draw",
+            "root": [
+                "mprasw"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "86": {
+            "phyrexian": "čkalakm",
+            "IPA": "tʃkalakm",
+            "plural": "čkalaakm",
+            "translation": "Emblem",
+            "root": [
+                "čkalakm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "87": {
+            "phyrexian": "čxət'",
+            "IPA": "tʃxətʔ",
+            "plural": false,
+            "translation": "Exile (action)",
+            "root": [
+                "čxət'"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "88": {
+            "phyrexian": "φ'kitv",
+            "IPA": "ɸʔkitv",
+            "plural": false,
+            "translation": "Foil",
+            "root": [
+                "φ'kitv"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective, noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "89": {
+            "phyrexian": "huqtkeɴyt",
+            "IPA": "huqtkeɴyt",
+            "plural": false,
+            "translation": "Loyalty",
+            "root": [
+                "huqt",
+                "keɴt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "90": {
+            "phyrexian": "ma'n",
+            "IPA": "maʔn",
+            "plural": "maa'n",
+            "translation": "Mana",
+            "root": [
+                "ma'n"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "root"
+        },
+        "91": {
+            "phyrexian": "ẅəpk",
+            "IPA": "ɯəpk",
+            "plural": false,
+            "translation": "Mill",
+            "root": [
+                "ẅəpk"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "92": {
+            "phyrexian": "əxnɒqč",
+            "IPA": "əxnɒqtʃ",
+            "plural": "əxnɒɒqč",
+            "translation": "Opponent",
+            "root": [
+                "nɒqč"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "93": {
+            "phyrexian": "naķmkeφe'x",
+            "IPA": "nakʰmkeɸeʔx",
+            "plural": "naķmkeφee'x",
+            "translation": "Owner",
+            "root": [
+                "naķm",
+                "φe'x"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "94": {
+            "phyrexian": "huqɬgøťt",
+            "IPA": "huqɬgøt't",
+            "plural": false,
+            "translation": "Pay",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "95": {
+            "phyrexian": "'astiww",
+            "IPA": "ʔastiww",
+            "plural": "'astiiww",
+            "translation": "Permanent",
+            "root": [
+                "'ast"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "96": {
+            "phyrexian": "buǩð",
+            "IPA": "buk'ð",
+            "plural": false,
+            "translation": "Play",
+            "root": [
+                "buǩð"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "97": {
+            "phyrexian": "nɒqč",
+            "IPA": "nɒqtʃ",
+            "plural": "nɒɒqč",
+            "translation": "Player",
+            "root": [
+                "nɒqč"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "98": {
+            "phyrexian": "ʁiheɬɬ",
+            "IPA": "ʁiheɬɬ",
+            "plural": "ʁiheeɬɬ",
+            "translation": "Poison",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "99": {
+            "phyrexian": "nu'f",
+            "IPA": "nuʔf",
+            "plural": "nuu'f",
+            "translation": "Power",
+            "root": [
+                "nu'f"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "100": {
+            "phyrexian": "krepg",
+            "IPA": "krepg",
+            "plural": false,
+            "translation": "Reveal",
+            "root": [
+                "krepg"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "101": {
+            "phyrexian": "no'b'ugm",
+            "IPA": "noʔbʔugm",
+            "plural": false,
+            "translation": "Sacrifice",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "102": {
+            "phyrexian": "ɣypm",
+            "IPA": "ɣypm",
+            "plural": false,
+            "translation": "Tap",
+            "root": [
+                "ɣypm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "103": {
+            "phyrexian": "žyxt",
+            "IPA": "ʒyxt",
+            "plural": false,
+            "translation": "Target",
+            "root": [
+                "žyxt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "104": {
+            "phyrexian": "fa'ipθ",
+            "IPA": "faʔipθ",
+            "plural": "fa'iipθ",
+            "translation": "Token",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "105": {
+            "phyrexian": "ǩažð",
+            "IPA": "k'aʒð",
+            "plural": false,
+            "translation": "Trigger",
+            "root": [
+                "ǩažð"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "106": {
+            "phyrexian": "πøkk",
+            "IPA": "p'økk",
+            "plural": "πøøkk",
+            "translation": "Type",
+            "root": [
+                "πøkk"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "107": {
+            "phyrexian": "asərθ",
+            "IPA": "asərθ",
+            "plural": "asəərθ",
+            "translation": "Number",
+            "root": [
+                "asərθ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "108": {
+            "phyrexian": "'ii",
+            "IPA": "ʔii",
+            "plural": false,
+            "translation": "One",
+            "root": [
+                "'ii"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "109": {
+            "phyrexian": "ķu",
+            "IPA": "kʰu",
+            "plural": false,
+            "translation": "Two",
+            "root": [
+                "ķu"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "110": {
+            "phyrexian": "ķi",
+            "IPA": "kʰi",
+            "plural": false,
+            "translation": "Three",
+            "root": [
+                "ķi"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "111": {
+            "phyrexian": "ķus'ər",
+            "IPA": "kʰusʔər",
+            "plural": false,
+            "translation": "Twice",
+            "root": [
+                "ķu",
+                "s'ər"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adverb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "112": {
+            "phyrexian": "əxķus'ər",
+            "IPA": "əxkʰusʔər",
+            "plural": false,
+            "translation": "Half",
+            "root": [
+                "ķu",
+                "s'ər"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adverb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "113": {
+            "phyrexian": "vižǥ",
+            "IPA": "viižǥ",
+            "plural": "vižǥ",
+            "translation": "Access",
+            "root": [
+                "vižǥ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "114": {
+            "phyrexian": "čtəčpliɣn",
+            "IPA": "tʃtətʃpliɣn",
+            "plural": false,
+            "translation": "Activate",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "115": {
+            "phyrexian": "babg",
+            "IPA": "babg",
+            "plural": false,
+            "translation": "Add",
+            "root": [
+                "babg"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "116": {
+            "phyrexian": "ganwr",
+            "IPA": "ganwr",
+            "plural": "gaanwr",
+            "translation": "Agent",
+            "root": [
+                "ganwr"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "117": {
+            "phyrexian": "naķmnsa'q",
+            "IPA": "nakʰmnsaʔq",
+            "plural": "naķmnsaa'q",
+            "translation": "Animist",
+            "root": [
+                "naķm",
+                "nsa'q"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "118": {
+            "phyrexian": "ǩlətkk",
+            "IPA": "k'lətkk",
+            "plural": "ǩləətkk",
+            "translation": "Annex",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "119": {
+            "phyrexian": "niťamg",
+            "IPA": "nit'amg",
+            "plural": "niťaamg",
+            "translation": "Apocalypse",
+            "root": [
+                "ťamg"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "120": {
+            "phyrexian": "qab'θəxt",
+            "IPA": "qabʔθəxt",
+            "plural": "qab'θəəxt",
+            "translation": "Arena",
+            "root": [
+                "qab'",
+                "θəxt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "121": {
+            "phyrexian": "pnmenθ",
+            "IPA": "pnmenθ",
+            "plural": false,
+            "translation": "Ascended",
+            "root": [
+                "menθ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "122": {
+            "phyrexian": "pn'ətsxn",
+            "IPA": "pnʔətsxn",
+            "plural": false,
+            "translation": "Beg",
+            "root": [
+                "'ətsxn"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "123": {
+            "phyrexian": "'iixtfu'q",
+            "IPA": "ʔiixtfuʔq",
+            "plural": "'iixtfuu'q",
+            "translation": "Beginning",
+            "root": [
+                "'ii"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "124": {
+            "phyrexian": "χtena",
+            "IPA": "χtena",
+            "plural": false,
+            "translation": "Behold",
+            "root": [
+                "χten"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "125": {
+            "phyrexian": "πnokx",
+            "IPA": "p'nokx",
+            "plural": "πnokx",
+            "translation": "Betrayal",
+            "root": [
+                "πnokx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "126": {
+            "phyrexian": "ɮzətɣð",
+            "IPA": "ɮzətɣð",
+            "plural": false,
+            "translation": "Blighted",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "127": {
+            "phyrexian": "tekt",
+            "IPA": "tekt",
+            "plural": "teekt",
+            "translation": "Book",
+            "root": [
+                "tekt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "composite"
+        },
+        "128": {
+            "phyrexian": "ǩeǆylqitsodrm",
+            "IPA": "k'edʒylqitsodrm",
+            "plural": false,
+            "translation": "Bottom",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "129": {
+            "phyrexian": "keɴyt",
+            "IPA": "keɴyt",
+            "plural": false,
+            "translation": "Bound",
+            "root": [
+                "keɴyt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "130": {
+            "phyrexian": "pən'g",
+            "IPA": "pənʔg",
+            "plural": false,
+            "translation": "Break",
+            "root": [
+                "pən'g"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "131": {
+            "phyrexian": "sər",
+            "IPA": "sər",
+            "plural": false,
+            "translation": "By",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "preposition",
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "132": {
+            "phyrexian": "ǆønobt",
+            "IPA": "dʒønobt",
+            "plural": "ǆønoobt",
+            "translation": "Cenobite",
+            "root": [
+                "ǆønobt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "root"
+        },
+        "133": {
+            "phyrexian": "ʁšθaǩɴ",
+            "IPA": "ʁʃθak'ɴ",
+            "plural": false,
+            "translation": "Choose",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "134": {
+            "phyrexian": "'aliθt",
+            "IPA": "ʔaliθt",
+            "plural": false,
+            "translation": "Cleanse",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "135": {
+            "phyrexian": "twøǩx",
+            "IPA": "twøk'x",
+            "plural": "twøøǩx",
+            "translation": "Combat",
+            "root": [
+                "twøǩx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "136": {
+            "phyrexian": "močq",
+            "IPA": "motʃq",
+            "plural": false,
+            "translation": "Come",
+            "root": [
+                "močq"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "137": {
+            "phyrexian": "φlnaķm",
+            "IPA": "ɸlnakʰm",
+            "plural": false,
+            "translation": "Complete",
+            "root": [
+                "naķm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "138": {
+            "phyrexian": "bwedn",
+            "IPA": "bwedn",
+            "plural": "bweedn",
+            "translation": "Crawler",
+            "root": [
+                "bwedn"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "139": {
+            "phyrexian": "θuqx",
+            "IPA": "θuqx",
+            "plural": "θuuqx",
+            "translation": "Death",
+            "root": [
+                "θuqx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "140": {
+            "phyrexian": "čəxtefa'qsemr",
+            "IPA": "tʃəxtefaʔqsemr",
+            "plural": false,
+            "translation": "Dismember",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "141": {
+            "phyrexian": "χɬkevk",
+            "IPA": "χɬkevk",
+            "plural": false,
+            "translation": "Distribute",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "142": {
+            "phyrexian": "aχəw'",
+            "IPA": "aχəwʔ",
+            "plural": false,
+            "translation": "Each",
+            "root": [
+                "aχəw'"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adverb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "143": {
+            "phyrexian": "xɬiwj",
+            "IPA": "xɬiwj",
+            "plural": false,
+            "translation": "Early",
+            "root": [
+                "xɬiwj"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "144": {
+            "phyrexian": "ɢţrɒsd",
+            "IPA": "ɢtʰrɒsd",
+            "plural": "ɢţrɒɒsd",
+            "translation": "Embrace",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "145": {
+            "phyrexian": "ǆ'ynpp",
+            "IPA": "dʒʔynpp",
+            "plural": false,
+            "translation": "Equal",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "146": {
+            "phyrexian": "ɢiss",
+            "IPA": "ɢiss",
+            "plural": "ɢiiss",
+            "translation": "Evolution",
+            "root": [
+                "ɢiss"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "147": {
+            "phyrexian": "ķoɮǩm",
+            "IPA": "kʰoɮk'm",
+            "plural": false,
+            "translation": "Fall",
+            "root": [
+                "ķoɮǩm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "148": {
+            "phyrexian": "zikl",
+            "IPA": "zikl",
+            "plural": "zikl",
+            "translation": "Fast",
+            "root": [
+                "zikl"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "149": {
+            "phyrexian": "mo'θ",
+            "IPA": "moʔθ",
+            "plural": "moo'θ",
+            "translation": "Father",
+            "root": [
+                "mo'θ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "150": {
+            "phyrexian": "jɒɒ'gmo'yθ",
+            "IPA": "jɒʔgmoʔyθ",
+            "plural": "jɒɒ'gmoo'yθ",
+            "translation": "Father of Machines",
+            "root": [
+                "jɒ'g",
+                "mo'θ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "151": {
+            "phyrexian": "xwixč",
+            "IPA": "xwixtʃ",
+            "plural": "xwiixč",
+            "translation": "Fear",
+            "root": [
+                "xwixč"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "152": {
+            "phyrexian": "ķuɮaθǩv",
+            "IPA": "kʰuɮaθk'v",
+            "plural": false,
+            "translation": "February",
+            "root": [
+                "ķu",
+                "ɮaθǩv"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "153": {
+            "phyrexian": "bɬølπ",
+            "IPA": "bɬølp'",
+            "plural": false,
+            "translation": "Fill",
+            "root": [
+                "bɬølπ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "154": {
+            "phyrexian": "ɣɒzɢ",
+            "IPA": "ɣɒzɢ",
+            "plural": false,
+            "translation": "Flay",
+            "root": [
+                "ɣɒzɢ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "155": {
+            "phyrexian": "'əpyrx",
+            "IPA": "ʔəpyrx",
+            "plural": "'əpyyrx",
+            "translation": "Flesh",
+            "root": [
+                "pyrx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "156": {
+            "phyrexian": "tapq",
+            "IPA": "tapq",
+            "plural": false,
+            "translation": "Get",
+            "root": [
+                "tapq"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "157": {
+            "phyrexian": "ɢytx",
+            "IPA": "ɢytx",
+            "plural": "ɢyytx",
+            "translation": "Gitaxian",
+            "root": [
+                "ɢytx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "158": {
+            "phyrexian": "φ'kitv",
+            "IPA": "ɸʔkitv",
+            "plural": false,
+            "translation": "Glisten",
+            "root": [
+                "φ'kitv"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "159": {
+            "phyrexian": "'ɒjbť",
+            "IPA": "ʔɒjbt'",
+            "plural": "'ɒɒjbť",
+            "translation": "Glory",
+            "root": [
+                "'ɒjbť"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "160": {
+            "phyrexian": "πllupsθəxt",
+            "IPA": "p'llupsθəxt",
+            "plural": "πllupsθəəxt",
+            "translation": "Goal",
+            "root": [
+                "lups",
+                "θəxt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "161": {
+            "phyrexian": "šχa'θ",
+            "IPA": "ʃχaʔθ",
+            "plural": false,
+            "translation": "Great",
+            "root": [
+                "šχa'θ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "162": {
+            "phyrexian": "ɴk'ykg",
+            "IPA": "ɴkʔykg",
+            "plural": "ɴk'yykg",
+            "translation": "Heretic",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "163": {
+            "phyrexian": "əxťeķibrs",
+            "IPA": "əxt'ekʰibrs",
+            "plural": false,
+            "translation": "Hidden",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "164": {
+            "phyrexian": "gagg",
+            "IPA": "gagg",
+            "plural": "gaagg",
+            "translation": "Hunger",
+            "root": [
+                "gagg"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "165": {
+            "phyrexian": "ɣwiəxťeθuqx",
+            "IPA": "ɣwiəxt'eθuqx",
+            "plural": false,
+            "translation": "Immortality",
+            "root": [
+                "θuqx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "166": {
+            "phyrexian": "əxtunm",
+            "IPA": "əxtunm",
+            "plural": "əxtuunm",
+            "translation": "Impurity",
+            "root": [
+                "tunm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "167": {
+            "phyrexian": "grmɒɣg",
+            "IPA": "grmɒɣg",
+            "plural": false,
+            "translation": "Less than (fewer)",
+            "root": [
+                "mɒɣg"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": null,
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "168": {
+            "phyrexian": "nsa'q",
+            "IPA": "nsaʔq",
+            "plural": "nsaa'q",
+            "translation": "Life",
+            "root": [
+                "nsa'q"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "169": {
+            "phyrexian": "jɒ'g",
+            "IPA": "jɒʔg",
+            "plural": "jɒɒ'g",
+            "translation": "Machine",
+            "root": [
+                "jɒ'g"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "170": {
+            "phyrexian": "naķm",
+            "IPA": "nakʰm",
+            "plural": "naaķm",
+            "translation": "Make, Work",
+            "root": [
+                "naķm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "171": {
+            "phyrexian": "təɮirt",
+            "IPA": "təɮirt",
+            "plural": "təɮiirt",
+            "translation": "Mind",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "172": {
+            "phyrexian": "mrodn",
+            "IPA": "mrodn",
+            "plural": "mroodn",
+            "translation": "Mirran",
+            "root": [
+                "mrodn"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "root"
+        },
+        "173": {
+            "phyrexian": "korxgr",
+            "IPA": "korxgr",
+            "plural": false,
+            "translation": "More (than)",
+            "root": [
+                "korx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": null,
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "174": {
+            "phyrexian": "zɒðʁ",
+            "IPA": "zɒðʁ",
+            "plural": "zɒɒðʁ",
+            "translation": "Mother",
+            "root": [
+                "zɒðʁ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "175": {
+            "phyrexian": "jɒ'gzɒðʁ",
+            "IPA": "jɒʔgzɒðʁ",
+            "plural": "jɒ'gzɒɒðʁ",
+            "translation": "Mother of Machines (title)",
+            "root": [
+                "jɒ'g",
+                "zɒðʁ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "176": {
+            "phyrexian": "vuw'k",
+            "IPA": "vuwʔk",
+            "plural": false,
+            "translation": "Move",
+            "root": [
+                "vuw'k"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "177": {
+            "phyrexian": "ǆfyll",
+            "IPA": "dʒfyll",
+            "plural": "ǆfyyll",
+            "translation": "Moth",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "178": {
+            "phyrexian": "ɢnaɢɮ",
+            "IPA": "ɢnaɢɮ",
+            "plural": false,
+            "translation": "Next",
+            "root": [
+                "ɢnaɢɮ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "179": {
+            "phyrexian": "šoprapt",
+            "IPA": "ʃoprapt",
+            "plural": false,
+            "translation": "New",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "180": {
+            "phyrexian": "'əqd",
+            "IPA": "ʔəqd",
+            "plural": "'əqd",
+            "translation": "Nexus",
+            "root": [
+                "'əqd"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "181": {
+            "phyrexian": "rukx",
+            "IPA": "rukx",
+            "plural": "rukx",
+            "translation": "Note",
+            "root": [
+                "rukx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "182": {
+            "phyrexian": "rukxtekt",
+            "IPA": "rukxtekt",
+            "plural": "rukxtekt",
+            "translation": "Notebook",
+            "root": [
+                "rukx",
+                "tekt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "183": {
+            "phyrexian": "'ug'əχw",
+            "IPA": "ʔugʔəχw",
+            "plural": "ug'əəχw",
+            "translation": "Offer",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "184": {
+            "phyrexian": "sall",
+            "IPA": "sall",
+            "plural": false,
+            "translation": "Other",
+            "root": [
+                "sall"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": null,
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "185": {
+            "phyrexian": "jnaķm",
+            "IPA": "jnakʰm",
+            "plural": false,
+            "translation": "Perfect(ion)",
+            "root": [
+                "naķm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "186": {
+            "phyrexian": "qpenčodrm",
+            "IPA": "qpentʃodrm",
+            "plural": "qpenčoodrm",
+            "translation": "Process",
+            "root": [
+                "qpenč"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "187": {
+            "phyrexian": "ŋeǩydm",
+            "IPA": "ŋek'ydm",
+            "plural": false,
+            "translation": "Produce",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "188": {
+            "phyrexian": "jiǥgɣwi'v",
+            "IPA": "jigʰgɣwiʔv",
+            "plural": "jiǥgɣwii'v",
+            "translation": "Psychosis",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "189": {
+            "phyrexian": "ţə''",
+            "IPA": "tʰəʔʔ",
+            "plural": false,
+            "translation": "Put",
+            "root": [
+                "ţə''"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "190": {
+            "phyrexian": "mɒɣg",
+            "IPA": "mɒɣg",
+            "plural": false,
+            "translation": "Reduce",
+            "root": [
+                "mɒɣg"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "191": {
+            "phyrexian": "qẅrɮwi'g",
+            "IPA": "qɯrɮwiʔg",
+            "plural": "qẅrɮwii'g",
+            "translation": "Resistence",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "192": {
+            "phyrexian": "'iţpənn",
+            "IPA": "ʔitʰpənn",
+            "plural": false,
+            "translation": "Return",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "193": {
+            "phyrexian": "hfwežp",
+            "IPA": "hfweʒp",
+            "plural": "hfweežp",
+            "translation": "Ruin",
+            "root": [
+                "hfwežp"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "194": {
+            "phyrexian": "føvɣ",
+            "IPA": "føvɣ",
+            "plural": "føøvɣ",
+            "translation": "Sage",
+            "root": [
+                "føvɣ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "195": {
+            "phyrexian": "ɮportt",
+            "IPA": "ɮportt",
+            "plural": "ɮpoortt",
+            "translation": "Sective",
+            "root": [
+                "ɮportt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "196": {
+            "phyrexian": "rukm",
+            "IPA": "rukm",
+            "plural": false,
+            "translation": "See",
+            "root": [
+                "rukm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "197": {
+            "phyrexian": "txš",
+            "IPA": "txʃ",
+            "plural": false,
+            "translation": "Skin",
+            "root": [
+                "txš"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "198": {
+            "phyrexian": "'i'l",
+            "IPA": "ʔiʔl",
+            "plural": "'ii'l",
+            "translation": "Son",
+            "root": [
+                "'i'l"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "199": {
+            "phyrexian": "θwiχš",
+            "IPA": "θwiχʃ",
+            "plural": false,
+            "translation": "Sow",
+            "root": [
+                "θwiχš"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "200": {
+            "phyrexian": "hisp",
+            "IPA": "hisp",
+            "plural": false,
+            "translation": "Spend",
+            "root": [
+                "hisp"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "201": {
+            "phyrexian": "čpan'g",
+            "IPA": "tʃpanʔg",
+            "plural": false,
+            "translation": "Splinter",
+            "root": [
+                "pan'g"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "202": {
+            "phyrexian": "'af'",
+            "IPA": "ʔafʔ",
+            "plural": "'aaf'",
+            "translation": "Sting",
+            "root": [
+                "'af'"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "203": {
+            "phyrexian": "lups",
+            "IPA": "lups",
+            "plural": false,
+            "translation": "Stop",
+            "root": [
+                "lups"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "204": {
+            "phyrexian": "zťøsǆ",
+            "IPA": "zt'øsdʒ",
+            "plural": false,
+            "translation": "Subscribe",
+            "root": [
+                "zťøsǆ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "205": {
+            "phyrexian": "pnsča'θ",
+            "IPA": "pnstʃaʔθ",
+            "plural": false,
+            "translation": "Surrender",
+            "root": [
+                "sča'θ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "206": {
+            "phyrexian": "χherukm",
+            "IPA": "χheruk'm",
+            "plural": "χheruuǩm",
+            "translation": "Surveilance",
+            "root": [
+                "rukm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "207": {
+            "phyrexian": "wtultm",
+            "IPA": "wtultm",
+            "plural": false,
+            "translation": "Suspect",
+            "root": [
+                "wtultm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "208": {
+            "phyrexian": "fedχstsqylm",
+            "IPA": "fedχstsqylm",
+            "plural": "fedχstsqyylm",
+            "translation": "Testament",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "209": {
+            "phyrexian": "tøwp",
+            "IPA": "tøwp",
+            "plural": false,
+            "translation": "Times (multiplication)",
+            "root": [
+                "tøwp"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": null,
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "210": {
+            "phyrexian": "ŋyqχ",
+            "IPA": "ŋyqχ",
+            "plural": "ŋyyqχ",
+            "translation": "Unforgiving",
+            "root": [
+                "ŋyqχ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "211": {
+            "phyrexian": "žki",
+            "IPA": "ʒki",
+            "plural": false,
+            "translation": "Until",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": null,
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "212": {
+            "phyrexian": "xutšv",
+            "IPA": "xutʃv",
+            "plural": "xuutšv",
+            "translation": "Voice",
+            "root": [
+                "xutšv"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "213": {
+            "phyrexian": "əixiww",
+            "IPA": "əixiww",
+            "plural": "əixiiww",
+            "translation": "Void",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "214": {
+            "phyrexian": "ment",
+            "IPA": "ment",
+            "plural": false,
+            "translation": "Walk",
+            "root": [
+                "ment"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "215": {
+            "phyrexian": "šdeχd",
+            "IPA": "ʃdeχd",
+            "plural": "šdeeχd",
+            "translation": "Welcome",
+            "root": [
+                "šdeχd"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "216": {
+            "phyrexian": "'iǆe't",
+            "IPA": "ʔidʒeʔt",
+            "plural": "'iǆee't",
+            "translation": "Whisper",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "217": {
+            "phyrexian": "keθəɢð",
+            "IPA": "keθəɢð",
+            "plural": "keθəəɢð",
+            "translation": "World",
+            "root": [
+                "θəɢð"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "218": {
+            "phyrexian": "čkaqq",
+            "IPA": "tʃkaqq",
+            "plural": "čkaaqq",
+            "translation": "Biomechanical being",
+            "root": [
+                "čkaqq"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "219": {
+            "phyrexian": "mɴyrx",
+            "IPA": "mɴyrx",
+            "plural": "mɴyyrx",
+            "translation": "Fire",
+            "root": [
+                "mɴyrx"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "220": {
+            "phyrexian": "χiɢɬ",
+            "IPA": "χiɢɬ",
+            "plural": "χiiɢɬ",
+            "translation": "Furnace",
+            "root": [
+                "χiɢɬ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "221": {
+            "phyrexian": "ǆko'χ",
+            "IPA": "dʒkoʔχ",
+            "plural": false,
+            "translation": "Heal",
+            "root": [
+                "ǆko'χ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "222": {
+            "phyrexian": "huqet",
+            "IPA": "huqet",
+            "plural": false,
+            "translation": "Hurt",
+            "root": [
+                "huqet"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "223": {
+            "phyrexian": "ɮɒ'θ",
+            "IPA": "ɮɒʔθ",
+            "plural": "ɮɒɒ'θ",
+            "translation": "Language",
+            "root": [
+                "ɮɒ'θ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "root"
+        },
+        "224": {
+            "phyrexian": "oparxχ",
+            "IPA": "ʔoparxχ",
+            "plural": "'opaarxχ",
+            "translation": "Limit",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "unclear"
+        },
+        "225": {
+            "phyrexian": "raφoj",
+            "IPA": "raɸoj",
+            "plural": "raaφoj",
+            "translation": "Link",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "226": {
+            "phyrexian": "dlabz",
+            "IPA": "dlabz",
+            "plural": "dlaabz",
+            "translation": "Oil",
+            "root": [
+                "dlabz"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "227": {
+            "phyrexian": "təmn",
+            "IPA": "təmn",
+            "plural": "təəmn",
+            "translation": "Organic being",
+            "root": [
+                "təmn"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "228": {
+            "phyrexian": "ǩytπt",
+            "IPA": "k'ytp't",
+            "plural": "ǩyytπt",
+            "translation": "Progress",
+            "root": [
+                "ǩytπt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "229": {
+            "phyrexian": "tunm",
+            "IPA": "tunm",
+            "plural": false,
+            "translation": "Pure",
+            "root": [
+                "tunm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "230": {
+            "phyrexian": "kyžn",
+            "IPA": "kyʒn",
+            "plural": "kyyžn",
+            "translation": "Ring",
+            "root": [
+                "kyžn"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "231": {
+            "phyrexian": "vešt",
+            "IPA": "veʃt",
+            "plural": false,
+            "translation": "Sleeper",
+            "root": [
+                "vešt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "232": {
+            "phyrexian": "kašpl",
+            "IPA": "kaʃpl",
+            "plural": false,
+            "translation": "Slow",
+            "root": [
+                "kašpl"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "233": {
+            "phyrexian": "solm",
+            "IPA": "solm",
+            "plural": false,
+            "translation": "Smash/Hit",
+            "root": [
+                "solm"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "234": {
+            "phyrexian": "φarθ",
+            "IPA": "ɸarθ",
+            "plural": "φaarθ",
+            "translation": "Sun",
+            "root": [
+                "φarθ"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "235": {
+            "phyrexian": "'əkš",
+            "IPA": "ʔəkʃ",
+            "plural": "'əəkš",
+            "translation": "Touch",
+            "root": [
+                "'əkš"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "236": {
+            "phyrexian": "koqšqle't",
+            "IPA": "koqʃqleʔt",
+            "plural": "koqšqlee't",
+            "translation": "Toughness",
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite"
+        },
+        "237": {
+            "phyrexian": "grjəťrk",
+            "IPA": "grjət'rk",
+            "plural": "grjəəťrk",
+            "translation": "Tyrant",
+            "root": [
+                "grjəťrk"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "238": {
+            "phyrexian": "tǆyφt",
+            "IPA": "tdʒyɸt",
+            "plural": "tǆyyφt",
+            "translation": "War",
+            "root": [
+                "tǆyφt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        },
+        "239": {
+            "phyrexian": "twøφt",
+            "IPA": "twøɸt",
+            "plural": "twøøφt",
+            "translation": "Weapon",
+            "root": [
+                "twøφt"
+            ],
+            "composition": null,
+            "examples": null,
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root"
+        }
+    },
+    "samples": {
+        "NPH_Norn": {
+            "Regular": "^'elš-norn šχa'θǆønobt.^ʁajgφe'x φyrx-pxajtr.^ɣwipnrukm.^xe-sall-qə-qxuπul-xexə-πee'x-ʁitapeq.^xe-qə-əxnɒɒqč-qxuπel-xe-πee'x-ʁitapeq.^xe-porgəxt-ɢyytx-sallkeθəəgð-ʁi'iǆe'et.^ba-ɢyytx pənan-ǩaπa-ha-φyrxkeθəgð-'ešχa'θnapyt."
+        },
+        "NPH_Ura": {
+            "Regular": "^'urbrask əxťeķibrs.^ʁajgφe'x φyrx-pxajtr.^xe-qə-qxuπul-xe-πee'x-ɣwiziklvuwk-ʁitapeq.^baqilx-qə-əxnɒqč-qxuπel-xe-φe'x-əšqtwøǩxθəxt lo-ɣypym.^'uxuφ-mrodnqẅrɮwi'g-močq-χi'ətsxen-'u-'urbrask-χiɢɬčǩaaqq-tǥoθχm.^'u-'asm-keqxǆuɣyp:prosuj-lo."
+        },
+        "NPH_Jin": {
+            "Regular": "^ǆi'n-ɢytx dl'emqrukm.^ʁajgφe'x φyrx-pxajtr.^ɣwiziklʁums.^baxuφ-πlnaķmqpønuč-'iixtfu'q-lo-ɢwiinš-mprɒsuw.^xe-əxnɒɒqč-naql'oparxyχ-sər-mɒɣyg.^əx-πllupsθəxt-xeqit-qpenčodrm:jnaķmφyrxkeθəgð-naķym-qpenčodrm."
+        },
+        "NPH_Sheo": {
+            "Regular": "^šøldrd naķm'iǆee't.^ʁajgφe'x φyrx-pxajtr.^ɣwiqaškmjment.^baxuφ-dlabzqpønuč-'iixtfu'q-lo-dlθuqxiwwθəxut-φe'xɢwinš-žyxut-loxə-əšqtwøǩxθəxut.^baxuφ-əxnɒqč-dlabzqpenyč-'iixtfu'q lo-φe'yx-no'b'ugym."
+        },
+        "NPH_Vorn": {
+            "Regular": "^vornχlx gagg-xutšyv.^ʁajgφe'x φyrx-pxajtr.^ɣwikfɒǧpan'g.^baxuφ-θəɢð-ma'nɣyπum lo-qə-ŋeǩydym-'u-ma'npøkk-babug.^baxuφ-əxnɒqč-θəɢð-ʁima'nɣypem-əl-naķmqxuπl-ɢəčθəɢð-ɢnagɮəxɣypmqpenyčpxe-ʁiəxɣypem."
+        },
+        "KHM_Vorin": {
+            "Regular": "^vornχlx 'ežkatmfxarl.^ʁajgφe'x φyrx-pxajtr.^ɣwikfɒǧpan'g ɣwiziklvuwk.^baqilx-əšqnɒqč-əšq'astiwwðə-juuχẅķ-ţə'u'-loqit-ķus'ər-ţə'u'.^baqilx-əxnɒqč-əšqnɒqč-əšq'astiwwðə-juuχẅķ-ʁiţə'e' loqit-plθəxķus'ər-ţə'e'."
+        },
+        "NEO_Jin": {
+            "Regular": "^ǆi'n-ɢytx ǩytπt-grjəťrk.^ʁajgφe'x φyrx-pxajtr.^baxuφ-qxuna'k-ziklʁums-kašplʁums-buǩuð lo-tluxtnaǩm.^ťe-ɢəčtluxtnaķm-šopraptžyxt-ʁšθaǩuɴ.^xe-ɢəčɣəwθ-xeronɣ'ii'ə-džəɬɢt.^baxuφ-əxnɒqč-qxuna'k-ziklʁums-kašplʁums-bukeð lo-šuqøn.^xe-ɢəčɣəwθ-xeronɣ'ii'ə-džəɬɢt."
+        },
+        "NEO_Tami": {
+            "Regular": "^tam'oo' plinexs-føvɣ.^ʁajgnmhupment tam'joo'.^lo-φe'x-qxuna'k-xeəxkorxgr'ii'ə-žyxut-loxə-ɣypm əl-naķmqxuπl-ɢəč'astiww-ɢnagɮəxɣypmqpenyčpxe-ʁiəxɣypem.^lo-φlrχanjasərθ-'astiww-dlθuqxiwwθəxt-žyxut-loxə-čxət'.^lo-fa'ipθtluxtnaķm-naǩøm.^lo-tam'joo'rukxtekt-naķøm.^xe-ʁajgəxsopšiktqxuna'kfa'ipeθ.^xe-tapeq:ʁuumus-bukðrχanj-ser-mɒɣyg lo-ɢwinš-mprasuw."
+        },
+        "Yawg_Test": {
+            "Regular": "^fedχstsqylm-jɒɒ'g-mo'yθ.^ťe-qə-dlčxət'θəxt-xe-natlč-xexə-ɢwyynuš-žkiɢəronɣ-buǩuð.^baqilx-ɢwynuš-hθuqxiwwθəxt-hčxət'θəxtðə-žkiɢəronx-vuwyk-loqit-tektθəxt-ǩeǆylqitsodrm-vuwuk.^kašplʁums."
+        },
+        "PhrxScriptures": {
+            "Regular": "^'ušta.^φyrxkeθəɢð-ɣẅəixiww-səkţɢiss.^šχa'θ-jɒ'gmo'θ-jɒɒ'g-mo'yθ-jnaķem-ʁirukem.^xẅots-šχa'θɢiss-'iixtfu'eq."
+        },
+        "PhrxAltar": {
+            "Regular": "^'ušta.^əxtxš."
+        },
+        "Promo_Swamp": {
+            "Regular": "^qaškm.^ɣøπi'tθəɢð qaškm."
+        },
+        "MBS_Trailer": {
+            "Regular": "^xe-qə-'əpyrxnaķym-xe-jneķom.^xe-xutšav.^qə-'uɮyč-xe-pən'yg-xexə-hπee'x-šək-Nxayep.^xe-θuqx-xwixyč-dlik-ɣwiəxteθuqx-'ug'əχw.^ǩaπa-ɢəkeθəgð-bytptxyš-ɣɒzaɢ.^xe'um-šoprapφyrxkeθygð-natlič-krepyg.^'u-šχa'θnaķm-'iixtfu'eq."
+        },
+        "NPH_Trailer": {
+            "Regular": "^'u-šoprptφyrxkeθəgð-šχa'θnķym-φlnaķem.^xe-jɒ'g'ə'wgwəww-ma'n-šoprapt'ɴnexyx-ʁilu'ef.^xemrodn-'əbə'yw-φyrx-pltxexyš-əšqmɴyryx.^xe-pxənnn-xeqit-'iǆee't-təɮirt-ʁičpan'eg.^jɒɒ'g-mo'yθ-močeq-ǩaπa.^naķməxφlɢiqoš."
+        },
+        "SLair_Praetors": {
+            "Regular": "^φyrxkeθəgð-pxaajtyr:plinexs-ɢwinšporg."
+        },
+        "SLairF_Praetors": {
+            "Regular": "^φyrxkeθəgð-pxaajtyr:plinexs-ɢwinšporg.^φ'kitv-wnšprg."
+        },
+        "Swamp_Lore": {
+            "Regular": "^qaškm.^ǩa-qẅrɮwi'g-φe'yx-ruǩam.^xe-mrodn-plinexs.^ǩaπa-əšqmefidrs-qə-naķym-πlnaķym-'u-naķmčəxɬišok-pnrukem.^šøldrd naķm'iǆee't."
+        },
+        "Dark_Discov": {
+            "Regular": "^ťattnakmmijens.^ťattnakmmijenž.^əkπa-əjnaqoč-səkdspyig-žəkdspyig.^ǩaπa-dlpχajtr-ťəwolam.^χəə'oχmŋe-dlmo'oθ-wčtəčč."
+        },
+        "MTGSalvation": {
+            "Regular": "^φyrxɮɒ'ɣ."
+        },
+        "SNC_Ura": {
+            "Regular": "^'urbrask-ɴk'ykg-pxajtr.^ʁajgφe'x φyrx-pxajtr.^ɣwiziklvuw'k.^baxuφ-dlabzqpønuč-'iixtfu'q lo-tektθəxut-'iitčɢwinyš-čxəťu'.^ťe-ɢəɢwinš-žkiɢəronɣ-buǩuð.^baxuφ-əxnɒqč-dlabzqpenyč-'iixtfu'q baqilx-ɢəroneɣɢnagɮɢwinyš-mprasew loqit-tektθəxet-'iitčɢwinyš-čxəte'.^ťe-ɢəɢwinš-žkiɢəronɣ-bukeð."
+        },
+        "DMU_Sheo": {
+            "Regular": "^šøldrd-niťamg.^ʁajgφe'x φyrx-pxajtr.^ɣwiθuqx'əkš.^baxuφ-ɢwinš-mprasw lo-sər-ǆko'uχ.^baxuφ-əxnɒqč-ɢwinš-mprasw lo-ser-huqet."
+        },
+        "DMU_Ajani": {
+            "Regular": "^'əǆɒnii' veštganwr.^ʁajgnmhupment 'əǆɒnii'.^plinexs.^lo-tektθəx'ut-'iitčɢwinyš-kreπug.^ba-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-ɢzyzšel-vuw'uk-lo-nɒqul.^bu-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-vuw'uk-xwe-tektθəxut-ǩeǆylqitsodrm.^lo-πee'x-xeəxkorxgrķi'ə-žyxut.^lo-ķi-juuχẅķ-kuplɢəπee'x-χɬkevuk.^ɢəπee'x-ɣwipnrukm-žkiɢəronɣ-tapyq.^lo-čkalakm-naǩum.^lo-tapeq-baxuφ-φe'x-ʁajgnmhupmentðə-buǩuð lo-əxnɒqč-žyxut loxə-ķu-ʁiheeɬɬ-θapeq."
+        },
+        "Ads": {
+            "Regular": "^mǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut."
+        },
+        "Merch": {
+            "Regular": "^ǩaπa-š'iimashaǩ.^'u-kulx-pən'yg.^lo-jnaķm-pnsča'eθ.^ǩaπa-əxtuneem-'aliθat.^plinexs.^jnaķm.^'ečel'.^'aliθt."
+        },
+        "NPH_Dismember": {
+            "Regular": "^čəxkefa'qsemr.^ziklʁums.^lo-φe'x-žyxut-loxə-žkiɢəronɣ-tapyq."
+        },
+        "MBS_PsyCrawl": {
+            "Regular": "^jiǥgɣwi'v-bwedn.^qxuna'kφe'x φyrx-šχʁɒčx.^xe-jiǥgɣwi'v-bwedn-nu'fkoqšqle'yt-xə-qə-dlnɒqul-xexə-asərθ-wɢwiinš-ʁiǆ'ynπup.^baxuφ-ɢwinš-mprasuw-lo-aχəw'əxnɒqč-sər-huqet."
+        },
+        "MTGA": {
+            "Regular": "^'uštaxuφ-xørnyš-pnplťəəmn-konet-'ušta-jɒ'gmo'θ-jnaķm-'əţə'a'.^ɴetsxap-'əţə'o'-'štmrodaan-xexuφ-φyrxkeθəɢð-pnťwə'u'-ʁiɢkyxt'yw.^xe gøẅroφ luπes.^πrøtjt-ǩytπt.^lo φyrxkeθəɢð'ɒjbť-ẅɬnesuš."
+        },
+        "ONE_Jace_Art": {
+            "Regular": "^jnaķmpnsča'eθ."
+        },
+        "ONE_Norn": {
+            "Regular": "^'elš-norn jɒ'gžɒðʁ.^ʁajgφe'x φyrx-pxajtr.^ɣwipnrukm.^ba-qə-qwøǩxθəxt-xexə-'astiww-w'astywuw-ɣwi't-ʁiǩažeð tluxt-ķažyð-lo-ɢəɣwi't.^əx-qə-twøǩxθəxt-xexə-'astiww-w'astiww-ɣwi't-ǩažeð."
+        },
+        "ONE_Plains": {
+            "Regular": "^'ičql.^mǩaπa-jɒɒ'g-žɒðyʁ-χtenaa.^ɣøπi't-θəɢð 'ičql."
+        },
+        "ONE_Island": {
+            "Regular": "^kẅθəɢð.^xe-jnaķm-ǩoθaǩ-χiǆ'ynpep.^ɣøπi't-θəɢð kẅθəɢð."
+        },
+        "ONE_Swamp": {
+            "Regular": "^qaškm.^lo-xwixč-θwiχaš-gøẅrφ-'ičaq.^ɣøπi't-θəɢð qaškm."
+        },
+        "ONE_Mountain": {
+            "Regular": "^ktakx.^xwe-šχa'θnaķm-ǩeǆ'ǥeθ.^ɣøπi't-θəɢð ktakx."
+        },
+        "ONE_Forest": {
+            "Regular": "^'oɢθəsð.^xe-xe'ii'ə-ə'ufɬrøʁɴ-ɢises.^ɣøπi't-θəɢð 'oɢθəsð."
+        },
+        "ONE_Article": {
+            "Regular": "^čkaqq.^təmn.^jɒɒ'g-mo'yθ.^jɒ'gžɒðʁ.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^kaπa-dlikχanuj-šχa'yθ.^ǩaπa-š'iimashaǩ."
+        },
+        "BeadleGrimms": {
+            "Regular": "^ɣẅbiidlɢrimsxə-mǩaπa-šopraptφyrxkeθəɢð-χtena.^lo-jnaķm-əšb-ķuɮaθǩv-pnsča'uθ.^lo-zťøsaaǆ-loxe-ɢţrɒsd-šdeχaad."
+        },
+        "ONE_Live": {
+            "Regular": "^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš."
+        },
+        "BRO_BoneSaw": {
+            "Regular": "^ǩaπa-əxtuneem-'aliθat."
+        },
+        "NPH_Agent": {
+            "Regular": "^ɮzətɣð-ganwr.^φe'x φyrx-'ønəķ-θutlzətč.^ɣwiɮəɣð.^əx-ɮzətɣð-ganwr-kfɒ'q'.^xwe-'urbrask-χheruǩum-ʁiwtultm əlqit-lups.^'avričt ɢyytx-ɮportt."
+        },
+        "NPH_Elf": {
+            "Regular": "^naķmφ'kitv-jalf.^φe'x φyrx-jalf-naķmtǆyφt.^ɣwiɮəɣð.^xwe-nsa'q-pn'ətsxaan-ťexẅots-wφyrxjnaķm-'ɒjbť-bɬølaπ."
+        },
+        "NPH_Batterskull": {
+            "Regular": "^kšaπɢždɒ'ķ.^qxuna'k qipmt.^čkaqqtwøφt.^xe-qipltφe'x-ɣwipnrukm-ɣwinsa'qraφoj-ʁitapyq.^kšaπɢždɒ'ķ-hnaķmkeφe'xnaql-ʁi'iţpənun.^qiplt."
+        },
+        "NPH_InkNexus": {
+            "Regular": "^dlabzǆfyll'əqd.^θəɢð.^bɒb'g.^dlabzǆfyll'əqd-φyrx-dlabzǆfyll-qxuna'kφe'x-žkiɢəronɣ-ʁitapeq.^ɣwitøšq-ɣwiɮəɣð-pareɴ."
+        },
+        "C19_Krrik": {
+            "Regular": "^ǩərrk 'i'yl-jɒ'gmo'θ.^ʁajgφe'x φyrx-šχʁɒčx-'əqoq'.^ɣwinsa'qraφoj.^xwe-aχəw'-'štrχanj-ʁihuqɬgøťut xweqit-nsa'q-huqɬgøťut.^baxuφ-faxt-ʁums-buǩuð-lo-juχẅķ-əšqǩərrk-'i'yl-jɒ'gmo'θ-ʁiţə'u'."
+        },
+        "ONE_PhrxArena": {
+            "Regular": "^φyrx-qab'θəxt.^myθž.^baxuφ-ðlabzqpønuč-'iixtfu'q-lo-ɢwinš-mprasuw-loxə-sər-huqøt."
+        },
+        "NPH_Annex": {
+            "Regular": "^norn-ǩlətkyk.^qxuna'k.^əx-πee'x-čkɒquq-qə-qxuπul-xexə-ʁajgnmhupmeentðə-gʁyčtx-loəq-qxuπyl-xe'štaχəw'φe'x'ə-huqɬgøtet."
+        },
+        "ONE_Jace": {
+            "Regular": "^ǆes jnaķm-'təɮirt.^ʁajgnmhupment ǆes.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-φɒ'ɢnagɮronuɣ-tapuq.^lo-nɒqč-žyxut-loxə-sər-ẅəpek.^ba-θuqxiwwθəxt-lyφkorxgrǆ'ynppðə-ɢwiinš-lo-mprasuw.^bu-ɢwinš-mprasuw.^lo-nɒqč-žyxut-loxə-sər-ķi-tøwp-ẅəpyk."
+        },
+        "ONE_Vraska": {
+            "Regular": "^vraskə' πnokx-'afy'.^ʁajgnmhufment vraskə'.^plinexs.^lo-ɢwinš-mprasuw-loxə-sər-huǧt.^lo-jektlexøq.^lo-φe'x-žyxut-qxuna'k-ǧliŋš-tlexeq.^xe-sall-ɢwinšπøøkkɣwii'txə-'oparxuχ.^xe-tapeq-no'b'ugum-'ɒpsopšikt-'ii-ma'n-babug.^lo-nɒqč-žyxut-baxe-grmɒɣg-ʁiheeɬeɬ-dlgeftʁiheeɮɮ-lo-tapeq."
+        },
+        "ONE_Lukka": {
+            "Regular": "^lyku' keɴt-hfwežφ.^ʁajgnmhupment lyku'.^plinexs.^lo-babug.^ǩaπa-ɢəma'n-φee'xčtəčpliɣnɣwi'ytðə-xe'ii'ə-ʁihisup.^lo-ɮiwwφyrxpnpe'kφe'xfa'ipθ-naǩum.^xe-ɬaʁq-tapeq.^lo-'ɒpasərθφee'xʁajgnmhuupmentxəðə-žyxut.^lo-lyku'-sər-'ɒpžyyxgɮəsuv-ðpačuk.^'u-qə-qxuπul-'uxə-ðazpnkorxnu'fφee'x-loxuπ-xwi't-čtəčpliɣun-ʁiǆ'ynpp."
+        },
+        "ONE_Nissa": {
+            "Regular": "^nisə' pnmenθ-naķmnsa'q.^ʁajgnmhupment nisə'.^plinexs.^lo-ɮiwwφyrxšχʁɒčxφe'xfa'ipθ-naǩum xexə-nisə' pnmenθ-naķmnsa'q-huqtkeɴyt-ʁiǆ'ynpep.^lo-qxuna'k-qab'θəxtðə-žyxut-loxə-qabu'.^xe-qə-qxuπul-xexə-πee'x-sər-aχəw'oɢθəsð-ɣwikfɒǧpən'gxə-žkiɢəronɣ-tapyq."
+        },
+        "ONE_Nahiri": {
+            "Regular": "^nhirii' ŋyqχ.^ʁajgnmhupment nhirii'.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-ɢəφe'x-nɒqč-φɒ'ɢnagɮronuɣ-xet'eaχəw'twøǩx'ə-ʁigʁičtex.^lo-ɢwinš-šteǧuʁ-loxə-ɢwinš-mprasuw.^lo-qərχanjasərθgrmɒɣgnhirii'huqtkeɴyt-xexə-φe'xequipmentðə-ɣẅθuqxiwwθəxut-žyxut-loxə-ɢəɢwinš-čxət'.^lo-qə-ɢəɢwinš-tluxtnaķm-loxə-fa'ipθ-naǩum.^xe-ɢəɢwinš-ɣwiziklvuwk-ʁitapyq.^baxuφ-πlnaķmqpenč-'iixtfu'q lo-ɢəɢwinš-čxəťu'."
+        },
+        "ONE_Trailer": {
+            "Regular": "^lo-kytθ-əxjnɒķum-ǩlɒkem.^xba-wǆetɢ-θxhikeb lo-πyyrex-ťraǩaq.^ǩaπa-əxtuneem-'aliθat.^lo-φyrxkeθəɢyð-'št'ečel'-'əpyryx-keθəɢð-'ičuq.^xe-ťəəmen-qə'ičyq-ǩaπa-keφe'x.^xe-čǩaaǧeq-naķmkep'ee'ox.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^lo-jnaķm-pnsča'eθ.^ǩaπa-š'iimashaǩ."
+        },
+        "ONE_Solphim": {
+            "Regular": "^ǩaπa-šoprapt-φyrxkeθəɢð-χtena.^φyrxkevəɢð.^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.^lo-jnaķm-pnsča'eθ.^naķmpihš.^φyrxkevəɢð.^ǩaπa-əxtuneem-'aliθat.^naķmzept."
+        },
+        "Keyboard": {
+            "Regular": "^ɮøht.^πaǆť.^plinexs.^qxuπyl.^nɒţm.^kšķiπχ.^θomk."
+        },
+        "NPH_Misstep": {
+            "Regular": "^ɬšeɴazyv-təɮirt.^ziklʁums.^lo-φrχanjasərθ'ii'ʁums-žyxut-loxə-šuǧun."
+        },
+        "ONE_Panel": {
+            "Regular": "^lo-ronuɣ.^ŋo-ronoɣ.^xe-twøǩox.^əl-kfɒ'ǧa'.^lo-φarθkyžun-ɬšeɴazyv-təɮirat."
+        },
+        "MOM_Teaser": {
+            "Regular": "^əx-φyrxkeθəɢð-jəŋθm-štodam.^šǩa-š'hupš-pn'ẅ'uzɮ.^əx-twøǩx-gøẅruφ.^ǩaπa-š'iimashaǩ."
+        }
+    }
+}

@@ -47,7 +47,11 @@ title: Example Entry
 
     const json = `{{ site.data.PhyrexianAPI | jsonify }}`
     const data = JSON.parse(json)
-    document.getElementsByClassName("phyrexian").innerHTML = data.dictionary[id].phyrexian;
+    
+    var phy_instances = document.getElementsByClassName("phyrexian")
+    for (var i = 0; i < phy_instances.length; i++) {
+        phy_instances[i].innerHTML = data.dictionary[id].phyrexian;
+    }
     document.getElementById("plural").innerHTML = data.dictionary[id].plural;
     document.getElementById("class").innerHTML = data.dictionary[id].class;
     document.getElementById("ipa").innerHTML = data.dictionary[id].IPA;

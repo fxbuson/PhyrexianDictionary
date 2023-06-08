@@ -3320,227 +3320,171 @@
     },
     "samples": {
         "NPH_Norn": {
-            "Text": "\\-ZE_dMx|TdHDdTd MxNyL-ZNxArKTdHZZx.\\NqLVdZe+ZvE-ZNw +ZvGDdNw|ZvNwLVdZxDd.\\NeVFZvTdDdQZwT.\\NwE|MvL_d_d|ZyO|ZyNwQ-ZvQ_d|NwENwO|-ZvEE-ZNw|NqFZxLZvEZy.\\NwE|ZyO|ONwTdJJZyAx|ZyNwQ-ZvE_d|NwE|-ZvEE-ZNw|NqFZxLZvEZy.\\NwE|ZvHDdZeONwZx|ZqGGZxNw|MvL_d_dZwENxOOZeNd|NqF-ZFArE-ZEZx.\\ZL|ZqGGZxNw ZvOTdLTd|-ZwL-ZvL|-NL|+ZvGDdNwZwENxOZeNd|-ZEMxNyL-ZNxTdLZvGZx.",
             "Regular": "^'elš-norn šχa'θǆønobt.^ʁajgφe'x φyrx-pxajtr.^ɣwipnrukm.^xe-sall-qə-qxuπul-xexə-πee'x-ʁitapeq.^xe-qə-əxnɒɒqč-qxuπel-xe-πee'x-ʁitapeq.^xe-porgəxt-ɢyytx-sallkeθəəgð-ʁi'iǆe'et.^ba-ɢyytx pənan-ǩaπa-ha-φyrxkeθəgð-'ešχa'θnapyt."
         },
         "NPH_Ura": {
-            "Text": "\\-ZQDdZDdLMvZw ONw-ZxE+ZwFZDdMv.\\NqLVdZe+ZvE-ZNw +ZvGDdNw|ZvNwLVdZxDd.\\NwE|ZyO|ZyNwQ-ZvQ_d|NwE|-ZvEE-ZNw|NeVFMdFZw_dNQVZw|NqFZxLZvEZy.\\ZLZyF_dNw|ZyO|ONwTdJZyAx|ZyNwQ-ZvE_d|NwE|+ZvE-ZNw|OMxZyZxVK-ZwNwNxONwZx _dH|NeGZvGT.\\-ZQNwQ+Zv|TDdHZdTdZyVeDdCrVF-ZZe|THAxZy|NyF-ZOZxMvNwETd|-ZQ|-ZQDdZDdLMvZw|NyFZqCdAx-ZwLLZyZy|Zx+ZyHNxNyT.\\-ZQ|-ZLMvT|ZwEZyNwArQNeGZv:ZvDdHMvQVd|_dH.",
             "Regular": "^'urbrask əxťeķibrs.^ʁajgφe'x φyrx-pxajtr.^xe-qə-qxuπul-xe-πee'x-ɣwiziklvuwk-ʁitapeq.^baqilx-qə-əxnɒqč-qxuπel-xe-φe'x-əšqtwøǩxθəxt lo-ɣypym.^'uxuφ-mrodnqẅrɮwi'g-močq-χi'ətsxen-'u-'urbrask-χiɢɬčǩaaqq-tǥoθχm.^'u-'asm-keqxǆuɣyp:prosuj-lo."
         },
         "NPH_Jin": {
-            "Text": "\\ArF-ZTd|ZqGZxNw Zd_d-ZETZyDdQZwT.\\NqLVdZe+ZvE-ZNw +ZvGDdNw|ZvNwLVdZxDd.\\NeVFMdFZw_dNqQTMv.\\ZLNwQ+Zv|-Zv_dTdL+ZwTZyZvKTdQAx|-ZFFNwZxNvQ-ZZy|_dH|ZqVFFTdMx|TZvDdJMvQV.\\NwE|ONwTdJJZyAx|TdLZy_d-ZHZvLDdNwGNy|MvODd|TJNeGZe.\\ONw|-Zv_d_dQZvMvNxONwZx|NwEZyFZx|ZyZvETdAxHZdDdT:VdTdL+ZwT+ZvGDdNwZwENxOZeNd|TdL+ZwGT|ZyZvETdAxHZdDdT.",
             "Regular": "^ǆi'n-ɢytx dl'emqrukm.^ʁajgφe'x φyrx-pxajtr.^ɣwiziklʁums.^baxuφ-πlnaķmqpønuč-'iixtfu'q-lo-ɢwiinš-mprɒsuw.^xe-əxnɒɒqč-naql'oparxyχ-sər-mɒɣyg.^əx-πllupsθəxt-xeqit-qpenčodrm:jnaķmφyrxkeθəgð-naķym-qpenčodrm."
         },
         "NPH_Sheo": {
-            "Text": "\\MxK_dZdDdZd TdL+ZwT-ZFArEE-ZZx.\\NqLVdZe+ZvE-ZNw +ZvGDdNw|ZvNwLVdZxDd.\\NeVFZyLMxZwTVdTETdZx.\\ZLNwQ+Zv|Zd_dLZMdZyZvKTdQAx|-ZFFNwZxNvQ-ZZy|_dH|Zd_dNxQZyNwFVVNxONwQZx|+ZvE-ZNwZqVFTdMx|MwGNwQZx|_dHNwO|OMxZyZxVK-ZwNwNxONwQZx.\\ZLNwQ+Zv|ONwTdJZyAx|Zd_dLZMdZyZvETdGAx|-ZFFNwZxNvQ-ZZy _dH|+ZvE-ZGNw|TdH-ZZ-ZQZeGT.",
             "Regular": "^šøldrd naķm'iǆee't.^ʁajgφe'x φyrx-pxajtr.^ɣwiqaškmjment.^baxuφ-dlabzqpønuč-'iixtfu'q-lo-dlθuqxiwwθəxut-φe'xɢwinš-žyxut-loxə-əšqtwøǩxθəxut.^baxuφ-əxnɒqč-dlabzqpenyč-'iixtfu'q lo-φe'yx-no'b'ugym."
         },
         "NPH_Vorn": {
-            "Text": "\\NHDdTdNy_dNw ZeLZeZe|NwQZxMxGN.\\NqLVdZe+ZvE-ZNw +ZvGDdNw|ZvNwLVdZxDd.\\NeVFZwNvJ-ZyZvLTd-ZZe.\\ZLNwQ+Zv|NxOZqNd|TL-ZTdNeG-ZvQT _dH|ZyO|TeE-ZwGZdGT|-ZQ|TL-ZTdZvKZwZw|ZLZQZe.\\ZLNwQ+Zv|ONwTdJZyAx|NxOZqNd|NqFTL-ZTdNeGZvET|O_d|TdL+ZwTZyNwQ-Zv_d|ZqOAxNxOZqNd|ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE|NqFONwNeGZvET.",
             "Regular": "^vornχlx gagg-xutšyv.^ʁajgφe'x φyrx-pxajtr.^ɣwikfɒǧpan'g.^baxuφ-θəɢð-ma'nɣyπum lo-qə-ŋeǩydym-'u-ma'npøkk-babug.^baxuφ-əxnɒqč-θəɢð-ʁima'nɣypem-əl-naķmqxuπl-ɢəčθəɢð-ɢnagɮəxɣypmqpenyčpxe-ʁiəxɣypem."
         },
         "KHM_Vorin": {
-            "Text": "\\NHDdTdNy_dNw -ZEMwZwLZxTNvNwLDd_d.\\NqLVdZe+ZvE-ZNw +ZvGDdNw|ZvNwLVdZxDd.\\NeVFZwNvJ-ZyZvLTd-ZZe NeVFMdFZw_dNQVZw.\\ZLZyF_dNw|OMxZyTdJZyAx|OMxZy-ZLMvZxFVVNdO|VdQQNyVe+Zw|+NxO-ZQ-Z|_dHZyFZx|+ZwQMv-ZODd|+NxO-ZQ-Z.\\ZLZyF_dNw|ONwTdJZyAx|OMxZyTdJZyAx|OMxZy-ZLMvZxFVVNdO|VdQQNyVe+Zw|NqF+NxO-ZE-Z _dHZyFZx|Zv_dNxONw+ZwQMv-ZODd|+NxO-ZE-Z.",
             "Regular": "^vornχlx 'ežkatmfxarl.^ʁajgφe'x φyrx-pxajtr.^ɣwikfɒǧpan'g ɣwiziklvuwk.^baqilx-əšqnɒqč-əšq'astiwwðə-juuχẅķ-ţə'u'-loqit-ķus'ər-ţə'u'.^baqilx-əxnɒqč-əšqnɒqč-əšq'astiwwðə-juuχẅķ-ʁiţə'e' loqit-plθəxķus'ər-ţə'e'."
         },
         "NEO_Jin": {
-            "Text": "\\ArF-ZTd|ZqGZxNw -ZwGZx-ZvZx|ZeDdVdO-ZxDdZw.\\NqLVdZe+ZvE-ZNw +ZvGDdNw|ZvNwLVdZxDd.\\ZLNwQ+Zv|ZyNwQTdL-ZZw|MdFZw_dNqQTMv|ZwLMxZv_dNqQTMv|ZQ-ZwQNd _dH|Zx_dQNwZxTdL-ZwT.\\-ZxE|ZqOAxZx_dQNwZxTdL+ZwT|MxHZvDdLZvZxMwGNwZx|NqMxNxL-ZwQTq.\\NwE|ZqOAxNeOVNx|NwEDdHTdNe-ZFF-ZO|ZdMwOCdZqZx.\\ZLNwQ+Zv|ONwTdJZyAx|ZyNwQTdL-ZZw|MdFZw_dNqQTMv|ZwLMxZv_dNqQTMv|ZQZwENd _dH|MxQZyKTd.\\NwE|ZqOAxNeOVNx|NwEDdHTdNe-ZFF-ZO|ZdMwOCdZqZx.",
             "Regular": "^ǆi'n-ɢytx ǩytπt-grjəťrk.^ʁajgφe'x φyrx-pxajtr.^baxuφ-qxuna'k-ziklʁums-kašplʁums-buǩuð lo-tluxtnaǩm.^ťe-ɢəčtluxtnaķm-šopraptžyxt-ʁšθaǩuɴ.^xe-ɢəčɣəwθ-xeronɣ'ii'ə-džəɬɢt.^baxuφ-əxnɒqč-qxuna'k-ziklʁums-kašplʁums-bukeð lo-šuqøn.^xe-ɢəčɣəwθ-xeronɣ'ii'ə-džəɬɢt."
         },
         "NEO_Tami": {
-            "Text": "\\ZxLT-ZHH-Z Zv_dFTdENwMv|NvKNNe.\\NqLVdZeTdT-NQZvTETdZx ZxLT-ZVdHH-Z.\\_dH|+ZvE-ZNw|ZyNwQTdL-ZZw|NwEONwZwHDdNwZeDd-ZFF-ZO|MwGNwQZx|_dHNwO|NeGZvT O_d|TdL+ZwTZyNwQ-Zv_d|ZqOAx-ZLMvZxFVV|ZqTdLZeCrONwNeGZvTZyZvETdGAxZvNwE|NqFONwNeGZvET.\\_dH|+Zv_dDdNyLTdVdLMvODdNx|-ZLMvZxFVV|Zd_dNxQZyNwFVVNxONwZx|MwGNwQZx|_dHNwO|AxNwOZx-Z.\\_dH|NvL-ZFZvNxZx_dQNwZxTdL+ZwT|TdL-ZwKT.\\_dH|ZxLT-ZVdHH-ZDdQZwNwZxEZwZx|TdL+ZwKT.\\NwE|NqLVdZeONwMvHZvMxFZwZxZyNwQTdL-ZZwNvL-ZFZvENx.\\NwE|ZxLZvEZy:NqQQTQMv|ZQZwNdDdNyLTdVd|MvEDd|TJNeGZe _dH|ZqVFTdMx|TZvDdLMvQV.",
             "Regular": "^tam'oo' plinexs-føvɣ.^ʁajgnmhupment tam'joo'.^lo-φe'x-qxuna'k-xeəxkorxgr'ii'ə-žyxut-loxə-ɣypm əl-naķmqxuπl-ɢəč'astiww-ɢnagɮəxɣypmqpenyčpxe-ʁiəxɣypem.^lo-φlrχanjasərθ-'astiww-dlθuqxiwwθəxt-žyxut-loxə-čxət'.^lo-fa'ipθtluxtnaķm-naǩøm.^lo-tam'joo'rukxtekt-naķøm.^xe-ʁajgəxsopšiktqxuna'kfa'ipeθ.^xe-tapeq:ʁuumus-bukðrχanj-ser-mɒɣyg lo-ɢwinš-mprasuw."
         },
         "Yawg_Test": {
-            "Text": "\\NvEZdNyMvZxMvZyG_dT|VdJJ-ZZe|TH-ZGNx.\\-ZxE|ZyO|Zd_dAxNwOZx-ZNxONwZx|NwE|TdLZx_dAx|NwENwO|ZqVGGTdQMx|MwZwFZqODdHTdNe|ZQ-ZwQNd.\\ZLZyF_dNw|ZqVGTdQMx|-NNxQZyNwFVVNxONwZx|-NAxNwOZx-ZNxONwZxNdO|MwZwFZqODdHTdNw|NQVGZw|_dHZyFZx|ZxEZwZxNxONwZx|-ZwEArG_dZyFZxMvHZdDdT|NQVQZw.\\ZwLMxZv_dNqQTMv.",
             "Regular": "^fedχstsqylm-jɒɒ'g-mo'yθ.^ťe-qə-dlčxət'θəxt-xe-natlč-xexə-ɢwyynuš-žkiɢəronɣ-buǩuð.^baqilx-ɢwynuš-hθuqxiwwθəxt-hčxət'θəxtðə-žkiɢəronx-vuwyk-loqit-tektθəxt-ǩeǆylqitsodrm-vuwuk.^kašplʁums."
         },
         "PhrxScriptures": {
-            "Text": "\\-ZQMxZxL.\\+ZvGDdNwZwENxOZqNd|NeVeOFNwFVV|MvOZw+NxZqFMvMv.\\MxNyL-ZNx|VdJ-ZZeTH-ZNx|VdJJ-ZZe|TH-ZGNx|VdTdL+ZwET|NqFDdQZwET.\\NwVeHZxMv|MxNyL-ZNxZqFMvMv|-ZFFNwZxNvQ-ZEZy.",
             "Regular": "^'ušta.^φyrxkeθəɢð-ɣẅəixiww-səkţɢiss.^šχa'θ-jɒ'gmo'θ-jɒɒ'g-mo'yθ-jnaķem-ʁirukem.^xẅots-šχa'θɢiss-'iixtfu'eq."
         },
         "PhrxAltar": {
-            "Text": "\\-ZQMxZxL.\\ONwZxNwMx.",
             "Regular": "^'ušta.^əxtxš."
         },
         "Promo_Swamp": {
-            "Text": "\\ZyLMxZwT.\\NeK-ZvF-ZZxNxOZqNd ZyLMxZwT.",
             "Regular": "^qaškm.^ɣøπi'tθəɢð qaškm."
         },
         "MBS_Trailer": {
-            "Text": "\\NwE|ZyO|-ZOZvGDdNwTdL+ZwGT|NwE|VdTdE+ZwHT.\\NwE|NwQZxMxLN.\\ZyO|-ZQCrGAx|NwE|ZvOTd-ZGZe|NwENwO|-N-ZvEE-ZNw|MxOZw-NxLGEZv.\\NwE|NxQZyNw|NwVFNwGAx|Zd_dFZw|NeVFONwZxENxQZyNw|-ZQZe-ZONyV.\\-ZwL-ZvL|ZqOZwENxOZeNd|ZGZxZvZxNwGMx|NeJMdLZq.\\NwE-ZQT|MxHZvDdLZv+ZvGDdNwZwENxGZeNd|TdLZx_dFAx|ZwDdEZvGZe.\\-ZQ|MxNyL-ZNxTdL+ZwT|-ZFFNwZxNvQ-ZEZy.",
             "Regular": "^xe-qə-'əpyrxnaķym-xe-jneķom.^xe-xutšav.^qə-'uɮyč-xe-pən'yg-xexə-hπee'x-šək-Nxayep.^xe-θuqx-xwixyč-dlik-ɣwiəxteθuqx-'ug'əχw.^ǩaπa-ɢəkeθəgð-bytptxyš-ɣɒzaɢ.^xe'um-šoprapφyrxkeθygð-natlič-krepyg.^'u-šχa'θnaķm-'iixtfu'eq."
         },
         "NPH_Trailer": {
-            "Text": "\\-ZQ|MxHZvDdZvZx+ZvGDdNwZwENxOZeNd|MxNyL-ZNxTd+ZwGT|+Zv_dTdL+ZwET.\\NwE|VdJ-ZZe-ZO-ZVZeVOVV|TL-ZTd|MxHZvDdLZvZx-ZTqTdENwGNw|NqF_dQ-ZENv.\\NwETDdHZdTd|-ZOZO-ZGV|+ZvGDdNw|Zv_dZxNwENwGMx|OMxZyTTqGDdGNw.\\NwE|ZvNwOTdTdTd|NwEZyFZx|-ZFArEE-ZZx|ZxOCrFDdZx|NqFAxZvLTd-ZEZe.\\VdJJ-ZZe|TH-ZGNx|THAxEZy|-ZwL-ZvL.\\TdL+ZwTONw+Zv_dZqFZyHMx.",
             "Regular": "^'u-šoprptφyrxkeθəgð-šχa'θnķym-φlnaķem.^xe-jɒ'g'ə'wgwəww-ma'n-šoprapt'ɴnexyx-ʁilu'ef.^xemrodn-'əbə'yw-φyrx-pltxexyš-əšqmɴyryx.^xe-pxənnn-xeqit-'iǆee't-təɮirt-ʁičpan'eg.^jɒɒ'g-mo'yθ-močeq-ǩaπa.^naķməxφlɢiqoš."
         },
         "SLair_Praetors": {
-            "Text": "\\+ZvGDdNwZwENxOZeNd|ZvNwLLVdZxGDd:Zv_dFTdENwMv|ZqVFTdMxZvHDdZe.",
             "Regular": "^φyrxkeθəgð-pxaajtyr:plinexs-ɢwinšporg."
         },
         "SLairF_Praetors": {
-            "Text": "\\+ZvGDdNwZwENxOZeNd|ZvNwLLVdZxGDd:Zv_dFTdENwMv|ZqVFTdMxZvHDdZe.\\+Zv-ZZwFZxN|VTdMxZvDdZe.",
             "Regular": "^φyrxkeθəgð-pxaajtyr:plinexs-ɢwinšporg.^φ'kitv-wnšprg."
         },
         "Swamp_Lore": {
-            "Text": "\\ZyLMxZwT.\\-ZwL|ZyVeDdCrVF-ZZe|+ZvE-ZGNw|DdQ-ZwLT.\\NwE|TDdHZdTd|Zv_dFTdENwMv.\\-ZwL-ZvL|OMxZyTENvFZdDdMv|ZyO|TdL+ZwGT|-Zv_dTdL+ZwGT|-ZQ|TdL+ZwTAxONwCdFMxHZw|ZvTdDdQZwET.\\MxK_dZdDdZd TdL+ZwT-ZFArEE-ZZx.",
             "Regular": "^qaškm.^ǩa-qẅrɮwi'g-φe'yx-ruǩam.^xe-mrodn-plinexs.^ǩaπa-əšqmefidrs-qə-naķym-πlnaķym-'u-naķmčəxɬišok-pnrukem.^šøldrd naķm'iǆee't."
         },
         "Dark_Discov": {
-            "Text": "\\-ZxLZxZxTdLZwTTFVdETdMv.\\-ZxLZxZxTdLZwTTFVdETdMw.\\OZw-ZvL|OVdTdLZyHAx|MvOZwZdMvZvGFZe|MwOZwZdMvZvGFZe.\\-ZwL-ZvL|Zd_dZvNyLVdZxDd|-ZxOVH_dLT.\\NyOO-ZHNyTTeE|Zd_dTH-ZHNx|VAxZxOAxAx.",
             "Regular": "^ťattnakmmijens.^ťattnakmmijenž.^əkπa-əjnaqoč-səkdspyig-žəkdspyig.^ǩaπa-dlpχajtr-ťəwolam.^χəə'oχmŋe-dlmo'oθ-wčtəčč."
         },
         "MTGSalvation": {
-            "Text": "\\+ZvGDdNwCrJ-ZNe.",
             "Regular": "^φyrxɮɒ'ɣ."
         },
         "SNC_Ura": {
-            "Text": "\\-ZQDdZDdLMvZw|TqZw-ZGZwZe|ZvNwLVdZxDd.\\NqLVdZe+ZvE-ZNw +ZvGDdNw|ZvNwLVdZxDd.\\NeVFMdFZw_dNQV-ZZw.\\ZLNwQ+Zv|Zd_dLZMdZyZvKTdQAx|-ZFFNwZxNvQ-ZZy _dH|ZxEZwZxNxONwQZx|-ZFFZxAxZqVFTdGMx|AxNwO-ZxQ-Z.\\-ZxE|ZqOZqVFTdMx|MwZwFZqODdHTdNe|ZQ-ZwQNd.\\ZLNwQ+Zv|ONwTdJZyAx|Zd_dLZMdZyZvETdGAx|-ZFFNwZxNvQ-ZZy ZLZyF_dNw|ZqODdHTdENeZqTdLZeCrZqVFTdGMx|TZvDdLMvEV _dHZyFZx|ZxEZwZxNxONwEZx|-ZFFZxAxZqVFTdGMx|AxNwOZxE-Z.\\-ZxE|ZqOZqVFTdMx|MwZwFZqODdHTdNe|ZQZwENd.",
             "Regular": "^'urbrask-ɴk'ykg-pxajtr.^ʁajgφe'x φyrx-pxajtr.^ɣwiziklvuw'k.^baxuφ-dlabzqpønuč-'iixtfu'q lo-tektθəxut-'iitčɢwinyš-čxəťu'.^ťe-ɢəɢwinš-žkiɢəronɣ-buǩuð.^baxuφ-əxnɒqč-dlabzqpenyč-'iixtfu'q baqilx-ɢəroneɣɢnagɮɢwinyš-mprasew loqit-tektθəxet-'iitčɢwinyš-čxəte'.^ťe-ɢəɢwinš-žkiɢəronɣ-bukeð."
         },
         "DMU_Sheo": {
-            "Text": "\\MxK_dZdDdZd|TdF-ZxLTZe.\\NqLVdZe+ZvE-ZNw +ZvGDdNw|ZvNwLVdZxDd.\\NeVFNxQZyNw-ZOZwMx.\\ZLNwQ+Zv|ZqVFTdMx|TZvDdLMvV _dH|MvODd|ArZwH-ZQNy.\\ZLNwQ+Zv|ONwTdJZyAx|ZqVFTdMx|TZvDdLMvV _dH|MvEDd|-NQZyEZx.",
             "Regular": "^šøldrd-niťamg.^ʁajgφe'x φyrx-pxajtr.^ɣwiθuqx'əkš.^baxuφ-ɢwinš-mprasw lo-sər-ǆko'uχ.^baxuφ-əxnɒqč-ɢwinš-mprasw lo-ser-huqet."
         },
         "DMU_Ajani": {
-            "Text": "\\-ZOArJTdFF-Z NEMxZxZeLTdVDd.\\NqLVdZeTdT-NQZvTETdZx -ZOArJTdFF-Z.\\Zv_dFTdENwMv.\\_dH|ZxEZwZxNxONw-ZQZx|-ZFFZxAxZqVFTdGMx|ZwDdE-ZvQZe.\\ZL|ZqOZqVFTdMx|NqF+ZvE-ZNw|NqLVdZeTdT-NQZvTETdZxNdO|ZqMdGMdMxE_d|NQV-ZQZw|_dH|TdJZyQ_d.\\ZQ|ZqOZqVFTdMx|NqF+ZvE-ZNw|NqLVdZeTdT-NQZvTETdZxNdO|NQV-ZQZw|NwVE|ZxEZwZxNxONwQZx|-ZwEArG_dZyFZxMvHZdDdT.\\_dH|-ZvEE-ZNw|NwEONwZwHDdNwZeDd+ZwF-ZO|MwGNwQZx.\\_dH|+ZwF|VdQQNyVe+Zw|ZwQZv_dZqO-ZvEE-ZNw|NyCdZwENQZw.\\ZqO-ZvEE-ZNw|NeVFZvTdDdQZwT|MwZwFZqODdHTdNe|ZxLZvGZy.\\_dH|AxZwL_dLZwT|TdL-ZwQT.\\_dH|ZxLZvEZy|ZLNwQ+Zv|+ZvE-ZNw|NqLVdZeTdT-NQZvTETdZxNdO|ZQ-ZwQNd _dH|ONwTdJZyAx|MwGNwQZx _dHNwO|+ZwQ|NqF-NEECdCd|NxLZvEZy.",
             "Regular": "^'əǆɒnii' veštganwr.^ʁajgnmhupment 'əǆɒnii'.^plinexs.^lo-tektθəx'ut-'iitčɢwinyš-kreπug.^ba-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-ɢzyzšel-vuw'uk-lo-nɒqul.^bu-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-vuw'uk-xwe-tektθəxut-ǩeǆylqitsodrm.^lo-πee'x-xeəxkorxgrķi'ə-žyxut.^lo-ķi-juuχẅķ-kuplɢəπee'x-χɬkevuk.^ɢəπee'x-ɣwipnrukm-žkiɢəronɣ-tapyq.^lo-čkalakm-naǩum.^lo-tapeq-baxuφ-φe'x-ʁajgnmhupmentðə-buǩuð lo-əxnɒqč-žyxut loxə-ķu-ʁiheeɬɬ-θapeq."
         },
         "Ads": {
-            "Text": "\\T-ZwL-ZvL|ZxCdNwVeLAxZx|NwCdFVVd-NQZyCdZeK-ZxQZx.",
             "Regular": "^mǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut."
         },
         "Merch": {
-            "Text": "\\-ZwL-ZvL|Mx-ZFFTLMv-NL-Zw.\\-ZQ|ZwQ_dNw|ZvOTd-ZGZe.\\_dH|VdTdL+ZwT|ZvTdMvAxL-ZENx.\\-ZwL-ZvL|ONwZxQTdEET|-ZL_dFNxLZx.\\Zv_dFTdENwMv.\\VdTdL+ZwT.\\-ZEAxE_d-Z.\\-ZL_dFNxZx.",
             "Regular": "^ǩaπa-š'iimashaǩ.^'u-kulx-pən'yg.^lo-jnaķm-pnsča'eθ.^ǩaπa-əxtuneem-'aliθat.^plinexs.^jnaķm.^'ečel'.^'aliθt."
         },
         "NPH_Dismember": {
-            "Text": "\\AxONwZwENvL-ZZyMvETDd.\\MdFZw_dNqQTMv.\\_dH|+ZvE-ZNw|MwGNwQZx|_dHNwO|MwZwFZqODdHTdNe|ZxLZvGZy.",
             "Regular": "^čəxkefa'qsemr.^ziklʁums.^lo-φe'x-žyxut-loxə-žkiɢəronɣ-tapyq."
         },
         "MBS_PsyCrawl": {
-            "Text": "\\VdF+ZyZeNeVF-ZN|ZVEZdTd.\\ZyNwQTdL-ZZw+ZvE-ZNw +ZvGDdNw|MxNyNqJAxNw.\\NwE|VdF+ZyZeNeVF-ZN|ZVEZdTd|TdQ-ZNvZwHZyMxZy_dE-ZGZx|NwO|ZyO|Zd_dTdJZyQ_d|NwENwO|LMvODdNx|VZqVFFTdMx|NqFAr-ZGTd-ZvQZv.\\ZLNwQ+Zv|ZqVFTdMx|TZvDdLMvQV|_dH|LNyOV-ZONwTdJZyAx|MvODd|-NQZyEZx.",
             "Regular": "^jiǥgɣwi'v-bwedn.^qxuna'kφe'x φyrx-šχʁɒčx.^xe-jiǥgɣwi'v-bwedn-nu'fkoqšqle'yt-xə-qə-dlnɒqul-xexə-asərθ-wɢwiinš-ʁiǆ'ynπup.^baxuφ-ɢwinš-mprasuw-lo-aχəw'əxnɒqč-sər-huqet."
         },
         "MTGA": {
-            "Text": "\\-ZQMxZxLNwQ+Zv|NwKDdTdGMx|ZvTdZv_d-ZxOOTTd|ZwHTdEZx|-ZQMxZxL|VdJ-ZZeTH-ZNx|VdTdL+ZwT|-ZO+NxO-ZL-Z.\\TqEZxMvNwLZv|-ZO+NxO-ZH-Z|-ZMxZxTDdHZdLLTd|NwENwQ+Zv|+ZvGDdNwZwENxOZqNd|ZvTd-ZxVO-ZQ-Z|NqFZqZwGNwZx-ZGV.\\NwE ZeKVeDdH+Zv _dQ-ZvEMv.\\-ZvDdKZxVdZx|-ZwGZx-ZvZx.\\_dH +ZvGDdNwZwENxOZqNd-ZJVdZ-Zx|VeCdTdEMvQMx.",
             "Regular": "^'uštaxuφ-xørnyš-pnplťəəmn-konet-'ušta-jɒ'gmo'θ-jnaķm-'əţə'a'.^ɴetsxap-'əţə'o'-'štmrodaan-xexuφ-φyrxkeθəɢð-pnťwə'u'-ʁiɢkyxt'yw.^xe gøẅroφ luπes.^πrøtjt-ǩytπt.^lo φyrxkeθəɢð'ɒjbť-ẅɬnesuš."
         },
         "ONE_Jace_Art": {
-            "Text": "\\VdTdL+ZwTZvTdMvAxL-ZENx.",
             "Regular": "^jnaķmpnsča'eθ."
         },
         "ONE_Norn": {
-            "Text": "\\-ZE_dMx|TdHDdTd VdJ-ZZeMwJNdNq.\\NqLVdZe+ZvE-ZNw +ZvGDdNw|ZvNwLVdZxDd.\\NeVFZvTdDdQZwT.\\ZL|ZyO|ZyVK-ZwNwNxONwZx|NwENwO|-ZLMvZxFVV|V-ZLMvZxGVQV|NeVF-ZZx|NqF-ZwLMwENd Zx_dQNwZx|+ZwLMwGNd|_dH|ZqONeVF-ZZx.\\ONw|ZyO|ZxVK-ZwNwNxONwZx|NwENwO|-ZLMvZxFVV|V-ZLMvZxFVV|NeVF-ZZx|-ZwLMwENd.",
             "Regular": "^'elš-norn jɒ'gžɒðʁ.^ʁajgφe'x φyrx-pxajtr.^ɣwipnrukm.^ba-qə-qwøǩxθəxt-xexə-'astiww-w'astywuw-ɣwi't-ʁiǩažeð tluxt-ķažyð-lo-ɢəɣwi't.^əx-qə-twøǩxθəxt-xexə-'astiww-w'astiww-ɣwi't-ǩažeð."
         },
         "ONE_Plains": {
-            "Text": "\\-ZFAxZy_d.\\T-ZwL-ZvL|VdJJ-ZZe|MwJNdGNq|NyZxETdLL.\\NeK-ZvF-ZZx|NxOZqNd -ZFAxZy_d.",
             "Regular": "^'ičql.^mǩaπa-jɒɒ'g-žɒðyʁ-χtenaa.^ɣøπi't-θəɢð 'ičql."
         },
         "ONE_Island": {
-            "Text": "\\ZwVeNxOZqNd.\\NwE|VdTdL+ZwT|-ZwHNxL-Zw|NyFAr-ZGTdZvEZv.\\NeK-ZvF-ZZx|NxOZqNd ZwVeNxOZqNd.",
             "Regular": "^kẅθəɢð.^xe-jnaķm-ǩoθaǩ-χiǆ'ynpep.^ɣøπi't-θəɢð kẅθəɢð."
         },
         "ONE_Swamp": {
-            "Text": "\\ZyLMxZwT.\\_dH|NwVFNwAx|NxVFNyLMx|ZeKVeDd+Zv|-ZFAxLZy.\\NeK-ZvF-ZZx|NxOZqNd ZyLMxZwT.",
             "Regular": "^qaškm.^lo-xwixč-θwiχaš-gøẅrφ-'ičaq.^ɣøπi't-θəɢð qaškm."
         },
         "ONE_Mountain": {
-            "Text": "\\ZwZxLZwNw.\\NwVE|MxNyL-ZNxTdL+ZwT|-ZwEAr-Z+ZyENx.\\NeK-ZvF-ZZx|NxOZqNd ZwZxLZwNw.",
             "Regular": "^ktakx.^xwe-šχa'θnaķm-ǩeǆ'ǥeθ.^ɣøπi't-θəɢð ktakx."
         },
         "ONE_Forest": {
-            "Text": "\\-ZHZqNxOMvNd.\\NwE|NwE-ZFF-ZO|O-ZQNvCdDdKNqTq|ZqFMvEMv.\\NeK-ZvF-ZZx|NxOZqNd -ZHZqNxOMvNd.",
             "Regular": "^'oɢθəsð.^xe-xe'ii'ə-ə'ufɬrøʁɴ-ɢises.^ɣøπi't-θəɢð 'oɢθəsð."
         },
         "ONE_Article": {
-            "Text": "\\AxZwLZyZy.\\ZxOTTd.\\VdJJ-ZZe|TH-ZGNx.\\VdJ-ZZeMwJNdNq.\\-ZwL-ZvL|-N-ZvTeHZxQNw|+ZwHCr-ZwQT|-ZwL-ZvLNwO|Zq+NxDdJMvLZd|MxZdENyQZd.\\ZwL-ZvL|Zd_dFZwNyLTdQVd|MxNyL-ZGNx.\\-ZwL-ZvL|Mx-ZFFTLMv-NL-Zw.",
             "Regular": "^čkaqq.^təmn.^jɒɒ'g-mo'yθ.^jɒ'gžɒðʁ.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^kaπa-dlikχanuj-šχa'yθ.^ǩaπa-š'iimashaǩ."
         },
         "BeadleGrimms": {
-            "Text": "\\NeVeZFFZd_dZqDdFTMvNwO|T-ZwL-ZvL|MxHZvDdLZvZx+ZvGDdNwZwENxOZqNd|NyZxETdL.\\_dH|VdTdL+ZwT|OMxZ|+ZwQCrLNx-ZwN|ZvTdMvAxL-ZQNx.\\_dH|Md-ZxKMvLLAr|_dHNwE|Zq+NxDdJMvZd|MxZdENyLLZd.",
             "Regular": "^ɣẅbiidlɢrimsxə-mǩaπa-šopraptφyrxkeθəɢð-χtena.^lo-jnaķm-əšb-ķuɮaθǩv-pnsča'uθ.^lo-zťøsaaǆ-loxe-ɢţrɒsd-šdeχaad."
         },
         "ONE_Live": {
-            "Text": "\\NwE|+ZvGDdNwZwENxOZqHNd.\\-ZwL-ZvL|VdTdL+ZwT|VEZdV|Zd_d-ZOZvGDdGNw|ZqOZwENxOZqNd|NxVFNyLMx.",
             "Regular": "^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš."
         },
         "BRO_BoneSaw": {
-            "Text": "\\-ZwL-ZvL|ONwZxQTdEET|-ZL_dFNxLZx.",
             "Regular": "^ǩaπa-əxtuneem-'aliθat."
         },
         "NPH_Agent": {
-            "Text": "\\CrMdOZxNeNd|ZeLTdVDd.\\+ZvE-ZNw +ZvGDdNw|-ZKTdO+Zw|NxQZx_dMdOZxAx.\\NeVFCrONeNd.\\ONw|CrMdOZxNeNd|ZeLTdVDd|ZwNvJ-ZZy-Z.\\NwVE|-ZQDdZDdLMvZw|Ny-NEDdQ-ZwQT|NqFVZxQ_dZxT O_dZyFZx|_dQZvMv.\\-ZLNDdFAxZx ZqGGZxNw|CrZvHDdZxZx.",
             "Regular": "^ɮzətɣð-ganwr.^φe'x φyrx-'ønəķ-θutlzətč.^ɣwiɮəɣð.^əx-ɮzətɣð-ganwr-kfɒ'q'.^xwe-'urbrask-χheruǩum-ʁiwtultm əlqit-lups.^'avričt ɢyytx-ɮportt."
         },
         "NPH_Elf": {
-            "Text": "\\TdL+ZwT+Zv-ZZwFZxN|VdL_dNv.\\+ZvE-ZNw +ZvGDdNw|VdL_dNv|TdL+ZwTZxArG+ZvZx.\\NeVFCrONeNd.\\NwVE|TdMvL-ZZy|ZvTd-ZOZxMvNwLLTd|-ZxENwVeHZxMv|V+ZvGDdNwVdTdL+ZwT|-ZJVdZ-Zx|ZCdK_dL-Zv.",
             "Regular": "^naķmφ'kitv-jalf.^φe'x φyrx-jalf-naķmtǆyφt.^ɣwiɮəɣð.^xwe-nsa'q-pn'ətsxaan-ťexẅots-wφyrxjnaķm-'ɒjbť-bɬølaπ."
         },
         "NPH_Batterskull": {
-            "Text": "\\ZwMxL-ZvZqMwZdJ-Z+Zw.\\ZyNwQTdL-ZZw ZyFZvTZx.\\AxZwLZyZyZxVK+ZvZx.\\NwE|ZyFZv_dZx+ZvE-ZNw|NeVFZvTdDdQZwT|NeVFTdMvL-ZZyDdL+ZvHVd|NqFZxLZvGZy.\\ZwMxL-ZvZqMwZdJ-Z+Zw|-NTdL+ZwTZwE+ZvE-ZNwTdLZy_d|NqF-ZF+NxZvOTdQTd.\\ZyFZv_dZx.",
             "Regular": "^kšaπɢždɒ'ķ.^qxuna'k qipmt.^čkaqqtwøφt.^xe-qipltφe'x-ɣwipnrukm-ɣwinsa'qraφoj-ʁitapyq.^kšaπɢždɒ'ķ-hnaķmkeφe'xnaql-ʁi'iţpənun.^qiplt."
         },
         "NPH_InkNexus": {
-            "Text": "\\Zd_dLZMdArNvG_d_d-ZOZyZd.\\NxOZqNd.\\ZJZ-ZZe.\\Zd_dLZMdArNvG_d_d-ZOZyZd|+ZvGDdNw|Zd_dLZMdArNvG_d_d|ZyNwQTdL-ZZw+ZvE-ZNw|MwZwFZqODdHTdNe|NqFZxLZvEZy.\\NeVFZxKMxZy|NeVFCrONeNd|ZvLDdETq.",
             "Regular": "^dlabzǆfyll'əqd.^θəɢð.^bɒb'g.^dlabzǆfyll'əqd-φyrx-dlabzǆfyll-qxuna'kφe'x-žkiɢəronɣ-ʁitapeq.^ɣwitøšq-ɣwiɮəɣð-pareɴ."
         },
         "C19_Krrik": {
-            "Text": "\\-ZwODdDdZw -ZF-ZG_d|VdJ-ZZeTH-ZNx.\\NqLVdZe+ZvE-ZNw +ZvGDdNw|MxNyNqJAxNw|-ZOZyHZy-Z.\\NeVFTdMvL-ZZyDdL+ZvHVd.\\NwVE|LNyOV-Z|-ZMxZxDdNyLTdVd|NqF-NQZyCdZeK-ZxQZx NwVEZyFZx|TdMvL-ZZy|-NQZyCdZeK-ZxQZx.\\ZLNwQ+Zv|NvLNwZx|NqQTMv|ZQ-ZwQNd|_dH|VdQNyVe+Zw|OMxZy-ZwODdDdZw|-ZF-ZG_d|VdJ-ZZeTH-ZNx|NqF+NxO-ZQ-Z.",
             "Regular": "^ǩərrk 'i'yl-jɒ'gmo'θ.^ʁajgφe'x φyrx-šχʁɒčx-'əqoq'.^ɣwinsa'qraφoj.^xwe-aχəw'-'štrχanj-ʁihuqɬgøťut xweqit-nsa'q-huqɬgøťut.^baxuφ-faxt-ʁums-buǩuð-lo-juχẅķ-əšqǩərrk-'i'yl-jɒ'gmo'θ-ʁiţə'u'."
         },
         "ONE_PhrxArena": {
-            "Text": "\\+ZvGDdNw|ZyLZ-ZNxONwZx.\\TGNxMw.\\ZLNwQ+Zv|Nd_dLZMdZyZvKTdQAx|-ZFFNwZxNvQ-ZZy|_dH|ZqVFTdMx|TZvDdLMvQV|_dHNwO|MvODd|-NQZyKZx.",
             "Regular": "^φyrx-qab'θəxt.^myθž.^baxuφ-ðlabzqpønuč-'iixtfu'q-lo-ɢwinš-mprasuw-loxə-sər-huqøt."
         },
         "NPH_Annex": {
-            "Text": "\\TdHDdTd|-Zw_dOZxZwGZw.\\ZyNwQTdL-ZZw.\\ONw|-ZvEE-ZNw|AxZwJZyQZy|ZyO|ZyNwQ-ZvQ_d|NwENwO|NqLVdZeTdT-NQZvTEETdZxNdO|ZeNqGAxZxNw|_dHOZy|ZyNwQ-ZvG_d|NwE-ZMxZxLNyOV-Z+ZvE-ZNw-ZO|-NQZyCdZeKZxEZx.",
             "Regular": "^norn-ǩlətkyk.^qxuna'k.^əx-πee'x-čkɒquq-qə-qxuπul-xexə-ʁajgnmhupmeentðə-gʁyčtx-loəq-qxuπyl-xe'štaχəw'φe'x'ə-huqɬgøtet."
         },
         "ONE_Jace": {
-            "Text": "\\ArEMv VdTdL+ZwT|-ZZxOCrFDdZx.\\NqLVdZeTdT-NQZvTETdZx ArEMv.\\Zv_dFTdENwMv.\\_dH|+ZvE-ZNw|NwEONwZwHDdNwZeDd-ZFF-ZO|MwGNwQZx|_dHNwO|+ZvJ-ZZqTdLZeCrDdHTdQNe|ZxLZvQZy.\\_dH|TdJZyAx|MwGNwQZx|_dHNwO|MvODd|VeOZvEZw.\\ZL|NxQZyNwFVVNxONwZx|_dG+ZvZwHDdNwZeDdAr-ZGTdZvZvNdO|ZqVFFTdMx|_dH|TZvDdLMvQV.\\ZQ|ZqVFTdMx|TZvDdLMvQV.\\_dH|TdJZyAx|MwGNwQZx|_dHNwO|MvODd|+ZwF|ZxKVZv|VeOZvGZw.",
             "Regular": "^ǆes jnaķm-'təɮirt.^ʁajgnmhupment ǆes.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-φɒ'ɢnagɮronuɣ-tapuq.^lo-nɒqč-žyxut-loxə-sər-ẅəpek.^ba-θuqxiwwθəxt-lyφkorxgrǆ'ynppðə-ɢwiinš-lo-mprasuw.^bu-ɢwinš-mprasuw.^lo-nɒqč-žyxut-loxə-sər-ķi-tøwp-ẅəpyk."
         },
         "ONE_Vraska": {
-            "Text": "\\NDdLMvZwO-Z -ZvTdHZwNw|-ZLNvG-Z.\\NqLVdZeTdT-NQNvTETdZx NDdLMvZwO-Z.\\Zv_dFTdENwMv.\\_dH|ZqVFTdMx|TZvDdLMvQV|_dHNwO|MvODd|-NQ-ZyZx.\\_dH|VdEZwZx_dENwKZy.\\_dH|+ZvE-ZNw|MwGNwQZx|ZyNwQTdL-ZZw|-Zy_dFTeMx|Zx_dENwEZy.\\NwE|MvL_d_d|ZqVFTdMx-ZvKKZwZwNeVFF-ZZxNwO|-ZHZvLDdNwQNy.\\NwE|ZxLZvEZy|TdH-ZZ-ZQZeQT|-ZJZvMvHZvMxFZwZx|-ZFF|TL-ZTd|ZLZQZe.\\_dH|TdJZyAx|MwGNwQZx|ZLNwE|ZeDdTJNeZe|NqF-NEECdECd|Zd_dZeENvZxNqF-NEECrCr|_dH|ZxLZvEZy.",
             "Regular": "^vraskə' πnokx-'afy'.^ʁajgnmhufment vraskə'.^plinexs.^lo-ɢwinš-mprasuw-loxə-sər-huǧt.^lo-jektlexøq.^lo-φe'x-žyxut-qxuna'k-ǧliŋš-tlexeq.^xe-sall-ɢwinšπøøkkɣwii'txə-'oparxuχ.^xe-tapeq-no'b'ugum-'ɒpsopšikt-'ii-ma'n-babug.^lo-nɒqč-žyxut-baxe-grmɒɣg-ʁiheeɬeɬ-dlgeftʁiheeɮɮ-lo-tapeq."
         },
         "ONE_Lukka": {
-            "Text": "\\_dGZwQ-Z ZwETqZx|-NNvVEMw+Zv.\\NqLVdZeTdT-NQZvTETdZx _dGZwQ-Z.\\Zv_dFTdENwMv.\\_dH|ZLZQZe.\\-ZwL-ZvL|ZqOTL-ZTd|+ZvEE-ZNwAxZxOAxZv_dFNeTdNeVF-ZGZxNdO|NwE-ZFF-ZO|NqF-NFMvQZv.\\_dH|CrFVV+ZvGDdNwZvTdZvE-ZZw+ZvE-ZNwNvL-ZFZvNx|TdL-ZwQT.\\NwE|CdLNqZy|ZxLZvEZy.\\_dH|-ZJZvLMvODdNx+ZvEE-ZNwNqLVdZeTdT-NQQZvTETdZxNwONdO|MwGNwQZx.\\_dH|_dGZwQ-Z|MvODd|-ZJZvMwGGNwZeCrOMvQN|NdZvLAxQZw.\\-ZQ|ZyO|ZyNwQ-ZvQ_d|-ZQNwO|NdLMdZvTdZwHDdNwTdQ-ZNv+ZvEE-ZNw|_dHNwQ-Zv|NwVF-ZZx|AxZxOAxZv_dFNeQTd|NqFAr-ZGTdZvZv.",
             "Regular": "^lyku' keɴt-hfwežφ.^ʁajgnmhupment lyku'.^plinexs.^lo-babug.^ǩaπa-ɢəma'n-φee'xčtəčpliɣnɣwi'ytðə-xe'ii'ə-ʁihisup.^lo-ɮiwwφyrxpnpe'kφe'xfa'ipθ-naǩum.^xe-ɬaʁq-tapeq.^lo-'ɒpasərθφee'xʁajgnmhuupmentxəðə-žyxut.^lo-lyku'-sər-'ɒpžyyxgɮəsuv-ðpačuk.^'u-qə-qxuπul-'uxə-ðazpnkorxnu'fφee'x-loxuπ-xwi't-čtəčpliɣun-ʁiǆ'ynpp."
         },
         "ONE_Nissa": {
-            "Text": "\\TdFMvO-Z ZvTdTETdNx|TdL+ZwTTdMvL-ZZy.\\NqLVdZeTdT-NQZvTETdZx TdFMvO-Z.\\Zv_dFTdENwMv.\\_dH|CrFVV+ZvGDdNwMxNyNqJAxNw+ZvE-ZNwNvL-ZFZvNx|TdL-ZwQT NwENwO|TdFMvO-Z ZvTdTETdNx|TdL+ZwTTdMvL-ZZy|-NQZyZxZwETqGZx|NqFAr-ZGTdZvEZv.\\_dH|ZyNwQTdL-ZZw|ZyLZ-ZNxONwZxNdO|MwGNwQZx|_dHNwO|ZyLZQ-Z.\\NwE|ZyO|ZyNwQ-ZvQ_d|NwENwO|-ZvEE-ZNw|MvODd|LNyOV-ZHZqNxOMvNd|NeVFZwNvJ-ZyZvOTd-ZZeNwO|MwZwFZqODdHTdNe|ZxLZvGZy.",
             "Regular": "^nisə' pnmenθ-naķmnsa'q.^ʁajgnmhupment nisə'.^plinexs.^lo-ɮiwwφyrxšχʁɒčxφe'xfa'ipθ-naǩum xexə-nisə' pnmenθ-naķmnsa'q-huqtkeɴyt-ʁiǆ'ynpep.^lo-qxuna'k-qab'θəxtðə-žyxut-loxə-qabu'.^xe-qə-qxuπul-xexə-πee'x-sər-aχəw'oɢθəsð-ɣwikfɒǧpən'gxə-žkiɢəronɣ-tapyq."
         },
         "ONE_Nahiri": {
-            "Text": "\\Td-NFDdFF-Z TeGZyNy.\\NqLVdZeTdT-NQZvTETdZx Td-NFDdFF-Z.\\Zv_dFTdENwMv.\\_dH|+ZvE-ZNw|NwEONwZwHDdNwZeDd-ZFF-ZO|MwGNwQZx|_dHNwO|ZqO+ZvE-ZNw|TdJZyAx|+ZvJ-ZZqTdLZeCrDdHTdQNe|NwEZx-ZELNyOV-ZZxVK-ZwNw-ZO|NqFZeNqFAxZxENw.\\_dH|ZqVFTdMx|MxZxE-ZyQNq|_dHNwO|ZqVFTdMx|TZvDdLMvQV.\\_dH|ZyODdNyLTdVdLMvODdNxZeDdTJNeZeTd-NFDdFF-Z-NQZyZxZwETqGZx|NwENwO|+ZvE-ZNwEZyQFZvTETdZxNdO|NeVeNxQZyNwFVVNxONwQZx|MwGNwQZx|_dHNwO|ZqOZqVFTdMx|AxNwOZx-Z.\\_dH|ZyO|ZqOZqVFTdMx|Zx_dQNwZxTdL+ZwT|_dHNwO|NvL-ZFZvNx|TdL-ZwQT.\\NwE|ZqOZqVFTdMx|NeVFMdFZw_dNQVZw|NqFZxLZvGZy.\\ZLNwQ+Zv|-Zv_dTdL+ZwTZyZvETdAx|-ZFFNwZxNvQ-ZZy _dH|ZqOZqVFTdMx|AxNwO-ZxQ-Z.",
             "Regular": "^nhirii' ŋyqχ.^ʁajgnmhupment nhirii'.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-ɢəφe'x-nɒqč-φɒ'ɢnagɮronuɣ-xet'eaχəw'twøǩx'ə-ʁigʁičtex.^lo-ɢwinš-šteǧuʁ-loxə-ɢwinš-mprasuw.^lo-qərχanjasərθgrmɒɣgnhirii'huqtkeɴyt-xexə-φe'xequipmentðə-ɣẅθuqxiwwθəxut-žyxut-loxə-ɢəɢwinš-čxət'.^lo-qə-ɢəɢwinš-tluxtnaķm-loxə-fa'ipθ-naǩum.^xe-ɢəɢwinš-ɣwiziklvuwk-ʁitapyq.^baxuφ-πlnaķmqpenč-'iixtfu'q lo-ɢəɢwinš-čxəťu'."
         },
         "ONE_Trailer": {
-            "Text": "\\_dH|ZwGZxNx|ONwVdTdJ+ZwQT|-Zw_dJZwET.\\NwZL|VArEZxZq|NxNw-NFZwEZ _dH|-ZvGGDdENw|-ZxDdL-ZwLZy.\\-ZwL-ZvL|ONwZxQTdEET|-ZL_dFNxLZx.\\_dH|+ZvGDdNwZwENxOZqGNd|-ZMxZx-ZEAxE_d-Z|-ZOZvGDdGNw|ZwENxOZqNd|-ZFAxQZy.\\NwE|-ZxOOTETd|ZyO-ZFAxGZy|-ZwL-ZvL|ZwE+ZvE-ZNw.\\NwE|Ax-ZwLL-ZyEZy|TdL+ZwTZwEZv-ZEE-ZHNw.\\-ZwL-ZvL|-N-ZvTeHZxQNw|+ZwHCr-ZwQT|-ZwL-ZvLNwO|Zq+NxDdJMvLZd|MxZdENyQZd.\\_dH|VdTdL+ZwT|ZvTdMvAxL-ZENx.\\-ZwL-ZvL|Mx-ZFFTLMv-NL-Zw.",
             "Regular": "^lo-kytθ-əxjnɒķum-ǩlɒkem.^xba-wǆetɢ-θxhikeb lo-πyyrex-ťraǩaq.^ǩaπa-əxtuneem-'aliθat.^lo-φyrxkeθəɢyð-'št'ečel'-'əpyryx-keθəɢð-'ičuq.^xe-ťəəmen-qə'ičyq-ǩaπa-keφe'x.^xe-čǩaaǧeq-naķmkep'ee'ox.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^lo-jnaķm-pnsča'eθ.^ǩaπa-š'iimashaǩ."
         },
         "ONE_Solphim": {
-            "Text": "\\-ZwL-ZvL|MxHZvDdLZvZx|+ZvGDdNwZwENxOZqNd|NyZxETdL.\\+ZvGDdNwZwENOZqNd.\\NwE|+ZvGDdNwZwENxOZqHNd.\\-ZwL-ZvL|VdTdL+ZwT|VEZdV|Zd_d-ZOZvGDdGNw|ZqOZwENxOZqNd|NxVFNyLMx.\\_dH|VdTdL+ZwT|ZvTdMvAxL-ZENx.\\TdL+ZwTZvF-NMx.\\+ZvGDdNwZwENOZqNd.\\-ZwL-ZvL|ONwZxQTdEET|-ZL_dFNxLZx.\\TdL+ZwTMdEZvZx.",
             "Regular": "^ǩaπa-šoprapt-φyrxkeθəɢð-χtena.^φyrxkevəɢð.^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.^lo-jnaķm-pnsča'eθ.^naķmpihš.^φyrxkevəɢð.^ǩaπa-əxtuneem-'aliθat.^naķmzept."
         },
         "Keyboard": {
-            "Text": "\\CrK-NZx.\\-ZvLAr-Zx.\\Zv_dFTdENwMv.\\ZyNwQ-ZvG_d.\\TdJ+NxT.\\ZwMx+ZwF-ZvNy.\\NxHTZw.",
             "Regular": "^ɮøht.^πaǆť.^plinexs.^qxuπyl.^nɒţm.^kšķiπχ.^θomk."
         },
         "NPH_Misstep": {
-            "Text": "\\CdMxETqLMdGN|ZxOCrFDdZx.\\MdFZw_dNqQTMv.\\_dH|+ZvDdNyLTdVdLMvODdNx-ZFF-ZNqQTMv|MwGNwQZx|_dHNwO|MxQ-ZyQTd.",
             "Regular": "^ɬšeɴazyv-təɮirt.^ziklʁums.^lo-φrχanjasərθ'ii'ʁums-žyxut-loxə-šuǧun."
         },
         "ONE_Panel": {
-            "Text": "\\_dH|DdHTdQNe.\\TeH|DdHTdHNe.\\NwE|ZxVK-ZwHNw.\\O_d|ZwNvJ-Z-ZyL-Z.\\_dH|+ZvLDdNxZwGMwQTd|CdMxETqLMdGN|ZxOCrFDdLZx.",
             "Regular": "^lo-ronuɣ.^ŋo-ronoɣ.^xe-twøǩox.^əl-kfɒ'ǧa'.^lo-φarθkyžun-ɬšeɴazyv-təɮirat."
         },
         "MOM_Teaser": {
-            "Text": "\\ONw|+ZvGDdNwZwENxOZqNd|VdOTeNxT|MxZxHZdLT.\\Mx-ZwL|Mx-Z-NQZvMx|ZvTd-ZVe-ZQMdCr.\\ONw|ZxVK-ZwNw|ZeKVeDdQ+Zv.\\-ZwL-ZvL|Mx-ZFFTLMv-NL-Zw.",
             "Regular": "^əx-φyrxkeθəɢð-jəŋθm-štodam.^šǩa-š'hupš-pn'ẅ'uzɮ.^əx-twøǩx-gøẅruφ.^ǩaπa-š'iimashaǩ."
         }
     }

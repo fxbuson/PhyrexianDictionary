@@ -7,18 +7,38 @@ html {
     src: url("../fonts/Phyrexian-Regular.ttf");
   }
 
+  .header{
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 40px;
+    border-style: solid;
+    border-color: black;
+    border-left: 3px;
+    border-top: 3px;
+    position: fixed;
+    font-family: Phyrexian Regular;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header a{
+    color: black;
+    text-decoration: none;
+}
+
 .content-wrapper{
     width: 80%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10vh;
-    display:flex;
+    display: flex;
+    justify-content: space-around;
 }
 
 .entry-phy{
-    width:15%;
-    margin-top: auto;
-    margin-bottom: auto;
+    align-self: center;
 }
 
 .entry-phy p {
@@ -32,7 +52,7 @@ html {
 
 .entry-info{
     align-self: center;
-    width: 100%;
+    width: 80%;
 }
 
 .divider{

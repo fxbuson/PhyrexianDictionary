@@ -1,0 +1,36 @@
+---
+title: Example Entry
+---
+
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>{{ page.title }} - Phyrexian Dictionary</title>
+    <meta name="description" content="Osmado's version of the Phyrexian Dictionary v3">
+    <meta name="author" content="Felipe Xavier Buson">
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/style.css">
+</head>
+<body>
+    <div class="content-wrapper">
+        <div class="entry-phy">
+            <p>{{ page.phyrexian }}</p>
+        </div>
+        <div class="entry-info">
+            <div class="divider"></div>
+            <p><b style="font-size: large;">{{ page.phyrexian }}</b> ({{ page.plural }}) - {{ page.type }}, {{ page.class }}</p>
+            <p>IPA: {{ page.ipa }}</p>
+            <p>ENG: {{ page.translation }}</p>
+            <p>Native: {{ page.native }}</p>
+            <p>Roots: {{ page.roots }}</p>
+            <p>Composition: {{ page.composition }}</p>
+            <p>Examples: {{ page.examples }}</p>
+            <p>Notes: {{ page.notes }}</p>
+
+            <div class="divider"></div>
+        </div>
+    </div>
+</body>

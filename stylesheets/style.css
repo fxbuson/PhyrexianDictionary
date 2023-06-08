@@ -7,6 +7,31 @@ html {
     src: url("../fonts/Phyrexian-Regular.ttf");
   }
 
-p.red{
-    color:red;
+.content-wrapper{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vh;
+    display:flex;
+}
+
+.entry-phy{
+    width:15%;
+    vertical-align: center;
+}
+
+.entry-phy p {
+    writing-mode: vertical-lr;
+    font-size: 40pt;
+}
+
+.entry-info{
+    align-self: center;
+    width: 100%;
+}
+
+.divider{
+    width: 100%;
+    background-color: black;
+    height:3px;
 }

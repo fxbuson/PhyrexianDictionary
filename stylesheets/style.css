@@ -24,6 +24,9 @@ html {
 .entry-phy p {
     writing-mode: vertical-lr;
     font-size: 40pt;
+}
+
+.phy_fonted {
     font-family: Phyrexian Regular;
 }
 

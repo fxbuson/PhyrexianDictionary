@@ -13,14 +13,17 @@ section: home
     <title>{{ page.title }}</title>
     <meta name="description" content="Osmago's version of the Phyrexian Dictionary v3">
     <meta name="author" content="Felipe Xavier Buson">
-    <link rel="stylesheet" href="{{site.baseurl}}/stylesheets/style.css">
+    <!--<link rel="stylesheet" href="{{site.baseurl}}/stylesheets/style.css"> -->
+    <link rel="stylesheet" href="stylesheets/style.css">
     <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico">
 </head>
 <body>
-    <h1>Phyrexian Dictionary</h1>
-    <p>'ata'n keθəɢð</p>
-    <br>
-    <p class="red">This text has no font styling but has interaction with the stylesheet</p>
-    <p style="font-family: Arial, Helvetica, sans-serif;">This text is rendered in Arial font</p>
-    <p style="font-family: Phyrexian Regular;">This text is rendered in phyrexian font</p>
+    <div class="content-wrapper", style="display: block;">
+        <h1 class="phy_fonted" style="text-align: center;">Phyrexian Dictionary</h1>
+        <p>'ata'n keθəɢð</p>
+        <br>
+        <p class="red">This text has no font styling but has interaction with the stylesheet</p>
+        <p style="font-family: Arial, Helvetica, sans-serif;">This text is rendered in Arial font</p>
+        <p style="font-family: Phyrexian Regular;">This text is rendered in phyrexian font</p>
+    </div>
 </body>

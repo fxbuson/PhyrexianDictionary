@@ -18,7 +18,7 @@ title: Example Entry
 <body>
     <div class="content-wrapper">
         <div class="entry-phy">
-            <p><span class="phyrexian"></span></p>
+            <p><span class="phyrexian phy_fonted"></span></p>
         </div>
         <div class="entry-info">
             <div class="divider"></div>
@@ -62,4 +62,5 @@ title: Example Entry
     document.getElementById("composition").innerHTML = data.dictionary[id].composition;
     document.getElementById("examples").innerHTML = data.dictionary[id].examples;
     document.getElementById("notes").innerHTML = data.dictionary[id].notes;
+    document.getElementById("type").innerHTML = data.dictionary[id].type;
 </script>

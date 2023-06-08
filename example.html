@@ -17,18 +17,18 @@ title: Example Entry
 <body>
     <div class="content-wrapper">
         <div class="entry-phy">
-            <p>{{ page.phyrexian }}</p>
+            <p><div class='phyrexian'></div></p>
         </div>
         <div class="entry-info">
             <div class="divider"></div>
-            <p><b style="font-size: large;">{{ page.phyrexian }}</b> ({{ page.plural }}) - {{ page.type }}, {{ page.class }}</p>
-            <p id="ipa"></p>
-            <p>ENG: {{ page.translation }}</p>
-            <p>Native: {{ page.native }}</p>
-            <p>Roots: {{ page.roots }}</p>
-            <p>Composition: {{ page.composition }}</p>
-            <p>Examples: {{ page.examples }}</p>
-            <p>Notes: {{ page.notes }}</p>
+            <p><b style="font-size: large;"><div class='phyrexian'></div></b> (<div id='plural'></div>) - <div id='type'></div>, <div id='class'></div></p>
+            <p>IPA: <div id='ipa'></div></p>
+            <p>ENG: <div id='translation'></div></p>
+            <p>Native: <div id='native'></div></p>
+            <p>Roots: <div id='roots'></div></p>
+            <p>Composition: <div id='composition'></div></p>
+            <p>Examples: <div id='examples'></div></p>
+            <p>Notes: <div id='notes'></div></p>
             <div class="divider"></div>
         </div>
     </div>
@@ -36,7 +36,25 @@ title: Example Entry
 </body>
 
 <script>
+    // Get the current URL
+    var url = new URL(window.location.href);
+  
+    // Get the search parameters from the URL
+    var params = new URLSearchParams(url.search);
+  
+    // Retrieve a specific variable
+    var id = params.get('id');
+
     const json = `{{ site.data.PhyrexianAPI | jsonify }}`
     const data = JSON.parse(json)
-    document.getElementById("ipa").innerHTML = 'IPA: ' + data.dictionary[0].IPA;
+    document.getElementsByClassName("phyrexian").innerHTML = data.dictionary[id].phyrexian;
+    document.getElementById("plural").innerHTML = data.dictionary[id].plural;
+    document.getElementById("class").innerHTML = data.dictionary[id].class;
+    document.getElementById("ipa").innerHTML = data.dictionary[id].IPA;
+    document.getElementById("translation").innerHTML = data.dictionary[id].translation;
+    document.getElementById("native").innerHTML = data.dictionary[id].native;
+    document.getElementById("roots").innerHTML = data.dictionary[id].roots;
+    document.getElementById("composition").innerHTML = data.dictionary[id].composition;
+    document.getElementById("examples").innerHTML = data.dictionary[id].examples;
+    document.getElementById("notes").innerHTML = data.dictionary[id].notes;
 </script>

@@ -8,8 +8,7 @@ title: Dictionary Entry
 
 <head>
     <meta charset="utf-8">
-
-    <title><span id='title'></span> - Phyrexian Dictionary</title>
+    
     <meta name="description" content="Osmago's version of the Phyrexian Dictionary v3">
     <meta name="author" content="Felipe Xavier Buson">
     <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/style.css">
@@ -57,11 +56,13 @@ title: Dictionary Entry
     document.getElementById("class").innerHTML = data.dictionary[id].class;
     document.getElementById("ipa").innerHTML = data.dictionary[id].IPA;
     document.getElementById("translation").innerHTML = data.dictionary[id].translation;
-    document.getElementById("title").innerHTML = data.dictionary[id].translation;
     document.getElementById("native").innerHTML = data.dictionary[id].native;
     document.getElementById("roots").innerHTML = data.dictionary[id].root;
     document.getElementById("composition").innerHTML = data.dictionary[id].composition;
     document.getElementById("examples").innerHTML = data.dictionary[id].examples;
     document.getElementById("notes").innerHTML = data.dictionary[id].notes;
     document.getElementById("type").innerHTML = data.dictionary[id].type;
+
+    
+    document.title = data.dictionary[id].translation + ' - Phyrexian Dictionary';
 </script>

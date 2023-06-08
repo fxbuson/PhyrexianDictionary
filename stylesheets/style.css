@@ -1,8 +1,0 @@
-html {
-    scroll-behavior: smooth;
-}
-
-@font-face {
-    font-family: "Phyrexian Regular";
-    src: url("/fonts/Phyrexian-Regular.ttf") format('ttf');
-  }

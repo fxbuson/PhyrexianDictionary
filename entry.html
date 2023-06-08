@@ -1,5 +1,5 @@
 ---
-title: Example Entry
+title: Dictionary Entry
 ---
 
 <!doctype html>
@@ -9,7 +9,7 @@ title: Example Entry
 <head>
     <meta charset="utf-8">
 
-    <title>{{ page.title }} - Phyrexian Dictionary</title>
+    <title><span id='title'></span> - Phyrexian Dictionary</title>
     <meta name="description" content="Osmago's version of the Phyrexian Dictionary v3">
     <meta name="author" content="Felipe Xavier Buson">
     <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/style.css">
@@ -57,6 +57,7 @@ title: Example Entry
     document.getElementById("class").innerHTML = data.dictionary[id].class;
     document.getElementById("ipa").innerHTML = data.dictionary[id].IPA;
     document.getElementById("translation").innerHTML = data.dictionary[id].translation;
+    document.getElementById("title").innerHTML = data.dictionary[id].translation;
     document.getElementById("native").innerHTML = data.dictionary[id].native;
     document.getElementById("roots").innerHTML = data.dictionary[id].root;
     document.getElementById("composition").innerHTML = data.dictionary[id].composition;

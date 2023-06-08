@@ -17,7 +17,8 @@ html {
 
 .entry-phy{
     width:15%;
-    vertical-align: center;
+    margin-top: auto;
+    margin-botom: auto;
 }
 
 .entry-phy p {

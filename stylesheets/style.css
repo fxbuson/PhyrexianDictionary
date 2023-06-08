@@ -10,8 +10,6 @@ html {
   .header{
     top: 0;
     left: 0;
-    width: 100px;
-    height: 40px;
     border-style: solid;
     border-color: black;
     border-left: 3px;
@@ -21,11 +19,13 @@ html {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding: 20px;
 }
 
 .header a{
     color: black;
     text-decoration: none;
+    writing-mode: vertical-lr;
 }
 
 .content-wrapper{

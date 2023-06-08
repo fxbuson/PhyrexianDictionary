@@ -22,15 +22,21 @@ title: Example Entry
         <div class="entry-info">
             <div class="divider"></div>
             <p><b style="font-size: large;">{{ page.phyrexian }}</b> ({{ page.plural }}) - {{ page.type }}, {{ page.class }}</p>
-            <p>IPA: {{ page.ipa }}</p>
+            <p id="ipa"></p>
             <p>ENG: {{ page.translation }}</p>
             <p>Native: {{ page.native }}</p>
             <p>Roots: {{ page.roots }}</p>
             <p>Composition: {{ page.composition }}</p>
             <p>Examples: {{ page.examples }}</p>
             <p>Notes: {{ page.notes }}</p>
-
             <div class="divider"></div>
         </div>
     </div>
+    
 </body>
+
+<script>
+    const json = '{{ site.data.PhyrexianAPI }}'
+    const data = JSON.parse(json)
+    document.getElementById("ipa").innerHTML = 'IPA: ' + data.dictionary.0.IPA;
+</script>

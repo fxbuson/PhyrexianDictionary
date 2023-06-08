@@ -5,132 +5,132 @@
             "IPA": "ʔədʒɒniiʔ",
             "plural": false,
             "translation": "Ajani",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "1": {
             "phyrexian": "'avričt",
             "IPA": "ʔavritʃt",
             "plural": false,
             "translation": "Avaricta",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "2": {
             "phyrexian": "'elš",
             "IPA": "ʔelʃ",
             "plural": false,
             "translation": "Elesh",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "3": {
             "phyrexian": "ɢytx",
             "IPA": "ɢytx",
             "plural": false,
             "translation": "Gitaxias",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "4": {
             "phyrexian": "ǆes",
             "IPA": "dʒes",
             "plural": false,
             "translation": "Jace",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "5": {
             "phyrexian": "ǆi'n",
             "IPA": "dʒiʔn",
             "plural": false,
             "translation": "Jin",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "6": {
             "phyrexian": "ǩərrk",
             "IPA": "k'ərrk",
             "plural": false,
             "translation": "K'rrik",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "7": {
             "phyrexian": "lyku'",
             "IPA": "lykuʔ",
             "plural": false,
             "translation": "Lukka",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "8": {
             "phyrexian": "nhirii'",
             "IPA": "nhiriiʔ",
             "plural": false,
             "translation": "Nahiri",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "9": {
             "phyrexian": "nisə'",
             "IPA": "nisəʔ",
             "plural": false,
             "translation": "Nissa",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "10": {
             "phyrexian": "norn",
             "IPA": "norn",
             "plural": false,
             "translation": "Norn",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "11": {
             "phyrexian": "φyrxkeθəɢð",
@@ -141,95 +141,95 @@
                 "φyrx",
                 "θəɢð"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "12": {
             "phyrexian": "šøldrd",
             "IPA": "ʃøldrd",
             "plural": false,
             "translation": "Sheoldred",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "13": {
             "phyrexian": "'urbrask",
             "IPA": "ʔurbrask",
             "plural": false,
             "translation": "Urabrask",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "14": {
             "phyrexian": "vornχlx",
             "IPA": "vornχlx",
             "plural": false,
             "translation": "Vorinclex",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "15": {
             "phyrexian": "vraskə'",
             "IPA": "vraskəʔ",
             "plural": false,
             "translation": "Vraska",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "16": {
             "phyrexian": "tam'joo'",
             "IPA": "tamʔjooʔ",
             "plural": false,
             "translation": "Tamiyo",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "17": {
             "phyrexian": "jɒ'gmo'θ",
             "IPA": "jɒʔgmoʔθ",
             "plural": false,
             "translation": "Yawgmoth",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "Proper name",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "18": {
             "phyrexian": "ɣøπi't",
             "IPA": "ɣøp'iʔt",
             "plural": false,
             "translation": "Basic",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "19": {
             "phyrexian": "ʁajg",
@@ -239,11 +239,11 @@
             "root": [
                 "ʁajg"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "20": {
             "phyrexian": "qxuna'k",
@@ -253,11 +253,11 @@
             "root": [
                 "qxuna'k"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "21": {
             "phyrexian": "φe'x",
@@ -267,11 +267,11 @@
             "root": [
                 "φe'x"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "22": {
             "phyrexian": "myθž",
@@ -281,11 +281,11 @@
             "root": [
                 "myθž"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "23": {
             "phyrexian": "ziklʁums",
@@ -296,11 +296,11 @@
                 "zikl",
                 "ʁums"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "24": {
             "phyrexian": "kašplʁums",
@@ -311,11 +311,11 @@
                 "kašpl",
                 "ʁums"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "25": {
             "phyrexian": "θəɢð",
@@ -325,11 +325,11 @@
             "root": [
                 "θəɢð"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "26": {
             "phyrexian": "nmhupment",
@@ -339,11 +339,11 @@
             "root": [
                 "ment"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "27": {
             "phyrexian": "'ičql",
@@ -353,11 +353,11 @@
             "root": [
                 "'ičql"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "28": {
             "phyrexian": "kẅθəɢð",
@@ -367,11 +367,11 @@
             "root": [
                 "θəɢð"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "29": {
             "phyrexian": "qaškm",
@@ -381,11 +381,11 @@
             "root": [
                 "qaškm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "30": {
             "phyrexian": "ktakx",
@@ -395,11 +395,11 @@
             "root": [
                 "ktakx"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "31": {
             "phyrexian": "'oɢθəsð",
@@ -409,11 +409,11 @@
             "root": [
                 "'oɢθəsð"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "32": {
             "phyrexian": "pnpe'k",
@@ -423,11 +423,11 @@
             "root": [
                 "pe'k"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "33": {
             "phyrexian": "dlabzǆfyll",
@@ -438,11 +438,11 @@
                 "dlabz",
                 "ǆfyll"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "34": {
             "phyrexian": "jalf",
@@ -452,11 +452,11 @@
             "root": [
                 "jalf"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "35": {
             "phyrexian": "qipmt",
@@ -466,23 +466,23 @@
             "root": [
                 "qipmt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "36": {
             "phyrexian": "šχʁɒčχ",
             "IPA": "ʃχʁɒtʃχ",
             "plural": "šχʁɒɒčχ",
             "translation": "Horror",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "37": {
             "phyrexian": "'ønəķ",
@@ -492,11 +492,11 @@
             "root": [
                 "'ønəķ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "38": {
             "phyrexian": "'əqoq'",
@@ -506,11 +506,11 @@
             "root": [
                 "qoq'"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "39": {
             "phyrexian": "φyrx",
@@ -520,11 +520,11 @@
             "root": [
                 "φyrx"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "40": {
             "phyrexian": "pxajtr",
@@ -534,11 +534,11 @@
             "root": [
                 "pxajtr"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "41": {
             "phyrexian": "θutlzətč",
@@ -549,11 +549,11 @@
                 "θutl",
                 "zətč"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "42": {
             "phyrexian": "ǩliŋš",
@@ -563,11 +563,11 @@
             "root": [
                 "ǩliŋš"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "43": {
             "phyrexian": "naķmtǆyφķ",
@@ -578,11 +578,11 @@
                 "naķm",
                 "tǆyφķ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "44": {
             "phyrexian": "plinexs",
@@ -592,11 +592,11 @@
             "root": [
                 "plinexs"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "45": {
             "phyrexian": "ɣwiθuqx'əkš",
@@ -607,11 +607,11 @@
                 "θuqx",
                 "'əkš"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "46": {
             "phyrexian": "qiplt",
@@ -621,11 +621,11 @@
             "root": [
                 "qiplt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "47": {
             "phyrexian": "ɣwiziklʁums",
@@ -636,11 +636,11 @@
                 "zikl",
                 "ʁums"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "48": {
             "phyrexian": "ɣwitøšq",
@@ -650,11 +650,11 @@
             "root": [
                 "tøšq"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "49": {
             "phyrexian": "ɣwiziklvuwk",
@@ -665,11 +665,11 @@
                 "zikl",
                 "vuwk"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "50": {
             "phyrexian": "ɣwiɮəɣð",
@@ -679,11 +679,11 @@
             "root": [
                 "ɮəɣð"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "51": {
             "phyrexian": "ɣwinsa'qraφoj",
@@ -694,11 +694,11 @@
                 "nsa'q",
                 "raφj"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "52": {
             "phyrexian": "jektlexøq",
@@ -709,11 +709,11 @@
                 "jekt",
                 "lexq"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "53": {
             "phyrexian": "ɣwiqaškmjment",
@@ -724,11 +724,11 @@
                 "qaškm",
                 "ment"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "54": {
             "phyrexian": "ɣwikfɒǧpan'g",
@@ -738,11 +738,11 @@
             "root": [
                 "pan'g"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "55": {
             "phyrexian": "ɬaʁq",
@@ -752,11 +752,11 @@
             "root": [
                 "ɬaʁq"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "56": {
             "phyrexian": "ɣwipnrukm",
@@ -766,11 +766,11 @@
             "root": [
                 "rukm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "57": {
             "phyrexian": "twøǩxθəxt",
@@ -781,11 +781,11 @@
                 "twøǩx",
                 "θəxt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "58": {
             "phyrexian": "čxəťu'θəxt",
@@ -796,11 +796,11 @@
                 "čxəť'",
                 "θəxt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "59": {
             "phyrexian": "θuqxiwwθəxt",
@@ -811,11 +811,11 @@
                 "θuqx",
                 "θəxt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "60": {
             "phyrexian": "naql",
@@ -825,11 +825,11 @@
             "root": [
                 "naql"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "61": {
             "phyrexian": "tektθəxt",
@@ -840,11 +840,11 @@
                 "tekt",
                 "θəxt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "62": {
             "phyrexian": "θəxt",
@@ -854,11 +854,11 @@
             "root": [
                 "θəxt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "63": {
             "phyrexian": "dlabzqpenč",
@@ -869,11 +869,11 @@
                 "dlabz",
                 "qpenč"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "64": {
             "phyrexian": "twøǩx",
@@ -883,11 +883,11 @@
             "root": [
                 "twøǩx"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "65": {
             "phyrexian": "πlnaķmqpenč",
@@ -898,11 +898,11 @@
                 "naķm",
                 "qpenč"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "66": {
             "phyrexian": "qpenč",
@@ -912,11 +912,11 @@
             "root": [
                 "qpenč"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "67": {
             "phyrexian": "ronɣ",
@@ -926,11 +926,11 @@
             "root": [
                 "ronɣ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "68": {
             "phyrexian": "faxt",
@@ -940,11 +940,11 @@
             "root": [
                 "faxt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "69": {
             "phyrexian": "ɮiww",
@@ -954,11 +954,11 @@
             "root": [
                 "ɮiww"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "70": {
             "phyrexian": "ɣwi't",
@@ -968,11 +968,11 @@
             "root": [
                 "ɣwi't"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "71": {
             "phyrexian": "ɢʁičtx",
@@ -982,11 +982,11 @@
             "root": [
                 "ɢʁičtx"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "72": {
             "phyrexian": "kfɒ'ǧ'",
@@ -996,11 +996,11 @@
             "root": [
                 "kfɒ'ǧ'"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "73": {
             "phyrexian": "ɢwinš",
@@ -1010,11 +1010,11 @@
             "root": [
                 "ɢwinš"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "74": {
             "phyrexian": "ʁums",
@@ -1024,11 +1024,11 @@
             "root": [
                 "ʁums"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "75": {
             "phyrexian": "sopšikt",
@@ -1038,11 +1038,11 @@
             "root": [
                 "sopšikt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "76": {
             "phyrexian": "qxuπl",
@@ -1052,11 +1052,11 @@
             "root": [
                 "qxuπl"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "77": {
             "phyrexian": "tluxt",
@@ -1066,11 +1066,11 @@
             "root": [
                 "tluxt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun,verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "78": {
             "phyrexian": "χanj",
@@ -1080,11 +1080,11 @@
             "root": [
                 "χanj"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "79": {
             "phyrexian": "šuqn",
@@ -1094,11 +1094,11 @@
             "root": [
                 "šuqn"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "80": {
             "phyrexian": "juvẅķ",
@@ -1108,11 +1108,11 @@
             "root": [
                 "juvẅķ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "81": {
             "phyrexian": "naǩm",
@@ -1122,11 +1122,11 @@
             "root": [
                 "naǩm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "82": {
             "phyrexian": "ðpačk",
@@ -1136,11 +1136,11 @@
             "root": [
                 "ðpačk"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "83": {
             "phyrexian": "qab'",
@@ -1150,11 +1150,11 @@
             "root": [
                 "qab'"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "84": {
             "phyrexian": "šteǩʁ",
@@ -1164,11 +1164,11 @@
             "root": [
                 "šteǩʁ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "85": {
             "phyrexian": "mprasw",
@@ -1178,11 +1178,11 @@
             "root": [
                 "mprasw"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "86": {
             "phyrexian": "čkalakm",
@@ -1192,11 +1192,11 @@
             "root": [
                 "čkalakm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "87": {
             "phyrexian": "čxət'",
@@ -1206,11 +1206,11 @@
             "root": [
                 "čxət'"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "88": {
             "phyrexian": "φ'kitv",
@@ -1220,11 +1220,11 @@
             "root": [
                 "φ'kitv"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective, noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "89": {
             "phyrexian": "huqtkeɴyt",
@@ -1235,11 +1235,11 @@
                 "huqt",
                 "keɴt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "90": {
             "phyrexian": "ma'n",
@@ -1249,11 +1249,11 @@
             "root": [
                 "ma'n"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "91": {
             "phyrexian": "ẅəpk",
@@ -1263,11 +1263,11 @@
             "root": [
                 "ẅəpk"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "92": {
             "phyrexian": "əxnɒqč",
@@ -1277,11 +1277,11 @@
             "root": [
                 "nɒqč"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "93": {
             "phyrexian": "naķmkeφe'x",
@@ -1292,23 +1292,23 @@
                 "naķm",
                 "φe'x"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "94": {
             "phyrexian": "huqɬgøťt",
             "IPA": "huqɬgøt't",
             "plural": false,
             "translation": "Pay",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "95": {
             "phyrexian": "'astiww",
@@ -1318,11 +1318,11 @@
             "root": [
                 "'ast"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "96": {
             "phyrexian": "buǩð",
@@ -1332,11 +1332,11 @@
             "root": [
                 "buǩð"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "97": {
             "phyrexian": "nɒqč",
@@ -1346,23 +1346,23 @@
             "root": [
                 "nɒqč"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "98": {
             "phyrexian": "ʁiheɬɬ",
             "IPA": "ʁiheɬɬ",
             "plural": "ʁiheeɬɬ",
             "translation": "Poison",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "99": {
             "phyrexian": "nu'f",
@@ -1372,11 +1372,11 @@
             "root": [
                 "nu'f"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "100": {
             "phyrexian": "krepg",
@@ -1386,23 +1386,23 @@
             "root": [
                 "krepg"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "101": {
             "phyrexian": "no'b'ugm",
             "IPA": "noʔbʔugm",
             "plural": false,
             "translation": "Sacrifice",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "102": {
             "phyrexian": "ʁums",
@@ -1412,11 +1412,11 @@
             "root": [
                 "ʁums"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "103": {
             "phyrexian": "ɣypm",
@@ -1426,11 +1426,11 @@
             "root": [
                 "ɣypm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "104": {
             "phyrexian": "žyxt",
@@ -1440,23 +1440,23 @@
             "root": [
                 "žyxt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "105": {
             "phyrexian": "fa'ipθ",
             "IPA": "faʔipθ",
             "plural": "fa'iipθ",
             "translation": "Token",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "106": {
             "phyrexian": "ǩažð",
@@ -1466,11 +1466,11 @@
             "root": [
                 "ǩažð"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "107": {
             "phyrexian": "πøkk",
@@ -1480,11 +1480,11 @@
             "root": [
                 "πøkk"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "108": {
             "phyrexian": "asərθ",
@@ -1494,11 +1494,11 @@
             "root": [
                 "asərθ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "109": {
             "phyrexian": "'ii",
@@ -1508,11 +1508,11 @@
             "root": [
                 "'ii"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "110": {
             "phyrexian": "ķu",
@@ -1522,11 +1522,11 @@
             "root": [
                 "ķu"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "111": {
             "phyrexian": "ķi",
@@ -1536,11 +1536,11 @@
             "root": [
                 "ķi"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "112": {
             "phyrexian": "ķus'ər",
@@ -1551,11 +1551,11 @@
                 "ķu",
                 "s'ər"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adverb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "113": {
             "phyrexian": "əxķus'ər",
@@ -1566,35 +1566,35 @@
                 "ķu",
                 "s'ər"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adverb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "114": {
             "phyrexian": "čtəčpliɣn",
             "IPA": "tʃtətʃpliɣn",
             "plural": false,
             "translation": "Access",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "115": {
             "phyrexian": "čtəčpliɣn",
             "IPA": "tʃtətʃpliɣn",
             "plural": false,
             "translation": "Activate",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "116": {
             "phyrexian": "babg",
@@ -1604,11 +1604,11 @@
             "root": [
                 "babg"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "117": {
             "phyrexian": "ganwr",
@@ -1618,11 +1618,11 @@
             "root": [
                 "ganwr"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "118": {
             "phyrexian": "naķmnsa'q",
@@ -1633,11 +1633,11 @@
                 "naķm",
                 "nsa'q"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "119": {
             "phyrexian": "ǩlətkk",
@@ -1647,11 +1647,11 @@
             "root": [
                 "ǩlətkk"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "120": {
             "phyrexian": "niťamg",
@@ -1661,11 +1661,11 @@
             "root": [
                 "ťamg"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "121": {
             "phyrexian": "qab'θəxt",
@@ -1676,11 +1676,11 @@
                 "qab'",
                 "θəxt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "122": {
             "phyrexian": "pnmenθ",
@@ -1690,11 +1690,11 @@
             "root": [
                 "menθ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "123": {
             "phyrexian": "pn'ətsxn",
@@ -1704,11 +1704,11 @@
             "root": [
                 "'ətsxn"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "124": {
             "phyrexian": "'iixtfu'q",
@@ -1718,11 +1718,11 @@
             "root": [
                 "'ii"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "125": {
             "phyrexian": "χtena",
@@ -1732,11 +1732,11 @@
             "root": [
                 "χten"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "126": {
             "phyrexian": "πnokx",
@@ -1746,11 +1746,11 @@
             "root": [
                 "πnokx"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "127": {
             "phyrexian": "ɮzətɣð",
@@ -1760,11 +1760,11 @@
             "root": [
                 "ɮzətɣð"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "128": {
             "phyrexian": "tekt",
@@ -1774,23 +1774,23 @@
             "root": [
                 "tekt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "129": {
             "phyrexian": "ǩeǆylqitsodrm",
             "IPA": "k'edʒylqitsodrm",
             "plural": false,
             "translation": "Bottom",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "130": {
             "phyrexian": "keɴyt",
@@ -1800,11 +1800,11 @@
             "root": [
                 "keɴyt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "131": {
             "phyrexian": "pən'g",
@@ -1814,11 +1814,11 @@
             "root": [
                 "pən'g"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "132": {
             "phyrexian": "sər",
@@ -1828,11 +1828,11 @@
             "root": [
                 "sər"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "preposition",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "133": {
             "phyrexian": "ǆønobt",
@@ -1842,11 +1842,11 @@
             "root": [
                 "ǆønobt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "134": {
             "phyrexian": "ʁšθaǩɴ",
@@ -1856,23 +1856,23 @@
             "root": [
                 "ʁšθaǩɴ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "135": {
             "phyrexian": "'aliθt",
             "IPA": "ʔaliθt",
             "plural": false,
             "translation": "Cleanse",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "136": {
             "phyrexian": "twøǩx",
@@ -1882,11 +1882,11 @@
             "root": [
                 "twøǩx"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "137": {
             "phyrexian": "močq",
@@ -1896,11 +1896,11 @@
             "root": [
                 "močq"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "138": {
             "phyrexian": "φlnaķm",
@@ -1910,11 +1910,11 @@
             "root": [
                 "naķm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "139": {
             "phyrexian": "bwedn",
@@ -1924,11 +1924,11 @@
             "root": [
                 "bwedn"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "140": {
             "phyrexian": "θuqx",
@@ -1938,23 +1938,23 @@
             "root": [
                 "θuqx"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "141": {
             "phyrexian": "čəxtefa'qsemr",
             "IPA": "tʃəxtefaʔqsemr",
             "plural": false,
             "translation": "Dismember",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "142": {
             "phyrexian": "χɬkevk",
@@ -1964,11 +1964,11 @@
             "root": [
                 "χɬkevk"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "143": {
             "phyrexian": "aχəw'",
@@ -1978,11 +1978,11 @@
             "root": [
                 "aχəw'"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adverb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "144": {
             "phyrexian": "xɬiwj",
@@ -1992,11 +1992,11 @@
             "root": [
                 "xɬiwj"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "145": {
             "phyrexian": "ɢţrɒsd",
@@ -2006,11 +2006,11 @@
             "root": [
                 "ɢţrɒsd"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "146": {
             "phyrexian": "ǆ'ynpp",
@@ -2020,11 +2020,11 @@
             "root": [
                 "ǆ'ynpp"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "147": {
             "phyrexian": "ɢiss",
@@ -2034,11 +2034,11 @@
             "root": [
                 "ɢiss"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "148": {
             "phyrexian": "ķoɮǩm",
@@ -2048,11 +2048,11 @@
             "root": [
                 "ķoɮǩm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "149": {
             "phyrexian": "zikl",
@@ -2062,11 +2062,11 @@
             "root": [
                 "zikl"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "150": {
             "phyrexian": "mo'θ",
@@ -2076,11 +2076,11 @@
             "root": [
                 "mo'θ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "151": {
             "phyrexian": "jɒɒ'gmo'yθ",
@@ -2091,11 +2091,11 @@
                 "jɒ'g",
                 "mo'θ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "152": {
             "phyrexian": "xwixč",
@@ -2105,11 +2105,11 @@
             "root": [
                 "xwixč"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "153": {
             "phyrexian": "ķuɮaθǩv",
@@ -2120,11 +2120,11 @@
                 "ķu",
                 "ɮaθǩv"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "154": {
             "phyrexian": "bɬølπ",
@@ -2134,11 +2134,11 @@
             "root": [
                 "bɬølπ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "155": {
             "phyrexian": "ɣɒzɢ",
@@ -2148,11 +2148,11 @@
             "root": [
                 "ɣɒzɢ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "156": {
             "phyrexian": "'əpyrx",
@@ -2162,11 +2162,11 @@
             "root": [
                 "pyrx"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "157": {
             "phyrexian": "tapq",
@@ -2176,11 +2176,11 @@
             "root": [
                 "tapq"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "158": {
             "phyrexian": "ɢytx",
@@ -2190,11 +2190,11 @@
             "root": [
                 "ɢytx"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "159": {
             "phyrexian": "φ'kitv",
@@ -2204,11 +2204,11 @@
             "root": [
                 "φ'kitv"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "160": {
             "phyrexian": "'ɒjbť",
@@ -2218,11 +2218,11 @@
             "root": [
                 "'ɒjbť"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "161": {
             "phyrexian": "πllupsθəxt",
@@ -2233,11 +2233,11 @@
                 "lups",
                 "θəxt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "162": {
             "phyrexian": "šχa'θ",
@@ -2247,11 +2247,11 @@
             "root": [
                 "šχa'θ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "163": {
             "phyrexian": "ɴk'ykg",
@@ -2261,23 +2261,23 @@
             "root": [
                 "ɴk'ykg"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "164": {
             "phyrexian": "əxťeķibrs",
             "IPA": "əxt'ekʰibrs",
             "plural": false,
             "translation": "Hidden",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "165": {
             "phyrexian": "gagg",
@@ -2287,11 +2287,11 @@
             "root": [
                 "gagg"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "166": {
             "phyrexian": "ɣwiəxťeθuqx",
@@ -2301,11 +2301,11 @@
             "root": [
                 "θuqx"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "167": {
             "phyrexian": "əxtunm",
@@ -2315,11 +2315,11 @@
             "root": [
                 "tunm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "168": {
             "phyrexian": "grmɒɣg",
@@ -2329,11 +2329,11 @@
             "root": [
                 "mɒɣg"
             ],
-            "composition": NaN,
-            "examples": NaN,
-            "class": NaN,
+            "composition": null,
+            "examples": null,
+            "class": null,
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "169": {
             "phyrexian": "nsa'q",
@@ -2343,11 +2343,11 @@
             "root": [
                 "nsa'q"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "170": {
             "phyrexian": "jɒ'g",
@@ -2357,11 +2357,11 @@
             "root": [
                 "jɒ'g"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "171": {
             "phyrexian": "naķm",
@@ -2371,23 +2371,23 @@
             "root": [
                 "naķm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun,verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "172": {
             "phyrexian": "təɮirt",
             "IPA": "təɮirt",
             "plural": "təɮiirt",
             "translation": "Mind",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "173": {
             "phyrexian": "mrodn",
@@ -2397,11 +2397,11 @@
             "root": [
                 "mrodn"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "174": {
             "phyrexian": "korxgr",
@@ -2411,11 +2411,11 @@
             "root": [
                 "korx"
             ],
-            "composition": NaN,
-            "examples": NaN,
-            "class": NaN,
+            "composition": null,
+            "examples": null,
+            "class": null,
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "175": {
             "phyrexian": "zɒðʁ",
@@ -2425,11 +2425,11 @@
             "root": [
                 "zɒðʁ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "176": {
             "phyrexian": "jɒ'gzɒðʁ",
@@ -2440,11 +2440,11 @@
                 "jɒ'g",
                 "zɒðʁ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "177": {
             "phyrexian": "vuw'k",
@@ -2454,11 +2454,11 @@
             "root": [
                 "vuw'k"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "178": {
             "phyrexian": "ǆfyll",
@@ -2468,11 +2468,11 @@
             "root": [
                 "ǆfyll"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "179": {
             "phyrexian": "ɢnaɢɮ",
@@ -2482,23 +2482,23 @@
             "root": [
                 "ɢnaɢɮ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "180": {
             "phyrexian": "šoprapt",
             "IPA": "ʃoprapt",
             "plural": false,
             "translation": "New",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "181": {
             "phyrexian": "'əqd",
@@ -2508,11 +2508,11 @@
             "root": [
                 "'əqd"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "182": {
             "phyrexian": "rukx",
@@ -2522,11 +2522,11 @@
             "root": [
                 "rukx"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "183": {
             "phyrexian": "rukxtekt",
@@ -2537,23 +2537,23 @@
                 "rukx",
                 "tekt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "184": {
             "phyrexian": "'ug'əχw",
             "IPA": "ʔugʔəχw",
             "plural": "ug'əəχw",
             "translation": "Offer",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun,verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "185": {
             "phyrexian": "sall",
@@ -2563,11 +2563,11 @@
             "root": [
                 "sall"
             ],
-            "composition": NaN,
-            "examples": NaN,
-            "class": NaN,
+            "composition": null,
+            "examples": null,
+            "class": null,
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "186": {
             "phyrexian": "jnaķm",
@@ -2577,11 +2577,11 @@
             "root": [
                 "naķm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "187": {
             "phyrexian": "qpenčodrm",
@@ -2591,35 +2591,35 @@
             "root": [
                 "qpenč"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "188": {
             "phyrexian": "ŋeǩydm",
             "IPA": "ŋek'ydm",
             "plural": false,
             "translation": "Produce",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "189": {
             "phyrexian": "jiǥgɣwi'v",
             "IPA": "jigʰgɣwiʔv",
             "plural": "jiǥgɣwii'v",
             "translation": "Psychosis",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "190": {
             "phyrexian": "ţə''",
@@ -2629,11 +2629,11 @@
             "root": [
                 "ţə''"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "191": {
             "phyrexian": "mɒɣg",
@@ -2643,35 +2643,35 @@
             "root": [
                 "mɒɣg"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "192": {
             "phyrexian": "qẅrɮwi'g",
             "IPA": "qɯrɮwiʔg",
             "plural": "qẅrɮwii'g",
             "translation": "Resistence",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "193": {
             "phyrexian": "'iţpənn",
             "IPA": "ʔitʰpənn",
             "plural": false,
             "translation": "Return",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "194": {
             "phyrexian": "hfwežp",
@@ -2681,11 +2681,11 @@
             "root": [
                 "hfwežp"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "195": {
             "phyrexian": "føvɣ",
@@ -2695,11 +2695,11 @@
             "root": [
                 "føvɣ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "196": {
             "phyrexian": "ɮportt",
@@ -2709,11 +2709,11 @@
             "root": [
                 "ɮportt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "197": {
             "phyrexian": "rukm",
@@ -2723,11 +2723,11 @@
             "root": [
                 "rukm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "198": {
             "phyrexian": "txš",
@@ -2737,11 +2737,11 @@
             "root": [
                 "txš"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "199": {
             "phyrexian": "'i'l",
@@ -2751,11 +2751,11 @@
             "root": [
                 "'i'l"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "200": {
             "phyrexian": "θwiχš",
@@ -2765,11 +2765,11 @@
             "root": [
                 "θwiχš"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "201": {
             "phyrexian": "hisp",
@@ -2779,11 +2779,11 @@
             "root": [
                 "hisp"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "202": {
             "phyrexian": "čpan'g",
@@ -2793,11 +2793,11 @@
             "root": [
                 "pan'g"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "203": {
             "phyrexian": "'af'",
@@ -2807,11 +2807,11 @@
             "root": [
                 "'af'"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "204": {
             "phyrexian": "lups",
@@ -2821,11 +2821,11 @@
             "root": [
                 "lups"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "205": {
             "phyrexian": "zťøsǆ",
@@ -2835,11 +2835,11 @@
             "root": [
                 "zťøsǆ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "206": {
             "phyrexian": "pnsča'θ",
@@ -2849,11 +2849,11 @@
             "root": [
                 "sča'θ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "207": {
             "phyrexian": "χherukm",
@@ -2863,11 +2863,11 @@
             "root": [
                 "rukm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "208": {
             "phyrexian": "wtultm",
@@ -2877,23 +2877,23 @@
             "root": [
                 "wtultm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "209": {
             "phyrexian": "fedχstsqylm",
             "IPA": "fedχstsqylm",
             "plural": "fedχstsqyylm",
             "translation": "Testament",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "210": {
             "phyrexian": "tøwp",
@@ -2903,11 +2903,11 @@
             "root": [
                 "tøwp"
             ],
-            "composition": NaN,
-            "examples": NaN,
-            "class": NaN,
+            "composition": null,
+            "examples": null,
+            "class": null,
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "211": {
             "phyrexian": "ŋyqχ",
@@ -2917,23 +2917,23 @@
             "root": [
                 "ŋyqχ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "212": {
             "phyrexian": "žki",
             "IPA": "ʒki",
             "plural": false,
             "translation": "Until",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
-            "class": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
+            "class": null,
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "213": {
             "phyrexian": "xutšv",
@@ -2943,23 +2943,23 @@
             "root": [
                 "xutšv"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "214": {
             "phyrexian": "əixiww",
             "IPA": "əixiww",
             "plural": "əixiiww",
             "translation": "Void",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "215": {
             "phyrexian": "ment",
@@ -2969,11 +2969,11 @@
             "root": [
                 "ment"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "216": {
             "phyrexian": "šdeχd",
@@ -2983,23 +2983,23 @@
             "root": [
                 "šdeχd"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun,verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "217": {
             "phyrexian": "'iǆe't",
             "IPA": "ʔidʒeʔt",
             "plural": "'iǆee't",
             "translation": "Whisper",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun,verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "218": {
             "phyrexian": "keθəɢð",
@@ -3009,11 +3009,11 @@
             "root": [
                 "θəɢð"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "219": {
             "phyrexian": "čkaqq",
@@ -3023,11 +3023,11 @@
             "root": [
                 "čkaqq"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "220": {
             "phyrexian": "mɴyrx",
@@ -3037,11 +3037,11 @@
             "root": [
                 "mɴyrx"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "221": {
             "phyrexian": "χiɢɬ",
@@ -3051,11 +3051,11 @@
             "root": [
                 "χiɢɬ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "222": {
             "phyrexian": "ǆko'χ",
@@ -3065,11 +3065,11 @@
             "root": [
                 "ǆko'χ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "223": {
             "phyrexian": "huqet",
@@ -3079,11 +3079,11 @@
             "root": [
                 "huqet"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "224": {
             "phyrexian": "ɮɒ'θ",
@@ -3093,35 +3093,35 @@
             "root": [
                 "ɮɒ'θ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": false,
-            "notes": NaN
+            "notes": null
         },
         "225": {
             "phyrexian": "oparxχ",
             "IPA": "ʔoparxχ",
             "plural": "'opaarxχ",
             "translation": "Limit",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun,verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "226": {
             "phyrexian": "raφoj",
             "IPA": "raɸoj",
             "plural": "raaφoj",
             "translation": "Link",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "227": {
             "phyrexian": "dlabz",
@@ -3131,11 +3131,11 @@
             "root": [
                 "dlabz"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "228": {
             "phyrexian": "təmn",
@@ -3145,11 +3145,11 @@
             "root": [
                 "təmn"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "229": {
             "phyrexian": "ǩytπt",
@@ -3159,11 +3159,11 @@
             "root": [
                 "ǩytπt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "230": {
             "phyrexian": "tunm",
@@ -3173,11 +3173,11 @@
             "root": [
                 "tunm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "231": {
             "phyrexian": "kyžn",
@@ -3187,11 +3187,11 @@
             "root": [
                 "kyžn"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "232": {
             "phyrexian": "vešt",
@@ -3201,11 +3201,11 @@
             "root": [
                 "vešt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "233": {
             "phyrexian": "kašpl",
@@ -3215,11 +3215,11 @@
             "root": [
                 "kašpl"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "adjective",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "234": {
             "phyrexian": "solm",
@@ -3229,11 +3229,11 @@
             "root": [
                 "solm"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "verb",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "235": {
             "phyrexian": "φarθ",
@@ -3243,11 +3243,11 @@
             "root": [
                 "φarθ"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "236": {
             "phyrexian": "'əkš",
@@ -3257,23 +3257,23 @@
             "root": [
                 "'əkš"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "237": {
             "phyrexian": "koqšqle't",
             "IPA": "koqʃqleʔt",
             "plural": "koqšqlee't",
             "translation": "Toughness",
-            "root": NaN,
-            "composition": NaN,
-            "examples": NaN,
+            "root": null,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "238": {
             "phyrexian": "grjəťrk",
@@ -3283,11 +3283,11 @@
             "root": [
                 "grjəťrk"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "239": {
             "phyrexian": "tǆyφt",
@@ -3297,11 +3297,11 @@
             "root": [
                 "tǆyφt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         },
         "240": {
             "phyrexian": "twøφt",
@@ -3311,11 +3311,11 @@
             "root": [
                 "twøφt"
             ],
-            "composition": NaN,
-            "examples": NaN,
+            "composition": null,
+            "examples": null,
             "class": "noun",
             "native": true,
-            "notes": NaN
+            "notes": null
         }
     },
     "samples": {

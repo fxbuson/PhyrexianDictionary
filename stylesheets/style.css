@@ -23,6 +23,7 @@ html {
 .entry-phy p {
     writing-mode: vertical-lr;
     font-size: 40pt;
+    font-family: Phyrexian Regular;
 }
 
 .entry-info{

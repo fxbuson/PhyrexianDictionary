@@ -35,7 +35,7 @@ section: home
                 <th>Type</th>
                 <th>Class</th>
             </tr>
-            {% for entry in site.data.PhyrexianAPI.dictionary %}
+            {% for entry in site.data.PhyrexianAPI.dictionary | jsonify %}
             <tr>
                 <td><a href='entry?id={{ entry }}'>{{ entry.phyrexian }}</a></td>
                 <td>{{ entry.translation}}</td>

@@ -2,6 +2,10 @@ html {
     scroll-behavior: smooth;
 }
 
+body {
+    background-color: #E7E8EB;
+}
+
 @font-face {
     font-family: "Phyrexian Regular";
     src: url("../fonts/Phyrexian-Regular.ttf");
@@ -70,4 +74,25 @@ html {
     width: 100%;
     background-color: black;
     height:3px;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #050505;
+        color: #E7E8EB;
+    }
+    a {
+        color: #3387CC;
+    }
+    
+    .divider{
+        background-color: #E7E8EB;
+    }
+    
+    .header{
+        border-color: #E7E8EB;
+    }
+    .header a{
+        color: #E7E8EB;
+    }
 }

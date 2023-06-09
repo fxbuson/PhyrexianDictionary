@@ -36,8 +36,8 @@ section: home
                 <th>Class</th>
             </tr>
         </table>
-        {% for entry|jsonify  in site.data.PhyrexianAPI.dictionary %}
-        <p>{{entry}}</p>
+        {% for entry in site.data.PhyrexianAPI.dictionary %}
+        <p>{{entry | jsonify}}</p>
         {% endfor %}
 
         <!--{% for entry in site.data.PhyrexianAPI.dictionary | jsonify %}

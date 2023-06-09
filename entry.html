@@ -24,9 +24,8 @@ title: Dictionary Entry
         </div>
         <div class="entry-info">
             <div class="divider"></div>
-            <p><b style="font-size: large;"><span class='phyrexian'></span></b> (<span id='plural'></span>) - <span id='type'></span>, <span id='class'></span></p>
-            <p>IPA: <span id='ipa'></span></p>
-            <p>ENG: <span id='translation'></span></p>
+            <p><b style="font-size: large;"><span class='phyrexian'></span></b> [<span id='ipa'></span>] (<span id='plural'></span>) - <span id='type'></span>, <span id='class'></span></p>
+            <p><b><span id='translation'></span></b></p>
             <p>Native: <span id='native'></span></p>
             <p>Roots: <span id='roots'></span></p>
             <p>Composition: <span id='composition'></span></p>
@@ -55,7 +54,18 @@ title: Dictionary Entry
     for (var i = 0; i < phy_instances.length; i++) {
         phy_instances[i].innerHTML = data.dictionary[id].phyrexian;
     }
-    document.getElementById("plural").innerHTML = data.dictionary[id].plural;
+
+    switch(data.dictionary[id].plural){
+        case false:
+            document.getElementById("plural").innerHTML = 'no plural';
+            break;
+        case null:
+            document.getElementById("plural").innerHTML = 'unclear plural';
+            break;
+        default:
+            document.getElementById("plural").innerHTML = 'pl: ' + data.dictionary[id].plural;
+    }
+
     document.getElementById("class").innerHTML = data.dictionary[id].class;
     document.getElementById("ipa").innerHTML = data.dictionary[id].IPA;
     document.getElementById("translation").innerHTML = data.dictionary[id].translation;

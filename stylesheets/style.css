@@ -15,7 +15,6 @@ body {
     top: 0;
     left: 0;
     border-style: solid;
-    border-color: black;
     border-left: 3px;
     border-top: 3px;
     position: fixed;
@@ -89,9 +88,6 @@ body {
         background-color: #E7E8EB;
     }
     
-    .header{
-        border-color: #E7E8EB;
-    }
     .header a{
         color: #E7E8EB;
     }

@@ -55,6 +55,17 @@ html {
     width: 80%;
 }
 
+.entry-table{
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+}
+
+.entry-table td, th{
+    border: 1px solid;
+    padding-left: 10px;
+}
+
 .divider{
     width: 100%;
     background-color: black;

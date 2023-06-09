@@ -16,6 +16,9 @@ section: home
     <!--<link rel="stylesheet" href="{{site.baseurl}}/stylesheets/style.css"> -->
     <link rel="stylesheet" href="stylesheets/style.css">
     <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico">
+
+    <script src="https://cdn.jsdelivr.net/npm/table-sort-js/table-sort.min.js"></script>
+
 </head>
 <body>
     <div class="content-wrapper", style="display: block;">
@@ -23,5 +26,24 @@ section: home
         <p class='phy_fonted'>^'ata'n keθəɢð.</p>
         <p>This is Osmago's prototype/sandbox website for the phyrexian dictionary v3.</p>
         <p>Not much is implemented for now. If you want to have a look around, checkout <a href="entry?id=11">an entry</a> and feel free to change the id on the url to different numbers.</p>
+        <br>
+        <br>
+        <table class='table-sort table-arrows remember-sort'>
+            <tr>
+                <th>Phy</th>
+                <th>Eng</th>
+                <th>Type</th>
+                <th>Class</th>
+            </tr>
+            {% for entry in site.data.PhyrexianAPI.dictionary %}
+            <tr>
+                <td><a href='entry?id={{ entry }}'>{{ entry.phyrexian }}</a></td>
+                <td>{{ entry.translation}}</td>
+                <td>{{ entry.type }}</td>
+                <td>{{ entry.class }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+
     </div>
 </body>

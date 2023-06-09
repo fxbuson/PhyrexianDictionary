@@ -35,15 +35,19 @@ section: home
                 <th>Type</th>
                 <th>Class</th>
             </tr>
-            {% for entry in site.data.PhyrexianAPI.dictionary | jsonify %}
-            <tr>
-                <td><a href='entry?id={{ entry }}'>{{ entry.phyrexian }}</a></td>
-                <td>{{ entry.translation}}</td>
-                <td>{{ entry.type }}</td>
-                <td>{{ entry.class }}</td>
-            </tr>
-            {% endfor %}
         </table>
+        {% for entry in site.data.PhyrexianAPI.dictionary %}
+        <p>{{entry}}</p>
+        {% endfor %}
+
+        <!--{% for entry in site.data.PhyrexianAPI.dictionary | jsonify %}
+        <tr>
+            <td><a href='entry?id={{ entry }}'>{{ entry.phyrexian }}</a></td>
+            <td>{{ entry.translation}}</td>
+            <td>{{ entry.type }}</td>
+            <td>{{ entry.class }}</td>
+        </tr>
+        {% endfor %} -->
 
     </div>
 </body>

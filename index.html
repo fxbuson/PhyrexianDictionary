@@ -37,7 +37,8 @@ section: home
             </tr>
         </table>
         {% for entry in site.data.PhyrexianAPI.dictionary %}
-        <p>{{entry | jsonify}}</p>
+            {% assign ent = entry | jsonify %}
+            <p>{{ ent.phyrexian }}</p>
         {% endfor %}
 
         <!--{% for entry in site.data.PhyrexianAPI.dictionary | jsonify %}

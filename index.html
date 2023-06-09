@@ -37,11 +37,7 @@ section: home
             </tr>
         </table>
         {% for entry in site.data.PhyrexianAPI.dictionary %}
-            <p>{{ entry }}</p>
-            <p>{{ entry[0] }}</p>
-            {% for thing in entry %}
-                <p>{{ thing }}</p>
-            {% endfor %}
+            <p>{{ entry[1].phyrexian }}</p>
         {% endfor %}
 
         <!--{% for entry in site.data.PhyrexianAPI.dictionary | jsonify %}

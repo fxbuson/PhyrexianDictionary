@@ -43,6 +43,6 @@ title: Dictionary Entry
     const json = `{{ site.data.PhyrexianAPI | jsonify }}`
     const data = JSON.parse(json)
 
-    document.getElementById('sample').innerHTML = data.samples[id]
+    document.getElementById('sample').innerHTML = data.samples[id].Regular
     
 </script>

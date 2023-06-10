@@ -252,7 +252,7 @@
             "root": null,
             "composition": null,
             "examples": [
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "KHM_Vorin"
             ],
             "class": "noun",
@@ -346,7 +346,7 @@
                 "NPH_Ura",
                 "NPH_Jin",
                 "NPH_Sheo",
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "KHM_Vorin",
                 "NEO_Jin",
                 "NEO_Tami",
@@ -407,7 +407,7 @@
                 "NPH_Ura",
                 "NPH_Jin",
                 "NPH_Sheo",
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "KHM_Vorin",
                 "NEO_Jin",
                 "NEO_Tami",
@@ -507,7 +507,7 @@
             ],
             "composition": null,
             "examples": [
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "DOM_Scriptures",
                 "SLD_Swamp",
                 "MTGA",
@@ -788,7 +788,7 @@
                 "NPH_Ura",
                 "NPH_Jin",
                 "NPH_Sheo",
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "KHM_Vorin",
                 "NEO_Jin",
                 "DOM_Scriptures",
@@ -834,7 +834,7 @@
                 "NPH_Ura",
                 "NPH_Jin",
                 "NPH_Sheo",
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "KHM_Vorin",
                 "NEO_Jin",
                 "SLD_Praetors",
@@ -1115,7 +1115,7 @@
             ],
             "composition": null,
             "examples": [
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "KHM_Vorin"
             ],
             "class": "noun",
@@ -1369,7 +1369,7 @@
             "examples": [
                 "NPH_Jin",
                 "NPH_Sheo",
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "NEO_Tami",
                 "SNC_Ura",
                 "ONE_Nahiri"
@@ -1582,7 +1582,7 @@
             "examples": [
                 "NPH_Norn",
                 "NPH_Ura",
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "NEO_Tami",
                 "NPH_Annex",
                 "ONE_Lukka",
@@ -1867,7 +1867,7 @@
             ],
             "composition": null,
             "examples": [
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "NPH_Trailer",
                 "ONE_Vraska",
                 "ONE_Lukka"
@@ -1910,7 +1910,7 @@
                 "NPH_Ura",
                 "NPH_Jin",
                 "NPH_Sheo",
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "KHM_Vorin",
                 "NEO_Jin",
                 "SNC_Ura",
@@ -2016,7 +2016,7 @@
                 "NPH_Ura",
                 "NPH_Jin",
                 "NPH_Sheo",
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "KHM_Vorin",
                 "NEO_Jin",
                 "SNC_Ura",
@@ -2115,7 +2115,7 @@
             "composition": null,
             "examples": [
                 "NPH_Ura",
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "NEO_Tami"
             ],
             "class": "verb",
@@ -2389,7 +2389,7 @@
             ],
             "composition": null,
             "examples": [
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "ONE_Vraska",
                 "ONE_Lukka"
             ],
@@ -3343,7 +3343,7 @@
             ],
             "composition": null,
             "examples": [
-                "NPH_Vorn"
+                "NPH_Vorin"
             ],
             "class": "noun",
             "native": true,
@@ -3467,7 +3467,7 @@
             "examples": [
                 "NPH_Jin",
                 "NPH_Sheo",
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "NEO_Jin",
                 "NEO_Tami",
                 "DOM_Scriptures",
@@ -3641,7 +3641,7 @@
             ],
             "composition": null,
             "examples": [
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "NEO_Tami",
                 "SNC_Ura",
                 "ONE_Jace",
@@ -3817,7 +3817,7 @@
             "root": null,
             "composition": null,
             "examples": [
-                "NPH_Vorn"
+                "NPH_Vorin"
             ],
             "class": "verb",
             "native": true,
@@ -4280,7 +4280,7 @@
             ],
             "composition": null,
             "examples": [
-                "NPH_Vorn",
+                "NPH_Vorin",
                 "MBS_Trailer"
             ],
             "class": "noun",
@@ -4820,7 +4820,7 @@
             "Notes": null
         },
         "4": {
-            "Name": "NPH_Vorn",
+            "Name": "NPH_Vorin",
             "Regular": "^vornχlx gagg-xutšyv.^ʁajgφe'x φyrx-pxajtr.^ɣwikfɒǧpan'g.^baxuφ-θəɢð-ma'nɣyπum lo-qə-ŋeǩydym-'u-ma'npøkk-babug.^baxuφ-əxnɒqč-θəɢð-ʁima'nɣypem-əl-naķmqxuπl-ɢəčθəɢð-ɢnagɮəxɣypmqpenyčpxe-ʁiəxɣypem.",
             "English": "Vorinclex, Voice of Hunger. Legendary Creature — Phyrexian Praetor. Trample. Whenever you tap a land for mana, add one mana of any type that land produced. Whenever an opponent taps a land for mana, that land doesn’t untap during its controller’s next untap step.",
             "Notes": null

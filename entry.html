@@ -1,49 +1,29 @@
 ---
+layout: entries
 title: Dictionary Entry
 ---
 
-<!doctype html>
-
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    
-    <meta name="description" content="Osmago's version of the Phyrexian Dictionary v3">
-    <meta name="author" content="Felipe Xavier Buson">
-    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/style.css">
-    <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico">
-</head>
-<body>
-    <div class="header">
-        <a href="{{ site.baseurl }}">'iixtfu'q</a>
-    </div>
-    <div class="content-wrapper">
-        <div class="entry-phy">
-            <p><span class="phyrexian phy_fonted"></span></p>
-        </div>
-        <div class="entry-info">
-            <div class="divider"></div>
-            <p><b style="font-size: large;"><span class='phyrexian'></span></b> [<span id='ipa'></span>] (<span id='plural'></span>) - <span id='type'></span>, <span id='class'></span></p>
-            <p><b><span id='translation'></span></b></p>
-            <p>Native: <span id='native'></span></p>
-            <p>Roots: <span id='roots'></span></p>
-            <p>Composition: <span id='composition'></span></p>
-            <p>Examples: <span id='examples'></span></p>
-            <p>Notes: <span id='notes'></span></p>
-            <div class="divider"></div>
-        </div>
-    </div>
-    
-</body>
-
+<div class="entry-phy">
+    <p><span class="phyrexian phy_fonted"></span></p>
+</div>
+<div class="entry-info">
+    <div class="divider"></div>
+    <p><b style="font-size: large;"><span class='phyrexian'></span></b> [<span id='ipa'></span>] (<span id='plural'></span>) - <span id='type'></span>, <span id='class'></span></p>
+    <p><b><span id='translation'></span></b></p>
+    <p>Native: <span id='native'></span></p>
+    <p>Roots: <span id='roots'></span></p>
+    <p>Composition: <span id='composition'></span></p>
+    <p>Examples: <span id='examples'></span></p>
+    <p>Notes: <span id='notes'></span></p>
+    <div class="divider"></div>
+</div>
 <script>
     // Get the current URL
     var url = new URL(window.location.href);
-  
+    
     // Get the search parameters from the URL
     var params = new URLSearchParams(url.search);
-  
+    
     // Retrieve a specific variable
     var id = params.get('id');
 

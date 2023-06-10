@@ -1,80 +1,57 @@
 ---
+layout: default
 title: Phyrexian Dictionary
 section: home
 ---
 
-<!doctype html>
-
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-
-    <title>{{ page.title }}</title>
-    <meta name="description" content="Osmago's version of the Phyrexian Dictionary v3">
-    <meta name="author" content="Felipe Xavier Buson">
-    <!--<link rel="stylesheet" href="{{site.baseurl}}/stylesheets/style.css"> -->
-    <link rel="stylesheet" href="stylesheets/style.css">
-    <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico">
-
-    <script src="https://cdn.jsdelivr.net/npm/table-sort-js/table-sort.min.js"></script>
-
-</head>
-<body>
-    <div class="content-wrapper", style="display: block;">
-        <h1 class="phy_fonted" style="text-align: center;">φyrxɮɒ'ɣ-ɮɒ'ɣtekt</h1>
-        <p class='phy_fonted'>^'ata'n keθəɢð.</p>
-        <p>This is Osmago's prototype/sandbox website for the phyrexian dictionary v3. Built from the files in <a href="https://github.com/fxbuson/PhyrexianDictionary">my fork of the main repo</a>.</p>
-        <p>For now we have the bulk of the words on MTGWiki translated to this format. Checkout entries and samples below</p>
-        <p>If you have any issues or suggestions, feel free to reach me on reddit or discord, and raise issues on the GitHub repo. Also feel free to fork this repo and do whatever you want, as long as it's all free and open.</p>
-        <h3>To-do list</h3>
+<h1 class="phy_fonted" style="text-align: center;">φyrxɮɒ'ɣ-ɮɒ'ɣtekt</h1>
+<p class='phy_fonted'>^'ata'n keθəɢð.</p>
+<p>This is Osmago's prototype/sandbox website for the phyrexian dictionary v3. Built from the files in <a href="https://github.com/fxbuson/PhyrexianDictionary">my fork of the main repo</a>.</p>
+<p>For now we have the bulk of the words on MTGWiki translated to this format. Checkout entries and samples below</p>
+<p>If you have any issues or suggestions, feel free to reach me on reddit or discord, and raise issues on the GitHub repo. Also feel free to fork this repo and do whatever you want, as long as it's all free and open.</p>
+<h3>To-do list</h3>
+<ul>
+    <li>Bring mood markers and prefixes from the wiki</li>
+    <li>Fill out compositions</li>
+    <li>Link entry pages to roots and samples</li>
+    <li>Add breakdown of samples on each page</li>
+    <li>Figure out parsing samples and dynamic highlighting to link to entries</li>
+    <li>Make entries for words that are not as trustworthy</li>
+    <li>Tidy up images</li>
+    <li>Integrate Phyrexian Oil Pen and a search function so that we have a better home page and searchability</li>
+    <li>Include more general guidance about phyrexian - maybe useful links like in discord</li>
+    <li>Continuous: revise texts and ensure correctness</li>
+</ul>
+<br>
+<br>
+<div class="entries-samples">
+    <div>
+        <h3>Entries</h3>
+        <table class='table-sort table-arrows remember-sort entry-table'>
+            <tr>
+                <th class="punc-sort">Phyrexian</th>
+                <th>English</th>
+                <th>Type</th>
+                <th>Class</th>
+                <th>Confidence</th>
+            </tr>
+            {% for entry in site.data.PhyrexianAPI.dictionary %}
+            <tr>
+                <td><a href="entry?id={{entry[0]}}">{{ entry[1].phyrexian }}</a></td>
+                <td>{{ entry[1].translation }}</td>
+                <td>{{ entry[1].type }}</td>
+                <td>{{ entry[1].class }}</td>
+                <td>{{ entry[1].confidence }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+    <div>
+        <h3>Samples</h3>
         <ul>
-            <li>Bring mood markers and prefixes from the wiki</li>
-            <li>Fill out compositions</li>
-            <li>Link entry pages to roots and samples</li>
-            <li>Add breakdown of samples on each page</li>
-            <li>Figure out parsing samples and dynamic highlighting to link to entries</li>
-            <li>Make entries for words that are not as trustworthy</li>
-            <li>Tidy up images</li>
-            <li>Integrate Phyrexian Oil Pen and a search function so that we have a better home page and searchability</li>
-            <li>Include more general guidance about phyrexian - maybe useful links like in discord</li>
-            <li>Continuous: revise texts and ensure correctness</li>
+        {% for sample in site.data.PhyrexianAPI.samples %}
+            <li><a href="sample?id={{ sample[0] }}">{{ sample[1].Name }}</a></li>
+        {% endfor %}
         </ul>
-        <br>
-        <br>
-        <div class="entries-samples">
-            <div>
-                <h3>Entries</h3>
-                <table class='table-sort table-arrows remember-sort entry-table'>
-                    <tr>
-                        <th class="punc-sort">Phyrexian</th>
-                        <th>English</th>
-                        <th>Type</th>
-                        <th>Class</th>
-                        <th>Confidence</th>
-                    </tr>
-                    {% for entry in site.data.PhyrexianAPI.dictionary %}
-                    <tr>
-                        <td><a href="entry?id={{entry[0]}}">{{ entry[1].phyrexian }}</a></td>
-                        <td>{{ entry[1].translation }}</td>
-                        <td>{{ entry[1].type }}</td>
-                        <td>{{ entry[1].class }}</td>
-                        <td>{{ entry[1].confidence }}</td>
-                    </tr>
-                    {% endfor %}
-                </table>
-            </div>
-            <div>
-                <h3>Samples</h3>
-                <ul>
-                {% for sample in site.data.PhyrexianAPI.samples %}
-                    <li><a href="sample?id={{ sample[0] }}">{{ sample[1].Name }}</a></li>
-                {% endfor %}
-                </ul>
-            </div>
-        </div>
-        <div class="divider"></div>
-        <p>Felipe Xavier Buson</p>
-        <p>Last updated 10/06/2023</p>
-    </div>  
-</body>
+    </div>
+</div>

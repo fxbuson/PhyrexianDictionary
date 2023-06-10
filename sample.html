@@ -1,48 +1,28 @@
 ---
+layout: default
 title: Dictionary Entry
 ---
 
-<!doctype html>
-
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    
-    <meta name="description" content="Osmago's version of the Phyrexian Dictionary v3">
-    <meta name="author" content="Felipe Xavier Buson">
-    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/style.css">
-    <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico">
-</head>
-<body>
-    <div class="header">
-        <a href="{{ site.baseurl }}">'iixtfu'q</a>
-    </div>
-    <div class="content-wrapper" style="display: block;">
-        <div class="sample-img">
-            <img id='sample'>
-        </div>
-        <div class="sample-info">
-            <div class="divider"></div>
-            <p id='english'></p>
-            <p class='phyrexian phy_fonted'></p>
-            <p class='phyrexian'></p>
-            <p id='breakdown'></p>
-            <p><b>Notes:</b></p>
-            <p id='notes'></p>
-            <div class="divider"></div>
-        </div>
-    </div>
-    
-</body>
-
+<div class="sample-img">
+    <img id='sample'>
+</div>
+<div class="sample-info">
+    <div class="divider"></div>
+    <p id='english'></p>
+    <p class='phyrexian phy_fonted'></p>
+    <p class='phyrexian'></p>
+    <p id='breakdown'></p>
+    <p><b>Notes:</b></p>
+    <p id='notes'></p>
+    <div class="divider"></div>
+</div>
 <script>
     // Get the current URL
     var url = new URL(window.location.href);
-  
+    
     // Get the search parameters from the URL
     var params = new URLSearchParams(url.search);
-  
+    
     // Retrieve a specific variable
     var id = params.get('id');
 

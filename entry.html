@@ -55,7 +55,6 @@ title: Dictionary Entry
     document.getElementById("roots").innerHTML = data.dictionary[id].root;
     document.getElementById("composition").innerHTML = data.dictionary[id].composition;
 
-    document.getElementById("examples").innerHTML += "<ul>"
     exs = data.dictionary[id].examples
     for (ex in exs){
         var sample_id = 0
@@ -64,9 +63,11 @@ title: Dictionary Entry
                 sample_id = smp
             }
         }
-        document.getElementById("examples").innerHTML += "<li><a class='hover-img-link' href='sample?id="+ sample_id +"'>"+ exs[ex] +"<span><img src='images/"+ exs[ex] +".jpg' height = '200px''></span></a></li>"
+        document.getElementById("examples").innerHTML += "<a class='hover-img-link' href='sample?id="+ sample_id +"'>"+ exs[ex] +"<span><img src='images/"+ exs[ex] +".jpg' height = '200px''></span></a>"
+        if (ex + 1 < exs.length){
+            document.getElementById("examples").innerHTML += ', '
+        }
     }
-    document.getElementById("examples").innerHTML += "</ul>"
     
     document.getElementById("notes").innerHTML = data.dictionary[id].notes;
     document.getElementById("type").innerHTML = data.dictionary[id].type;

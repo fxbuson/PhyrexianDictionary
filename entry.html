@@ -63,7 +63,7 @@ title: Dictionary Entry
                 sample_id = smp
             }
         }
-        document.getElementById("examples").append("<a class='hover-img-link' href='sample?id="+ sample_id +"'><img src='images/"+ exs[ex] +".jpg' height = '100''>"+ exs[ex] +"</a>")
+        document.getElementById("examples").innerHTML += "<a class='hover-img-link' href='sample?id="+ sample_id +"'><img src='images/"+ exs[ex] +".jpg' height = '100''>"+ exs[ex] +"</a>"
     }
     
     document.getElementById("notes").innerHTML = data.dictionary[id].notes;

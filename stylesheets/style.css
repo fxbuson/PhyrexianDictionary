@@ -40,6 +40,10 @@ body {
     justify-content: space-around;
 }
 
+.phy_fonted {
+    font-family: Phyrexian Regular;
+}
+
 .entry-phy{
     align-self: center;
 }
@@ -49,13 +53,19 @@ body {
     font-size: 40pt;
 }
 
-.phy_fonted {
-    font-family: Phyrexian Regular;
-}
-
 .entry-info{
     align-self: center;
     width: 80%;
+}
+
+.sample-img{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 2%;
+}
+
+.sample-img img{
+    width:30%;
 }
 
 .entry-table{

@@ -64,7 +64,7 @@ title: Dictionary Entry
             }
         }
         document.getElementById("examples").innerHTML += "<a class='hover-img-link' href='sample?id="+ sample_id +"'>"+ exs[ex] +"<span><img src='images/"+ exs[ex] +".jpg' height = '200px''></span></a>"
-        if (ex + 1 < exs.length){
+        if (ex < exs.length - 1){
             document.getElementById("examples").innerHTML += ', '
         }
     }

@@ -53,5 +53,14 @@ title: Dictionary Entry
     for (var i = 0; i < phy_instances.length; i++) {
         phy_instances[i].innerHTML = data.samples[id].Regular;
     }
+
+    document.title = data.samples[id].Name + ' - Phyrexian Dictionary';
+
+    function change_color(obj, col){
+        items = document.getElementsByClassName(obj.className)
+        for(var index=0;index < items.length;index++){
+            items[index].style.color = col;
+        }
+    }
     
 </script>

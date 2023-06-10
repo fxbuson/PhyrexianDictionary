@@ -92,17 +92,13 @@ body {
     padding-right: 10px;
 }
 
-.hover-img-link{
-    position: relative;
-}
-
-.hover-img-link img{
+.hover-img-link span{
     position:absolute;
     display:none;
     z-index:99; 
 }
 
-.hover-img-link:hover img{
+.hover-img-link:hover span{
     display: block;
 }
 

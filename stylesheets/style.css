@@ -33,11 +33,14 @@ body {
 
 .content-wrapper{
     width: 80%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     margin-top: 10vh;
+}
+
+.entries-wrapper{
     display: flex;
     justify-content: space-around;
+
 }
 
 .phy_fonted {

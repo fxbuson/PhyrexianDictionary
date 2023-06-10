@@ -25,8 +25,8 @@ title: Dictionary Entry
         <div class="sample-info">
             <div class="divider"></div>
             <p id='english'></p>
-            <p id='phyrexian phy_fonted'></p>
-            <p id='phyrexian'></p>
+            <p class='phyrexian phy_fonted'></p>
+            <p class='phyrexian'></p>
             <p id='breakdown'></p>
             <div class="divider"></div>
         </div>
@@ -47,7 +47,7 @@ title: Dictionary Entry
     const json = `{{ site.data.PhyrexianAPI | jsonify }}`
     const data = JSON.parse(json)
 
-    document.getElementById('sample').setAttribute('src', 'images/' + data.samples[id] + '.jpg')
+    document.getElementById('sample').setAttribute('src', 'images/' + data.samples[id].Name + '.jpg')
     
     var phy_instances = document.getElementsByClassName("phyrexian")
     for (var i = 0; i < phy_instances.length; i++) {

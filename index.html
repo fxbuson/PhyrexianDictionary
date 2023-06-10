@@ -24,10 +24,12 @@ section: home
     <div class="content-wrapper", style="display: block;">
         <h1 class="phy_fonted" style="text-align: center;">φyrxɮɒ'θ-ɮɒ'θtekt</h1>
         <p class='phy_fonted'>^'ata'n keθəɢð.</p>
-        <p>This is Osmago's prototype/sandbox website for the phyrexian dictionary v3.</p>
-        <p>Not much is implemented for now. If you want to have a look around, checkout <a href="entry?id=11">an entry</a> and feel free to change the id on the url to different numbers.</p>
+        <p>This is Osmago's prototype/sandbox website for the phyrexian dictionary v3. Built from the files in <a href="https://github.com/fxbuson/PhyrexianDictionary">my fork of the main repo</a>.</p>
+        <p>For now we have the bulk of the words on MTGWiki translated to this format. Checkout entries and samples below</p>
+        <p>If you have any issues or suggestions, feel free to reach me on reddit or discord, and raise issues on the GitHub repo. Also feel free to fork this repo and do whatever you want, as long as it's all free and open.</p>
         <br>
         <br>
+        <h3>Entries:</h3>
         <table class='table-sort table-arrows remember-sort entry-table'>
             <tr>
                 <th class="punc-sort">Phyrexian</th>
@@ -46,5 +48,15 @@ section: home
             </tr>
             {% endfor %}
         </table>
-    </div>
+        
+        <h3>Samples:</h3>
+        <ul>
+        {% for sample in site.data.PhyrexianAPI.samples %}
+            <li><a href="sample?id={{ sample[0] }}">{{ sample[1].Name }}</a></li>
+        {% endfor %}
+        </ul>
+        <div class="divider"></div>
+        <p>Felipe Xavier Buson</p>
+        <p>Last updated 10/06/2023</p>
+    </div>  
 </body>

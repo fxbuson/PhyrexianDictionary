@@ -55,15 +55,15 @@ title: Dictionary Entry
     document.getElementById("roots").innerHTML = data.dictionary[id].root;
     document.getElementById("composition").innerHTML = data.dictionary[id].composition;
 
-    for (ex in data.dictionary[id].examples){
+    exs = data.dictionary[id].examples
+    for (ex in exs){
         var sample_id = 0
-        for (var i = 0; i < data.samples.length; i++){
-            if (samples[i].Name == ex){
-                sample_id = i
-                break;
+        for (smp in data.samples){
+            if (data.samples[smp].Name == exs[ex]){
+                sample_id = smp
             }
         }
-        document.getElementById("examples").append("<a class='hover-img-link' href='sample?id="+ sample_id +"'><img src='images/"+ ex +".jpg' height = '100''>"+ ex +"</a>")
+        document.getElementById("examples").append("<a class='hover-img-link' href='sample?id="+ sample_id +"'><img src='images/"+ exs[ex] +".jpg' height = '100''>"+ exs[ex] +"</a>")
     }
     
     document.getElementById("notes").innerHTML = data.dictionary[id].notes;

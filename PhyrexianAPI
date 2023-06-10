@@ -13,7 +13,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "1": {
             "phyrexian": "'avričt",
@@ -28,7 +29,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "2": {
             "phyrexian": "'elš",
@@ -44,7 +46,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "3": {
             "phyrexian": "ɢytx",
@@ -62,7 +65,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "4": {
             "phyrexian": "ǆes",
@@ -77,7 +81,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "5": {
             "phyrexian": "ǆi'n",
@@ -93,7 +98,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "6": {
             "phyrexian": "ǩərrk",
@@ -108,7 +114,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "7": {
             "phyrexian": "lyku'",
@@ -123,7 +130,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "8": {
             "phyrexian": "nhirii'",
@@ -138,7 +146,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "9": {
             "phyrexian": "nisə'",
@@ -153,7 +162,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "10": {
             "phyrexian": "norn",
@@ -170,7 +180,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "11": {
             "phyrexian": "φyrxkeθəɢð",
@@ -194,7 +205,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "12": {
             "phyrexian": "šøldrd",
@@ -211,7 +223,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "13": {
             "phyrexian": "'urbrask",
@@ -228,7 +241,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "14": {
             "phyrexian": "vornχlx",
@@ -244,7 +258,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "15": {
             "phyrexian": "vraskə'",
@@ -259,7 +274,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "16": {
             "phyrexian": "tam'joo'",
@@ -274,7 +290,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "17": {
             "phyrexian": "jɒ'gmo'θ",
@@ -291,7 +308,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "name"
+            "type": "name",
+            "confidence": "solid"
         },
         "18": {
             "phyrexian": "ɣøπi't",
@@ -311,7 +329,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "19": {
             "phyrexian": "ʁajg",
@@ -346,7 +365,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "20": {
             "phyrexian": "qxuna'k",
@@ -370,7 +390,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "21": {
             "phyrexian": "φe'x",
@@ -413,7 +434,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "22": {
             "phyrexian": "myθž",
@@ -430,7 +452,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "23": {
             "phyrexian": "ziklʁums",
@@ -451,7 +474,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "24": {
             "phyrexian": "kašplʁums",
@@ -470,7 +494,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "25": {
             "phyrexian": "θəɢð",
@@ -501,7 +526,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "26": {
             "phyrexian": "nmhupment",
@@ -524,7 +550,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "27": {
             "phyrexian": "'ičql",
@@ -541,7 +568,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "28": {
             "phyrexian": "kẅθəɢð",
@@ -558,7 +586,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "29": {
             "phyrexian": "qaškm",
@@ -578,7 +607,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "30": {
             "phyrexian": "ktakx",
@@ -595,7 +625,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "31": {
             "phyrexian": "'oɢθəsð",
@@ -613,7 +644,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "32": {
             "phyrexian": "pnpe'k",
@@ -630,7 +662,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "33": {
             "phyrexian": "dlabzǆfyll",
@@ -648,7 +681,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "34": {
             "phyrexian": "jalf",
@@ -665,7 +699,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "35": {
             "phyrexian": "qipmt",
@@ -682,7 +717,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "36": {
             "phyrexian": "šχʁɒčx",
@@ -699,7 +735,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "solid"
         },
         "37": {
             "phyrexian": "'ønəķ",
@@ -716,7 +753,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "likely"
         },
         "38": {
             "phyrexian": "'əqoq'",
@@ -733,7 +771,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "39": {
             "phyrexian": "φyrx",
@@ -779,7 +818,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "40": {
             "phyrexian": "pxajtr",
@@ -807,7 +847,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "41": {
             "phyrexian": "θutlzətč",
@@ -825,7 +866,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "likely"
         },
         "42": {
             "phyrexian": "ǧliŋš",
@@ -842,7 +884,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "43": {
             "phyrexian": "naķmtǆyφt",
@@ -860,7 +903,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "44": {
             "phyrexian": "plinexs",
@@ -888,7 +932,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "45": {
             "phyrexian": "ɣwiθuqx'əkš",
@@ -906,7 +951,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "46": {
             "phyrexian": "qiplt",
@@ -923,7 +969,8 @@
             "class": "verb",
             "native": false,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "47": {
             "phyrexian": "ɣwiziklʁums",
@@ -941,7 +988,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "48": {
             "phyrexian": "ɣwitøšq",
@@ -958,7 +1006,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "49": {
             "phyrexian": "ɣwiziklvuwk",
@@ -978,7 +1027,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "50": {
             "phyrexian": "ɣwiɮəɣð",
@@ -997,7 +1047,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "51": {
             "phyrexian": "ɣwinsa'qraφoj",
@@ -1016,7 +1067,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "52": {
             "phyrexian": "jektlexøq",
@@ -1034,7 +1086,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "likely"
         },
         "53": {
             "phyrexian": "ɣwiqaškmjment",
@@ -1052,7 +1105,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "54": {
             "phyrexian": "ɣwikfɒǧpan'g",
@@ -1070,7 +1124,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "55": {
             "phyrexian": "ɬaʁq",
@@ -1087,7 +1142,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "56": {
             "phyrexian": "ɣwipnrukm",
@@ -1107,7 +1163,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "57": {
             "phyrexian": "twøǩxθəxt",
@@ -1127,7 +1184,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "58": {
             "phyrexian": "čxət'θəxt",
@@ -1145,7 +1203,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "59": {
             "phyrexian": "θuqxiwwθəxt",
@@ -1167,7 +1226,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "60": {
             "phyrexian": "naql",
@@ -1185,7 +1245,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "61": {
             "phyrexian": "tektθəxt",
@@ -1205,7 +1266,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "62": {
             "phyrexian": "θəxt",
@@ -1233,7 +1295,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "63": {
             "phyrexian": "dlabzqpenč",
@@ -1252,7 +1315,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "64": {
             "phyrexian": "twøǩx",
@@ -1274,7 +1338,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "65": {
             "phyrexian": "πlnaķmqpenč",
@@ -1292,7 +1357,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "66": {
             "phyrexian": "qpenč",
@@ -1314,7 +1380,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "67": {
             "phyrexian": "ronɣ",
@@ -1340,7 +1407,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "68": {
             "phyrexian": "faxt",
@@ -1357,7 +1425,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "69": {
             "phyrexian": "ɮiww",
@@ -1375,7 +1444,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "70": {
             "phyrexian": "ɣwi't",
@@ -1394,7 +1464,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "71": {
             "phyrexian": "gʁičtx",
@@ -1411,7 +1482,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "72": {
             "phyrexian": "kfɒ'ǧ'",
@@ -1428,7 +1500,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "73": {
             "phyrexian": "ɢwinš",
@@ -1457,7 +1530,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "74": {
             "phyrexian": "ʁums",
@@ -1480,7 +1554,8 @@
             "class": "noun,verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "75": {
             "phyrexian": "sopšikt",
@@ -1496,7 +1571,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "solid"
         },
         "76": {
             "phyrexian": "qxuπl",
@@ -1520,7 +1596,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "77": {
             "phyrexian": "tluxt",
@@ -1540,7 +1617,8 @@
             "class": "noun,verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "78": {
             "phyrexian": "χanj",
@@ -1561,7 +1639,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "79": {
             "phyrexian": "šuqn",
@@ -1578,7 +1657,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "80": {
             "phyrexian": "juχẅķ",
@@ -1597,7 +1677,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "81": {
             "phyrexian": "naǩm",
@@ -1619,7 +1700,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "82": {
             "phyrexian": "ðpačk",
@@ -1636,7 +1718,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "likely"
         },
         "83": {
             "phyrexian": "qab'",
@@ -1654,7 +1737,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "likely"
         },
         "84": {
             "phyrexian": "šteǧʁ",
@@ -1671,7 +1755,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "85": {
             "phyrexian": "mprasw",
@@ -1695,7 +1780,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "86": {
             "phyrexian": "čkalakm",
@@ -1712,7 +1798,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "87": {
             "phyrexian": "čxət'",
@@ -1732,7 +1819,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "88": {
             "phyrexian": "φ'kitv",
@@ -1750,7 +1838,8 @@
             "class": "adjective, noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "89": {
             "phyrexian": "huqtkeɴyt",
@@ -1769,7 +1858,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "90": {
             "phyrexian": "ma'n",
@@ -1789,7 +1879,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "91": {
             "phyrexian": "ẅəpk",
@@ -1806,7 +1897,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "92": {
             "phyrexian": "əxnɒqč",
@@ -1833,7 +1925,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "93": {
             "phyrexian": "naķmkeφe'x",
@@ -1851,7 +1944,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "94": {
             "phyrexian": "huqɬgøťt",
@@ -1867,7 +1961,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "95": {
             "phyrexian": "'astiww",
@@ -1886,7 +1981,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "96": {
             "phyrexian": "buǩð",
@@ -1907,7 +2003,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "97": {
             "phyrexian": "nɒqč",
@@ -1937,7 +2034,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "98": {
             "phyrexian": "ʁiheɬɬ",
@@ -1953,7 +2051,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "likely"
         },
         "99": {
             "phyrexian": "nu'f",
@@ -1971,7 +2070,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "100": {
             "phyrexian": "krepg",
@@ -1988,7 +2088,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "101": {
             "phyrexian": "no'b'ugm",
@@ -2004,7 +2105,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "102": {
             "phyrexian": "ɣypm",
@@ -2023,7 +2125,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "103": {
             "phyrexian": "žyxt",
@@ -2050,7 +2153,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "104": {
             "phyrexian": "fa'ipθ",
@@ -2068,7 +2172,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "105": {
             "phyrexian": "ǩažð",
@@ -2085,7 +2190,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "106": {
             "phyrexian": "πøkk",
@@ -2102,7 +2208,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "107": {
             "phyrexian": "asərθ",
@@ -2123,7 +2230,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "108": {
             "phyrexian": "'ii",
@@ -2158,7 +2266,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "109": {
             "phyrexian": "ķu",
@@ -2178,7 +2287,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "110": {
             "phyrexian": "ķi",
@@ -2198,7 +2308,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "111": {
             "phyrexian": "ķus'ər",
@@ -2216,7 +2327,8 @@
             "class": "adverb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "112": {
             "phyrexian": "əxķus'ər",
@@ -2234,7 +2346,8 @@
             "class": "adverb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "113": {
             "phyrexian": "vižǥ",
@@ -2251,7 +2364,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "114": {
             "phyrexian": "čtəčpliɣn",
@@ -2266,7 +2380,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "115": {
             "phyrexian": "babg",
@@ -2285,7 +2400,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "116": {
             "phyrexian": "ganwr",
@@ -2303,7 +2419,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "117": {
             "phyrexian": "naķmnsa'q",
@@ -2321,7 +2438,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "118": {
             "phyrexian": "ǩlətkk",
@@ -2336,7 +2454,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "solid"
         },
         "119": {
             "phyrexian": "niťamg",
@@ -2353,7 +2472,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "120": {
             "phyrexian": "qab'θəxt",
@@ -2372,7 +2492,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "121": {
             "phyrexian": "pnmenθ",
@@ -2389,7 +2510,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "122": {
             "phyrexian": "pn'ətsxn",
@@ -2406,7 +2528,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "123": {
             "phyrexian": "'iixtfu'q",
@@ -2429,7 +2552,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "124": {
             "phyrexian": "χtena",
@@ -2448,7 +2572,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "125": {
             "phyrexian": "πnokx",
@@ -2465,7 +2590,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "126": {
             "phyrexian": "ɮzətɣð",
@@ -2480,7 +2606,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "solid"
         },
         "127": {
             "phyrexian": "tekt",
@@ -2500,7 +2627,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "128": {
             "phyrexian": "ǩeǆylqitsodrm",
@@ -2516,7 +2644,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "129": {
             "phyrexian": "keɴyt",
@@ -2534,7 +2663,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "130": {
             "phyrexian": "pən'g",
@@ -2553,7 +2683,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "131": {
             "phyrexian": "sər",
@@ -2578,7 +2709,8 @@
             "class": "preposition",
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "solid"
         },
         "132": {
             "phyrexian": "ǆønobt",
@@ -2595,7 +2727,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "133": {
             "phyrexian": "ʁšθaǩɴ",
@@ -2610,7 +2743,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "134": {
             "phyrexian": "'aliθt",
@@ -2628,7 +2762,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "135": {
             "phyrexian": "twøǩx",
@@ -2650,7 +2785,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "136": {
             "phyrexian": "močq",
@@ -2668,7 +2804,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "137": {
             "phyrexian": "φlnaķm",
@@ -2685,7 +2822,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "138": {
             "phyrexian": "bwedn",
@@ -2702,7 +2840,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "139": {
             "phyrexian": "θuqx",
@@ -2725,7 +2864,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "140": {
             "phyrexian": "čəxkefa'qsemr",
@@ -2740,7 +2880,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "likely"
         },
         "141": {
             "phyrexian": "χɬkevk",
@@ -2755,7 +2896,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "solid"
         },
         "142": {
             "phyrexian": "aχəw'",
@@ -2776,7 +2918,8 @@
             "class": "adverb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "143": {
             "phyrexian": "xɬiwj",
@@ -2793,7 +2936,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "144": {
             "phyrexian": "ɢţrɒsd",
@@ -2810,7 +2954,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "solid"
         },
         "145": {
             "phyrexian": "ǆ'ynpp",
@@ -2828,7 +2973,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "solid"
         },
         "146": {
             "phyrexian": "ɢiss",
@@ -2846,7 +2992,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "147": {
             "phyrexian": "ķoɮǩm",
@@ -2864,7 +3011,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "148": {
             "phyrexian": "zikl",
@@ -2888,7 +3036,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "149": {
             "phyrexian": "mo'θ",
@@ -2911,7 +3060,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "150": {
             "phyrexian": "jɒ'gmo'yθ",
@@ -2927,7 +3077,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "151": {
             "phyrexian": "xwixč",
@@ -2945,7 +3096,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "152": {
             "phyrexian": "ķuɮaθǩv",
@@ -2963,7 +3115,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "153": {
             "phyrexian": "bɬølπ",
@@ -2980,7 +3133,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "154": {
             "phyrexian": "ɣɒzɢ",
@@ -2997,7 +3151,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "155": {
             "phyrexian": "'əpyrx",
@@ -3017,7 +3172,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "156": {
             "phyrexian": "tapq",
@@ -3045,7 +3201,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "157": {
             "phyrexian": "ɢytx",
@@ -3065,7 +3222,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "158": {
             "phyrexian": "φ'kitv",
@@ -3083,7 +3241,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "159": {
             "phyrexian": "'ɒjbť",
@@ -3101,7 +3260,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "160": {
             "phyrexian": "πllupsθəxt",
@@ -3119,7 +3279,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "161": {
             "phyrexian": "šχa'θ",
@@ -3141,7 +3302,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "162": {
             "phyrexian": "ɴk'ykg",
@@ -3156,7 +3318,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "solid"
         },
         "163": {
             "phyrexian": "əxťeķibrs",
@@ -3171,7 +3334,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "164": {
             "phyrexian": "gagg",
@@ -3188,7 +3352,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "165": {
             "phyrexian": "ɣwiəxťeθuqx",
@@ -3205,7 +3370,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "166": {
             "phyrexian": "əxtunm",
@@ -3225,7 +3391,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "167": {
             "phyrexian": "grmɒɣg",
@@ -3243,7 +3410,8 @@
             "class": null,
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "168": {
             "phyrexian": "nsa'q",
@@ -3263,7 +3431,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "169": {
             "phyrexian": "jɒ'g",
@@ -3287,7 +3456,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "170": {
             "phyrexian": "naķm",
@@ -3326,7 +3496,8 @@
             "class": "noun,verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "171": {
             "phyrexian": "təɮirt",
@@ -3344,7 +3515,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "172": {
             "phyrexian": "mrodn",
@@ -3364,7 +3536,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "173": {
             "phyrexian": "korxgr",
@@ -3384,7 +3557,8 @@
             "class": null,
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "174": {
             "phyrexian": "žɒðʁ",
@@ -3403,7 +3577,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "175": {
             "phyrexian": "jɒ'gžɒðʁ",
@@ -3422,7 +3597,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "176": {
             "phyrexian": "vuw'k",
@@ -3440,7 +3616,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "177": {
             "phyrexian": "ǆfyll",
@@ -3455,7 +3632,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "solid"
         },
         "178": {
             "phyrexian": "ɢnagɮ",
@@ -3476,7 +3654,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "179": {
             "phyrexian": "šoprapt",
@@ -3494,7 +3673,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "180": {
             "phyrexian": "'əqd",
@@ -3511,7 +3691,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "181": {
             "phyrexian": "rukx",
@@ -3528,7 +3709,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "182": {
             "phyrexian": "rukxtekt",
@@ -3546,7 +3728,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "183": {
             "phyrexian": "'ug'əχw",
@@ -3561,7 +3744,8 @@
             "class": "noun,verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "184": {
             "phyrexian": "sall",
@@ -3579,7 +3763,8 @@
             "class": null,
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "185": {
             "phyrexian": "jnaķm",
@@ -3607,7 +3792,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "186": {
             "phyrexian": "qpenčodrm",
@@ -3624,7 +3810,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "187": {
             "phyrexian": "ŋeǩydm",
@@ -3639,7 +3826,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "188": {
             "phyrexian": "jiǥgɣwi'v",
@@ -3654,7 +3842,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "189": {
             "phyrexian": "ţə''",
@@ -3673,7 +3862,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "190": {
             "phyrexian": "mɒɣg",
@@ -3693,7 +3883,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "191": {
             "phyrexian": "qẅrɮwi'g",
@@ -3709,7 +3900,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "192": {
             "phyrexian": "'iţpənn",
@@ -3724,7 +3916,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "193": {
             "phyrexian": "hfwežφ",
@@ -3741,7 +3934,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "194": {
             "phyrexian": "føvɣ",
@@ -3758,7 +3952,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "195": {
             "phyrexian": "ɮportt",
@@ -3775,7 +3970,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "196": {
             "phyrexian": "rukm",
@@ -3798,7 +3994,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "197": {
             "phyrexian": "txš",
@@ -3816,7 +4013,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "198": {
             "phyrexian": "'i'l",
@@ -3833,7 +4031,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "199": {
             "phyrexian": "θwiχš",
@@ -3852,7 +4051,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "200": {
             "phyrexian": "hisp",
@@ -3869,7 +4069,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "201": {
             "phyrexian": "čpan'g",
@@ -3886,7 +4087,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "202": {
             "phyrexian": "'af'",
@@ -3903,7 +4105,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "203": {
             "phyrexian": "lups",
@@ -3921,7 +4124,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "204": {
             "phyrexian": "zťøsǆ",
@@ -3938,7 +4142,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "205": {
             "phyrexian": "pnsča'θ",
@@ -3959,7 +4164,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "206": {
             "phyrexian": "χherukm",
@@ -3974,7 +4180,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "207": {
             "phyrexian": "wtultm",
@@ -3991,7 +4198,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "208": {
             "phyrexian": "fedχstsqylm",
@@ -4006,7 +4214,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "209": {
             "phyrexian": "tøwp",
@@ -4023,7 +4232,8 @@
             "class": null,
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "likely"
         },
         "210": {
             "phyrexian": "ŋyqχ",
@@ -4040,7 +4250,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "211": {
             "phyrexian": "žki",
@@ -4060,7 +4271,8 @@
             "class": null,
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "solid"
         },
         "212": {
             "phyrexian": "xutšv",
@@ -4078,7 +4290,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "213": {
             "phyrexian": "əixiww",
@@ -4093,7 +4306,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "214": {
             "phyrexian": "ment",
@@ -4118,7 +4332,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "215": {
             "phyrexian": "šdeχd",
@@ -4137,7 +4352,8 @@
             "class": "noun,verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "216": {
             "phyrexian": "'iǆe't",
@@ -4155,7 +4371,8 @@
             "class": "noun,verb",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "217": {
             "phyrexian": "keθəɢð",
@@ -4178,7 +4395,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "218": {
             "phyrexian": "čkaqq",
@@ -4196,7 +4414,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "219": {
             "phyrexian": "mɴyrx",
@@ -4213,7 +4432,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "220": {
             "phyrexian": "χiɢɬ",
@@ -4230,7 +4450,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "221": {
             "phyrexian": "ǆko'χ",
@@ -4247,7 +4468,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "moderate"
         },
         "222": {
             "phyrexian": "huqet",
@@ -4265,7 +4487,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "moderate"
         },
         "223": {
             "phyrexian": "ɮɒ'ɣ",
@@ -4282,7 +4505,8 @@
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "likely"
         },
         "224": {
             "phyrexian": "oparxχ",
@@ -4298,7 +4522,8 @@
             "class": "noun,verb",
             "native": true,
             "notes": null,
-            "type": "unclear"
+            "type": "unclear",
+            "confidence": "likely"
         },
         "225": {
             "phyrexian": "raφoj",
@@ -4314,7 +4539,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "226": {
             "phyrexian": "dlabz",
@@ -4333,7 +4559,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "227": {
             "phyrexian": "təmn",
@@ -4350,7 +4577,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "228": {
             "phyrexian": "ǩytπt",
@@ -4368,7 +4596,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "likely"
         },
         "229": {
             "phyrexian": "tunm",
@@ -4388,7 +4617,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "230": {
             "phyrexian": "kyžn",
@@ -4405,7 +4635,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "231": {
             "phyrexian": "vešt",
@@ -4422,7 +4653,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "232": {
             "phyrexian": "kašpl",
@@ -4440,7 +4672,8 @@
             "class": "adjective",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "likely"
         },
         "233": {
             "phyrexian": "solm",
@@ -4455,7 +4688,8 @@
             "class": "verb",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "likely"
         },
         "234": {
             "phyrexian": "φarθ",
@@ -4472,7 +4706,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "moderate"
         },
         "235": {
             "phyrexian": "'əkš",
@@ -4489,7 +4724,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "solid"
         },
         "236": {
             "phyrexian": "koqšqle't",
@@ -4504,7 +4740,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "composite"
+            "type": "composite",
+            "confidence": "solid"
         },
         "237": {
             "phyrexian": "grjəťrk",
@@ -4521,7 +4758,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "likely"
         },
         "238": {
             "phyrexian": "tǆyφt",
@@ -4538,7 +4776,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "likely"
         },
         "239": {
             "phyrexian": "twøφt",
@@ -4555,7 +4794,8 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "root"
+            "type": "root",
+            "confidence": "likely"
         }
     },
     "samples": {

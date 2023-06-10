@@ -44,6 +44,16 @@ body {
     font-family: Phyrexian Regular;
 }
 
+.entries-samples{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+}
+
+.entries-samples h3{
+    text-align: center;
+}
+
 .entry-phy{
     align-self: center;
 }

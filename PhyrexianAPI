@@ -7,7 +7,9 @@
             "translation": "Ajani",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "DMU_Ajani"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -20,7 +22,9 @@
             "translation": "Avaricta",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Agent"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -33,7 +37,10 @@
             "translation": "Elesh",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "ONE_Norn"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -46,7 +53,12 @@
             "translation": "Gitaxias",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "NPH_Jin",
+                "NEO_Jin",
+                "NPH_Agent"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -59,7 +71,9 @@
             "translation": "Jace",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Jace"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -72,7 +86,10 @@
             "translation": "Jin",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "NEO_Jin"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -85,7 +102,9 @@
             "translation": "K'rrik",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "C19_Krrik"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -98,7 +117,9 @@
             "translation": "Lukka",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Lukka"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -111,7 +132,9 @@
             "translation": "Nahiri",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -124,7 +147,9 @@
             "translation": "Nissa",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Nissa"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -137,7 +162,11 @@
             "translation": "Norn",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "ONE_Norn",
+                "NPH_Annex"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -153,11 +182,19 @@
                 "θəɢð"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "PhrxScriptures",
+                "MTGA",
+                "BeadleGrimms",
+                "ONE_Live",
+                "ONE_Trailer",
+                "ONE_Solphim",
+                "MOM_Teaser"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "name"
+            "type": "composite"
         },
         "12": {
             "phyrexian": "šøldrd",
@@ -166,7 +203,11 @@
             "translation": "Sheoldred",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Sheo",
+                "Swamp_Lore",
+                "DMU_Sheo"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -179,7 +220,11 @@
             "translation": "Urabrask",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura",
+                "SNC_Ura",
+                "NPH_Agent"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -192,7 +237,10 @@
             "translation": "Vorinclex",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Vorn",
+                "KHM_Vorin"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -205,7 +253,9 @@
             "translation": "Vraska",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Vraska"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -218,7 +268,9 @@
             "translation": "Tamiyo",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -231,7 +283,11 @@
             "translation": "Yawgmoth",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "PhrxScriptures",
+                "MTGA",
+                "C19_Krrik"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -244,7 +300,14 @@
             "translation": "Basic",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Promo_Swamp",
+                "ONE_Plains",
+                "ONE_Island",
+                "ONE_Swamp",
+                "ONE_Mountain",
+                "ONE_Forest"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -259,7 +322,27 @@
                 "ʁajg"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "NPH_Ura",
+                "NPH_Jin",
+                "NPH_Sheo",
+                "NPH_Vorn",
+                "KHM_Vorin",
+                "NEO_Jin",
+                "NEO_Tami",
+                "SNC_Ura",
+                "DMU_Sheo",
+                "DMU_Ajani",
+                "ONE_Norn",
+                "C19_Krrik",
+                "NPH_Annex",
+                "ONE_Jace",
+                "ONE_Vraska",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "ONE_Nahiri"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -274,7 +357,16 @@
                 "qxuna'k"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Jin",
+                "NEO_Tami",
+                "MBS_PsyCrawl",
+                "NPH_Batterskull",
+                "NPH_InkNexus",
+                "NPH_Annex",
+                "ONE_Vraska",
+                "ONE_Nissa"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -289,7 +381,35 @@
                 "φe'x"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "NPH_Ura",
+                "NPH_Jin",
+                "NPH_Sheo",
+                "NPH_Vorn",
+                "KHM_Vorin",
+                "NEO_Jin",
+                "NEO_Tami",
+                "Swamp_Lore",
+                "SNC_Ura",
+                "DMU_Sheo",
+                "DMU_Ajani",
+                "NPH_Dismember",
+                "MBS_PsyCrawl",
+                "ONE_Norn",
+                "NPH_Agent",
+                "NPH_Elf",
+                "NPH_Batterskull",
+                "NPH_InkNexus",
+                "C19_Krrik",
+                "NPH_Annex",
+                "ONE_Jace",
+                "ONE_Vraska",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "ONE_Nahiri",
+                "ONE_Trailer"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -304,7 +424,9 @@
                 "myθž"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_PhrxArena"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -320,7 +442,12 @@
                 "ʁums"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "NEO_Jin",
+                "NPH_Dismember",
+                "NPH_Misstep"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -336,7 +463,10 @@
                 "ʁums"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Jin",
+                "Yawg_Test"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -351,7 +481,23 @@
                 "θəɢð"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Vorn",
+                "PhrxScriptures",
+                "Promo_Swamp",
+                "MTGA",
+                "ONE_Plains",
+                "ONE_Island",
+                "ONE_Swamp",
+                "ONE_Mountain",
+                "ONE_Forest",
+                "BeadleGrimms",
+                "ONE_Live",
+                "NPH_InkNexus",
+                "ONE_Trailer",
+                "ONE_Solphim",
+                "MOM_Teaser"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -366,7 +512,15 @@
                 "ment"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami",
+                "DMU_Ajani",
+                "NPH_Annex",
+                "ONE_Jace",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -381,7 +535,9 @@
                 "'ičql"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Plains"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -396,7 +552,9 @@
                 "θəɢð"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Island"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -411,7 +569,12 @@
                 "qaškm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Sheo",
+                "Promo_Swamp",
+                "Swamp_Lore",
+                "ONE_Swamp"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -426,7 +589,9 @@
                 "ktakx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Mountain"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -441,7 +606,10 @@
                 "'oɢθəsð"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Forest",
+                "ONE_Nissa"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -456,7 +624,9 @@
                 "pe'k"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Lukka"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -472,7 +642,9 @@
                 "ǆfyll"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_InkNexus"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -487,7 +659,9 @@
                 "jalf"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Elf"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -502,20 +676,26 @@
                 "qipmt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Batterskull"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
             "type": "root"
         },
         "36": {
-            "phyrexian": "šχʁɒčχ",
-            "IPA": "ʃχʁɒtʃχ",
-            "plural": "šχʁɒɒčχ",
+            "phyrexian": "šχʁɒčx",
+            "IPA": "ʃχʁɒtʃx",
+            "plural": "šχʁɒɒčx",
             "translation": "Horror",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_PsyCrawl",
+                "C19_Krrik",
+                "ONE_Nissa"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -530,7 +710,9 @@
                 "'ønəķ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Agent"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -545,7 +727,9 @@
                 "qoq'"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "C19_Krrik"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -560,7 +744,38 @@
                 "φyrx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "NPH_Ura",
+                "NPH_Jin",
+                "NPH_Sheo",
+                "NPH_Vorn",
+                "KHM_Vorin",
+                "NEO_Jin",
+                "PhrxScriptures",
+                "MBS_Trailer",
+                "NPH_Trailer",
+                "SLair_Praetors",
+                "SLairF_Praetors",
+                "MTGSalvation",
+                "SNC_Ura",
+                "DMU_Sheo",
+                "MBS_PsyCrawl",
+                "MTGA",
+                "ONE_Norn",
+                "BeadleGrimms",
+                "ONE_Live",
+                "NPH_Agent",
+                "NPH_Elf",
+                "NPH_InkNexus",
+                "C19_Krrik",
+                "ONE_PhrxArena",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "ONE_Trailer",
+                "ONE_Solphim",
+                "MOM_Teaser"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -575,7 +790,20 @@
                 "pxajtr"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "NPH_Ura",
+                "NPH_Jin",
+                "NPH_Sheo",
+                "NPH_Vorn",
+                "KHM_Vorin",
+                "NEO_Jin",
+                "SLair_Praetors",
+                "SLairF_Praetors",
+                "SNC_Ura",
+                "DMU_Sheo",
+                "ONE_Norn"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -591,38 +819,44 @@
                 "zətč"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Agent"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
             "type": "composite"
         },
         "42": {
-            "phyrexian": "ǩliŋš",
-            "IPA": "k'liŋʃ",
-            "plural": "ǩliiŋš",
+            "phyrexian": "ǧliŋš",
+            "IPA": "g'liŋʃ",
+            "plural": "ǧliiŋš",
             "translation": "Treasure",
             "root": [
-                "ǩliŋš"
+                "ǧliŋš"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Vraska"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
             "type": "root"
         },
         "43": {
-            "phyrexian": "naķmtǆyφķ",
-            "IPA": "nakʰmtdʒyɸkʰ",
-            "plural": "naķmtǆyyφķ",
+            "phyrexian": "naķmtǆyφt",
+            "IPA": "nakʰmtdʒyɸt",
+            "plural": "naķmtǆyyφt",
             "translation": "Warrior",
             "root": [
                 "naķm",
-                "tǆyφķ"
+                "tǆyφt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Elf"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -637,7 +871,20 @@
                 "plinexs"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami",
+                "SLair_Praetors",
+                "SLairF_Praetors",
+                "Swamp_Lore",
+                "DMU_Ajani",
+                "Merch",
+                "ONE_Jace",
+                "ONE_Vraska",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "ONE_Nahiri",
+                "Keyboard"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -653,7 +900,9 @@
                 "'əkš"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "DMU_Sheo"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -668,7 +917,9 @@
                 "qiplt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Batterskull"
+            ],
             "class": "verb",
             "native": false,
             "notes": null,
@@ -684,7 +935,9 @@
                 "ʁums"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -699,7 +952,9 @@
                 "tøšq"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_InkNexus"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -715,7 +970,11 @@
                 "vuwk"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura",
+                "KHM_Vorin",
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -730,7 +989,11 @@
                 "ɮəɣð"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Agent",
+                "NPH_Elf",
+                "NPH_InkNexus"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -746,7 +1009,10 @@
                 "raφj"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Batterskull",
+                "C19_Krrik"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -762,7 +1028,9 @@
                 "lexq"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Vraska"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -778,7 +1046,9 @@
                 "ment"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Sheo"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -793,7 +1063,10 @@
                 "pan'g"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Vorn",
+                "KHM_Vorin"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -808,7 +1081,9 @@
                 "ɬaʁq"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Lukka"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -823,7 +1098,12 @@
                 "rukm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "DMU_Ajani",
+                "ONE_Norn",
+                "NPH_Batterskull"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -839,23 +1119,29 @@
                 "θəxt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura",
+                "NPH_Sheo",
+                "ONE_Norn"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
             "type": "composite"
         },
         "58": {
-            "phyrexian": "čxəťu'θəxt",
-            "IPA": "tʃxət'uʔθəxt",
-            "plural": "čxəťu'θəəxt",
+            "phyrexian": "čxət'θəxt",
+            "IPA": "tʃxətʔθəxt",
+            "plural": "čxət'θəəxt",
             "translation": "Exile (zone)",
             "root": [
-                "čxəť'",
+                "čxət'",
                 "θəxt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Yawg_Test"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -871,7 +1157,13 @@
                 "θəxt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Sheo",
+                "NEO_Tami",
+                "Yawg_Test",
+                "ONE_Jace",
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -886,7 +1178,10 @@
                 "naql"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "NPH_Batterskull"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -902,7 +1197,11 @@
                 "θəxt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Yawg_Test",
+                "SNC_Ura",
+                "DMU_Ajani"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -917,7 +1216,20 @@
                 "θəxt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura",
+                "NPH_Jin",
+                "NPH_Sheo",
+                "NEO_Tami",
+                "Yawg_Test",
+                "SNC_Ura",
+                "DMU_Ajani",
+                "ONE_Norn",
+                "ONE_PhrxArena",
+                "ONE_Jace",
+                "ONE_Nissa",
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -933,7 +1245,10 @@
                 "qpenč"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Sheo",
+                "SNC_Ura"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -948,7 +1263,14 @@
                 "twøǩx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura",
+                "NPH_Sheo",
+                "ONE_Norn",
+                "ONE_Nahiri",
+                "ONE_Panel",
+                "MOM_Teaser"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -964,7 +1286,9 @@
                 "qpenč"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -979,7 +1303,14 @@
                 "qpenč"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "NPH_Sheo",
+                "NPH_Vorn",
+                "NEO_Tami",
+                "SNC_Ura",
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -994,7 +1325,18 @@
                 "ronɣ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Jin",
+                "Yawg_Test",
+                "SNC_Ura",
+                "DMU_Ajani",
+                "NPH_Dismember",
+                "NPH_InkNexus",
+                "ONE_Jace",
+                "ONE_Nissa",
+                "ONE_Nahiri",
+                "ONE_Panel"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1009,7 +1351,9 @@
                 "faxt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "C19_Krrik"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -1024,7 +1368,10 @@
                 "ɮiww"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Lukka",
+                "ONE_Nissa"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -1039,22 +1386,28 @@
                 "ɣwi't"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Norn",
+                "ONE_Vraska",
+                "ONE_Lukka"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
             "type": "root"
         },
         "71": {
-            "phyrexian": "ɢʁičtx",
-            "IPA": "ɢʁitʃtx",
+            "phyrexian": "gʁičtx",
+            "IPA": "gʁitʃtx",
             "plural": false,
             "translation": "Attack",
             "root": [
-                "ɢʁičtx"
+                "gʁičtx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Nahiri"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1069,7 +1422,9 @@
                 "kfɒ'ǧ'"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Panel"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1084,7 +1439,21 @@
                 "ɢwinš"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "NPH_Sheo",
+                "NEO_Tami",
+                "SLair_Praetors",
+                "SLairF_Praetors",
+                "SNC_Ura",
+                "DMU_Sheo",
+                "DMU_Ajani",
+                "MBS_PsyCrawl",
+                "ONE_PhrxArena",
+                "ONE_Jace",
+                "ONE_Vraska",
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1099,7 +1468,15 @@
                 "ʁums"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "NEO_Jin",
+                "NEO_Tami",
+                "Yawg_Test",
+                "NPH_Dismember",
+                "C19_Krrik",
+                "NPH_Misstep"
+            ],
             "class": "noun,verb",
             "native": true,
             "notes": null,
@@ -1112,7 +1489,10 @@
             "translation": "Color",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami",
+                "ONE_Vraska"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1127,7 +1507,16 @@
                 "qxuπl"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "NPH_Ura",
+                "NPH_Vorn",
+                "NEO_Tami",
+                "NPH_Annex",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "Keyboard"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1142,7 +1531,12 @@
                 "tluxt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Jin",
+                "NEO_Tami",
+                "ONE_Norn",
+                "ONE_Nahiri"
+            ],
             "class": "noun,verb",
             "native": true,
             "notes": null,
@@ -1157,7 +1551,13 @@
                 "χanj"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami",
+                "ONE_Article",
+                "C19_Krrik",
+                "ONE_Nahiri",
+                "NPH_Misstep"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1172,22 +1572,28 @@
                 "šuqn"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Jin"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
             "type": "root"
         },
         "80": {
-            "phyrexian": "juvẅķ",
-            "IPA": "juvɯkʰ",
-            "plural": "juuvẅķ",
+            "phyrexian": "juχẅķ",
+            "IPA": "juχɯkʰ",
+            "plural": "juuχẅķ",
             "translation": "Counter (marker)",
             "root": [
-                "juvẅķ"
+                "juχẅķ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "KHM_Vorin",
+                "DMU_Ajani",
+                "C19_Krrik"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1202,7 +1608,14 @@
                 "naǩm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Jin",
+                "NEO_Tami",
+                "DMU_Ajani",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "ONE_Nahiri"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1217,7 +1630,9 @@
                 "ðpačk"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Lukka"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1232,22 +1647,27 @@
                 "qab'"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_PhrxArena",
+                "ONE_Nissa"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
             "type": "root"
         },
         "84": {
-            "phyrexian": "šteǩʁ",
-            "IPA": "ʃtek'ʁ",
+            "phyrexian": "šteǧʁ",
+            "IPA": "ʃteg'ʁ",
             "plural": false,
             "translation": "Discard",
             "root": [
-                "šteǩʁ"
+                "šteǧʁ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Nahiri"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1262,7 +1682,16 @@
                 "mprasw"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami",
+                "SNC_Ura",
+                "DMU_Sheo",
+                "MBS_PsyCrawl",
+                "ONE_PhrxArena",
+                "ONE_Jace",
+                "ONE_Vraska",
+                "ONE_Nahiri"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1277,7 +1706,9 @@
                 "čkalakm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "DMU_Ajani"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1292,7 +1723,12 @@
                 "čxət'"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami",
+                "Yawg_Test",
+                "SNC_Ura",
+                "ONE_Nahiri"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1307,7 +1743,10 @@
                 "φ'kitv"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "SLairF_Praetors",
+                "NPH_Elf"
+            ],
             "class": "adjective, noun",
             "native": true,
             "notes": null,
@@ -1323,7 +1762,10 @@
                 "keɴt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Nissa",
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1338,7 +1780,12 @@
                 "ma'n"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Vorn",
+                "NPH_Trailer",
+                "ONE_Vraska",
+                "ONE_Lukka"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -1353,7 +1800,9 @@
                 "ẅəpk"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Jace"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1368,7 +1817,19 @@
                 "nɒqč"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "NPH_Ura",
+                "NPH_Jin",
+                "NPH_Sheo",
+                "NPH_Vorn",
+                "KHM_Vorin",
+                "NEO_Jin",
+                "SNC_Ura",
+                "DMU_Sheo",
+                "DMU_Ajani",
+                "MBS_PsyCrawl"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1384,7 +1845,9 @@
                 "φe'x"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Batterskull"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1397,7 +1860,10 @@
             "translation": "Pay",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Ads",
+                "C19_Krrik"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1412,7 +1878,11 @@
                 "'ast"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "KHM_Vorin",
+                "NEO_Tami",
+                "ONE_Norn"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1427,7 +1897,13 @@
                 "buǩð"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Jin",
+                "Yawg_Test",
+                "SNC_Ura",
+                "DMU_Ajani",
+                "C19_Krrik"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1442,7 +1918,22 @@
                 "nɒqč"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "NPH_Ura",
+                "NPH_Jin",
+                "NPH_Sheo",
+                "NPH_Vorn",
+                "KHM_Vorin",
+                "NEO_Jin",
+                "SNC_Ura",
+                "DMU_Sheo",
+                "DMU_Ajani",
+                "MBS_PsyCrawl",
+                "ONE_Jace",
+                "ONE_Vraska",
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1455,7 +1946,10 @@
             "translation": "Poison",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "DMU_Ajani",
+                "ONE_Vraska"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1470,7 +1964,10 @@
                 "nu'f"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_PsyCrawl",
+                "ONE_Lukka"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1485,7 +1982,9 @@
                 "krepg"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_Trailer"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1498,7 +1997,10 @@
             "translation": "Sacrifice",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Sheo",
+                "ONE_Vraska"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1513,7 +2015,11 @@
                 "ɣypm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura",
+                "NPH_Vorn",
+                "NEO_Tami"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1528,7 +2034,19 @@
                 "žyxt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Sheo",
+                "NEO_Jin",
+                "NEO_Tami",
+                "DMU_Ajani",
+                "NPH_Dismember",
+                "ONE_Jace",
+                "ONE_Vraska",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "ONE_Nahiri",
+                "NPH_Misstep"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1541,7 +2059,12 @@
             "translation": "Token",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1556,7 +2079,9 @@
                 "ǩažð"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Norn"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1571,7 +2096,9 @@
                 "πøkk"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Vraska"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1586,7 +2113,13 @@
                 "asərθ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami",
+                "MBS_PsyCrawl",
+                "ONE_Lukka",
+                "ONE_Nahiri",
+                "NPH_Misstep"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1601,7 +2134,27 @@
                 "'ii"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "NPH_Sheo",
+                "NEO_Jin",
+                "NEO_Tami",
+                "PhrxScriptures",
+                "MBS_Trailer",
+                "SNC_Ura",
+                "DMU_Ajani",
+                "Merch",
+                "ONE_Forest",
+                "ONE_Article",
+                "ONE_PhrxArena",
+                "ONE_Jace",
+                "ONE_Vraska",
+                "ONE_Lukka",
+                "ONE_Nahiri",
+                "ONE_Trailer",
+                "NPH_Misstep",
+                "MOM_Teaser"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1616,7 +2169,12 @@
                 "ķu"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "KHM_Vorin",
+                "DMU_Ajani",
+                "BeadleGrimms",
+                "ONE_Trailer"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1631,7 +2189,12 @@
                 "ķi"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura",
+                "DMU_Ajani",
+                "ONE_Jace",
+                "Keyboard"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1647,7 +2210,9 @@
                 "s'ər"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "KHM_Vorin"
+            ],
             "class": "adverb",
             "native": true,
             "notes": null,
@@ -1663,7 +2228,9 @@
                 "s'ər"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "KHM_Vorin"
+            ],
             "class": "adverb",
             "native": true,
             "notes": null,
@@ -1678,7 +2245,9 @@
                 "vižǥ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Ads"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1691,7 +2260,9 @@
             "translation": "Activate",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Lukka"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1706,7 +2277,11 @@
                 "babg"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Vorn",
+                "ONE_Vraska",
+                "ONE_Lukka"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1721,7 +2296,10 @@
                 "ganwr"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "DMU_Ajani",
+                "NPH_Agent"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1737,7 +2315,9 @@
                 "nsa'q"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Nissa"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1750,7 +2330,9 @@
             "translation": "Annex",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Annex"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1765,7 +2347,9 @@
                 "ťamg"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "DMU_Sheo"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1781,7 +2365,10 @@
                 "θəxt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_PhrxArena",
+                "ONE_Nissa"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1796,7 +2383,9 @@
                 "menθ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Nissa"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -1811,7 +2400,9 @@
                 "'ətsxn"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Elf"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1826,7 +2417,15 @@
                 "'ii"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "NPH_Sheo",
+                "PhrxScriptures",
+                "MBS_Trailer",
+                "SNC_Ura",
+                "ONE_PhrxArena",
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1841,7 +2440,11 @@
                 "χten"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Plains",
+                "BeadleGrimms",
+                "ONE_Solphim"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1856,7 +2459,9 @@
                 "πnokx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Vraska"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1869,7 +2474,9 @@
             "translation": "Blighted",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Agent"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -1884,7 +2491,12 @@
                 "tekt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami",
+                "Yawg_Test",
+                "SNC_Ura",
+                "DMU_Ajani"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -1897,7 +2509,10 @@
             "translation": "Bottom",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Yawg_Test",
+                "DMU_Ajani"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -1912,7 +2527,10 @@
                 "keɴyt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Nissa",
+                "ONE_Nahiri"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -1927,7 +2545,11 @@
                 "pən'g"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_Trailer",
+                "Merch",
+                "ONE_Nissa"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1940,7 +2562,19 @@
             "translation": "By",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "NEO_Tami",
+                "DMU_Sheo",
+                "MBS_PsyCrawl",
+                "ONE_PhrxArena",
+                "ONE_Jace",
+                "ONE_Vraska",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "ONE_Nahiri",
+                "NPH_Misstep"
+            ],
             "class": "preposition",
             "native": true,
             "notes": null,
@@ -1955,7 +2589,9 @@
                 "ǆønobt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -1968,7 +2604,9 @@
             "translation": "Choose",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Jin"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1981,7 +2619,12 @@
             "translation": "Cleanse",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Merch",
+                "BRO_BoneSaw",
+                "ONE_Trailer",
+                "ONE_Solphim"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -1996,7 +2639,14 @@
                 "twøǩx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura",
+                "NPH_Sheo",
+                "ONE_Norn",
+                "ONE_Nahiri",
+                "ONE_Panel",
+                "MOM_Teaser"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2011,7 +2661,10 @@
                 "močq"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura",
+                "NPH_Trailer"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2026,7 +2679,9 @@
                 "naķm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Trailer"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -2041,7 +2696,9 @@
                 "bwedn"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_PsyCrawl"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2056,20 +2713,30 @@
                 "θuqx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Sheo",
+                "NEO_Tami",
+                "Yawg_Test",
+                "MBS_Trailer",
+                "DMU_Sheo",
+                "ONE_Jace",
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
             "type": "root"
         },
         "140": {
-            "phyrexian": "čəxtefa'qsemr",
-            "IPA": "tʃəxtefaʔqsemr",
+            "phyrexian": "čəxkefa'qsemr",
+            "IPA": "tʃəxkefaʔqsemr",
             "plural": false,
             "translation": "Dismember",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Dismember"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2082,7 +2749,9 @@
             "translation": "Distribute",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "DMU_Ajani"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2097,7 +2766,13 @@
                 "aχəw'"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_PsyCrawl",
+                "C19_Krrik",
+                "NPH_Annex",
+                "ONE_Nissa",
+                "ONE_Nahiri"
+            ],
             "class": "adverb",
             "native": true,
             "notes": null,
@@ -2112,7 +2787,9 @@
                 "xɬiwj"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Ads"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -2125,7 +2802,11 @@
             "translation": "Embrace",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Article",
+                "BeadleGrimms",
+                "ONE_Trailer"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2138,7 +2819,12 @@
             "translation": "Equal",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Island",
+                "ONE_Jace",
+                "ONE_Lukka",
+                "ONE_Nissa"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2153,7 +2839,10 @@
                 "ɢiss"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "PhrxScriptures",
+                "ONE_Forest"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2168,7 +2857,10 @@
                 "ķoɮǩm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Article",
+                "ONE_Trailer"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2183,7 +2875,16 @@
                 "zikl"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura",
+                "NPH_Jin",
+                "KHM_Vorin",
+                "NEO_Jin",
+                "SNC_Ura",
+                "NPH_Dismember",
+                "ONE_Nahiri",
+                "NPH_Misstep"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -2198,23 +2899,31 @@
                 "mo'θ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Yawg_Test",
+                "PhrxScriptures",
+                "NPH_Trailer",
+                "Dark_Discov",
+                "MTGA",
+                "ONE_Article",
+                "C19_Krrik"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
             "type": "root"
         },
         "150": {
-            "phyrexian": "jɒɒ'gmo'yθ",
+            "phyrexian": "jɒ'gmo'yθ",
             "IPA": "jɒʔgmoʔyθ",
-            "plural": "jɒɒ'gmoo'yθ",
+            "plural": "jɒ'gmoo'yθ",
             "translation": "Father of Machines",
             "root": [
                 "jɒ'g",
                 "mo'θ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2229,7 +2938,10 @@
                 "xwixč"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_Trailer",
+                "ONE_Swamp"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2245,7 +2957,9 @@
                 "ɮaθǩv"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "BeadleGrimms"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2260,7 +2974,9 @@
                 "bɬølπ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Elf"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2275,7 +2991,9 @@
                 "ɣɒzɢ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_Trailer"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2290,7 +3008,12 @@
                 "pyrx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_Trailer",
+                "ONE_Live",
+                "ONE_Trailer",
+                "ONE_Solphim"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2305,7 +3028,20 @@
                 "tapq"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "NPH_Ura",
+                "NEO_Tami",
+                "DMU_Ajani",
+                "NPH_Dismember",
+                "NPH_Batterskull",
+                "NPH_InkNexus",
+                "ONE_Jace",
+                "ONE_Vraska",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "ONE_Nahiri"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2320,7 +3056,12 @@
                 "ɢytx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "NPH_Jin",
+                "NEO_Jin",
+                "NPH_Agent"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2335,7 +3076,10 @@
                 "φ'kitv"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "SLairF_Praetors",
+                "NPH_Elf"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2350,7 +3094,10 @@
                 "'ɒjbť"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MTGA",
+                "NPH_Elf"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2366,7 +3113,9 @@
                 "θəxt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2381,7 +3130,14 @@
                 "šχa'θ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "PhrxScriptures",
+                "MBS_Trailer",
+                "NPH_Trailer",
+                "ONE_Mountain",
+                "ONE_Article"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -2394,7 +3150,9 @@
             "translation": "Heretic",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "SNC_Ura"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2407,7 +3165,9 @@
             "translation": "Hidden",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -2422,7 +3182,9 @@
                 "gagg"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Vorn"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2437,7 +3199,9 @@
                 "θuqx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_Trailer"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2452,7 +3216,12 @@
                 "tunm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Merch",
+                "BRO_BoneSaw",
+                "ONE_Trailer",
+                "ONE_Solphim"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2467,7 +3236,10 @@
                 "mɒɣg"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Vraska",
+                "ONE_Nahiri"
+            ],
             "class": null,
             "native": true,
             "notes": null,
@@ -2482,7 +3254,12 @@
                 "nsa'q"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Elf",
+                "NPH_Batterskull",
+                "C19_Krrik",
+                "ONE_Nissa"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2497,7 +3274,16 @@
                 "jɒ'g"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Yawg_Test",
+                "PhrxScriptures",
+                "NPH_Trailer",
+                "MTGA",
+                "ONE_Norn",
+                "ONE_Plains",
+                "ONE_Article",
+                "C19_Krrik"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2512,7 +3298,31 @@
                 "naķm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "NPH_Sheo",
+                "NPH_Vorn",
+                "NEO_Jin",
+                "NEO_Tami",
+                "PhrxScriptures",
+                "MBS_Trailer",
+                "NPH_Trailer",
+                "Swamp_Lore",
+                "Merch",
+                "MTGA",
+                "ONE_Jace_Art",
+                "ONE_Island",
+                "ONE_Mountain",
+                "BeadleGrimms",
+                "ONE_Live",
+                "NPH_Elf",
+                "NPH_Batterskull",
+                "ONE_Jace",
+                "ONE_Nissa",
+                "ONE_Nahiri",
+                "ONE_Trailer",
+                "ONE_Solphim"
+            ],
             "class": "noun,verb",
             "native": true,
             "notes": null,
@@ -2525,7 +3335,12 @@
             "translation": "Mind",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Trailer",
+                "ONE_Jace",
+                "NPH_Misstep",
+                "ONE_Panel"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2540,7 +3355,12 @@
                 "mrodn"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura",
+                "NPH_Trailer",
+                "Swamp_Lore",
+                "MTGA"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -2555,38 +3375,50 @@
                 "korx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami",
+                "DMU_Ajani",
+                "ONE_Jace",
+                "ONE_Nahiri"
+            ],
             "class": null,
             "native": true,
             "notes": null,
             "type": "composite"
         },
         "174": {
-            "phyrexian": "zɒðʁ",
-            "IPA": "zɒðʁ",
-            "plural": "zɒɒðʁ",
+            "phyrexian": "žɒðʁ",
+            "IPA": "ʒɒðʁ",
+            "plural": "žɒɒðʁ",
             "translation": "Mother",
             "root": [
-                "zɒðʁ"
+                "žɒðʁ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Norn",
+                "ONE_Plains",
+                "ONE_Article"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
             "type": "root"
         },
         "175": {
-            "phyrexian": "jɒ'gzɒðʁ",
-            "IPA": "jɒʔgzɒðʁ",
-            "plural": "jɒ'gzɒɒðʁ",
+            "phyrexian": "jɒ'gžɒðʁ",
+            "IPA": "jɒʔgʒɒðʁ",
+            "plural": "jɒ'gžɒɒðʁ",
             "translation": "Mother of Machines (title)",
             "root": [
                 "jɒ'g",
-                "zɒðʁ"
+                "žɒðʁ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Norn",
+                "ONE_Article"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2601,7 +3433,10 @@
                 "vuw'k"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "SNC_Ura",
+                "DMU_Ajani"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2614,22 +3449,30 @@
             "translation": "Moth",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_InkNexus"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
             "type": "unclear"
         },
         "178": {
-            "phyrexian": "ɢnaɢɮ",
-            "IPA": "ɢnaɢɮ",
+            "phyrexian": "ɢnagɮ",
+            "IPA": "ɢnagɮ",
             "plural": false,
             "translation": "Next",
             "root": [
-                "ɢnaɢɮ"
+                "ɢnagɮ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Vorn",
+                "NEO_Tami",
+                "SNC_Ura",
+                "ONE_Jace",
+                "ONE_Nahiri"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -2642,7 +3485,12 @@
             "translation": "New",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Jin",
+                "NPH_Trailer",
+                "BeadleGrimms",
+                "ONE_Solphim"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -2657,7 +3505,9 @@
                 "'əqd"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_InkNexus"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2672,7 +3522,9 @@
                 "rukx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2688,7 +3540,9 @@
                 "tekt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2701,7 +3555,9 @@
             "translation": "Offer",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_Trailer"
+            ],
             "class": "noun,verb",
             "native": true,
             "notes": null,
@@ -2716,7 +3572,10 @@
                 "sall"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "ONE_Vraska"
+            ],
             "class": null,
             "native": true,
             "notes": null,
@@ -2731,7 +3590,20 @@
                 "naķm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "PhrxScriptures",
+                "Merch",
+                "MTGA",
+                "ONE_Jace_Art",
+                "ONE_Island",
+                "BeadleGrimms",
+                "ONE_Live",
+                "NPH_Elf",
+                "ONE_Jace",
+                "ONE_Trailer",
+                "ONE_Solphim"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2746,7 +3618,9 @@
                 "qpenč"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2759,7 +3633,9 @@
             "translation": "Produce",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Vorn"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2772,7 +3648,9 @@
             "translation": "Psychosis",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_PsyCrawl"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2787,7 +3665,11 @@
                 "ţə''"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "KHM_Vorin",
+                "MTGA",
+                "C19_Krrik"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2802,7 +3684,12 @@
                 "mɒɣg"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "NEO_Tami",
+                "ONE_Vraska",
+                "ONE_Nahiri"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2815,7 +3702,10 @@
             "translation": "Resistence",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura",
+                "Swamp_Lore"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2828,22 +3718,26 @@
             "translation": "Return",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Batterskull"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
             "type": "composite"
         },
         "193": {
-            "phyrexian": "hfwežp",
-            "IPA": "hfweʒp",
-            "plural": "hfweežp",
+            "phyrexian": "hfwežφ",
+            "IPA": "hfweʒɸ",
+            "plural": "hfweežφ",
             "translation": "Ruin",
             "root": [
-                "hfwežp"
+                "hfwežφ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Lukka"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2858,7 +3752,9 @@
                 "føvɣ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Tami"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2873,7 +3769,9 @@
                 "ɮportt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Agent"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2888,7 +3786,15 @@
                 "rukm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "NPH_Jin",
+                "PhrxScriptures",
+                "Swamp_Lore",
+                "DMU_Ajani",
+                "ONE_Norn",
+                "NPH_Batterskull"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2903,7 +3809,10 @@
                 "txš"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "PhrxAltar",
+                "MBS_Trailer"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2918,7 +3827,9 @@
                 "'i'l"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "C19_Krrik"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2933,7 +3844,11 @@
                 "θwiχš"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Swamp",
+                "ONE_Live",
+                "ONE_Solphim"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2948,7 +3863,9 @@
                 "hisp"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Lukka"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2963,7 +3880,9 @@
                 "pan'g"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Trailer"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -2978,7 +3897,9 @@
                 "'af'"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Vraska"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -2993,7 +3914,10 @@
                 "lups"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "NPH_Agent"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -3008,7 +3932,9 @@
                 "zťøsǆ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "BeadleGrimms"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -3023,7 +3949,13 @@
                 "sča'θ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Merch",
+                "ONE_Jace_Art",
+                "BeadleGrimms",
+                "ONE_Trailer",
+                "ONE_Solphim"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -3038,7 +3970,7 @@
                 "rukm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3053,7 +3985,9 @@
                 "wtultm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Agent"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -3066,7 +4000,9 @@
             "translation": "Testament",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Yawg_Test"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3081,7 +4017,9 @@
                 "tøwp"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Jace"
+            ],
             "class": null,
             "native": true,
             "notes": null,
@@ -3096,7 +4034,9 @@
                 "ŋyqχ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Nahiri"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3109,7 +4049,14 @@
             "translation": "Until",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Yawg_Test",
+                "SNC_Ura",
+                "DMU_Ajani",
+                "NPH_Dismember",
+                "NPH_InkNexus",
+                "ONE_Nissa"
+            ],
             "class": null,
             "native": true,
             "notes": null,
@@ -3124,7 +4071,10 @@
                 "xutšv"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Vorn",
+                "MBS_Trailer"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3137,7 +4087,9 @@
             "translation": "Void",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "PhrxScriptures"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3152,7 +4104,17 @@
                 "ment"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Sheo",
+                "NEO_Tami",
+                "DMU_Ajani",
+                "NPH_Annex",
+                "ONE_Jace",
+                "ONE_Vraska",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "ONE_Nahiri"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -3167,7 +4129,11 @@
                 "šdeχd"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Article",
+                "BeadleGrimms",
+                "ONE_Trailer"
+            ],
             "class": "noun,verb",
             "native": true,
             "notes": null,
@@ -3180,7 +4146,12 @@
             "translation": "Whisper",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Norn",
+                "NPH_Sheo",
+                "NPH_Trailer",
+                "Swamp_Lore"
+            ],
             "class": "noun,verb",
             "native": true,
             "notes": null,
@@ -3195,7 +4166,15 @@
                 "θəɢð"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "PhrxScriptures",
+                "MTGA",
+                "BeadleGrimms",
+                "ONE_Live",
+                "ONE_Trailer",
+                "ONE_Solphim",
+                "MOM_Teaser"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3210,7 +4189,10 @@
                 "čkaqq"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Article",
+                "NPH_Batterskull"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3225,7 +4207,9 @@
                 "mɴyrx"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Trailer"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3240,7 +4224,9 @@
                 "χiɢɬ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Ura"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3255,7 +4241,9 @@
                 "ǆko'χ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "DMU_Sheo"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -3270,22 +4258,27 @@
                 "huqet"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "DMU_Sheo",
+                "MBS_PsyCrawl"
+            ],
             "class": "verb",
             "native": true,
             "notes": null,
             "type": "root"
         },
         "223": {
-            "phyrexian": "ɮɒ'θ",
-            "IPA": "ɮɒʔθ",
-            "plural": "ɮɒɒ'θ",
+            "phyrexian": "ɮɒ'ɣ",
+            "IPA": "ɮɒʔɣ",
+            "plural": "ɮɒɒ'ɣ",
             "translation": "Language",
             "root": [
-                "ɮɒ'θ"
+                "ɮɒ'ɣ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MTGSalvation"
+            ],
             "class": "noun",
             "native": false,
             "notes": null,
@@ -3298,7 +4291,10 @@
             "translation": "Limit",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Jin",
+                "ONE_Vraska"
+            ],
             "class": "noun,verb",
             "native": true,
             "notes": null,
@@ -3311,7 +4307,10 @@
             "translation": "Link",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Batterskull",
+                "C19_Krrik"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3326,7 +4325,11 @@
                 "dlabz"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Sheo",
+                "SNC_Ura",
+                "NPH_InkNexus"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3341,7 +4344,9 @@
                 "təmn"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Article"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3356,7 +4361,10 @@
                 "ǩytπt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Jin",
+                "MTGA"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3371,7 +4379,12 @@
                 "tunm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "Merch",
+                "BRO_BoneSaw",
+                "ONE_Trailer",
+                "ONE_Solphim"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -3386,7 +4399,9 @@
                 "kyžn"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Panel"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3401,7 +4416,9 @@
                 "vešt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "DMU_Ajani"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -3416,7 +4433,10 @@
                 "kašpl"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Jin",
+                "Yawg_Test"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -3431,7 +4451,7 @@
                 "solm"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -3446,7 +4466,9 @@
                 "φarθ"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "ONE_Panel"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3461,7 +4483,9 @@
                 "'əkš"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "DMU_Sheo"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3474,7 +4498,9 @@
             "translation": "Toughness",
             "root": null,
             "composition": null,
-            "examples": null,
+            "examples": [
+                "MBS_PsyCrawl"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3489,7 +4515,9 @@
                 "grjəťrk"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NEO_Jin"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3504,7 +4532,9 @@
                 "tǆyφt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Elf"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3519,7 +4549,9 @@
                 "twøφt"
             ],
             "composition": null,
-            "examples": null,
+            "examples": [
+                "NPH_Batterskull"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
@@ -3564,7 +4596,7 @@
             "Regular": "^qaškm.^ɣøπi'tθəɢð qaškm."
         },
         "MBS_Trailer": {
-            "Regular": "^xe-qə-'əpyrxnaķym-xe-jneķom.^xe-xutšav.^qə-'uɮyč-xe-pən'yg-xexə-hπee'x-šək-Nxayep.^xe-θuqx-xwixyč-dlik-ɣwiəxteθuqx-'ug'əχw.^ǩaπa-ɢəkeθəgð-bytptxyš-ɣɒzaɢ.^xe'um-šoprapφyrxkeθygð-natlič-krepyg.^'u-šχa'θnaķm-'iixtfu'eq."
+            "Regular": "^xe-qə-'əpyrxnaķym-xe-jneķom.^xe-xutšav.^qə-'uɮyč-xe-pən'yg-xexə-hπee'x-šək-Nxayep.^xe-θuqx-xwixyč-dlik-ɣwiəxťeθuqx-'ug'əχw.^ǩaπa-ɢəkeθəgð-bytptxyš-ɣɒzaɢ.^xe'um-šoprapφyrxkeθygð-natlič-krepyg.^'u-šχa'θnaķm-'iixtfu'eq."
         },
         "NPH_Trailer": {
             "Regular": "^'u-šoprptφyrxkeθəgð-šχa'θnķym-φlnaķem.^xe-jɒ'g'ə'wgwəww-ma'n-šoprapt'ɴnexyx-ʁilu'ef.^xemrodn-'əbə'yw-φyrx-pltxexyš-əšqmɴyryx.^xe-pxənnn-xeqit-'iǆee't-təɮirt-ʁičpan'eg.^jɒɒ'g-mo'yθ-močeq-ǩaπa.^naķməxφlɢiqoš."
@@ -3594,7 +4626,7 @@
             "Regular": "^'əǆɒnii' veštganwr.^ʁajgnmhupment 'əǆɒnii'.^plinexs.^lo-tektθəx'ut-'iitčɢwinyš-kreπug.^ba-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-ɢzyzšel-vuw'uk-lo-nɒqul.^bu-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-vuw'uk-xwe-tektθəxut-ǩeǆylqitsodrm.^lo-πee'x-xeəxkorxgrķi'ə-žyxut.^lo-ķi-juuχẅķ-kuplɢəπee'x-χɬkevuk.^ɢəπee'x-ɣwipnrukm-žkiɢəronɣ-tapyq.^lo-čkalakm-naǩum.^lo-tapeq-baxuφ-φe'x-ʁajgnmhupmentðə-buǩuð lo-əxnɒqč-žyxut loxə-ķu-ʁiheeɬɬ-θapeq."
         },
         "Ads": {
-            "Regular": "^mǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut."
+            "Regular": "^mǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut.^xɬiwjvižuǥ."
         },
         "Merch": {
             "Regular": "^ǩaπa-š'iimashaǩ.^'u-kulx-pən'yg.^lo-jnaķm-pnsča'eθ.^ǩaπa-əxtuneem-'aliθat.^plinexs.^jnaķm.^'ečel'.^'aliθt."

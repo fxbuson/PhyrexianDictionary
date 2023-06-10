@@ -28,6 +28,8 @@ title: Dictionary Entry
             <p class='phyrexian phy_fonted'></p>
             <p class='phyrexian'></p>
             <p id='breakdown'></p>
+            <p>Notes:</p>
+            <p id='notes'></p>
             <div class="divider"></div>
         </div>
     </div>
@@ -53,6 +55,8 @@ title: Dictionary Entry
     for (var i = 0; i < phy_instances.length; i++) {
         phy_instances[i].innerHTML = data.samples[id].Regular;
     }
+    document.getElementById('english').innerHTML = data.samples[id].English
+    document.getElementById('notes').innerHTML = data.samples[id].Notes
 
     document.title = data.samples[id].Name + ' - Phyrexian Dictionary';
 

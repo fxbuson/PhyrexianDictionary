@@ -20,10 +20,14 @@ title: Dictionary Entry
     </div>
     <div class="content-wrapper">
         <div class="sample-img">
+            <img id='sample'>
         </div>
         <div class="sample-info">
             <div class="divider"></div>
-            <p id="sample"></p>
+            <p id='english'></p>
+            <p id='phyrexian phy_fonted'></p>
+            <p id='phyrexian'></p>
+            <p id='breakdown'></p>
             <div class="divider"></div>
         </div>
     </div>
@@ -43,6 +47,11 @@ title: Dictionary Entry
     const json = `{{ site.data.PhyrexianAPI | jsonify }}`
     const data = JSON.parse(json)
 
-    document.getElementById('sample').innerHTML = data.samples[id].Regular
+    document.getElementById('sample').setAttribute('src', 'images/' + data.samples[id] + '.jpg')
+    
+    var phy_instances = document.getElementsByClassName("phyrexian")
+    for (var i = 0; i < phy_instances.length; i++) {
+        phy_instances[i].innerHTML = data.samples[id].Regular;
+    }
     
 </script>

@@ -92,6 +92,20 @@ body {
     padding-right: 10px;
 }
 
+.hover-img-link{
+    position: relative;
+}
+
+.hover-img-link img{
+    position:absolute;
+    display:none;
+    z-index:99; 
+}
+
+.hover-img-link:hover img{
+    display: block;
+}
+
 .divider{
     width: 100%;
     background-color: black;

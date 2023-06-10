@@ -54,7 +54,19 @@ title: Dictionary Entry
     document.getElementById("native").innerHTML = data.dictionary[id].native;
     document.getElementById("roots").innerHTML = data.dictionary[id].root;
     document.getElementById("composition").innerHTML = data.dictionary[id].composition;
+
+    for (ex in data.dictionary[id].examples){
+        var sample_id = 0
+        for (var i = 0; i < data.samples.length; i++){
+            if (samples[i].Name == ex){
+                sample_id = i
+                break;
+            }
+        }
+        document.getElementById("examples").append("<a class='hover-img-link' href='sample?id="+ sample_id +"'><img src='images/"+ ex +".jpg' height = '100''>"+ ex +"</a>")
+    }
     document.getElementById("examples").innerHTML = data.dictionary[id].examples;
+    
     document.getElementById("notes").innerHTML = data.dictionary[id].notes;
     document.getElementById("type").innerHTML = data.dictionary[id].type;
 

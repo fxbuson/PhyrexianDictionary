@@ -19,10 +19,11 @@ body {
     border-top: 3px;
     position: fixed;
     font-family: Phyrexian Regular;
+    font-size-adjust: 0.3;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 20px;
+    padding: 1vw;
 }
 
 .header a{
@@ -79,6 +80,7 @@ body {
 
 .sample-img img{
     max-height: 300px;
+    max-width: 100%;
 }
 
 .entry-table{

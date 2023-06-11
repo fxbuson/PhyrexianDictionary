@@ -78,7 +78,7 @@ body {
 }
 
 .sample-img img{
-    width:30%;
+    max-height: 300px;
 }
 
 .entry-table{

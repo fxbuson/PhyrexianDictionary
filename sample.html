@@ -8,23 +8,29 @@ title: Dictionary Entry
 </div>
 <div class="sample-info">
     <div class="divider"></div>
+    
     <p id='english'></p>
-    <p class='phyrexian phy_fonted'></p>
-    <p class='phyrexian'></p>
+    <p class='phyrexian phy_fonted' onpointerup="selection_search()"></p>
+    <p class='phyrexian' onpointerup="selection_search()"></p>
     <p id='breakdown'></p>
     <p><b>Notes:</b></p>
     <p id='notes'></p>
+
     <div class="divider"></div>
+    
+    <h4>Query:</h4>
+    <p id="query-region">Select some phyrexian text...</p>
+    <div id="search-results"></div>
 </div>
 <script>
     // Get the current URL
-    var url = new URL(window.location.href);
+    const url = new URL(window.location.href);
     
     // Get the search parameters from the URL
-    var params = new URLSearchParams(url.search);
+    const params = new URLSearchParams(url.search);
     
     // Retrieve a specific variable
-    var id = params.get('id');
+    const id = params.get('id');
 
     const json = `{{ site.data.PhyrexianAPI | jsonify }}`
     const data = JSON.parse(json)
@@ -41,9 +47,36 @@ title: Dictionary Entry
     document.title = data.samples[id].Name + ' - Phyrexian Dictionary';
 
     function change_color(obj, col){
-        items = document.getElementsByClassName(obj.className)
+        var items = document.getElementsByClassName(obj.className)
         for(var index=0;index < items.length;index++){
             items[index].style.color = col;
+        }
+    }
+
+    function unvowel(phy){
+        const vowels = 'aeiouyøɒə';
+        for (v in vowels){
+            phy = phy.replaceAll(vowels[v], '');
+        }
+        return phy;
+    }
+
+    function selection_search(){
+        const query = rangy.getSelection();
+        if (query == ''){
+            document.getElementById('query-region').innerHTML = 'Select some phyrexian text...';
+        }
+        else{
+            document.getElementById('query-region').innerHTML = query;
+        }
+        
+        const unvow_query = unvowel(query);
+        for (idx in data.dictionary){
+            let word = data.dictionary[idx].phyrexian;
+            let unvow_word = unvowel(word)
+            if (unvow_query.includes(unvow_word)){
+                document.getElementById('search-results').innerHTML += '<p><a href="{{site.baseurl}}/entry?id='+ idx +'">'+word+'</a> - '+ data.dictionary[idx].translation +'</p>';
+            }
         }
     }
     

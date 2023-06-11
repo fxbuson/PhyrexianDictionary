@@ -10,9 +10,14 @@ title: Dictionary Entry
     <div class="divider"></div>
     
     <p id='english'></p>
-    <p class='phyrexian phy_fonted' onpointerup="selection_search()"></p>
-    <p class='phyrexian' onpointerup="selection_search()"></p>
+
+    <div id="searchable" onpointerup="selection_search()">
+        <p class='phyrexian phy_fonted' ></p>
+        <p class='phyrexian'></p>
+    </div>
+
     <p id='breakdown'></p>
+
     <p><b>Notes:</b></p>
     <p id='notes'></p>
 
@@ -62,7 +67,7 @@ title: Dictionary Entry
     }
 
     function selection_search(){
-        const query = rangy.getSelection();
+        const query = rangy.getSelection(document.getElementById('searchable')).toString();
         if (query == ''){
             document.getElementById('query-region').innerHTML = 'Select some phyrexian text...';
         }

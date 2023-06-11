@@ -35,7 +35,7 @@ title: Phyrexian Dictionary
             </tr>
             {% for entry in site.data.PhyrexianAPI.dictionary %}
             <tr>
-                <td><a href="entry?id={{entry[0]}}">{{ entry[1].phyrexian }}</a></td>
+                <td><a href="{{site.baseurl}}/entry?id={{entry[0]}}">{{ entry[1].phyrexian }}</a></td>
                 <td>{{ entry[1].translation }}</td>
                 <td>{{ entry[1].type }}</td>
                 <td>{{ entry[1].class }}</td>
@@ -48,7 +48,7 @@ title: Phyrexian Dictionary
         <h3>Samples</h3>
         <ul>
         {% for sample in site.data.PhyrexianAPI.samples %}
-            <li><a href="sample?id={{ sample[0] }}">{{ sample[1].Name }}</a></li>
+            <li><a href="{{site.baseurl}}/sample?id={{ sample[0] }}">{{ sample[1].Name }}</a></li>
         {% endfor %}
         </ul>
     </div>

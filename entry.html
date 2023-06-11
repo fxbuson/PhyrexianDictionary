@@ -58,7 +58,7 @@ title: Dictionary Entry
         document.getElementById("roots").innerHTML += roots[rt]
         for (entry in data.dictionary){
             if (roots[rt] == data.dictionary[entry].phyrexian){
-                document.getElementById("roots").innerHTML = document.getElementById("roots").innerHTML.replace(roots[rt], "<a href='entry?id="+ entry + "' title='"+ data.dictionary[entry].translation +"'>"+ roots[rt] +"</a>")
+                document.getElementById("roots").innerHTML = document.getElementById("roots").innerHTML.replace(roots[rt], "<a href='{{site.baseurl}}/entry?id="+ entry + "' title='"+ data.dictionary[entry].translation +"'>"+ roots[rt] +"</a>")
             }
         }
         if (rt < roots.length - 1){
@@ -75,7 +75,7 @@ title: Dictionary Entry
                 sample_id = smp
             }
         }
-        document.getElementById("examples").innerHTML += "<a class='hover-img-link' href='sample?id="+ sample_id +"'>"+ exs[ex] +"<span><img src='images/"+ exs[ex] +".jpg' height = '200px''></span></a>"
+        document.getElementById("examples").innerHTML += "<a class='hover-img-link' href='{{site.baseurl}}/sample?id="+ sample_id +"'>"+ exs[ex] +"<span><img src='{{site.baseurl}}/images/"+ exs[ex] +".jpg' height = '200px''></span></a>"
         if (ex < exs.length - 1){
             document.getElementById("examples").innerHTML += ', '
         }

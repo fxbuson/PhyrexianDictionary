@@ -58,7 +58,7 @@ title: Dictionary Entry
         document.getElementById("roots").innerHTML += roots[rt]
         for (entry in data.dictionary){
             if (roots[rt] == data.dictionary[entry].phyrexian){
-                document.getElementById("roots").innerHTML = document.getElementById("roots").innerHTML.replace(roots[rt], "<a href='entry?id="+ entry + "'>"+ roots[rt] +"</a>")
+                document.getElementById("roots").innerHTML = document.getElementById("roots").innerHTML.replace(roots[rt], "<a href='entry?id="+ entry + "' title='"+ data.dictionary[entry].translation +"'>"+ roots[rt] +"</a>")
             }
         }
         if (rt < roots.length - 1){

@@ -26,6 +26,9 @@ title: Dictionary Entry
     <h4>Query:</h4>
     <p id="query-region">Select some phyrexian text...</p>
     <div id="search-results"></div>
+
+    <div class="divider"></div>
+    
 </div>
 <script>
     // Get the current URL
@@ -68,6 +71,7 @@ title: Dictionary Entry
 
     function selection_search(){
         const query = rangy.getSelection(document.getElementById('searchable')).toString();
+        document.getElementById('search-results').innerHTML = ''
         if (query == ''){
             document.getElementById('query-region').innerHTML = 'Select some phyrexian text...';
         }

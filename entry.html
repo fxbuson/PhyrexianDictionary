@@ -52,7 +52,21 @@ title: Dictionary Entry
     document.getElementById("ipa").innerHTML = data.dictionary[id].IPA;
     document.getElementById("translation").innerHTML = data.dictionary[id].translation;
     document.getElementById("native").innerHTML = data.dictionary[id].native;
-    document.getElementById("roots").innerHTML = data.dictionary[id].root;
+
+    var roots =  data.dictionary[id].root;
+    for (rt in roots){
+        for (entry in data.dictionary){
+            if (roots[rt] == data.dictionary[entry].phyrexian){
+                document.getElementById("roots").innerHTML += "<a href='entry?id="+ entry + "'>"+ roots[rt] +"</a>"
+            }
+            else{
+                document.getElementById("roots").innerHTML += roots[rt]
+            }
+        if (rt < roots.length - 1){
+            document.getElementById("roots").innerHTML += ', '
+        }
+        }
+    }
     document.getElementById("composition").innerHTML = data.dictionary[id].composition;
 
     exs = data.dictionary[id].examples

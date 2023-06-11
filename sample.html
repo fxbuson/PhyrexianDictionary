@@ -84,7 +84,7 @@ title: Dictionary Entry
             let word = data.dictionary[idx].phyrexian;
             let unvow_word = unvowel(word)
             if (unvow_query.includes(unvow_word)){
-                document.getElementById('search-results').innerHTML += '<p><span class="phy_fonted">'+ word +'</span><a href="{{site.baseurl}}/entry?id='+ idx +'">'+ word +'</a> - '+ data.dictionary[idx].translation +'</p>';
+                document.getElementById('search-results').innerHTML += '<p><span class="phy_fonted">'+ word +'</span> - <a href="{{site.baseurl}}/entry?id='+ idx +'">'+ word +'</a> - '+ data.dictionary[idx].translation +'</p>';
             }
         }
     }

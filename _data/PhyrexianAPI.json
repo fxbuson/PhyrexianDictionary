@@ -5408,7 +5408,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"return this to your hand\"",
+            "notes": "'return this to your hand'",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5429,7 +5429,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"put a counter on this\"",
+            "notes": "'put a counter on this'",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5458,7 +5458,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"target card in your graveyard\"",
+            "notes": "'target card in your graveyard'",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5475,7 +5475,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"until your next turn\"",
+            "notes": "'until your next turn'",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5496,7 +5496,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"you can do this for this turn\"",
+            "notes": "'you can do this for this turn'",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5513,7 +5513,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"produce mana of any type\"",
+            "notes": "'produce mana of any type'",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5543,7 +5543,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"sacrifice this creature\"",
+            "notes": "'sacrifice this creature'",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5561,7 +5561,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"a card from your deck\"",
+            "notes": "'a card from your deck'",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5617,7 +5617,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"ability of a permanent\"",
+            "notes": "'ability of a permanent'",
             "type": "particle",
             "confidence": "likely"
         },
@@ -5633,7 +5633,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"destroy all permanents with counters\"",
+            "notes": "'destroy all permanents with counters'",
             "type": "particle",
             "confidence": "likely"
         },
@@ -5654,7 +5654,7 @@
             ],
             "class": "prefix, suffix",
             "native": true,
-            "notes": "\"more/less than\"",
+            "notes": "'more/less than'",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5686,7 +5686,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"Complete (prefix + make)\"",
+            "notes": "'Complete (prefix + make)'",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5702,7 +5702,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"half, rounded down (prefix + not + two + amounts)\"",
+            "notes": "'half, rounded down (prefix + not + two + amounts)'",
             "type": "particle",
             "confidence": "likely"
         },
@@ -5742,7 +5742,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"Vigilance (ability + prefix + see)\"",
+            "notes": "'Vigilance (ability + prefix + see)'",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5779,7 +5779,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"world (prefix + land)\"",
+            "notes": "'world (prefix + land)'",
             "type": "particle",
             "confidence": "likely"
         },
@@ -5815,7 +5815,7 @@
             ],
             "class": "prefix",
             "native": true,
-            "notes": "\"Immortality (prefix + un + death)\"",
+            "notes": "'Immortality (prefix + un + death)'",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5835,7 +5835,7 @@
             ],
             "class": "suffix",
             "native": true,
-            "notes": "Number-related. \"Top (first) card of your library \"",
+            "notes": "Number-related. 'Top (first) card of your library '",
             "type": "particle",
             "confidence": "solid"
         },
@@ -5849,7 +5849,7 @@
             "examples": [],
             "class": "prefix, suffix",
             "native": true,
-            "notes": "Number-related. \"once per turn\"",
+            "notes": "Number-related. 'once per turn'",
             "type": "particle",
             "confidence": "solid"
         }

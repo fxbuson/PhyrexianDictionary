@@ -71,6 +71,14 @@ title: Dictionary Entry
 
     function selection_search(){
         const query = rangy.getSelection(document.getElementById('searchable')).toString();
+
+        var previous = document.getElementsByClassName(obj.className)
+        for(var index=0;index < previous.length;index++){
+            var text = document.createTextNode(previous[index].innerText);
+            previous[index].parentNode.replaceChild(text, previous[index]);
+        }
+        document.getElementById('searchable').innerHTML = document.getElementById('searchable').innerHTML.replaceAll(query, '<span class="color-changed" style="background-color:highlight">'+ query +'</span>')
+
         document.getElementById('search-results').innerHTML = ''
         if (query == ''){
             document.getElementById('query-region').innerHTML = 'Select some phyrexian text...';

@@ -86,12 +86,6 @@ title: Dictionary Entry
         }
         else{
             document.getElementById('query-region').innerHTML = query;
-            if (sel.focusNode.parentNode.id == 'phy_0'){
-                    document.getElementById('phy_1').innerHTML = document.getElementById('phy_1').innerHTML.replaceAll(query, '<span class="color-changed" style="background-color:highlight">'+ query +'</span>')
-            }
-            else{
-                document.getElementById('phy_0').innerHTML = document.getElementById('phy_0').innerHTML.replaceAll(query, '<span class="color-changed" style="background-color:highlight">'+ query +'</span>')
-            }
         }
         
         const unvow_query = unvowel(query);

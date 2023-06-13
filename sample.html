@@ -72,7 +72,7 @@ title: Dictionary Entry
     function selection_search(){
         const query = rangy.getSelection(document.getElementById('searchable')).toString();
 
-        var previous = document.getElementsByClassName(obj.className)
+        var previous = document.getElementsByClassName('color-changed')
         for(var index=0;index < previous.length;index++){
             var text = document.createTextNode(previous[index].innerText);
             previous[index].parentNode.replaceChild(text, previous[index]);

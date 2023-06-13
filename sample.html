@@ -83,8 +83,17 @@ title: Dictionary Entry
         for (idx in data.dictionary){
             let word = data.dictionary[idx].phyrexian;
             let unvow_word = unvowel(word)
-            if (unvow_query.includes(unvow_word)){
-                document.getElementById('search-results').innerHTML += '<p><span class="phy_fonted">'+ word +'</span> - <a href="{{site.baseurl}}/entry?id='+ idx +'">'+ word +'</a> - '+ data.dictionary[idx].translation +'</p>';
+            switch (data.dictionary[idx].type){
+                case 'number':
+                case 'marker':
+                    if (query.includes(word)){
+                        document.getElementById('search-results').innerHTML += '<p><span class="phy_fonted">'+ word +'</span> - <a href="{{site.baseurl}}/entry?id='+ idx +'">'+ word +'</a> - '+ data.dictionary[idx].translation +'</p>';
+                    }
+                    break;
+                default:
+                    if (unvow_query.includes(unvow_word)){
+                        document.getElementById('search-results').innerHTML += '<p><span class="phy_fonted">'+ word +'</span> - <a href="{{site.baseurl}}/entry?id='+ idx +'">'+ word +'</a> - '+ data.dictionary[idx].translation +'</p>';
+                    }
             }
         }
     }

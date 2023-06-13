@@ -12,8 +12,8 @@ title: Dictionary Entry
     <p id='english'></p>
 
     <div id="searchable" onpointerup="selection_search()">
-        <p class='phyrexian phy_fonted' ></p>
-        <p class='phyrexian'></p>
+        <p id="phy_0" class='phyrexian phy_fonted' ></p>
+        <p id="phy_1" class='phyrexian'></p>
     </div>
 
     <p id='breakdown'></p>
@@ -70,21 +70,28 @@ title: Dictionary Entry
     }
 
     function selection_search(){
-        const query = rangy.getSelection(document.getElementById('searchable')).toString();
+        const sel = rangy.getSelection(document.getElementById('searchable'));
+        const query = sel.toString();
 
-        var previous = document.getElementsByClassName('color-changed')
+        var previous = document.getElementsByClassName('color-changed');
 
         for(var index=0;index < previous.length;index++){
             var text = document.createTextNode(previous[index].innerText);
             previous[index].parentNode.replaceChild(text, previous[index]);
         }
-        document.getElementById('search-results').innerHTML = ''
+
+        document.getElementById('search-results').innerHTML = '';
         if (query == ''){
             document.getElementById('query-region').innerHTML = 'Select some phyrexian text...';
         }
         else{
             document.getElementById('query-region').innerHTML = query;
-            document.getElementById('searchable').innerHTML = document.getElementById('searchable').innerHTML.replaceAll(query, '<span class="color-changed" style="background-color:highlight">'+ query +'</span>')
+            if (sel.focusNode.parentNode.id == 'phy_0'){
+                    document.getElementById('phy_1').innerHTML = document.getElementById('phy_1').innerHTML.replaceAll(query, '<span class="color-changed" style="background-color:highlight">'+ query +'</span>')
+            }
+            else{
+                document.getElementById('phy_0').innerHTML = document.getElementById('phy_0').innerHTML.replaceAll(query, '<span class="color-changed" style="background-color:highlight">'+ query +'</span>')
+            }
         }
         
         const unvow_query = unvowel(query);

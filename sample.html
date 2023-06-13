@@ -115,8 +115,8 @@ title: Dictionary Entry
             }
 
             range = rangy.createRange()
-            range.setStart(target.firstChild, sel.anchorOffset)
-            range.setEnd(target.firstChild, sel.focusOffset)
+            range.setStart(target.firstChild, Math.min(sel.anchorOffset, sel.focusOffset))
+            range.setEnd(target.firstChild, Math.max(sel.anchorOffset, sel.focusOffset))
             sel.addRange(range)
         }
         

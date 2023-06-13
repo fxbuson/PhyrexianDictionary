@@ -106,6 +106,18 @@ title: Dictionary Entry
                         }
                 }
             }
+            switch (sel.focusNode.parentNode.id){
+                case 'phy_0':
+                    target = document.getElementById('phy_1');
+                    break;
+                case 'phy_1':
+                    target = document.getElementById('phy_0')
+            }
+
+            range = rangy.createRange()
+            range.setStart(target.firstChild, sel.anchorOffset)
+            range.setEnd(target.firstChild, sel.focusOffset)
+            sel.addRange(range)
         }
         
     }

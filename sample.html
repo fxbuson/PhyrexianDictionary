@@ -73,18 +73,18 @@ title: Dictionary Entry
         const query = rangy.getSelection(document.getElementById('searchable')).toString();
 
         var previous = document.getElementsByClassName('color-changed')
+
         for(var index=0;index < previous.length;index++){
             var text = document.createTextNode(previous[index].innerText);
             previous[index].parentNode.replaceChild(text, previous[index]);
         }
-        document.getElementById('searchable').innerHTML = document.getElementById('searchable').innerHTML.replaceAll(query, '<span class="color-changed" style="background-color:highlight">'+ query +'</span>')
-
         document.getElementById('search-results').innerHTML = ''
         if (query == ''){
             document.getElementById('query-region').innerHTML = 'Select some phyrexian text...';
         }
         else{
             document.getElementById('query-region').innerHTML = query;
+            document.getElementById('searchable').innerHTML = document.getElementById('searchable').innerHTML.replaceAll(query, '<span class="color-changed" style="background-color:highlight">'+ query +'</span>')
         }
         
         const unvow_query = unvowel(query);

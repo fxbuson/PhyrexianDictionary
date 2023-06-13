@@ -71,6 +71,7 @@ title: Dictionary Entry
 
     function selection_search(){
         const sel = rangy.getSelection(document.getElementById('searchable'));
+        sel.setSingleRange(rangy.createRange().selectNodeContents(document.getElementById(sel.focusNode.parentNode.id)))
         const query = sel.toString();
 
         var previous = document.getElementsByClassName('color-changed');

@@ -71,7 +71,12 @@ title: Dictionary Entry
 
     function selection_search(){
         const sel = rangy.getSelection(document.getElementById('searchable'));
-        const query = sel.toString();
+        if (sel.rangeCount > 1){        
+            const query = sel.toString();
+        }
+        else{
+            const query = '';
+        }
 
         var previous = document.getElementsByClassName('color-changed');
 

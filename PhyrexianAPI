@@ -1533,7 +1533,7 @@
             "phyrexian": "ʁums",
             "IPA": "ʁums",
             "plural": "ʁuums",
-            "translation": "Cast,Spell",
+            "translation": "Spell",
             "root": [
                 "ʁums"
             ],
@@ -1981,20 +1981,18 @@
             "confidence": "solid"
         },
         "96": {
-            "phyrexian": "buǩð",
-            "IPA": "buk'ð",
+            "phyrexian": "bukð",
+            "IPA": "bukð",
             "plural": false,
             "translation": "Play",
             "root": [
-                "buǩð"
+                "bukð"
             ],
             "composition": null,
             "examples": [
                 "NEO_Jin",
-                "Yawg_Test",
-                "SNC_Ura",
-                "DMU_Ajani",
-                "C19_Krrik"
+                "NEO_Tami",
+                "SNC_Ura"
             ],
             "class": "verb",
             "native": true,
@@ -2262,7 +2260,7 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "number",
+            "type": "root",
             "confidence": "solid"
         },
         "109": {
@@ -2283,7 +2281,7 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "number",
+            "type": "root",
             "confidence": "solid"
         },
         "110": {
@@ -2304,7 +2302,7 @@
             "class": "noun",
             "native": true,
             "notes": null,
-            "type": "number",
+            "type": "root",
             "confidence": "solid"
         },
         "111": {
@@ -3518,7 +3516,7 @@
             "phyrexian": "mrodn",
             "IPA": "mrodn",
             "plural": "mroodn",
-            "translation": "Mirran",
+            "translation": "Mirrodin",
             "root": [
                 "mrodn"
             ],
@@ -3597,17 +3595,19 @@
             "confidence": "solid"
         },
         "176": {
-            "phyrexian": "vuw'k",
-            "IPA": "vuwʔk",
+            "phyrexian": "vuwk",
+            "IPA": "vuwk",
             "plural": false,
             "translation": "Move",
             "root": [
-                "vuw'k"
+                "vuwk"
             ],
             "composition": null,
             "examples": [
-                "SNC_Ura",
-                "DMU_Ajani"
+                "NPH_Ura",
+                "KHM_Vorin",
+                "Yawg_Test",
+                "ONE_Nahiri"
             ],
             "class": "verb",
             "native": true,
@@ -4801,37 +4801,11 @@
             "translation": "Indicative, Present",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Norn",
-                "NPH_Ura",
-                "NPH_Jin",
-                "NEO_Jin",
-                "NEO_Tami",
-                "Yawg_Test",
-                "MBS_Trailer",
-                "NPH_Trailer",
-                "Swamp_Lore",
-                "MBS_PsyCrawl",
-                "MTGA",
-                "ONE_Norn",
-                "ONE_Island",
-                "ONE_Forest",
-                "BeadleGrimms",
-                "ONE_Live",
-                "NPH_Batterskull",
-                "NPH_Annex",
-                "ONE_Vraska",
-                "ONE_Lukka",
-                "ONE_Nissa",
-                "ONE_Nahiri",
-                "ONE_Trailer",
-                "ONE_Solphim",
-                "ONE_Panel"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "241": {
@@ -4841,22 +4815,11 @@
             "translation": "Past",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Ura",
-                "NPH_Vorin",
-                "DOM_Scriptures",
-                "UMA_Altar",
-                "MBS_Trailer",
-                "NPH_Trailer",
-                "Swamp_Lore",
-                "Merch",
-                "MTGA",
-                "ONE_Lukka"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "242": {
@@ -4866,13 +4829,11 @@
             "translation": "Interrogative",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "ONE_Panel"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "243": {
@@ -4882,25 +4843,11 @@
             "translation": "Jussive (shall/will)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Norn",
-                "MBS_Trailer",
-                "NPH_Trailer",
-                "Swamp_Lore",
-                "Dark_Discov",
-                "Merch",
-                "ONE_Article",
-                "ONE_Live",
-                "BRO_BoneSaw",
-                "ONE_Lukka",
-                "ONE_Trailer",
-                "ONE_Solphim",
-                "MOM_Teaser"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "244": {
@@ -4910,30 +4857,11 @@
             "translation": "Conditional (if)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Norn",
-                "NPH_Ura",
-                "NPH_Jin",
-                "NPH_Sheo",
-                "NPH_Vorin",
-                "KHM_Vorin",
-                "NEO_Jin",
-                "Yawg_Test",
-                "SNC_Ura",
-                "DMU_Sheo",
-                "DMU_Ajani",
-                "MBS_PsyCrawl",
-                "ONE_Norn",
-                "C19_Krrik",
-                "ONE_Arena",
-                "ONE_Jace",
-                "ONE_Vraska",
-                "ONE_Nahiri"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "245": {
@@ -4943,14 +4871,11 @@
             "translation": "Conditional negative (if not)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "DMU_Ajani",
-                "ONE_Jace"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "246": {
@@ -4960,17 +4885,11 @@
             "translation": "Deontic (may)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "DMU_Ajani",
-                "ONE_Mountain",
-                "NPH_Agent",
-                "NPH_Elf",
-                "C19_Krrik"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "247": {
@@ -4980,42 +4899,11 @@
             "translation": "Imperative",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Ura",
-                "NPH_Jin",
-                "NPH_Sheo",
-                "NPH_Vorin",
-                "KHM_Vorin",
-                "NEO_Jin",
-                "NEO_Tami",
-                "Yawg_Test",
-                "SNC_Ura",
-                "DMU_Sheo",
-                "DMU_Ajani",
-                "Merch",
-                "NPH_Dismember",
-                "MBS_PsyCrawl",
-                "MTGA",
-                "ONE_Norn",
-                "ONE_Swamp",
-                "BeadleGrimms",
-                "C19_Krrik",
-                "ONE_Arena",
-                "NPH_Annex",
-                "ONE_Jace",
-                "ONE_Vraska",
-                "ONE_Lukka",
-                "ONE_Nissa",
-                "ONE_Nahiri",
-                "ONE_Trailer",
-                "ONE_Solphim",
-                "NPH_Misstep",
-                "ONE_Panel"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "248": {
@@ -5026,10 +4914,10 @@
             "root": false,
             "composition": 0.0,
             "examples": [],
-            "class": null,
+            "class": "mood, suffix",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "249": {
@@ -5039,31 +4927,11 @@
             "translation": "Addition (and)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Norn",
-                "NPH_Sheo",
-                "NEO_Tami",
-                "Yawg_Test",
-                "MBS_Trailer",
-                "DMU_Ajani",
-                "NPH_Dismember",
-                "MBS_PsyCrawl",
-                "ONE_Norn",
-                "ONE_Article",
-                "ONE_Arena",
-                "NPH_Annex",
-                "ONE_Jace",
-                "ONE_Vraska",
-                "ONE_Lukka",
-                "ONE_Nissa",
-                "ONE_Nahiri",
-                "ONE_Trailer",
-                "NPH_Misstep"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood, suffix",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "250": {
@@ -5073,17 +4941,11 @@
             "translation": "Negative (un-, not)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Jin",
-                "ONE_Norn",
-                "NPH_Agent",
-                "NPH_Annex",
-                "MOM_Teaser"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood, prefix",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "251": {
@@ -5093,32 +4955,25 @@
             "translation": "negative (anti-affirmative/double negative)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Vorin",
-                "NEO_Tami",
-                "NPH_Agent",
-                "ONE_Panel"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "likely"
         },
         "252": {
-            "phyrexian": "ha",
-            "IPA": "ha",
+            "phyrexian": "'a",
+            "IPA": "ʔa",
             "plural": false,
             "translation": "obligation/necessity (must)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Norn"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "poor"
         },
         "253": {
@@ -5128,24 +4983,11 @@
             "translation": "subordinative (that)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Norn",
-                "NPH_Ura",
-                "NPH_Vorin",
-                "Yawg_Test",
-                "MBS_Trailer",
-                "Swamp_Lore",
-                "MBS_PsyCrawl",
-                "ONE_Norn",
-                "NPH_Annex",
-                "ONE_Lukka",
-                "ONE_Nissa",
-                "ONE_Nahiri"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "254": {
@@ -5155,16 +4997,11 @@
             "translation": "Permissive/ableness (can/may)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NEO_Jin",
-                "Yawg_Test",
-                "SNC_Ura",
-                "NPH_Elf"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "moderate"
         },
         "255": {
@@ -5174,13 +5011,11 @@
             "translation": "'Unless'",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Annex"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "256": {
@@ -5190,14 +5025,11 @@
             "translation": "Consequential (thus)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "DOM_Scriptures",
-                "NPH_Elf"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "257": {
@@ -5207,25 +5039,11 @@
             "translation": "Relative (when) ",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Ura",
-                "NPH_Jin",
-                "NPH_Sheo",
-                "NPH_Vorin",
-                "NEO_Jin",
-                "SNC_Ura",
-                "DMU_Sheo",
-                "DMU_Ajani",
-                "MBS_PsyCrawl",
-                "MTGA",
-                "C19_Krrik",
-                "ONE_Arena",
-                "ONE_Nahiri"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": "Paired mood with conditional (if) or past",
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "258": {
@@ -5235,16 +5053,11 @@
             "translation": "Conditional (would)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Ura",
-                "KHM_Vorin",
-                "Yawg_Test",
-                "SNC_Ura"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": "Paired mood with if",
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "259": {
@@ -5254,19 +5067,11 @@
             "translation": "Alternative (instead/but)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Jin",
-                "KHM_Vorin",
-                "Yawg_Test",
-                "NPH_Trailer",
-                "SNC_Ura",
-                "NPH_Agent",
-                "C19_Krrik"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": "Paired with many other moods",
-            "type": "marker",
+            "type": "particle",
             "confidence": "solid"
         },
         "260": {
@@ -5276,15 +5081,263 @@
             "translation": "Historical/evidential",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "DOM_Scriptures",
-                "UMA_Altar",
-                "MTGA"
-            ],
-            "class": null,
+            "examples": [],
+            "class": "mood",
             "native": true,
             "notes": "Paired with past",
-            "type": "marker",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "261": {
+            "phyrexian": "h",
+            "IPA": "h",
+            "plural": false,
+            "translation": "to (spatial)",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'return this to your hand'",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "262": {
+            "phyrexian": "əšq",
+            "IPA": "əʃq",
+            "plural": false,
+            "translation": "on (spatial)",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'put a counter on this'",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "263": {
+            "phyrexian": "dl",
+            "IPA": "dl",
+            "plural": false,
+            "translation": "in (spatial)",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'target card in your graveyard'",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "264": {
+            "phyrexian": "φɒ'",
+            "IPA": "φɒʔ",
+            "plural": false,
+            "translation": "until (temporal)",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'until your next turn'",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "265": {
+            "phyrexian": "žki",
+            "IPA": "ʒki",
+            "plural": false,
+            "translation": "for (temporal)",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'you can do this for this turn'",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "266": {
+            "phyrexian": "'ɒp",
+            "IPA": "ʔɒp",
+            "plural": false,
+            "translation": "any",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'produce mana of any type'",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "267": {
+            "phyrexian": "ɢə",
+            "IPA": "ɢə",
+            "plural": false,
+            "translation": "this/that",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'sacrifice this creature'",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "268": {
+            "phyrexian": "ɣẅ",
+            "IPA": "ɣɯ",
+            "plural": false,
+            "translation": "from",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'a card from your deck'",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "269": {
+            "phyrexian": "w",
+            "IPA": "w",
+            "plural": false,
+            "translation": "of",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'ability of a permanent'",
+            "type": "particle",
+            "confidence": "likely"
+        },
+        "270": {
+            "phyrexian": "qər",
+            "IPA": "qər",
+            "plural": false,
+            "translation": "with",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'destroy all permanents with counters'",
+            "type": "particle",
+            "confidence": "likely"
+        },
+        "271": {
+            "phyrexian": "gr",
+            "IPA": "gr",
+            "plural": false,
+            "translation": "than",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix, suffix",
+            "native": true,
+            "notes": "'more/less than'",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "272": {
+            "phyrexian": "pl",
+            "IPA": "pl",
+            "plural": false,
+            "translation": "completion",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'Complete (prefix + make)'",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "273": {
+            "phyrexian": "plθ",
+            "IPA": "plθ",
+            "plural": false,
+            "translation": "not-completion",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'half, rounded down (prefix + not + two + amounts)'",
+            "type": "particle",
+            "confidence": "likely"
+        },
+        "274": {
+            "phyrexian": "pn",
+            "IPA": "pn",
+            "plural": false,
+            "translation": "greater",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'Vigilance (ability + prefix + see)'",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "275": {
+            "phyrexian": "ke",
+            "IPA": "ke",
+            "plural": false,
+            "translation": "collective",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'world (prefix + land)'",
+            "type": "particle",
+            "confidence": "likely"
+        },
+        "276": {
+            "phyrexian": "ɣwi",
+            "IPA": "ɣwi",
+            "plural": false,
+            "translation": "ability",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix",
+            "native": true,
+            "notes": "'Immortality (prefix + un + death)'",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "277": {
+            "phyrexian": "tč",
+            "IPA": "ttʃ",
+            "plural": false,
+            "translation": "indicate order",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "suffix",
+            "native": true,
+            "notes": "Number-related. 'Top (first) card of your library '",
+            "type": "particle",
+            "confidence": "solid"
+        },
+        "278": {
+            "phyrexian": "xe_'ə",
+            "IPA": "xe_ʔə",
+            "plural": false,
+            "translation": "indicate frequency",
+            "root": false,
+            "composition": 0.0,
+            "examples": [],
+            "class": "prefix, suffix",
+            "native": true,
+            "notes": "Number-related. 'once per turn'",
+            "type": "particle",
             "confidence": "solid"
         }
     },
@@ -5293,331 +5346,386 @@
             "Name": "NPH_Norn",
             "Regular": "^'elš-norn šχa'θǆønobt.^ʁajgφe'x φyrx-pxajtr.^ɣwipnrukm.^xe-sall-qə-qxuπul-xexə-πee'x-ʁitapeq.^xe-qə-əxnɒɒqč-qxuπel-xe-πee'x-ʁitapeq.^xe-porgəxt-ɢyytx-sallkeθəəɢð-ʁi'iǆe'et.^ba-ɢyytx pənan-ǩaπa-ha-φyrxkeθəɢð-'ešχa'θnapyt.",
             "English": "Elesh Norn, Grand Cenobite. Legendary Creature — Phyrexian Praetor. Vigilance. Other creatures you control get +2/+2. Creatures your opponents control get -2/-2. “The Gitaxians whisper among themselves of other worlds. If they exist, we must bring Phyrexia’s magnificence to them.”",
-            "Notes": "There's a difference between the MTGA and judge promo of this card. The judge promo version is believed to be the correct one."
+            "Notes": "There's a difference between the MTGA and judge promo of this card. The judge promo version is believed to be the correct one.",
+            "Breakdown": "elesh norn grand-cenobite.legendary-creature phyrexian praetor.vigilance.(indicative) other (that) [2>?]control (indicative-addition) [pl]creature {+2/+2} ?_[3>4]get.(indicative) (that) [pl]opponent [3>4]control (indicative) [pl]creature {-2/-2} ?_[3>4]get.(indicative) group-? [pl]gitaxian other-[pl]world ?_[3>4]whisper.(if) [pl]gitaxian ? (shall) (must) phyrexian-world ?_great_[4>3]?"
         },
         "1": {
             "Name": "NPH_Ura",
             "Regular": "^'urbrask əxťeķibrs.^ʁajgφe'x φyrx-pxajtr.^xe-qə-qxuπul-xe-πee'x-ɣwiziklvuwk-ʁitapeq.^baqilx-qə-əxnɒqč-qxuπel-xe-φe'x-əšqtwøǩxθəxt lo-ɣypym.^'uxuφ-mrodnqẅrɮwi'g-močq-χi'ətsxen-'u-'urbrask-χiɢɬčǩaaqq-tǥoθχm.^'u-'asm-keqxǆuɣyp:prosuj-lo.",
             "English": "Urabrask the Hidden. Legendary Creature — Phyrexian Praetor. Creatures you control have haste. Creatures your opponents control enter the battlefield tapped. When the Mirran resistance arrived, the furnace dwellers looked to Urabrask for guidance. His decree stunned the others: “Let them be.”",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": "urabrask not_?.legendary-creature phyrexian praetor.(indicative) (that) [2>?]control (indicative) [pl]creature haste ?_[3>4]get.(if-would) (that) opponent [3>4]control (indicative) creature on_battlefield [4>3]tap.(past-when) mirrodin-resistance come ?_[3>4]ask (past) urabrask furnace-[pl]biomechanical ?.(past) decree [4>3]stun.? (imperative)"
         },
         "2": {
             "Name": "NPH_Jin",
             "Regular": "^ǆi'n-ɢytx dl'emqrukm.^ʁajgφe'x φyrx-pxajtr.^ɣwiziklʁums.^baxuφ-πlnaķmqpønuč-'iixtfu'q-lo-ɢwiinš-mprɒsuw.^xe-əxnɒɒqč-naql'oparxyχ-sər-mɒɣyg.^əx-πllupsθəxt-xeqit-qpenčodrm:jnaķmφyrxkeθəgð-naķym-qpenčodrm.",
             "English": "Jin-Gitaxias, Core Augur. Legendary Creature — Phyrexian Praetor. Flash. At the beginning of your end step, draw seven cards. Each opponent’s maximum hand size is reduced by seven. “It is not a goal, but a process—the process of creating the perfect Phyrexia.”",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": "jin gitaxias complete_?_see.legendary-creature phyrexian praetor.flash.(if-when) complete-[2>2]step begin (imperative) {7} [pl]card [2>2]draw.(indicative) [pl]opponent [4>3]hand-limit by {7} [4>3]reduce.(not) goal (indicative-but) process.perfect-phyrexian-world [4>3]make process"
         },
         "3": {
             "Name": "NPH_Sheo",
             "Regular": "^šøldrd naķm'iǆee't.^ʁajgφe'x φyrx-pxajtr.^ɣwiqaškmjment.^baxuφ-dlabzqpønuč-'iixtfu'q-lo-dlθuqxiwwθəxut-φe'xɢwinš-žyxut-loxə-əšqtwøǩxθəxut.^baxuφ-əxnɒqč-dlabzqpenyč-'iixtfu'q lo-φe'yx-no'b'ugym.",
             "English": "Sheoldred, Whispering One. Legendary Creature — Phyrexian Praetor. Swampwalk. At the beginning of your upkeep, return target creature card from your graveyard to the battlefield. At the beginning of each opponent’s upkeep, that player sacrifices a creature.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": "sheoldred make-[pl]whisper.legendary-creature phyrexian praetor.swampwalk.(if-when) [2>2]upkeep begin (imperative) [2>?]graveyard creature-card [2>?]target (imperative-and) on_[2>?]battlefield.(if-when) opponent [4>3]upkeep begin (imperative) [4>3]creature [4>3]sacrifice"
         },
         "4": {
             "Name": "NPH_Vorin",
             "Regular": "^vornχlx gagg-xutšyv.^ʁajgφe'x φyrx-pxajtr.^ɣwikfɒǧpan'g.^baxuφ-θəɢð-ma'nɣyπum lo-qə-ŋeǩydym-'u-ma'npøkk-babug.^baxuφ-əxnɒqč-θəɢð-ʁima'nɣypem-əl-naķmqxuπl-ɢəčθəɢð-ɢnagɮəxɣypmqpenyčpxe-ʁiəxɣypem.",
             "English": "Vorinclex, Voice of Hunger. Legendary Creature — Phyrexian Praetor. Trample. Whenever you tap a land for mana, add one mana of any type that land produced. Whenever an opponent taps a land for mana, that land doesn’t untap during its controller’s next untap step.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": "vorinclex hunger [4>3]voice.legendary-creature phyrexian praetor.trample.(if-when) land mana-[2>3]tap (imperative) {1} (that) [4>3]produce (past) mana-type [2>?]add.(if-when) opponent land ?_mana-[3>4]tap (not) make-control this-?_land next-not_tap-[4>3]step-? ?_not_tap"
         },
         "5": {
             "Name": "KHM_Vorin",
             "Regular": "^vornχlx 'ežkatmfxarl.^ʁajgφe'x φyrx-pxajtr.^ɣwikfɒǧpan'g ɣwiziklvuwk.^baqilx-əšqnɒqč-əšq'astiwwðə-juuχẅķ-ţə'u'-loqit-ķus'ər-ţə'u'.^baqilx-əxnɒqč-əšqnɒqč-əšq'astiwwðə-juuχẅķ-ʁiţə'e' loqit-plθəxķus'ər-ţə'e'.",
             "English": "Vorinclex, Monstrous Raider. Legendary Creature — Phyrexian Praetor. Trample, haste. If you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead. If an opponent would put one or more counters on a permanent or player, they put half that many of each of those kinds of counters on that permanent or player instead, rounded down.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": "vorinclex ?.legendary-creature phyrexian praetor.trample haste.(if-would) on_player on_permanent_or [pl]counter [2>?]put (imperative-but) twice [2>?]put.(if-would) opponent on_player on_permanent_or [pl]counter ?_[3>4]put (imperative+but) incomplete_half [3>4]put"
         },
         "6": {
             "Name": "NEO_Jin",
             "Regular": "^ǆi'n-ɢytx ǩytπt-grjəťrk.^ʁajgφe'x φyrx-pxajtr.^baxuφ-qxuna'k-ziklʁums-kašplʁums-buǩuð lo-tluxtnaǩm.^ťe-ɢəčtluxtnaķm-šopraptžyxt-ʁšθaǩuɴ.^xe-ɢəčɣəwθ-xeronɣ'ii'ə-džəɬɢt.^baxuφ-əxnɒqč-qxuna'k-ziklʁums-kašplʁums-bukeð lo-šuqøn.^xe-ɢəčɣəwθ-xeronɣ'ii'ə-džəɬɢt.",
             "English": "Jin-Gitaxias, Progress Tyrant. Legendary Creature — Phyrexian Praetor. Whenever you cast an artifact, instant, or sorcery spell, copy that spell. You may choose new targets for the copy. This ability triggers only once each turn. Whenever an opponent casts an artifact, instant, or sorcery spell, counter that spell. This ability triggers only once each turn.",
-            "Notes": "Meanings for ability and trigger clash with ONE_Norn"
+            "Notes": "Meanings for ability and trigger clash with ONE_Norn",
+            "Breakdown": "jin gitaxias progress tyrant.legendary-creature phyrexian praetor.(if-when) artifact instant sorcery [2>3]play (imperative) [3>3]copy.(can) this_?_copy new-target [2>3]choose.(indicative) this_ability frequency_turn-one [3>3]trigger.(if-would) opponent artifact instant sorcery [3>4]play (imperative) [2>4]counter.(indicative) this_ability frequency_turn-one [3>3]trigger"
         },
         "7": {
             "Name": "NEO_Tami",
             "Regular": "^tam'oo' plinexs-føvɣ.^ʁajgnmhupment tam'joo'.^lo-φe'x-qxuna'k-xeəxkorxgr'ii'ə-žyxut-loxə-ɣypm əl-naķmqxuπl-ɢəč'astiww-ɢnagɮəxɣypmqpenyčpxe-ʁiəxɣypem.^lo-φlrχanjasərθ-'astiww-dlθuqxiwwθəxt-žyxut-loxə-čxət'.^lo-fa'ipθtluxtnaķm-naǩøm.^lo-tam'joo'rukxtekt-naķøm.^xe-ʁajgəxsopšiktqxuna'kfa'ipeθ.^xe-tapeq:ʁuumus-bukðrχanj-ser-mɒɣyg lo-ɢwinš-mprasuw.",
             "English": "Tamiyo, Compleated Sage. Legendary Planeswalker — Tamiyo. Compleated. Tap up to one target artifact or creature. It doesn’t untap during its controller’s next untap step. Exile target nonland permanent card with mana value X from your graveyard. Create a token that’s a copy of that card. Create Tamiyo’s Notebook, a legendary colorless artifact token with “Spells you cast cost 2 less to cast” and “Draw a card.”",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": "tamiyo compleat sage.legendary-planeswalker tamiyo.compleat.(imperative) creature artifact frequency_not_more_than_one [2>?]target (imperative-and) [3>3]tap (not) make-control this_permanent next-untap-[4>3]step-? ?_[3>4]untap.(imperative) complete_cost-number {X} permanent in_graveyard [2>?]target (imperative-and) [3>3]exile.(imperative) token-copy [2>4]make.(imperative) tamiyo-note-book [2>4]make.(indicative) legendary-colorless-artifact-token.(indicative) [3>3]get.[pl,2>2]spell play-cost by {2} [4>3]reduce.{T}.(imperative) card [2>3]draw"
         },
         "8": {
             "Name": "Yawg_Test",
             "Regular": "^fedχstsqylm-jɒɒ'g-mo'yθ.^ťe-qə-dlčxət'θəxt-xe-natlč-xexə-ɢwyynuš-žkiɢəronɣ-buǩuð.^baqilx-ɢwynuš-hθuqxiwwθəxt-hčxət'θəxtðə-žkiɢəronx-vuwyk-loqit-tektθəxt-ǩeǆylqitsodrm-vuwuk.^kašplʁums.",
             "English": "Yawgmoth's Testament. Sorcery. Until end of turn, you may play face-up cards you own from exile. If a card would be put into your graveyard or exile from anywhere this turn, put it on the bottom of your library instead.",
-            "Notes": "We're using the corrected version WotC published."
+            "Notes": "We're using the corrected version WotC published.",
+            "Breakdown": "testament [pl]machine [4>3]father.(can) (that) in_exile (indicative) face (indicative-and) [pl,2>2]card for_this_turn [2>3]play.(if-would) [2>2]card to_graveyard to_exile_or for_this_turn [4>3]move (imperative-but) library bottom [2>?]move.sorcery"
         },
         "9": {
             "Name": "DOM_Scriptures",
             "Regular": "^'ušta.^φyrxkeθəɢð-ɣẅəixiww-səkţɢiss.^šχa'θ-jɒ'gmo'θ-jɒɒ'g-mo'yθ-jnaķem-ʁirukem.^xẅots-šχa'θɢiss-'iixtfu'eq.",
             "English": "From void evolved Phyrexia. Great Yawgmoth, Father of Machines, saw its perfection. Thus the Grand Evolution began.",
-            "Notes": "A couple glyphs are wrong in this art piece. See the artist's blueprint for the correct version. The translation shows up on Dark Ritual from Urza's Saga."
+            "Notes": "A couple glyphs are wrong in this art piece. See the artist's blueprint for the correct version. The translation shows up on Dark Ritual from Urza's Saga.",
+            "Breakdown": "(historic) phyrexian-world from_void ?-evolution great yawgmoth [pl]machine [4>3]father [3>4]perfection ?_[3>4]see.(thus) great-evolution [3>4]begin"
         },
         "10": {
             "Name": "UMA_Altar",
             "Regular": "^'ušta.^əxtxš.",
             "English": "Unskin.",
-            "Notes": "Deduced from the card's flavor text."
+            "Notes": "Deduced from the card's flavor text.",
+            "Breakdown": "(historic) unskin"
         },
         "11": {
             "Name": "SLD_Swamp",
             "Regular": "^qaškm.^ɣøπi'tθəɢð qaškm.",
             "English": "Swamp. Basic Land — Swamp.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": "swamp.basic-land swamp"
         },
         "12": {
             "Name": "MBS_Trailer",
             "Regular": "^xe-qə-'əpyrxnaķym-xe-jneķom.^xe-xutšav.^qə-'uɮyč-xe-pən'yg-xexə-hπee'x-šək-Nxayep.^xe-θuqx-xwixyč-dlik-ɣwiəxťeθuqx-'ug'əχw.^ǩaπa-ɢəkeθəgð-bytptxyš-ɣɒzaɢ.^xe'um-šoprapφyrxkeθygð-natlič-krepyg.^'u-šχa'θnaķm-'iixtfu'eq.",
             "English": "We are perfection made flesh. Our voice calls out to the lost and the broken. They fear death, even as we offer immortality. We will flay the false skin of this world, to reveal the face of a New Phyrexia. The great work has begun.",
-            "Notes": "Resolution is very low quality and confidence on the correctness of every glyph is shaky."
+            "Notes": "Resolution is very low quality and confidence on the correctness of every glyph is shaky.",
+            "Breakdown": null
         },
         "13": {
             "Name": "NPH_Trailer",
             "Regular": "^'u-šoprptφyrxkeθəgð-šχa'θnķym-φlnaķem.^xe-jɒ'g'ə'wgwəww-ma'n-šoprapt'ɴnexyx-ʁilu'ef.^xemrodn-'əbə'yw-φyrx-pltxexyš-əšqmɴyryx.^xe-pxənnn-xeqit-'iǆee't-təɮirt-ʁičpan'eg.^jɒɒ'g-mo'yθ-močeq-ǩaπa.^naķməxφlɢiqoš.",
             "English": "The great work of New Phyrexia is complete. New sources of mana power the Machine Orthodoxy. Beneath phyrexian skin, the heart of mirrodin burns. The body is whole, but whispers splinter the mind. The father of machines is coming. Destroyer.",
-            "Notes": "Resolution is very low quality and confidence on the correctness of every glyph is shaky."
+            "Notes": "Resolution is very low quality and confidence on the correctness of every glyph is shaky.",
+            "Breakdown": null
         },
         "14": {
             "Name": "SLD_Praetors",
             "Regular": "^φyrxkeθəgð-pxaajtyr:plinexs-ɢwinšporg.^φyrxkeθəgð-pxaajtyr:plinexs-ɢwinšporg.^φ'kitv-wnšprg.",
             "English": "Phyrexian Praetors. Compleat Edition. Phyrexian Praetors. Compleat Edition. Foil Edition",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": "phyrexian-world [pl]praetor.compleat card-group.phyrexian [pl]praetor.compleat card-group.foil card-group"
         },
         "15": {
             "Name": "Swamp_Lore",
             "Regular": "^qaškm.^ǩa-qẅrɮwi'g-φe'yx-ruǩam.^xe-mrodn-plinexs.^ǩaπa-əšqmefidrs-qə-naķym-πlnaķym-'u-naķmčəxɬišok-pnrukem.^šøldrd naķm'iǆee't.",
             "English": null,
-            "Notes": null
+            "Notes": null,
+            "Breakdown": "swamp.(?) resistance [4>3]creature [1>3]see.(indicative) mirrodin compleat. (shall) on_mephidross (that) [4>3]work [4>3]complete (past) make-?_not_? [3>4]greater_see.sheoldred make-[pl]whisper"
         },
         "16": {
             "Name": "Dark_Discov",
             "Regular": "^ťattnakmmijens.^ťattnakmmijenž.^əkπa-əjnaqoč-səkdspyig-žəkdspyig.^ǩaπa-dlpχajtr-ťəwolam.^χəə'oχmŋe-dlmo'oθ-wčtəčč.",
             "English": null,
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "17": {
             "Name": "MTGSalvation",
             "Regular": "^φyrxɮɒ'ɣ.",
             "English": "Phyrexian Language.",
-            "Notes": "Deduced from context."
+            "Notes": "Deduced from context.",
+            "Breakdown": "phyrexian-language"
         },
         "18": {
             "Name": "SNC_Ura",
             "Regular": "^'urbrask-ɴk'ykg-pxajtr.^ʁajgφe'x φyrx-pxajtr.^ɣwiziklvuw'k.^baxuφ-dlabzqpønuč-'iixtfu'q lo-tektθəxut-'iitčɢwinyš-čxəťu'.^ťe-ɢəɢwinš-žkiɢəronɣ-buǩuð.^baxuφ-əxnɒqč-dlabzqpenyč-'iixtfu'q baqilx-ɢəroneɣɢnagɮɢwinyš-mprasew loqit-tektθəxet-'iitčɢwinyš-čxəte'.^ťe-ɢəɢwinš-žkiɢəronɣ-bukeð.",
             "English": "Urabrask, Heretic Praetor. Legendary Creature — Phyrexian Praetor. Haste. At the beginning of your upkeep, exile the top card of your library. You may play it this turn. At the beginning of each opponent’s upkeep, the next time they would draw a card this turn, instead they exile the top card of their library. They may play it this turn.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": "urabrask heretic praetor. legendary-creature phyrexian praetor.haste.(if-when) [2>2]upkeep begin (imperative) [2>?]library first-[4>3]card [2>3]exile.(can) this_card for_this_turn [2>3]play.(if-when) opponent [4>3]upkeep begin (if-would) this_[3>4]turn-next-[4>3]card [3>4]draw (if-but) [3>4]library first-[4>3]card [3>4]exile.(can) this_card for_this_turn [3>4]play"
         },
         "19": {
             "Name": "DMU_Sheo",
-            "Regular": "^šøldrd-niťamg.^ʁajgφe'x φyrx-pxajtr.^ɣwiθuqx'əkš.^baxuφ-ɢwinš-mprasw lo-sər-ǆko'uχ.^baxuφ-əxnɒqč-ɢwinš-mprasw lo-ser-huqet.",
+            "Regular": "^šøldrd-niťamg.^ʁajgφe'x φyrx-pxajtr.^ɣwiθuqx'əkš.^baxuφ-ɢwinš-mprasuw lo-sər-ǆko'uχ.^baxuφ-əxnɒqč-ɢwinš-mprasw lo-ser-huqet.",
             "English": "Sheoldred, the Apocalypse. Legendary Creature — Phyrexian Praetor. Deathtouch. Whenever you draw a card, you gain 2 life. Whenever an opponent draws a card, they lose 2 life.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": "sheoldred apocalypse. legendary-creature phyrexian praetor.deathtouch.(if-when) card [2>3]draw (imperative) by {2} [2>?]heal.(if-when) opponent card draw (imperative) by {2} [3>4]hurt"
         },
         "20": {
             "Name": "DMU_Ajani",
             "Regular": "^'əǆɒnii' veštganwr.^ʁajgnmhupment 'əǆɒnii'.^plinexs.^lo-tektθəx'ut-'iitčɢwinyš-kreπug.^ba-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-ɢzyzšel-vuw'uk-lo-nɒqul.^bu-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-vuw'uk-xwe-tektθəxut-ǩeǆylqitsodrm.^lo-πee'x-xeəxkorxgrķi'ə-žyxut.^lo-ķi-juuχẅķ-kuplɢəπee'x-χɬkevuk.^ɢəπee'x-ɣwipnrukm-žkiɢəronɣ-tapyq.^lo-čkalakm-naǩum.^lo-tapeq-baxuφ-φe'x-ʁajgnmhupmentðə-buǩuð lo-əxnɒqč-žyxut loxə-ķu-ʁiheeɬɬ-θapeq.",
             "English": "Ajani, Sleeper Agent. Legendary Planeswalker — Ajani. Compleated. Reveal the top card of your library. If it’s a creature or planeswalker card, put it into your hand. Otherwise, you may put it on the bottom of your library. Distribute three +1/+1 counters among up to three target creatures. They gain vigilance until end of turn. You get an emblem with “Whenever you cast a creature or planeswalker spell, target opponent gets two poison counters.”",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "21": {
             "Name": "Ads",
             "Regular": "^mǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut.^xɬiwjvižuǥ.",
             "English": null,
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "22": {
             "Name": "Merch",
             "Regular": "^ǩaπa-š'iimashaǩ.^'u-kulx-pən'yg.^lo-jnaķm-pnsča'eθ.^ǩaπa-əxtuneem-'aliθat.^plinexs.^jnaķm.^'ečel'.^'aliθt.",
             "English": null,
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "23": {
             "Name": "NPH_Dismember",
             "Regular": "^čəxkefa'qsemr.^ziklʁums.^lo-φe'x-žyxut-loxə-žkiɢəronɣ-tapyq.",
             "English": "Dismember. Instant. Target creature gets -5/-5 until end of turn.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "24": {
             "Name": "MBS_PsyCrawl",
             "Regular": "^jiǥgɣwi'v-bwedn.^qxuna'kφe'x φyrx-šχʁɒčx.^xe-jiǥgɣwi'v-bwedn-nu'fkoqšqle'yt-xə-qə-dlnɒqul-xexə-asərθ-wɢwiinš-ʁiǆ'ynπup.^baxuφ-ɢwinš-mprasuw-lo-aχəw'əxnɒqč-sər-huqet.",
             "English": "Psychosis Crawler. Artifact Creature — Phyrexian Horror. Psychosis Crawler’s power and toughness are each equal to the number of cards in your hand. Whenever you draw a card, each opponent loses 1 life.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "25": {
             "Name": "MTGA",
             "Regular": "^'uštaxuφ-xørnyš-pnplťəəmn-konet-'ušta-jɒ'gmo'θ-jnaķm-'əţə'a'.^ɴetsxap-'əţə'o'-'štmrodaan-xexuφ-φyrxkeθəɢð-pnťwə'u'-ʁiɢkyxt'yw.^xe gøẅroφ luπes.^πrøtjt-ǩytπt.^lo φyrxkeθəɢð'ɒjbť-ẅɬnesuš.",
             "English": null,
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "26": {
             "Name": "ONE_Jace_Art",
             "Regular": "^jnaķmpnsča'eθ.",
             "English": null,
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "27": {
             "Name": "ONE_Norn",
             "Regular": "^'elš-norn jɒ'gžɒðʁ.^ʁajgφe'x φyrx-pxajtr.^ɣwipnrukm.^ba-qə-qwøǩxθəxt-xexə-'astiww-w'astywuw-ɣwi't-ʁiǩažeð tluxt-ķažyð-lo-ɢəɣwi't.^əx-qə-twøǩxθəxt-xexə-'astiww-w'astiww-ɣwi't-ǩažeð.",
             "English": "Elesh Norn, Mother of Machines. Legendary Creature — Phyrexian Praetor. Vigilance. If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. Permanents entering the battlefield don’t cause abilities of permanents your opponents control to trigger.",
-            "Notes": "Meanings for ability and trigger clash with NEO_Jin"
+            "Notes": "Meanings for ability and trigger clash with NEO_Jin",
+            "Breakdown": null
         },
         "28": {
             "Name": "ONE_Plains",
             "Regular": "^'ičql.^mǩaπa-jɒɒ'g-žɒðyʁ-χtenaa.^ɣøπi't-θəɢð 'ičql.",
             "English": "Plains. Basic Land — Plains.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "29": {
             "Name": "ONE_Island",
             "Regular": "^kẅθəɢð.^xe-jnaķm-ǩoθaǩ-χiǆ'ynpep.^ɣøπi't-θəɢð kẅθəɢð.",
             "English": "Island. Basic Land — Island.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "30": {
             "Name": "ONE_Swamp",
             "Regular": "^qaškm.^lo-xwixč-θwiχaš-gøẅrφ-'ičaq.^ɣøπi't-θəɢð qaškm.",
             "English": "Swamp. Basic Land — Swamp.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "31": {
             "Name": "ONE_Mountain",
             "Regular": "^ktakx.^xwe-šχa'θnaķm-ǩeǆ'ǥeθ.^ɣøπi't-θəɢð ktakx.",
             "English": "Mountain. Basic Land — Mountain.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "32": {
             "Name": "ONE_Forest",
             "Regular": "^'oɢθəsð.^xe-xe'ii'ə-ə'ufɬrøʁɴ-ɢises.^ɣøπi't-θəɢð 'oɢθəsð.",
             "English": "Forest. Basic Land — Forest.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "33": {
             "Name": "ONE_Article",
             "Regular": "^čkaqq.^təmn.^jɒɒ'g-mo'yθ.^jɒ'gžɒðʁ.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^kaπa-dlikχanuj-šχa'yθ.^ǩaπa-š'iimashaǩ.",
             "English": "Greatness, at any cost. Fall to your knees and welcome our embrace. Mother of Machines. All will be one. A mixed organic and non-organic sentient being, or a fully non-organic sentient being. A fully organic sentient being.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "34": {
             "Name": "BeadleGrimms",
             "Regular": "^ɣẅbiidlɢrimsxə-mǩaπa-šopraptφyrxkeθəɢð-χtena.^lo-jnaķm-əšb-ķuɮaθǩv-pnsča'uθ.^lo-zťøsaaǆ-loxe-ɢţrɒsd-šdeχaad.",
             "English": "From Beadle & Grimm's: Behold New Phyrexia! Surrender to perfection on February 18, 2023. Subscribe and welcome our embrace.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "35": {
             "Name": "ONE_Live",
             "Regular": "^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.",
             "English": "We are Phyrexia. We will sow perfection into the soft flesh of this world.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "36": {
             "Name": "BRO_BoneSaw",
             "Regular": "^ǩaπa-əxtuneem-'aliθat.",
             "English": "We will cleanse their impurities.",
-            "Notes": "Same text as some merch."
+            "Notes": "Same text as some merch.",
+            "Breakdown": null
         },
         "37": {
             "Name": "NPH_Agent",
             "Regular": "^ɮzətɣð-ganwr.^φe'x φyrx-'ønəķ-θutlzətč.^ɣwiɮəɣð.^əx-ɮzətɣð-ganwr-kfɒ'q'.^xwe-'urbrask-χheruǩum-ʁiwtultm əlqit-lups.^'avričt ɢyytx-ɮportt.",
             "English": "Blighted Agent. Creature — Phyrexian Human Rogue. Infect. Blighted Agent can’t be blocked. “Urabrask may suspect our surveillance, but he cannot stop it.” — Avaricta, Gitaxian sective.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "38": {
             "Name": "NPH_Elf",
             "Regular": "^naķmφ'kitv-jalf.^φe'x φyrx-jalf-naķmtǆyφt.^ɣwiɮəɣð.^xwe-nsa'q-pn'ətsxaan-ťexẅots-wφyrxjnaķm-'ɒjbť-bɬølaπ.",
             "English": "Glistener Elf. Creature — Phyrexian Elf Warrior. Infect.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "39": {
             "Name": "NPH_Batterskull",
             "Regular": "^kšaπɢždɒ'ķ.^qxuna'k qipmt.^čkaqqtwøφt.^xe-qipltφe'x-ɣwipnrukm-ɣwinsa'qraφoj-ʁitapyq.^kšaπɢždɒ'ķ-hnaķmkeφe'xnaql-ʁi'iţpənun.^qiplt.",
             "English": "Batterskull. Artifact — Equipment. Living weapon. Equipped creature gets +4/+4 and has vigilance and lifelink. Return Batterskull to its owner’s hand. Equip.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "40": {
             "Name": "NPH_InkNexus",
             "Regular": "^dlabzǆfyll'əqd.^θəɢð.^bɒb'g.^dlabzǆfyll'əqd-φyrx-dlabzǆfyll-qxuna'kφe'x-žkiɢəronɣ-ʁitapeq.^ɣwitøšq-ɣwiɮəɣð-pareɴ.",
             "English": "Inkmoth Nexus. Land. Add. Inkmoth Nexus becomes a 1/1 Phyrexian Blinkmoth artifact creature with flying and infect until end of turn. It’s still a land. ",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "41": {
             "Name": "C19_Krrik",
             "Regular": "^ǩərrk 'i'yl-jɒ'gmo'θ.^ʁajgφe'x φyrx-šχʁɒčx-'əqoq'.^ɣwinsa'qraφoj.^xwe-aχəw'-'štrχanj-ʁihuqɬgøťut xweqit-nsa'q-huqɬgøťut.^baxuφ-faxt-ʁums-buǩuð-lo-juχẅķ-əšqǩərrk-'i'yl-jɒ'gmo'θ-ʁiţə'u'.",
             "English": "K'rrik, Son of Yawgmoth. Legendary Creature — Phyrexian Horror Minion. Lifelink. For each B in a cost, you may pay 2 life rather than pay that mana. Whenever you cast a black spell, put a +1/+1 counter on K'rrik, Son of Yawgmoth.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "42": {
             "Name": "ONE_Arena",
             "Regular": "^φyrx-qab'θəxt.^myθž.^baxuφ-ðlabzqpønuč-'iixtfu'q-lo-ɢwinš-mprasuw-loxə-sər-huqøt.",
             "English": "Phyrexian Arena. Enchantment. At the beginning of your upkeep, you draw a card and you lose 1 life.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "43": {
             "Name": "NPH_Annex",
             "Regular": "^norn-ǩlətkyk.^qxuna'k.^əx-πee'x-čkɒquq-qə-qxuπul-xexə-ʁajgnmhupmeentðə-gʁyčtx-loəq-qxuπyl-xe'štaχəw'φe'x'ə-huqɬgøtet.",
             "English": "Norn's Annex. Artifact. Creatures can’t attack you or planeswalkers you control unless their controller pays W/P for each of those creatures.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "44": {
             "Name": "ONE_Jace",
             "Regular": "^ǆes jnaķm-'təɮirt.^ʁajgnmhupment ǆes.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-φɒ'ɢnagɮronuɣ-tapuq.^lo-nɒqč-žyxut-loxə-sər-ẅəpek.^ba-θuqxiwwθəxt-lyφkorxgrǆ'ynppðə-ɢwiinš-lo-mprasuw.^bu-ɢwinš-mprasuw.^lo-nɒqč-žyxut-loxə-sər-ķi-tøwp-ẅəpyk.",
             "English": "Jace, the Perfected Mind. Legendary Planeswalker — Jace. Compleated. Until your next turn, up to one target creature gets -3/-0. Target player mills three cards. Then if a graveyard has twenty or more cards in it, you draw three cards. Otherwise, you draw a card. Target player mills three times X cards.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "45": {
             "Name": "ONE_Vraska",
             "Regular": "^vraskə' πnokx-'afy'.^ʁajgnmhufment vraskə'.^plinexs.^lo-ɢwinš-mprasuw-loxə-sər-huǧt.^lo-jektlexøq.^lo-φe'x-žyxut-qxuna'k-ǧliŋš-tlexeq.^xe-sall-ɢwinšπøøkkɣwii'txə-'oparxuχ.^xe-tapeq-no'b'ugum-'ɒpsopšikt-'ii-ma'n-babug.^lo-nɒqč-žyxut-baxe-grmɒɣg-ʁiheeɬeɬ-dlgeftʁiheeɮɮ-lo-tapeq.",
             "English": "Vraska, Betrayal's Sting. Legendary Planeswalker — Vraska. Compleated. You draw a card and you lose 1 life. Proliferate. Target creature becomes a Treasure artifact with “Sacrifice this artifact: Add one mana of any color” and loses all other card types and abilities. If target player has fewer than nine poison counters, they get a number of poison counters equal to the difference.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "46": {
             "Name": "ONE_Lukka",
             "Regular": "^lyku' keɴt-hfwežφ.^ʁajgnmhupment lyku'.^plinexs.^lo-babug.^ǩaπa-ɢəma'n-φee'xčtəčpliɣnɣwi'ytðə-xe'ii'ə-ʁihisup.^lo-ɮiwwφyrxpnpe'kφe'xfa'ipθ-naǩum.^xe-ɬaʁq-tapeq.^lo-'ɒpasərθφee'xʁajgnmhuupmentxəðə-žyxut.^lo-lyku'-sər-'ɒpžyyxgɮəsuv-ðpačuk.^'u-qə-qxuπul-'uxə-ðazpnkorxnu'fφee'x-loxuπ-xwi't-čtəčpliɣun-ʁiǆ'ynpp.",
             "English": "Lukka, Bound to Ruin. Legendary Planeswalker — Lukka. Compleated. Add R/G. Spend this mana only to cast creature spells or activate abilities of creatures. Create a 3/3 green Phyrexian Beast creature token with toxic 1. Lukka deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is the greatest power among creatures you controlled as you activated this ability.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "47": {
             "Name": "ONE_Nissa",
             "Regular": "^nisə' pnmenθ-naķmnsa'q.^ʁajgnmhupment nisə'.^plinexs.^lo-ɮiwwφyrxšχʁɒčxφe'xfa'ipθ-naǩum xexə-nisə' pnmenθ-naķmnsa'q-huqtkeɴyt-ʁiǆ'ynpep.^lo-qxuna'k-qab'θəxtðə-žyxut-loxə-qabu'.^xe-qə-qxuπul-xexə-πee'x-sər-aχəw'oɢθəsð-ɣwikfɒǧpən'gxə-žkiɢəronɣ-tapyq.",
             "English": "Nissa, Ascended Animist. Legendary Planeswalker — Nissa. Compleated. Create an X/X green Phyrexian Horror creature token, where X is Nissa, Ascended Animist’s loyalty. Destroy target artifact or enchantment. Until end of turn, creatures you control get +1/+1 for each Forest you control and gain trample.",
-            "Notes": "Enchantment is written here with the word for arena."
+            "Notes": "Enchantment is written here with the word for arena.",
+            "Breakdown": null
         },
         "48": {
             "Name": "ONE_Nahiri",
             "Regular": "^nhirii' ŋyqχ.^ʁajgnmhupment nhirii'.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-ɢəφe'x-nɒqč-φɒ'ɢnagɮronuɣ-xet'eaχəw'twøǩx'ə-ʁigʁičtex.^lo-ɢwinš-šteǧuʁ-loxə-ɢwinš-mprasuw.^lo-qərχanjasərθgrmɒɣgnhirii'huqtkeɴyt-xexə-φe'xequipmentðə-ɣẅθuqxiwwθəxut-žyxut-loxə-ɢəɢwinš-čxət'.^lo-qə-ɢəɢwinš-tluxtnaķm-loxə-fa'ipθ-naǩum.^xe-ɢəɢwinš-ɣwiziklvuwk-ʁitapyq.^baxuφ-πlnaķmqpenč-'iixtfu'q lo-ɢəɢwinš-čxəťu'.",
             "English": "Nahiri, the Unforgiving. Legendary Planeswalker — Nahiri. Compleated. Until your next turn, up to one target creature attacks a player each combat if able. Discard a card, then draw a card. Exile target creature or Equipment card with mana value less than Nahiri’s loyalty from your graveyard. Create a token that’s a copy of it. That token gains haste. Exile it at the beginning of the next end step.",
-            "Notes": "An instance of equipment here is just written in english."
+            "Notes": "An instance of equipment here is just written in english.",
+            "Breakdown": null
         },
         "49": {
             "Name": "ONE_Trailer",
             "Regular": "^lo-kytθ-əxjnɒķum-ǩlɒkem.^xba-wǆetɢ-θxhikeb lo-πyyrex-ťraǩaq.^ǩaπa-əxtuneem-'aliθat.^lo-φyrxkeθəɢyð-'št'ečel'-'əpyryx-keθəɢð-'ičuq.^xe-ťəəmen-qə'ičyq-ǩaπa-keφe'x.^xe-čǩaaǧeq-naķmkep'ee'ox.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^lo-jnaķm-pnsča'eθ.^ǩaπa-š'iimashaǩ.",
             "English": null,
-            "Notes": "English voiceover does not directly translate to written text on screen."
+            "Notes": "English voiceover does not directly translate to written text on screen.",
+            "Breakdown": null
         },
         "50": {
             "Name": "ONE_Solphim",
             "Regular": "^ǩaπa-šoprapt-φyrxkeθəɢð-χtena.^φyrxkevəɢð.^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.^lo-jnaķm-pnsča'eθ.^naķmpihš.^φyrxkevəɢð.^ǩaπa-əxtuneem-'aliθat.^naķmzept.",
             "English": null,
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "51": {
             "Name": "Keyboard",
             "Regular": "^ɮøht.^πaǆť.^plinexs.^qxuπyl.^nɒţm.^kšķiπχ.^θomk.",
             "English": null,
-            "Notes": "Bad resolution makes it hard to get some of the glyphs right."
+            "Notes": "Bad resolution makes it hard to get some of the glyphs right.",
+            "Breakdown": null
         },
         "52": {
             "Name": "NPH_Misstep",
             "Regular": "^ɬšeɴazyv-təɮirt.^ziklʁums.^lo-φrχanjasərθ'ii'ʁums-žyxut-loxə-šuǧun.",
             "English": "Mental Misstep. Instant. Counter target spell with mana value 1.",
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "53": {
             "Name": "ONE_Panel",
             "Regular": "^lo-ronuɣ.^ŋo-ronoɣ.^xe-twøǩox.^əl-kfɒ'ǧa'.^lo-φarθkyžun-ɬšeɴazyv-təɮirat.",
             "English": null,
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         },
         "54": {
             "Name": "MOM_Teaser",
             "Regular": "^əx-φyrxkeθəɢð-jəŋθm-štodam.^šǩa-š'hupš-pn'ẅ'uzɮ.^əx-twøǩx-gøẅruφ.^ǩaπa-š'iimashaǩ.",
             "English": null,
-            "Notes": null
+            "Notes": null,
+            "Breakdown": null
         }
     }
 }

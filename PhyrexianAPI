@@ -1547,7 +1547,7 @@
                 "C19_Krrik",
                 "NPH_Misstep"
             ],
-            "class": "noun",
+            "class": "noun,verb",
             "native": true,
             "notes": null,
             "type": "root",
@@ -2760,29 +2760,6 @@
             "confidence": "solid"
         },
         "135": {
-            "phyrexian": "twøǩx",
-            "IPA": "twøk'x",
-            "plural": "twøøǩx",
-            "translation": "Combat",
-            "root": [
-                "twøǩx"
-            ],
-            "composition": null,
-            "examples": [
-                "NPH_Ura",
-                "NPH_Sheo",
-                "ONE_Norn",
-                "ONE_Nahiri",
-                "ONE_Panel",
-                "MOM_Teaser"
-            ],
-            "class": "noun",
-            "native": true,
-            "notes": null,
-            "type": "root",
-            "confidence": "solid"
-        },
-        "136": {
             "phyrexian": "močq",
             "IPA": "motʃq",
             "plural": false,
@@ -2801,7 +2778,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "137": {
+        "136": {
             "phyrexian": "φlnaķm",
             "IPA": "ɸlnakʰm",
             "plural": false,
@@ -2819,7 +2796,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "138": {
+        "137": {
             "phyrexian": "bwedn",
             "IPA": "bwedn",
             "plural": "bweedn",
@@ -2837,7 +2814,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "139": {
+        "138": {
             "phyrexian": "θuqx",
             "IPA": "θuqx",
             "plural": "θuuqx",
@@ -2861,7 +2838,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "140": {
+        "139": {
             "phyrexian": "čəxkefa'qsemr",
             "IPA": "tʃəxkefaʔqsemr",
             "plural": false,
@@ -2877,7 +2854,7 @@
             "type": "composite",
             "confidence": "likely"
         },
-        "141": {
+        "140": {
             "phyrexian": "χɬkevk",
             "IPA": "χɬkevk",
             "plural": false,
@@ -2893,7 +2870,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "142": {
+        "141": {
             "phyrexian": "aχəw'",
             "IPA": "aχəwʔ",
             "plural": false,
@@ -2915,7 +2892,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "143": {
+        "142": {
             "phyrexian": "xɬiwj",
             "IPA": "xɬiwj",
             "plural": false,
@@ -2933,7 +2910,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "144": {
+        "143": {
             "phyrexian": "ɢţrɒsd",
             "IPA": "ɢtʰrɒsd",
             "plural": "ɢţrɒɒsd",
@@ -2951,7 +2928,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "145": {
+        "144": {
             "phyrexian": "ǆ'ynpp",
             "IPA": "dʒʔynpp",
             "plural": false,
@@ -2970,7 +2947,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "146": {
+        "145": {
             "phyrexian": "ɢiss",
             "IPA": "ɢiss",
             "plural": "ɢiiss",
@@ -2989,7 +2966,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "147": {
+        "146": {
             "phyrexian": "ķoɮǩm",
             "IPA": "kʰoɮk'm",
             "plural": false,
@@ -3008,7 +2985,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "148": {
+        "147": {
             "phyrexian": "zikl",
             "IPA": "zikl",
             "plural": "zikl",
@@ -3033,7 +3010,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "149": {
+        "148": {
             "phyrexian": "mo'θ",
             "IPA": "moʔθ",
             "plural": "moo'θ",
@@ -3057,7 +3034,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "150": {
+        "149": {
             "phyrexian": "jɒ'gmo'yθ",
             "IPA": "jɒʔgmoʔyθ",
             "plural": "jɒ'gmoo'yθ",
@@ -3074,7 +3051,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "151": {
+        "150": {
             "phyrexian": "xwixč",
             "IPA": "xwixtʃ",
             "plural": "xwiixč",
@@ -3093,7 +3070,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "152": {
+        "151": {
             "phyrexian": "ķuɮaθǩv",
             "IPA": "kʰuɮaθk'v",
             "plural": false,
@@ -3112,7 +3089,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "153": {
+        "152": {
             "phyrexian": "bɬølπ",
             "IPA": "bɬølp'",
             "plural": false,
@@ -3130,7 +3107,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "154": {
+        "153": {
             "phyrexian": "ɣɒzɢ",
             "IPA": "ɣɒzɢ",
             "plural": false,
@@ -3148,7 +3125,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "155": {
+        "154": {
             "phyrexian": "'əpyrx",
             "IPA": "ʔəpyrx",
             "plural": "'əpyyrx",
@@ -3169,7 +3146,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "156": {
+        "155": {
             "phyrexian": "tapq",
             "IPA": "tapq",
             "plural": false,
@@ -3198,7 +3175,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "157": {
+        "156": {
             "phyrexian": "ɢytx",
             "IPA": "ɢytx",
             "plural": "ɢyytx",
@@ -3219,7 +3196,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "158": {
+        "157": {
             "phyrexian": "φ'kitv",
             "IPA": "ɸʔkitv",
             "plural": false,
@@ -3238,7 +3215,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "159": {
+        "158": {
             "phyrexian": "'ɒjbť",
             "IPA": "ʔɒjbt'",
             "plural": "'ɒɒjbť",
@@ -3257,7 +3234,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "160": {
+        "159": {
             "phyrexian": "πllupsθəxt",
             "IPA": "p'llupsθəxt",
             "plural": "πllupsθəəxt",
@@ -3276,7 +3253,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "161": {
+        "160": {
             "phyrexian": "šχa'θ",
             "IPA": "ʃχaʔθ",
             "plural": false,
@@ -3299,7 +3276,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "162": {
+        "161": {
             "phyrexian": "ɴk'ykg",
             "IPA": "ɴkʔykg",
             "plural": "ɴk'yykg",
@@ -3315,7 +3292,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "163": {
+        "162": {
             "phyrexian": "əxťeķibrs",
             "IPA": "əxt'ekʰibrs",
             "plural": false,
@@ -3331,7 +3308,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "164": {
+        "163": {
             "phyrexian": "gagg",
             "IPA": "gagg",
             "plural": "gaagg",
@@ -3349,7 +3326,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "165": {
+        "164": {
             "phyrexian": "ɣwiəxťeθuqx",
             "IPA": "ɣwiəxt'eθuqx",
             "plural": false,
@@ -3367,7 +3344,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "166": {
+        "165": {
             "phyrexian": "əxtunm",
             "IPA": "əxtunm",
             "plural": "əxtuunm",
@@ -3388,7 +3365,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "167": {
+        "166": {
             "phyrexian": "grmɒɣg",
             "IPA": "grmɒɣg",
             "plural": false,
@@ -3407,7 +3384,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "168": {
+        "167": {
             "phyrexian": "nsa'q",
             "IPA": "nsaʔq",
             "plural": "nsaa'q",
@@ -3428,7 +3405,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "169": {
+        "168": {
             "phyrexian": "jɒ'g",
             "IPA": "jɒʔg",
             "plural": "jɒɒ'g",
@@ -3453,7 +3430,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "170": {
+        "169": {
             "phyrexian": "naķm",
             "IPA": "nakʰm",
             "plural": "naaķm",
@@ -3474,7 +3451,6 @@
                 "Swamp_Lore",
                 "Merch",
                 "MTGA",
-                "ONE_Jace_Art",
                 "ONE_Island",
                 "ONE_Mountain",
                 "BeadleGrimms",
@@ -3493,7 +3469,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "171": {
+        "170": {
             "phyrexian": "təɮirt",
             "IPA": "təɮirt",
             "plural": "təɮiirt",
@@ -3512,7 +3488,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "172": {
+        "171": {
             "phyrexian": "mrodn",
             "IPA": "mrodn",
             "plural": "mroodn",
@@ -3524,15 +3500,16 @@
             "examples": [
                 "NPH_Ura",
                 "NPH_Trailer",
-                "Swamp_Lore"
+                "Swamp_Lore",
+                "MTGA"
             ],
             "class": "noun",
             "native": false,
             "notes": null,
-            "type": "name",
+            "type": "root",
             "confidence": "solid"
         },
-        "173": {
+        "172": {
             "phyrexian": "korxgr",
             "IPA": "korxgr",
             "plural": false,
@@ -3553,7 +3530,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "174": {
+        "173": {
             "phyrexian": "žɒðʁ",
             "IPA": "ʒɒðʁ",
             "plural": "žɒɒðʁ",
@@ -3573,7 +3550,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "175": {
+        "174": {
             "phyrexian": "jɒ'gžɒðʁ",
             "IPA": "jɒʔgʒɒðʁ",
             "plural": "jɒ'gžɒɒðʁ",
@@ -3593,7 +3570,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "176": {
+        "175": {
             "phyrexian": "vuwk",
             "IPA": "vuwk",
             "plural": false,
@@ -3614,7 +3591,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "177": {
+        "176": {
             "phyrexian": "ǆfyll",
             "IPA": "dʒfyll",
             "plural": "ǆfyyll",
@@ -3630,7 +3607,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "178": {
+        "177": {
             "phyrexian": "ɢnagɮ",
             "IPA": "ɢnagɮ",
             "plural": false,
@@ -3652,7 +3629,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "179": {
+        "178": {
             "phyrexian": "šoprapt",
             "IPA": "ʃoprapt",
             "plural": false,
@@ -3671,7 +3648,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "180": {
+        "179": {
             "phyrexian": "'əqd",
             "IPA": "ʔəqd",
             "plural": "'əqd",
@@ -3689,7 +3666,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "181": {
+        "180": {
             "phyrexian": "rukx",
             "IPA": "rukx",
             "plural": "rukx",
@@ -3707,7 +3684,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "182": {
+        "181": {
             "phyrexian": "rukxtekt",
             "IPA": "rukxtekt",
             "plural": "rukxtekt",
@@ -3726,7 +3703,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "183": {
+        "182": {
             "phyrexian": "'ug'əχw",
             "IPA": "ʔugʔəχw",
             "plural": "ug'əəχw",
@@ -3742,7 +3719,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "184": {
+        "183": {
             "phyrexian": "sall",
             "IPA": "sall",
             "plural": false,
@@ -3761,7 +3738,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "185": {
+        "184": {
             "phyrexian": "jnaķm",
             "IPA": "jnakʰm",
             "plural": false,
@@ -3775,7 +3752,6 @@
                 "DOM_Scriptures",
                 "Merch",
                 "MTGA",
-                "ONE_Jace_Art",
                 "ONE_Island",
                 "BeadleGrimms",
                 "ONE_Live",
@@ -3790,7 +3766,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "186": {
+        "185": {
             "phyrexian": "qpenčodrm",
             "IPA": "qpentʃodrm",
             "plural": "qpenčoodrm",
@@ -3808,7 +3784,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "187": {
+        "186": {
             "phyrexian": "ŋeǩydm",
             "IPA": "ŋek'ydm",
             "plural": false,
@@ -3824,7 +3800,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "188": {
+        "187": {
             "phyrexian": "jiǥgɣwi'v",
             "IPA": "jigʰgɣwiʔv",
             "plural": "jiǥgɣwii'v",
@@ -3840,7 +3816,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "189": {
+        "188": {
             "phyrexian": "ţə''",
             "IPA": "tʰəʔʔ",
             "plural": false,
@@ -3860,7 +3836,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "190": {
+        "189": {
             "phyrexian": "mɒɣg",
             "IPA": "mɒɣg",
             "plural": false,
@@ -3881,7 +3857,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "191": {
+        "190": {
             "phyrexian": "qẅrɮwi'g",
             "IPA": "qɯrɮwiʔg",
             "plural": "qẅrɮwii'g",
@@ -3898,7 +3874,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "192": {
+        "191": {
             "phyrexian": "'iţpənn",
             "IPA": "ʔitʰpənn",
             "plural": false,
@@ -3914,7 +3890,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "193": {
+        "192": {
             "phyrexian": "hfwežφ",
             "IPA": "hfweʒɸ",
             "plural": "hfweežφ",
@@ -3932,7 +3908,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "194": {
+        "193": {
             "phyrexian": "føvɣ",
             "IPA": "føvɣ",
             "plural": "føøvɣ",
@@ -3950,7 +3926,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "195": {
+        "194": {
             "phyrexian": "ɮportt",
             "IPA": "ɮportt",
             "plural": "ɮpoortt",
@@ -3968,7 +3944,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "196": {
+        "195": {
             "phyrexian": "rukm",
             "IPA": "rukm",
             "plural": false,
@@ -3992,7 +3968,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "197": {
+        "196": {
             "phyrexian": "txš",
             "IPA": "txʃ",
             "plural": false,
@@ -4011,7 +3987,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "198": {
+        "197": {
             "phyrexian": "'i'l",
             "IPA": "ʔiʔl",
             "plural": "'ii'l",
@@ -4029,7 +4005,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "199": {
+        "198": {
             "phyrexian": "θwiχš",
             "IPA": "θwiχʃ",
             "plural": false,
@@ -4049,7 +4025,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "200": {
+        "199": {
             "phyrexian": "hisp",
             "IPA": "hisp",
             "plural": false,
@@ -4067,7 +4043,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "201": {
+        "200": {
             "phyrexian": "čpan'g",
             "IPA": "tʃpanʔg",
             "plural": false,
@@ -4085,7 +4061,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "202": {
+        "201": {
             "phyrexian": "'af'",
             "IPA": "ʔafʔ",
             "plural": "'aaf'",
@@ -4103,7 +4079,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "203": {
+        "202": {
             "phyrexian": "lups",
             "IPA": "lups",
             "plural": false,
@@ -4122,7 +4098,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "204": {
+        "203": {
             "phyrexian": "zťøsǆ",
             "IPA": "zt'øsdʒ",
             "plural": false,
@@ -4140,7 +4116,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "205": {
+        "204": {
             "phyrexian": "pnsča'θ",
             "IPA": "pnstʃaʔθ",
             "plural": false,
@@ -4151,7 +4127,6 @@
             "composition": null,
             "examples": [
                 "Merch",
-                "ONE_Jace_Art",
                 "BeadleGrimms",
                 "ONE_Trailer",
                 "ONE_Solphim"
@@ -4162,7 +4137,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "206": {
+        "205": {
             "phyrexian": "χherukm",
             "IPA": "χheruk'm",
             "plural": "χheruuǩm",
@@ -4178,7 +4153,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "207": {
+        "206": {
             "phyrexian": "wtultm",
             "IPA": "wtultm",
             "plural": false,
@@ -4196,7 +4171,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "208": {
+        "207": {
             "phyrexian": "fedχstsqylm",
             "IPA": "fedχstsqylm",
             "plural": "fedχstsqyylm",
@@ -4212,7 +4187,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "209": {
+        "208": {
             "phyrexian": "tøwp",
             "IPA": "tøwp",
             "plural": false,
@@ -4230,7 +4205,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "210": {
+        "209": {
             "phyrexian": "ŋyqχ",
             "IPA": "ŋyqχ",
             "plural": "ŋyyqχ",
@@ -4248,7 +4223,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "211": {
+        "210": {
             "phyrexian": "žki",
             "IPA": "ʒki",
             "plural": false,
@@ -4269,7 +4244,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "212": {
+        "211": {
             "phyrexian": "xutšv",
             "IPA": "xutʃv",
             "plural": "xuutšv",
@@ -4288,7 +4263,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "213": {
+        "212": {
             "phyrexian": "əixiww",
             "IPA": "əixiww",
             "plural": "əixiiww",
@@ -4304,7 +4279,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "214": {
+        "213": {
             "phyrexian": "ment",
             "IPA": "ment",
             "plural": false,
@@ -4330,7 +4305,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "215": {
+        "214": {
             "phyrexian": "šdeχd",
             "IPA": "ʃdeχd",
             "plural": "šdeeχd",
@@ -4350,7 +4325,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "216": {
+        "215": {
             "phyrexian": "'iǆe't",
             "IPA": "ʔidʒeʔt",
             "plural": "'iǆee't",
@@ -4369,7 +4344,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "217": {
+        "216": {
             "phyrexian": "keθəɢð",
             "IPA": "keθəɢð",
             "plural": "keθəəɢð",
@@ -4394,7 +4369,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "218": {
+        "217": {
             "phyrexian": "čkaqq",
             "IPA": "tʃkaqq",
             "plural": "čkaaqq",
@@ -4413,7 +4388,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "219": {
+        "218": {
             "phyrexian": "mɴyrx",
             "IPA": "mɴyrx",
             "plural": "mɴyyrx",
@@ -4431,7 +4406,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "220": {
+        "219": {
             "phyrexian": "χiɢɬ",
             "IPA": "χiɢɬ",
             "plural": "χiiɢɬ",
@@ -4449,7 +4424,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "221": {
+        "220": {
             "phyrexian": "ǆko'χ",
             "IPA": "dʒkoʔχ",
             "plural": false,
@@ -4467,7 +4442,7 @@
             "type": "root",
             "confidence": "moderate"
         },
-        "222": {
+        "221": {
             "phyrexian": "huqet",
             "IPA": "huqet",
             "plural": false,
@@ -4486,7 +4461,7 @@
             "type": "root",
             "confidence": "moderate"
         },
-        "223": {
+        "222": {
             "phyrexian": "ɮɒ'ɣ",
             "IPA": "ɮɒʔɣ",
             "plural": "ɮɒɒ'ɣ",
@@ -4504,7 +4479,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "224": {
+        "223": {
             "phyrexian": "oparxχ",
             "IPA": "ʔoparxχ",
             "plural": "'opaarxχ",
@@ -4521,7 +4496,7 @@
             "type": "unclear",
             "confidence": "likely"
         },
-        "225": {
+        "224": {
             "phyrexian": "raφoj",
             "IPA": "raɸoj",
             "plural": "raaφoj",
@@ -4538,7 +4513,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "226": {
+        "225": {
             "phyrexian": "dlabz",
             "IPA": "dlabz",
             "plural": "dlaabz",
@@ -4558,7 +4533,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "227": {
+        "226": {
             "phyrexian": "təmn",
             "IPA": "təmn",
             "plural": "təəmn",
@@ -4576,7 +4551,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "228": {
+        "227": {
             "phyrexian": "ǩytπt",
             "IPA": "k'ytp't",
             "plural": "ǩyytπt",
@@ -4595,7 +4570,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "229": {
+        "228": {
             "phyrexian": "tunm",
             "IPA": "tunm",
             "plural": false,
@@ -4616,7 +4591,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "230": {
+        "229": {
             "phyrexian": "kyžn",
             "IPA": "kyʒn",
             "plural": "kyyžn",
@@ -4634,7 +4609,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "231": {
+        "230": {
             "phyrexian": "vešt",
             "IPA": "veʃt",
             "plural": false,
@@ -4652,7 +4627,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "232": {
+        "231": {
             "phyrexian": "kašpl",
             "IPA": "kaʃpl",
             "plural": false,
@@ -4671,7 +4646,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "233": {
+        "232": {
             "phyrexian": "solm",
             "IPA": "solm",
             "plural": false,
@@ -4687,7 +4662,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "234": {
+        "233": {
             "phyrexian": "φarθ",
             "IPA": "ɸarθ",
             "plural": "φaarθ",
@@ -4705,7 +4680,7 @@
             "type": "root",
             "confidence": "moderate"
         },
-        "235": {
+        "234": {
             "phyrexian": "'əkš",
             "IPA": "ʔəkʃ",
             "plural": "'əəkš",
@@ -4723,7 +4698,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "236": {
+        "235": {
             "phyrexian": "koqšqle't",
             "IPA": "koqʃqleʔt",
             "plural": "koqšqlee't",
@@ -4739,7 +4714,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "237": {
+        "236": {
             "phyrexian": "grjəťrk",
             "IPA": "grjət'rk",
             "plural": "grjəəťrk",
@@ -4757,7 +4732,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "238": {
+        "237": {
             "phyrexian": "tǆyφt",
             "IPA": "tdʒyɸt",
             "plural": "tǆyyφt",
@@ -4775,7 +4750,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "239": {
+        "238": {
             "phyrexian": "twøφt",
             "IPA": "twøɸt",
             "plural": "twøøφt",
@@ -4793,7 +4768,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "240": {
+        "239": {
             "phyrexian": "xe",
             "IPA": "xe",
             "plural": false,
@@ -4833,7 +4808,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "241": {
+        "240": {
             "phyrexian": "'u",
             "IPA": "ʔu",
             "plural": false,
@@ -4858,7 +4833,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "242": {
+        "241": {
             "phyrexian": "ŋo",
             "IPA": "ŋo",
             "plural": false,
@@ -4874,7 +4849,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "243": {
+        "242": {
             "phyrexian": "ǩaπa",
             "IPA": "k'ap'a",
             "plural": false,
@@ -4902,7 +4877,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "244": {
+        "243": {
             "phyrexian": "ba",
             "IPA": "ba",
             "plural": false,
@@ -4935,7 +4910,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "245": {
+        "244": {
             "phyrexian": "bu",
             "IPA": "bu",
             "plural": false,
@@ -4952,7 +4927,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "246": {
+        "245": {
             "phyrexian": "xwe",
             "IPA": "xwe",
             "plural": false,
@@ -4972,7 +4947,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "247": {
+        "246": {
             "phyrexian": "lo",
             "IPA": "lo",
             "plural": false,
@@ -5017,7 +4992,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "248": {
+        "247": {
             "phyrexian": "ðə",
             "IPA": "ðə",
             "plural": false,
@@ -5031,7 +5006,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "249": {
+        "248": {
             "phyrexian": "xə",
             "IPA": "xə",
             "plural": false,
@@ -5065,7 +5040,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "250": {
+        "249": {
             "phyrexian": "əx",
             "IPA": "əx",
             "plural": false,
@@ -5085,7 +5060,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "251": {
+        "250": {
             "phyrexian": "əl",
             "IPA": "əl",
             "plural": false,
@@ -5104,23 +5079,21 @@
             "type": "marker",
             "confidence": "likely"
         },
-        "252": {
-            "phyrexian": "ha",
-            "IPA": "ha",
+        "251": {
+            "phyrexian": "'a",
+            "IPA": "ʔa",
             "plural": false,
             "translation": "obligation/necessity (must)",
             "root": false,
             "composition": 0.0,
-            "examples": [
-                "NPH_Norn"
-            ],
+            "examples": [],
             "class": null,
             "native": true,
             "notes": null,
             "type": "marker",
             "confidence": "poor"
         },
-        "253": {
+        "252": {
             "phyrexian": "qə",
             "IPA": "qə",
             "plural": false,
@@ -5147,7 +5120,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "254": {
+        "253": {
             "phyrexian": "ťe",
             "IPA": "t'e",
             "plural": false,
@@ -5166,7 +5139,7 @@
             "type": "marker",
             "confidence": "moderate"
         },
-        "255": {
+        "254": {
             "phyrexian": "əq",
             "IPA": "əq",
             "plural": false,
@@ -5182,7 +5155,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "256": {
+        "255": {
             "phyrexian": "xẅots",
             "IPA": "xɯots",
             "plural": false,
@@ -5199,7 +5172,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "257": {
+        "256": {
             "phyrexian": "xuφ",
             "IPA": "xuφ",
             "plural": false,
@@ -5227,7 +5200,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "258": {
+        "257": {
             "phyrexian": "qilx",
             "IPA": "qilx",
             "plural": false,
@@ -5246,7 +5219,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "259": {
+        "258": {
             "phyrexian": "qit",
             "IPA": "qit",
             "plural": false,
@@ -5268,7 +5241,7 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "260": {
+        "259": {
             "phyrexian": "šta",
             "IPA": "ʃta",
             "plural": false,
@@ -5356,14 +5329,14 @@
             "Regular": "^'ušta.^φyrxkeθəɢð-ɣẅəixiww-səkţɢiss.^šχa'θ-jɒ'gmo'θ-jɒɒ'g-mo'yθ-jnaķem-ʁirukem.^xẅots-šχa'θɢiss-'iixtfu'eq.",
             "English": "From void evolved Phyrexia. Great Yawgmoth, Father of Machines, saw its perfection. Thus the Grand Evolution began.",
             "Notes": "A couple glyphs are wrong in this art piece. See the artist's blueprint for the correct version. The translation shows up on Dark Ritual from Urza's Saga.",
-            "Breakdown": "(historic) phyrexian-world from_void ?-evolution great yawgmoth [pl]machine [4>3]father [3>4]perfection ?_[3>4]see.(thus) great-evolution [3>4]begin"
+            "Breakdown": "(past-narrative) phyrexian-world from_void ?-evolution great yawgmoth [pl]machine [4>3]father [3>4]perfection ?_[3>4]see.(thus) great-evolution [3>4]begin"
         },
         "10": {
             "Name": "UMA_Altar",
             "Regular": "^'ušta.^əxtxš.",
             "English": "Unskin.",
             "Notes": "Deduced from the card's flavor text.",
-            "Breakdown": "(historic) unskin"
+            "Breakdown": "(past-narrative) unskin"
         },
         "11": {
             "Name": "SLD_Swamp",
@@ -5430,10 +5403,10 @@
         },
         "20": {
             "Name": "DMU_Ajani",
-            "Regular": "^'əǆɒnii' veštganwr.^ʁajgnmhupment 'əǆɒnii'.^plinexs.^lo-tektθəx'ut-'iitčɢwinyš-kreπug.^ba-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-ɢzyzšel-vuw'uk-lo-nɒqul.^bu-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-vuw'uk-xwe-tektθəxut-ǩeǆylqitsodrm.^lo-πee'x-xeəxkorxgrķi'ə-žyxut.^lo-ķi-juuχẅķ-kuplɢəπee'x-χɬkevuk.^ɢəπee'x-ɣwipnrukm-žkiɢəronɣ-tapyq.^lo-čkalakm-naǩum.^lo-tapeq-baxuφ-φe'x-ʁajgnmhupmentðə-buǩuð lo-əxnɒqč-žyxut loxə-ķu-ʁiheeɬɬ-θapeq.",
+            "Regular": "^'əǆɒnii' veštganwr.^ʁajgnmhupment 'əǆɒnii'.^plinexs.^lo-tektθəx'ut-'iitčɢwinyš-kreπug.^ba-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-ɢzyzšel-vuw'uk-lo-nɒqul.^bu-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-vuw'uk-xwe-tektθəxut-ǩeǆylqitsodrm.^lo-πee'x-xeəxkorxgrķi'ə-žyxut.^lo-ķi-juuχẅķ-kuplɢəπee'x-χɬkevuk.^ɢəπee'x-ɣwipnrukm-žkiɢəronɣ-tapyq.^lo-čkalakm-naǩum.^lo-tapeq:baxuφ-φe'x-ʁajgnmhupmentðə-buǩuð lo-əxnɒqč-žyxut loxə-ķu-ʁiheeɬɬ-θapeq.",
             "English": "Ajani, Sleeper Agent. Legendary Planeswalker — Ajani. Compleated. Reveal the top card of your library. If it’s a creature or planeswalker card, put it into your hand. Otherwise, you may put it on the bottom of your library. Distribute three +1/+1 counters among up to three target creatures. They gain vigilance until end of turn. You get an emblem with “Whenever you cast a creature or planeswalker spell, target opponent gets two poison counters.”",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "ajani sleeper-agent. legendary-planeswalker ajani.compleat.(imperative) [2>3]library first-[4>3]card [2>3] reveal.(if) this_card ?_creature ?_planeswalker_or [3>4]? [2>3]move (imperative) [2>2]hand.(ifnot) this_card ?_creature ?planeswalker_or [2>3]move (may) [2>?]library bottom.(imperative) [pl]creature frequency_not_more_than_three [2>?]target.(imperative) three [pl]counter among_this_[pl]creature [2>3]distribute.this [pl]creature vigilance for_this_turn [4>3]get.(imperative) emblem [2>3]make.(imperative) [3>4]get.(if-when) creature planeswalker_or (ifnot) (imperative) opponent [2>?]target (imperative-and) three ?_[pl]poison [3>4]get"
         },
         "21": {
             "Name": "Ads",
@@ -5454,14 +5427,14 @@
             "Regular": "^čəxkefa'qsemr.^ziklʁums.^lo-φe'x-žyxut-loxə-žkiɢəronɣ-tapyq.",
             "English": "Dismember. Instant. Target creature gets -5/-5 until end of turn.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "dismember.instant.(imperative) creature [2>?]target (imperative-and) for_this_turn {-5/-5} [4>3]get"
         },
         "24": {
             "Name": "MBS_PsyCrawl",
             "Regular": "^jiǥgɣwi'v-bwedn.^qxuna'kφe'x φyrx-šχʁɒčx.^xe-jiǥgɣwi'v-bwedn-nu'fkoqšqle'yt-xə-qə-dlnɒqul-xexə-asərθ-wɢwiinš-ʁiǆ'ynπup.^baxuφ-ɢwinš-mprasuw-lo-aχəw'əxnɒqč-sər-huqet.",
             "English": "Psychosis Crawler. Artifact Creature — Phyrexian Horror. Psychosis Crawler’s power and toughness are each equal to the number of cards in your hand. Whenever you draw a card, each opponent loses 1 life.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "psychosis crawler.artifact-creature phyrexian horror.(indicative) psychosis crawler power-[4>3]toughness (and) (that) [2>2]hand (indicative-and) each [pl.]card ?_[2>3]equal.(if-when) card [2>3]draw (imperative) each_opponent by {1} [3>4]hurt"
         },
         "25": {
             "Name": "MTGA",
@@ -5471,202 +5444,195 @@
             "Breakdown": null
         },
         "26": {
-            "Name": "ONE_Jace_Art",
-            "Regular": "^jnaķmpnsča'eθ.",
-            "English": null,
-            "Notes": null,
-            "Breakdown": null
-        },
-        "27": {
             "Name": "ONE_Norn",
-            "Regular": "^'elš-norn jɒ'gžɒðʁ.^ʁajgφe'x φyrx-pxajtr.^ɣwipnrukm.^ba-qə-qwøǩxθəxt-xexə-'astiww-w'astywuw-ɣwi't-ʁiǩažeð tluxt-ķažyð-lo-ɢəɣwi't.^əx-qə-twøǩxθəxt-xexə-'astiww-w'astiww-ɣwi't-ǩažeð.",
+            "Regular": "^'elš-norn jɒ'gžɒðʁ.^ʁajgφe'x φyrx-pxajtr.^ɣwipnrukm.^ba-qə-twøǩxθəxt-xexə-'astiww-w'astywuw-ɣwi't-ʁiǩažeð tluxt-ķažyð-lo-ɢəɣwi't.^əx-qə-twøǩxθəxt-xexə-'astiww-w'astiww-ɣwi't-ǩažeð.",
             "English": "Elesh Norn, Mother of Machines. Legendary Creature — Phyrexian Praetor. Vigilance. If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. Permanents entering the battlefield don’t cause abilities of permanents your opponents control to trigger.",
             "Notes": "Meanings for ability and trigger clash with NEO_Jin",
-            "Breakdown": null
+            "Breakdown": "elesh norn machine_mother.legendary_creature phyrexian praetor.vigilance.(if) (that) battlefield (indicative-and) permanent of_[2>2]permanent ability ?_[3>4]trigger copy [4>3]trigger (imperative) this-ability.(not) (that) battlefield (indicative-and) permanent of_permanent ability [3>4]trigger"
         },
-        "28": {
+        "27": {
             "Name": "ONE_Plains",
             "Regular": "^'ičql.^mǩaπa-jɒɒ'g-žɒðyʁ-χtenaa.^ɣøπi't-θəɢð 'ičql.",
             "English": "Plains. Basic Land — Plains.",
             "Notes": null,
             "Breakdown": null
         },
-        "29": {
+        "28": {
             "Name": "ONE_Island",
             "Regular": "^kẅθəɢð.^xe-jnaķm-ǩoθaǩ-χiǆ'ynpep.^ɣøπi't-θəɢð kẅθəɢð.",
             "English": "Island. Basic Land — Island.",
             "Notes": null,
             "Breakdown": null
         },
-        "30": {
+        "29": {
             "Name": "ONE_Swamp",
             "Regular": "^qaškm.^lo-xwixč-θwiχaš-gøẅrφ-'ičaq.^ɣøπi't-θəɢð qaškm.",
             "English": "Swamp. Basic Land — Swamp.",
             "Notes": null,
             "Breakdown": null
         },
-        "31": {
+        "30": {
             "Name": "ONE_Mountain",
             "Regular": "^ktakx.^xwe-šχa'θnaķm-ǩeǆ'ǥeθ.^ɣøπi't-θəɢð ktakx.",
             "English": "Mountain. Basic Land — Mountain.",
             "Notes": null,
             "Breakdown": null
         },
-        "32": {
+        "31": {
             "Name": "ONE_Forest",
             "Regular": "^'oɢθəsð.^xe-xe'ii'ə-ə'ufɬrøʁɴ-ɢises.^ɣøπi't-θəɢð 'oɢθəsð.",
             "English": "Forest. Basic Land — Forest.",
             "Notes": null,
             "Breakdown": null
         },
-        "33": {
+        "32": {
             "Name": "ONE_Article",
             "Regular": "^čkaqq.^təmn.^jɒɒ'g-mo'yθ.^jɒ'gžɒðʁ.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^kaπa-dlikχanuj-šχa'yθ.^ǩaπa-š'iimashaǩ.",
             "English": "Greatness, at any cost. Fall to your knees and welcome our embrace. Mother of Machines. All will be one. A mixed organic and non-organic sentient being, or a fully non-organic sentient being. A fully organic sentient being.",
             "Notes": null,
             "Breakdown": null
         },
-        "34": {
+        "33": {
             "Name": "BeadleGrimms",
             "Regular": "^ɣẅbiidlɢrimsxə-mǩaπa-šopraptφyrxkeθəɢð-χtena.^lo-jnaķm-əšb-ķuɮaθǩv-pnsča'uθ.^lo-zťøsaaǆ-loxe-ɢţrɒsd-šdeχaad.",
             "English": "From Beadle & Grimm's: Behold New Phyrexia! Surrender to perfection on February 18, 2023. Subscribe and welcome our embrace.",
             "Notes": null,
             "Breakdown": null
         },
-        "35": {
+        "34": {
             "Name": "ONE_Live",
             "Regular": "^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.",
             "English": "We are Phyrexia. We will sow perfection into the soft flesh of this world.",
             "Notes": null,
             "Breakdown": null
         },
-        "36": {
+        "35": {
             "Name": "BRO_BoneSaw",
             "Regular": "^ǩaπa-əxtuneem-'aliθat.",
             "English": "We will cleanse their impurities.",
             "Notes": "Same text as some merch.",
             "Breakdown": null
         },
-        "37": {
+        "36": {
             "Name": "NPH_Agent",
             "Regular": "^ɮzətɣð-ganwr.^φe'x φyrx-'ønəķ-θutlzətč.^ɣwiɮəɣð.^əx-ɮzətɣð-ganwr-kfɒ'q'.^xwe-'urbrask-χheruǩum-ʁiwtultm əlqit-lups.^'avričt ɢyytx-ɮportt.",
             "English": "Blighted Agent. Creature — Phyrexian Human Rogue. Infect. Blighted Agent can’t be blocked. “Urabrask may suspect our surveillance, but he cannot stop it.” — Avaricta, Gitaxian sective.",
             "Notes": null,
             "Breakdown": null
         },
-        "38": {
+        "37": {
             "Name": "NPH_Elf",
             "Regular": "^naķmφ'kitv-jalf.^φe'x φyrx-jalf-naķmtǆyφt.^ɣwiɮəɣð.^xwe-nsa'q-pn'ətsxaan-ťexẅots-wφyrxjnaķm-'ɒjbť-bɬølaπ.",
             "English": "Glistener Elf. Creature — Phyrexian Elf Warrior. Infect.",
             "Notes": null,
             "Breakdown": null
         },
-        "39": {
+        "38": {
             "Name": "NPH_Batterskull",
             "Regular": "^kšaπɢždɒ'ķ.^qxuna'k qipmt.^čkaqqtwøφt.^xe-qipltφe'x-ɣwipnrukm-ɣwinsa'qraφoj-ʁitapyq.^kšaπɢždɒ'ķ-hnaķmkeφe'xnaql-ʁi'iţpənun.^qiplt.",
             "English": "Batterskull. Artifact — Equipment. Living weapon. Equipped creature gets +4/+4 and has vigilance and lifelink. Return Batterskull to its owner’s hand. Equip.",
             "Notes": null,
             "Breakdown": null
         },
-        "40": {
+        "39": {
             "Name": "NPH_InkNexus",
             "Regular": "^dlabzǆfyll'əqd.^θəɢð.^bɒb'g.^dlabzǆfyll'əqd-φyrx-dlabzǆfyll-qxuna'kφe'x-žkiɢəronɣ-ʁitapeq.^ɣwitøšq-ɣwiɮəɣð-pareɴ.",
             "English": "Inkmoth Nexus. Land. Add. Inkmoth Nexus becomes a 1/1 Phyrexian Blinkmoth artifact creature with flying and infect until end of turn. It’s still a land. ",
             "Notes": null,
             "Breakdown": null
         },
-        "41": {
+        "40": {
             "Name": "C19_Krrik",
             "Regular": "^ǩərrk 'i'yl-jɒ'gmo'θ.^ʁajgφe'x φyrx-šχʁɒčx-'əqoq'.^ɣwinsa'qraφoj.^xwe-aχəw'-'štrχanj-ʁihuqɬgøťut xweqit-nsa'q-huqɬgøťut.^baxuφ-faxt-ʁums-buǩuð-lo-juχẅķ-əšqǩərrk-'i'yl-jɒ'gmo'θ-ʁiţə'u'.",
             "English": "K'rrik, Son of Yawgmoth. Legendary Creature — Phyrexian Horror Minion. Lifelink. For each B in a cost, you may pay 2 life rather than pay that mana. Whenever you cast a black spell, put a +1/+1 counter on K'rrik, Son of Yawgmoth.",
             "Notes": null,
             "Breakdown": null
         },
-        "42": {
+        "41": {
             "Name": "ONE_Arena",
             "Regular": "^φyrx-qab'θəxt.^myθž.^baxuφ-ðlabzqpønuč-'iixtfu'q-lo-ɢwinš-mprasuw-loxə-sər-huqøt.",
             "English": "Phyrexian Arena. Enchantment. At the beginning of your upkeep, you draw a card and you lose 1 life.",
             "Notes": null,
             "Breakdown": null
         },
-        "43": {
+        "42": {
             "Name": "NPH_Annex",
             "Regular": "^norn-ǩlətkyk.^qxuna'k.^əx-πee'x-čkɒquq-qə-qxuπul-xexə-ʁajgnmhupmeentðə-gʁyčtx-loəq-qxuπyl-xe'štaχəw'φe'x'ə-huqɬgøtet.",
             "English": "Norn's Annex. Artifact. Creatures can’t attack you or planeswalkers you control unless their controller pays W/P for each of those creatures.",
             "Notes": null,
             "Breakdown": null
         },
-        "44": {
+        "43": {
             "Name": "ONE_Jace",
             "Regular": "^ǆes jnaķm-'təɮirt.^ʁajgnmhupment ǆes.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-φɒ'ɢnagɮronuɣ-tapuq.^lo-nɒqč-žyxut-loxə-sər-ẅəpek.^ba-θuqxiwwθəxt-lyφkorxgrǆ'ynppðə-ɢwiinš-lo-mprasuw.^bu-ɢwinš-mprasuw.^lo-nɒqč-žyxut-loxə-sər-ķi-tøwp-ẅəpyk.",
             "English": "Jace, the Perfected Mind. Legendary Planeswalker — Jace. Compleated. Until your next turn, up to one target creature gets -3/-0. Target player mills three cards. Then if a graveyard has twenty or more cards in it, you draw three cards. Otherwise, you draw a card. Target player mills three times X cards.",
             "Notes": null,
             "Breakdown": null
         },
-        "45": {
+        "44": {
             "Name": "ONE_Vraska",
             "Regular": "^vraskə' πnokx-'afy'.^ʁajgnmhufment vraskə'.^plinexs.^lo-ɢwinš-mprasuw-loxə-sər-huǧt.^lo-jektlexøq.^lo-φe'x-žyxut-qxuna'k-ǧliŋš-tlexeq.^xe-sall-ɢwinšπøøkkɣwii'txə-'oparxuχ.^xe-tapeq-no'b'ugum-'ɒpsopšikt-'ii-ma'n-babug.^lo-nɒqč-žyxut-baxe-grmɒɣg-ʁiheeɬeɬ-dlgeftʁiheeɮɮ-lo-tapeq.",
             "English": "Vraska, Betrayal's Sting. Legendary Planeswalker — Vraska. Compleated. You draw a card and you lose 1 life. Proliferate. Target creature becomes a Treasure artifact with “Sacrifice this artifact: Add one mana of any color” and loses all other card types and abilities. If target player has fewer than nine poison counters, they get a number of poison counters equal to the difference.",
             "Notes": null,
             "Breakdown": null
         },
-        "46": {
+        "45": {
             "Name": "ONE_Lukka",
             "Regular": "^lyku' keɴt-hfwežφ.^ʁajgnmhupment lyku'.^plinexs.^lo-babug.^ǩaπa-ɢəma'n-φee'xčtəčpliɣnɣwi'ytðə-xe'ii'ə-ʁihisup.^lo-ɮiwwφyrxpnpe'kφe'xfa'ipθ-naǩum.^xe-ɬaʁq-tapeq.^lo-'ɒpasərθφee'xʁajgnmhuupmentxəðə-žyxut.^lo-lyku'-sər-'ɒpžyyxgɮəsuv-ðpačuk.^'u-qə-qxuπul-'uxə-ðazpnkorxnu'fφee'x-loxuπ-xwi't-čtəčpliɣun-ʁiǆ'ynpp.",
             "English": "Lukka, Bound to Ruin. Legendary Planeswalker — Lukka. Compleated. Add R/G. Spend this mana only to cast creature spells or activate abilities of creatures. Create a 3/3 green Phyrexian Beast creature token with toxic 1. Lukka deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is the greatest power among creatures you controlled as you activated this ability.",
             "Notes": null,
             "Breakdown": null
         },
-        "47": {
+        "46": {
             "Name": "ONE_Nissa",
             "Regular": "^nisə' pnmenθ-naķmnsa'q.^ʁajgnmhupment nisə'.^plinexs.^lo-ɮiwwφyrxšχʁɒčxφe'xfa'ipθ-naǩum xexə-nisə' pnmenθ-naķmnsa'q-huqtkeɴyt-ʁiǆ'ynpep.^lo-qxuna'k-qab'θəxtðə-žyxut-loxə-qabu'.^xe-qə-qxuπul-xexə-πee'x-sər-aχəw'oɢθəsð-ɣwikfɒǧpən'gxə-žkiɢəronɣ-tapyq.",
             "English": "Nissa, Ascended Animist. Legendary Planeswalker — Nissa. Compleated. Create an X/X green Phyrexian Horror creature token, where X is Nissa, Ascended Animist’s loyalty. Destroy target artifact or enchantment. Until end of turn, creatures you control get +1/+1 for each Forest you control and gain trample.",
             "Notes": "Enchantment is written here with the word for arena.",
             "Breakdown": null
         },
-        "48": {
+        "47": {
             "Name": "ONE_Nahiri",
             "Regular": "^nhirii' ŋyqχ.^ʁajgnmhupment nhirii'.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-ɢəφe'x-nɒqč-φɒ'ɢnagɮronuɣ-xet'eaχəw'twøǩx'ə-ʁigʁičtex.^lo-ɢwinš-šteǧuʁ-loxə-ɢwinš-mprasuw.^lo-qərχanjasərθgrmɒɣgnhirii'huqtkeɴyt-xexə-φe'xequipmentðə-ɣẅθuqxiwwθəxut-žyxut-loxə-ɢəɢwinš-čxət'.^lo-qə-ɢəɢwinš-tluxtnaķm-loxə-fa'ipθ-naǩum.^xe-ɢəɢwinš-ɣwiziklvuwk-ʁitapyq.^baxuφ-πlnaķmqpenč-'iixtfu'q lo-ɢəɢwinš-čxəťu'.",
             "English": "Nahiri, the Unforgiving. Legendary Planeswalker — Nahiri. Compleated. Until your next turn, up to one target creature attacks a player each combat if able. Discard a card, then draw a card. Exile target creature or Equipment card with mana value less than Nahiri’s loyalty from your graveyard. Create a token that’s a copy of it. That token gains haste. Exile it at the beginning of the next end step.",
             "Notes": "An instance of equipment here is just written in english.",
             "Breakdown": null
         },
-        "49": {
+        "48": {
             "Name": "ONE_Trailer",
             "Regular": "^lo-kytθ-əxjnɒķum-ǩlɒkem.^xba-wǆetɢ-θxhikeb lo-πyyrex-ťraǩaq.^ǩaπa-əxtuneem-'aliθat.^lo-φyrxkeθəɢyð-'št'ečel'-'əpyryx-keθəɢð-'ičuq.^xe-ťəəmen-qə'ičyq-ǩaπa-keφe'x.^xe-čǩaaǧeq-naķmkep'ee'ox.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^lo-jnaķm-pnsča'eθ.^ǩaπa-š'iimashaǩ.",
             "English": null,
             "Notes": "English voiceover does not directly translate to written text on screen.",
             "Breakdown": null
         },
-        "50": {
+        "49": {
             "Name": "ONE_Solphim",
             "Regular": "^ǩaπa-šoprapt-φyrxkeθəɢð-χtena.^φyrxkevəɢð.^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.^lo-jnaķm-pnsča'eθ.^naķmpihš.^φyrxkevəɢð.^ǩaπa-əxtuneem-'aliθat.^naķmzept.",
             "English": null,
             "Notes": null,
             "Breakdown": null
         },
-        "51": {
+        "50": {
             "Name": "Keyboard",
             "Regular": "^ɮøht.^πaǆť.^plinexs.^qxuπyl.^nɒţm.^kšķiπχ.^θomk.",
             "English": null,
             "Notes": "Bad resolution makes it hard to get some of the glyphs right.",
             "Breakdown": null
         },
-        "52": {
+        "51": {
             "Name": "NPH_Misstep",
             "Regular": "^ɬšeɴazyv-təɮirt.^ziklʁums.^lo-φrχanjasərθ'ii'ʁums-žyxut-loxə-šuǧun.",
             "English": "Mental Misstep. Instant. Counter target spell with mana value 1.",
             "Notes": null,
             "Breakdown": null
         },
-        "53": {
+        "52": {
             "Name": "ONE_Panel",
             "Regular": "^lo-ronuɣ.^ŋo-ronoɣ.^xe-twøǩox.^əl-kfɒ'ǧa'.^lo-φarθkyžun-ɬšeɴazyv-təɮirat.",
             "English": null,
             "Notes": null,
             "Breakdown": null
         },
-        "54": {
+        "53": {
             "Name": "MOM_Teaser",
             "Regular": "^əx-φyrxkeθəɢð-jəŋθm-štodam.^šǩa-š'hupš-pn'ẅ'uzɮ.^əx-twøǩx-gøẅruφ.^ǩaπa-š'iimashaǩ.",
             "English": null,

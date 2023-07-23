@@ -5630,21 +5630,21 @@
             "Regular": "^lyku' keɴt-hfwežφ.^ʁajgnmhupment lyku'.^plinexs.^lo-babug.^ǩaπa-ɢəma'n-φee'xčtəčpliɣnɣwi'ytðə-xe'ii'ə-ʁihisup.^lo-ɮiwwφyrxpnpe'kφe'xfa'ipθ-naǩum.^xe-ɬaʁq-tapeq.^lo-'ɒpasərθφee'xʁajgnmhuupmentxəðə-žyxut.^lo-lyku'-sər-'ɒpžyyxgɮəsuv-ðpačuk.^'u-qə-qxuπul-'uxə-ðazpnkorxnu'fφee'x-loxuπ-xwi't-čtəčpliɣun-ʁiǆ'ynpp.",
             "English": "Lukka, Bound to Ruin. Legendary Planeswalker — Lukka. Compleated. Add R/G. Spend this mana only to cast creature spells or activate abilities of creatures. Create a 3/3 green Phyrexian Beast creature token with toxic 1. Lukka deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is the greatest power among creatures you controlled as you activated this ability.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "lukka bound in_ruin.legendary-planeswalker lukka.compleat.(imperative) {RG} [2>3]add.(shall) this_mana [pl.]creature-activate-[4>3]ability_or frequency_one ?_[2>3]spend.(imperative) {3/3} green-phyrexian-beast-creature-token [2>3]make.(indicative) toxic {1} [3>4]get.(imperative) any_number-[pl.]creature-[pl.]/planeswalker_and_or [2>3]target.(imperative) lukka by {X} ? [2>?]damage.(past) {X} (that) [2>?]control (past-and) ?-more-power-[pl.]creature (imperative-?) ability [2>3]activate equal"
         },
         "45": {
             "Name": "ONE_Nissa",
             "Regular": "^nisə' pnmenθ-naķmnsa'q.^ʁajgnmhupment nisə'.^plinexs.^lo-ɮiwwφyrxšχʁɒčxφe'xfa'ipθ-naǩum xexə-nisə' pnmenθ-naķmnsa'q-huqtkeɴyt-ʁiǆ'ynpep.^lo-qxuna'k-qab'θəxtðə-žyxut-loxə-qabu'.^xe-qə-qxuπul-xexə-πee'x-sər-aχəw'oɢθəsð-ɣwikfɒǧpən'gxə-žkiɢəronɣ-tapyq.",
             "English": "Nissa, Ascended Animist. Legendary Planeswalker — Nissa. Compleated. Create an X/X green Phyrexian Horror creature token, where X is Nissa, Ascended Animist’s loyalty. Destroy target artifact or enchantment. Until end of turn, creatures you control get +1/+1 for each Forest you control and gain trample.",
             "Notes": "Enchantment is written here with the word for arena.",
-            "Breakdown": null
+            "Breakdown": "nissa ascended make-life.legendary-planeswalker nissa.compleat.(imperative) {X/X} green-phyrexian horror creature token [2>3]create (indicative-and) {X} nissa ascended make-life loyalty ?_equal.(imperative) artifact arena_or [2>3]target (imperative-and) [2>3]kill.(indicative) (that) [2>?]control (indicative-and) [pl.]creature {+1/+1} by each-forest trample_and for_this_turn [4>3]get"
         },
         "46": {
             "Name": "ONE_Nahiri",
             "Regular": "^nhirii' ŋyqχ.^ʁajgnmhupment nhirii'.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-ɢəφe'x-nɒqč-φɒ'ɢnagɮronuɣ-xet'eaχəw'twøǩx'ə-ʁigʁičtex.^lo-ɢwinš-šteǧuʁ-loxə-ɢwinš-mprasuw.^lo-qərχanjasərθgrmɒɣgnhirii'huqtkeɴyt-xexə-φe'xequipmentðə-ɣẅθuqxiwwθəxut-žyxut-loxə-ɢəɢwinš-čxət'.^lo-qə-ɢəɢwinš-tluxtnaķm-loxə-fa'ipθ-naǩum.^xe-ɢəɢwinš-ɣwiziklvuwk-ʁitapyq.^baxuφ-πlnaķmqpenč-'iixtfu'q lo-ɢəɢwinš-čxəťu'.",
             "English": "Nahiri, the Unforgiving. Legendary Planeswalker — Nahiri. Compleated. Until your next turn, up to one target creature attacks a player each combat if able. Discard a card, then draw a card. Exile target creature or Equipment card with mana value less than Nahiri’s loyalty from your graveyard. Create a token that’s a copy of it. That token gains haste. Exile it at the beginning of the next end step.",
             "Notes": "An instance of equipment here is just written in english.",
-            "Breakdown": null
+            "Breakdown": "nahiri unforgiving.legendary planeswalker nahiri.compleat.(imperative) creature frequency_not_more_than-one [2>?]target (imperative-and) this_creature player until_next-[2>?]turn frequency_?_each-combat ?_[3>4]attack.(imperative) card [2>3]discard (imperative-and) card [2>3]draw.(imperative) ?_cost-number-than_less-nahiri loyalty (indicative-and) creature-equipment_or from_[2>2]graveyard [2>?]target (imperative-and) this_card exile.(imperative) (that) this_card copy (imperative-and) token [2>3]make.(indicative) this_card haste ?_[4>3]get.(if-when) end-step begin (imperative) this_card [2>3]exile"
         },
         "47": {
             "Name": "ONE_Trailer",
@@ -5658,7 +5658,7 @@
             "Regular": "^ǩaπa-šoprapt-φyrxkeθəɢð-χtena.^φyrxkevəɢð.^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.^lo-jnaķm-pnsča'eθ.^naķmpihš.^φyrxkevəɢð.^ǩaπa-əxtuneem-'aliθat.^naķmzept.",
             "English": null,
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "(shall) new phyrexian-world [1>3]behold.phyrexian-world.(indicative) phyrexian_world.(shall) perfection ? in_[4>3]flesh this_world [1>3]sow.(imperative) perfection [3>4] surrender.make-?.phyrexian-world.(shall) not-[pl.]pure [1>3]cleanse.make-?"
         },
         "49": {
             "Name": "Keyboard",
@@ -5672,14 +5672,14 @@
             "Regular": "^ɬšeɴazyv-təɮirt.^ziklʁums.^lo-φrχanjasərθ'ii'ʁums-žyxut-loxə-šuǧun.",
             "English": "Mental Misstep. Instant. Counter target spell with mana value 1.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "[4>3]? mind.instant.(imperative) complete_cost-number-one-?_spell [2>3]target (imperative-and) [2>3]counter"
         },
         "51": {
             "Name": "ONE_Panel",
             "Regular": "^lo-ronuɣ.^ŋo-ronoɣ.^xe-twøǩox.^əl-kfɒ'ǧa'.^lo-φarθkyžun-ɬšeɴazyv-təɮirat.",
             "English": null,
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "(imperative) [2>?]turn.(interrogative) [1>1]turn.(indicative) [1>1]combat.(negative) [?>?]block.(imperative) sun-[2>2]ring ? [1>3]mind"
         },
         "52": {
             "Name": "MOM_Teaser",

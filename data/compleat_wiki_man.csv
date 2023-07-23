@@ -1,0 +1,262 @@
+﻿phyrexian,IPA,plural,translation,root,composition,examples,class,native,notes,type,confidence
+'əǆɒnii',ʔədʒɒniiʔ,FALSE,Ajani,,,,noun,FALSE,,name,solid
+'avričt,ʔavritʃt,FALSE,Avaricta,,,,noun,TRUE,,name,solid
+'elš,ʔelʃ,FALSE,Elesh,,,,noun,TRUE,,name,solid
+ɢytx,ɢytx,FALSE,Gitaxias,,,,noun,TRUE,,name,solid
+ǆes,dʒes,FALSE,Jace,,,,noun,FALSE,,name,solid
+ǆi'n,dʒiʔn,FALSE,Jin,,,,noun,TRUE,,name,solid
+ǩərrk,k'ərrk,FALSE,K'rrik,,,,noun,TRUE,,name,solid
+lyku',lykuʔ,FALSE,Lukka,,,,noun,FALSE,,name,solid
+nhirii',nhiriiʔ,FALSE,Nahiri,,,,noun,FALSE,,name,solid
+nisə',nisəʔ,FALSE,Nissa,,,,noun,FALSE,,name,solid
+norn,norn,FALSE,Norn,,,,noun,TRUE,,name,solid
+φyrxkeθəɢð,ɸyrxkeθəɢð,FALSE,Phyrexia (plane),"φyrx,θəɢð",,,noun,TRUE,,composite,solid
+šøldrd,ʃøldrd,FALSE,Sheoldred,,,,noun,TRUE,,name,solid
+'urbrask,ʔurbrask,FALSE,Urabrask,,,,noun,TRUE,,name,solid
+vornχlx,vornχlx,FALSE,Vorinclex,,,,noun,TRUE,,name,solid
+vraskə',vraskəʔ,FALSE,Vraska,,,,noun,FALSE,,name,solid
+tam'joo',tamʔjooʔ,FALSE,Tamiyo,,,,noun,FALSE,,name,solid
+jɒ'gmo'θ,jɒʔgmoʔθ,FALSE,Yawgmoth,,,,noun,TRUE,,name,solid
+ɣøπi't,ɣøp'iʔt,FALSE,Basic,,,,adjective,TRUE,,root,solid
+ʁajg,ʁajg,FALSE,Legendary,ʁajg,,,adjective,TRUE,,root,solid
+qxuna'k,qxunaʔk,qxunaa'k,Artifact,qxuna'k,,,noun,TRUE,,root,solid
+φe'x,ɸeʔx,φee'x,Creature,φe'x,,,noun,TRUE,,root,solid
+myθž,myθʒ,myyθž,Enchantment,myθž,,,noun,TRUE,,root,solid
+ziklʁums,ziklʁums,ziklʁuums,Instant,"zikl,ʁums",,,noun,TRUE,,composite,solid
+kašplʁums,kaʃplʁums,kašplʁuums,Sorcery,"kašpl,ʁums",,,noun,TRUE,,composite,solid
+θəɢð,θəɢð,θəəɢð,Land,θəɢð,,,noun,TRUE,,root,solid
+nmhupment,nmhupment,nmhupment,Planeswalker,ment,,,noun,TRUE,,composite,solid
+'ičql,ʔitʃql,'iičql,Plains,'ičql,,,noun,TRUE,,composite,solid
+kẅθəɢð,kɯθəɢð,kẅθəəɢð,Island,θəɢð,,,noun,TRUE,,composite,solid
+qaškm,qaʃkm,qaaškm,Swamp,qaškm,,,noun,TRUE,,root,solid
+ktakx,ktakx,ktaakx,Mountain,ktakx,,,noun,TRUE,,root,solid
+'oɢθəsð,ʔoɢθəsð,'oɢθəəsð,Forest,'oɢθəsð,,,noun,TRUE,,composite,solid
+pnpe'k,pnpeʔk,pnpee'k,Beast,pe'k,,,noun,TRUE,,composite,solid
+dlabzǆfyll,dlabzdʒfyll,dlabzǆfyyll,Blinkmoth,"dlabz,ǆfyll",,,noun,TRUE,,composite,solid
+jalf,jalf,jaalf,Elf,jalf,,,noun,FALSE,,root,solid
+qipmt,qipmt,qiipmt,Equipment,qipmt,,,noun,FALSE,,root,solid
+šχʁɒčx,ʃχʁɒtʃx,šχʁɒɒčx,Horror,,,,noun,TRUE,,unclear,solid
+'ønəķ,ʔønəkʰ,'øønəķ,Human,'ønəķ,,,noun,TRUE,,root,likely
+'əqoq',ʔəqoqʔ,'əqooq',Minion,qoq',,,noun,TRUE,,root,solid
+φyrx,ɸyrx,φyyrx,Phyrexian,φyrx,,,noun,TRUE,,root,solid
+pxajtr,pxajtr,pxaajtr,Praetor,pxajtr,,,noun,FALSE,,root,solid
+θutlzətč,θutlzəttʃ,θutlzəətč,Rogue,"θutl,zətč",,,noun,TRUE,,composite,likely
+ǧliŋš,g'liŋʃ,ǧliiŋš,Treasure,ǧliŋš,,,noun,TRUE,,root,solid
+naķmtǆyφt,nakʰmtdʒyɸt,naķmtǆyyφt,Warrior,"naķm,tǆyφt",,,noun,TRUE,,composite,solid
+plinexs,plinexs,FALSE,Compleated,plinexs,,,adjective,TRUE,,root,solid
+ɣwiθuqx'əkš,ɣwiθuqxʔəkʃ,FALSE,Deathtouch,"θuqx,'əkš",,,noun,TRUE,,composite,solid
+qiplt,qiplt,FALSE,Equip,qiplt,,,verb,FALSE,,root,solid
+ɣwiziklʁums,ɣwiziklʁums,FALSE,Flash,"zikl,ʁums",,,noun,TRUE,,composite,solid
+ɣwitøšq,ɣwitøʃq,FALSE,Flying,tøšq,,,noun,TRUE,,composite,solid
+ɣwiziklvuwk,ɣwiziklvuwk,FALSE,Haste,"zikl,vuwk",,,noun,TRUE,,composite,solid
+ɣwiɮəɣð,ɣwiɮəɣð,FALSE,Infect,ɮəɣð,,,noun,TRUE,,composite,solid
+ɣwinsa'qraφoj,ɣwinsaʔqraɸoj,FALSE,Lifelink,"nsa'q,raφj",,,noun,TRUE,,composite,solid
+jektlexøq,jektlexøq,FALSE,Proliferate,"jekt,lexq",,,noun,TRUE,,composite,likely
+ɣwiqaškmjment,ɣwiqaʃkmjment,FALSE,Swampwalk,"qaškm,ment",,,noun,TRUE,,composite,solid
+ɣwikfɒǧpan'g,ɣwikfɒg'panʔg,FALSE,Trample,pan'g,,,noun,TRUE,,composite,solid
+ɬaʁq,ɬaʁq,FALSE,Toxic,ɬaʁq,,,noun,TRUE,,root,solid
+ɣwipnrukm,ɣwipnrukm,FALSE,Vigilance,rukm,,,noun,TRUE,,composite,solid
+twøǩxθəxt,twøk'xθəxt,twøǩxθəəxt,Battlefield,"twøǩx,θəxt",,,noun,TRUE,,composite,solid
+čxət'θəxt,tʃxətʔθəxt,čxət'θəəxt,Exile (zone),"čxət',θəxt",,,noun,TRUE,,composite,solid
+θuqxiwwθəxt,θuqxiwwθəxt,θuqxiwwθəəxt,Graveyard,"θuqx,θəxt",,,noun,TRUE,,composite,solid
+naql,naql,naaql,Hand,naql,,,noun,TRUE,,root,solid
+tektθəxt,tektθəxt,tektθəəxt,Library,"tekt,θəxt",,,noun,TRUE,,composite,solid
+θəxt,θəxt,θəəxt,Zone,θəxt,,,noun,TRUE,,root,solid
+dlabzqpenč,dlabzqpøntʃ,dlabzqpeenč,Upkeep,"dlabz,qpenč",,,noun,TRUE,,composite,solid
+twøǩx,twøk'x,twøøǩx,Combat,twøǩx,,,noun,TRUE,,root,solid
+πlnaķmqpenč,p'lnakʰmqkentʃ,πlnaķmqpeenč,End step,"naķm,qpenč",,,noun,TRUE,,composite,solid
+qpenč,qpentʃ,qpeenč,Step,qpenč,,,noun,TRUE,,root,solid
+ronɣ,ronɣ,roonɣ,Turn,ronɣ,,,noun,TRUE,,root,solid
+faxt,faxt,FALSE,Black,faxt,,,adjective,TRUE,,root,solid
+ɮiww,ɮiww,FALSE,Green,ɮiww,,,adjective,TRUE,,root,solid
+ɣwi't,ɣwiʔt,ɣwii't,Ability,ɣwi't,,,noun,TRUE,,root,solid
+gʁičtx,gʁitʃtx,FALSE,Attack,gʁičtx,,,verb,TRUE,,root,solid
+kfɒ'ǧ',kfɒʔg'ʔ,FALSE,Block (action),kfɒ'ǧ',,,verb,TRUE,,root,solid
+ɢwinš,ɢwinʃ,ɢwiinš,Card,ɢwinš,,,noun,TRUE,,root,solid
+ʁums,ʁums,ʁuums,Spell,ʁums,,,"noun,verb",TRUE,,root,solid
+sopšikt,sopʃikt,sopšiikt,Color,,,,noun,TRUE,,unclear,solid
+qxuπl,qxup'l,FALSE,Control,qxuπl,,,verb,TRUE,,root,solid
+tluxt,tluxt,tluuxt,Copy,tluxt,,,"noun,verb",TRUE,,root,solid
+χanj,χanj,χaanj,Cost,χanj,,,noun,TRUE,,root,solid
+šuqn,ʃuqn,FALSE,Counter (action),šuqn,,,verb,TRUE,,root,solid
+juχẅķ,juχɯkʰ,juuχẅķ,Counter (marker),juχẅķ,,,noun,TRUE,,root,solid
+naǩm,nak'm,FALSE,Create,naǩm,,,verb,TRUE,,root,solid
+ðpačk,ðpatʃk,FALSE,Damage,ðpačk,,,verb,TRUE,,root,likely
+qab',qabʔ,FALSE,Destroy,qab',,,verb,TRUE,,root,likely
+šteǧʁ,ʃteg'ʁ,FALSE,Discard,šteǧʁ,,,verb,TRUE,,root,solid
+mprasw,mprasw,FALSE,Draw,mprasw,,,verb,TRUE,,root,solid
+čkalakm,tʃkalakm,čkalaakm,Emblem,čkalakm,,,noun,TRUE,,composite,solid
+čxət',tʃxətʔ,FALSE,Exile (action),čxət',,,verb,TRUE,,root,solid
+φ'kitv,ɸʔkitv,FALSE,Foil,φ'kitv,,,"adjective, noun",TRUE,,root,solid
+huqtkeɴyt,huqtkeɴyt,FALSE,Loyalty,"huqt,keɴt",,,noun,TRUE,,composite,solid
+ma'n,maʔn,maa'n,Mana,ma'n,,,noun,FALSE,,root,solid
+ẅəpk,ɯəpk,FALSE,Mill,ẅəpk,,,verb,TRUE,,root,solid
+əxnɒqč,əxnɒqtʃ,əxnɒɒqč,Opponent,nɒqč,,,noun,TRUE,,composite,solid
+naķmkeφe'x,nakʰmkeɸeʔx,naķmkeφee'x,Owner,"naķm,φe'x",,,noun,TRUE,,composite,solid
+huqɬgøťt,huqɬgøt't,FALSE,Pay,,,,verb,TRUE,,composite,solid
+'astiww,ʔastiww,'astiiww,Permanent,'ast,,,noun,TRUE,,composite,solid
+bukð,bukð,FALSE,Play,bukð,,,verb,TRUE,,root,solid
+nɒqč,nɒqtʃ,nɒɒqč,Player,nɒqč,,,noun,TRUE,,root,solid
+ʁiheɬɬ,ʁiheɬɬ,ʁiheeɬɬ,Poison,,,,noun,TRUE,,unclear,likely
+nu'f,nuʔf,nuu'f,Power,nu'f,,,noun,TRUE,,root,solid
+krepg,krepg,FALSE,Reveal,krepg,,,verb,TRUE,,root,solid
+no'b'ugm,noʔbʔugm,FALSE,Sacrifice,,,,verb,TRUE,,composite,solid
+ɣypm,ɣypm,FALSE,Tap,ɣypm,,,verb,TRUE,,root,solid
+žyxt,ʒyxt,FALSE,Target,žyxt,,,verb,TRUE,,root,solid
+fa'ipθ,faʔipθ,fa'iipθ,Token,,,,noun,TRUE,,composite,solid
+ǩažð,k'aʒð,FALSE,Trigger,ǩažð,,,verb,TRUE,,root,solid
+πøkk,p'økk,πøøkk,Type,πøkk,,,noun,TRUE,,root,solid
+asərθ,asərθ,asəərθ,Number,asərθ,,,noun,TRUE,,root,solid
+'ii,ʔii,FALSE,One,'ii,,,noun,TRUE,,number,solid
+ķu,kʰu,FALSE,Two,ķu,,,noun,TRUE,,number,solid
+ķi,kʰi,FALSE,Three,ķi,,,noun,TRUE,,number,solid
+ķus'ər,kʰusʔər,FALSE,Twice,"ķu,s'ər",,,adverb,TRUE,,composite,solid
+əxķus'ər,əxkʰusʔər,FALSE,Half,"ķu,s'ər",,,adverb,TRUE,,composite,solid
+vižǥ,viižǥ,vižǥ,Access,vižǥ,,,noun,TRUE,,root,solid
+čtəčpliɣn,tʃtətʃpliɣn,FALSE,Activate,,,,verb,TRUE,,composite,solid
+babg,babg,FALSE,Add,babg,,,verb,TRUE,,root,solid
+ganwr,ganwr,gaanwr,Agent,ganwr,,,noun,TRUE,,root,solid
+naķmnsa'q,nakʰmnsaʔq,naķmnsaa'q,Animist,"naķm,nsa'q",,,noun,TRUE,,composite,solid
+ǩlətkk,k'lətkk,ǩləətkk,Annex,,,,noun,TRUE,,unclear,solid
+niťamg,nit'amg,niťaamg,Apocalypse,ťamg,,,noun,TRUE,,composite,solid
+qab'θəxt,qabʔθəxt,qab'θəəxt,Arena,"qab',θəxt",,,noun,TRUE,,composite,solid
+pnmenθ,pnmenθ,FALSE,Ascended,menθ,,,adjective,TRUE,,composite,solid
+pn'ətsxn,pnʔətsxn,FALSE,Beg,'ətsxn,,,verb,TRUE,,composite,solid
+'iixtfu'q,ʔiixtfuʔq,'iixtfuu'q,Beginning,'ii,,,noun,TRUE,,composite,solid
+χtena,χtena,FALSE,Behold,χten,,,verb,TRUE,,root,solid
+πnokx,p'nokx,πnokx,Betrayal,πnokx,,,noun,TRUE,,root,solid
+ɮzətɣð,ɮzətɣð,FALSE,Blighted,,,,adjective,TRUE,,unclear,solid
+tekt,tekt,teekt,Book,tekt,,,noun,FALSE,,composite,solid
+ǩeǆylqitsodrm,k'edʒylqitsodrm,FALSE,Bottom,,,,noun,TRUE,,composite,solid
+keɴyt,keɴyt,FALSE,Bound,keɴyt,,,adjective,TRUE,,root,solid
+pən'g,pənʔg,FALSE,Break,pən'g,,,verb,TRUE,,root,solid
+sər,sər,FALSE,By,,,,preposition,TRUE,,unclear,solid
+ǆønobt,dʒønobt,ǆønoobt,Cenobite,ǆønobt,,,noun,FALSE,,root,solid
+ʁšθaǩɴ,ʁʃθak'ɴ,FALSE,Choose,,,,verb,TRUE,,composite,solid
+'aliθt,ʔaliθt,FALSE,Cleanse,,,,verb,TRUE,,composite,solid
+močq,motʃq,FALSE,Come,močq,,,verb,TRUE,,root,solid
+φlnaķm,ɸlnakʰm,FALSE,Complete,naķm,,,adjective,TRUE,,composite,solid
+bwedn,bwedn,bweedn,Crawler,bwedn,,,noun,TRUE,,root,solid
+θuqx,θuqx,θuuqx,Death,θuqx,,,noun,TRUE,,root,solid
+čəxkefa'qsemr,tʃəxkefaʔqsemr,FALSE,Dismember,,,,verb,TRUE,,composite,likely
+χɬkevk,χɬkevk,FALSE,Distribute,,,,verb,TRUE,,unclear,solid
+aχəw',aχəwʔ,FALSE,Each,aχəw',,,adverb,TRUE,,root,solid
+xɬiwj,xɬiwj,FALSE,Early,xɬiwj,,,adjective,TRUE,,root,solid
+ɢţrɒsd,ɢtʰrɒsd,ɢţrɒɒsd,Embrace,,,,noun,TRUE,,unclear,solid
+ǆ'ynpp,dʒʔynpp,FALSE,Equal,,,,verb,TRUE,,unclear,solid
+ɢiss,ɢiss,ɢiiss,Evolution,ɢiss,,,noun,TRUE,,root,solid
+ķoɮǩm,kʰoɮk'm,FALSE,Fall,ķoɮǩm,,,verb,TRUE,,root,solid
+zikl,zikl,zikl,Fast,zikl,,,adjective,TRUE,,root,solid
+mo'θ,moʔθ,moo'θ,Father,mo'θ,,,noun,TRUE,,root,solid
+jɒ'gmo'yθ,jɒʔgmoʔyθ,jɒ'gmoo'yθ,Father of Machines,"jɒ'g,mo'θ",,,noun,TRUE,,composite,solid
+xwixč,xwixtʃ,xwiixč,Fear,xwixč,,,noun,TRUE,,root,solid
+ķuɮaθǩv,kʰuɮaθk'v,FALSE,February,"ķu,ɮaθǩv",,,noun,TRUE,,composite,solid
+bɬølπ,bɬølp',FALSE,Fill,bɬølπ,,,verb,TRUE,,root,solid
+ɣɒzɢ,ɣɒzɢ,FALSE,Flay,ɣɒzɢ,,,verb,TRUE,,root,solid
+'əpyrx,ʔəpyrx,'əpyyrx,Flesh,pyrx,,,noun,TRUE,,composite,solid
+tapq,tapq,FALSE,Get,tapq,,,verb,TRUE,,root,solid
+ɢytx,ɢytx,ɢyytx,Gitaxian,ɢytx,,,noun,TRUE,,root,solid
+φ'kitv,ɸʔkitv,FALSE,Glisten,φ'kitv,,,verb,TRUE,,root,solid
+'ɒjbť,ʔɒjbt','ɒɒjbť,Glory,'ɒjbť,,,noun,TRUE,,root,solid
+πllupsθəxt,p'llupsθəxt,πllupsθəəxt,Goal,"lups,θəxt",,,noun,TRUE,,composite,solid
+šχa'θ,ʃχaʔθ,FALSE,Great,šχa'θ,,,adjective,TRUE,,root,solid
+ɴk'ykg,ɴkʔykg,ɴk'yykg,Heretic,,,,noun,TRUE,,unclear,solid
+əxťeķibrs,əxt'ekʰibrs,FALSE,Hidden,,,,adjective,TRUE,,composite,solid
+gagg,gagg,gaagg,Hunger,gagg,,,noun,TRUE,,root,solid
+ɣwiəxťeθuqx,ɣwiəxt'eθuqx,FALSE,Immortality,θuqx,,,noun,TRUE,,composite,solid
+əxtunm,əxtunm,əxtuunm,Impurity,tunm,,,noun,TRUE,,composite,solid
+grmɒɣg,grmɒɣg,FALSE,Less than (fewer),mɒɣg,,,,TRUE,,composite,solid
+nsa'q,nsaʔq,nsaa'q,Life,nsa'q,,,noun,TRUE,,root,solid
+jɒ'g,jɒʔg,jɒɒ'g,Machine,jɒ'g,,,noun,TRUE,,root,solid
+naķm,nakʰm,naaķm,"Make, Work",naķm,,,"noun,verb",TRUE,,root,solid
+təɮirt,təɮirt,təɮiirt,Mind,,,,noun,TRUE,,composite,solid
+mrodn,mrodn,mroodn,Mirrodin,mrodn,,,noun,FALSE,,root,solid
+korxgr,korxgr,FALSE,More (than),korx,,,,TRUE,,composite,solid
+žɒðʁ,ʒɒðʁ,žɒɒðʁ,Mother,žɒðʁ,,,noun,TRUE,,root,solid
+jɒ'gžɒðʁ,jɒʔgʒɒðʁ,jɒ'gžɒɒðʁ,Mother of Machines (title),"jɒ'g,žɒðʁ",,,noun,TRUE,,composite,solid
+vuwk,vuwk,FALSE,Move,vuwk,,,verb,TRUE,,root,solid
+ǆfyll,dʒfyll,ǆfyyll,Moth,,,,noun,TRUE,,unclear,solid
+ɢnagɮ,ɢnagɮ,FALSE,Next,ɢnagɮ,,,adjective,TRUE,,root,solid
+šoprapt,ʃoprapt,FALSE,New,,,,adjective,TRUE,,composite,solid
+'əqd,ʔəqd,'əqd,Nexus,'əqd,,,noun,TRUE,,root,solid
+rukx,rukx,rukx,Note,rukx,,,noun,TRUE,,root,solid
+rukxtekt,rukxtekt,rukxtekt,Notebook,"rukx,tekt",,,noun,TRUE,,composite,solid
+'ug'əχw,ʔugʔəχw,ug'əəχw,Offer,,,,"noun,verb",TRUE,,composite,solid
+sall,sall,FALSE,Other,sall,,,,TRUE,,root,solid
+jnaķm,jnakʰm,FALSE,Perfect(ion),naķm,,,noun,TRUE,,composite,solid
+qpenčodrm,qpentʃodrm,qpenčoodrm,Process,qpenč,,,noun,TRUE,,composite,solid
+ŋeǩydm,ŋek'ydm,FALSE,Produce,,,,verb,TRUE,,composite,solid
+jiǥgɣwi'v,jigʰgɣwiʔv,jiǥgɣwii'v,Psychosis,,,,noun,TRUE,,composite,solid
+ţə'',tʰəʔʔ,FALSE,Put,ţə'',,,verb,TRUE,,root,solid
+mɒɣg,mɒɣg,FALSE,Reduce,mɒɣg,,,verb,TRUE,,root,solid
+qẅrɮwi'g,qɯrɮwiʔg,qẅrɮwii'g,Resistence,,,,noun,TRUE,,composite,solid
+'iţpənn,ʔitʰpənn,FALSE,Return,,,,verb,TRUE,,composite,solid
+hfwežφ,hfweʒɸ,hfweežφ,Ruin,hfwežφ,,,noun,TRUE,,root,solid
+føvɣ,føvɣ,føøvɣ,Sage,føvɣ,,,noun,TRUE,,root,solid
+ɮportt,ɮportt,ɮpoortt,Sective,ɮportt,,,noun,TRUE,,root,solid
+rukm,rukm,FALSE,See,rukm,,,verb,TRUE,,root,solid
+txš,txʃ,FALSE,Skin,txš,,,noun,TRUE,,root,solid
+'i'l,ʔiʔl,'ii'l,Son,'i'l,,,noun,TRUE,,root,solid
+θwiχš,θwiχʃ,FALSE,Sow,θwiχš,,,verb,TRUE,,root,solid
+hisp,hisp,FALSE,Spend,hisp,,,verb,TRUE,,root,solid
+čpan'g,tʃpanʔg,FALSE,Splinter,pan'g,,,verb,TRUE,,composite,solid
+'af',ʔafʔ,'aaf',Sting,'af',,,noun,TRUE,,root,solid
+lups,lups,FALSE,Stop,lups,,,verb,TRUE,,root,solid
+zťøsǆ,zt'øsdʒ,FALSE,Subscribe,zťøsǆ,,,verb,TRUE,,root,solid
+pnsča'θ,pnstʃaʔθ,FALSE,Surrender,sča'θ,,,verb,TRUE,,composite,solid
+χherukm,χheruk'm,χheruuǩm,Surveilance,rukm,,,noun,TRUE,,composite,solid
+wtultm,wtultm,FALSE,Suspect,wtultm,,,verb,TRUE,,root,solid
+fedχstsqylm,fedχstsqylm,fedχstsqyylm,Testament,,,,noun,TRUE,,composite,solid
+tøwp,tøwp,FALSE,Times (multiplication),tøwp,,,,TRUE,,root,likely
+ŋyqχ,ŋyqχ,ŋyyqχ,Unforgiving,ŋyqχ,,,noun,TRUE,,root,solid
+žki,ʒki,FALSE,Until,,,,,TRUE,,unclear,solid
+xutšv,xutʃv,xuutšv,Voice,xutšv,,,noun,TRUE,,root,solid
+əixiww,əixiww,əixiiww,Void,,,,noun,TRUE,,composite,solid
+ment,ment,FALSE,Walk,ment,,,verb,TRUE,,root,solid
+šdeχd,ʃdeχd,šdeeχd,Welcome,šdeχd,,,"noun,verb",TRUE,,root,solid
+'iǆe't,ʔidʒeʔt,'iǆee't,Whisper,,,,"noun,verb",TRUE,,composite,solid
+keθəɢð,keθəɢð,keθəəɢð,World,θəɢð,,,noun,TRUE,,composite,solid
+čkaqq,tʃkaqq,čkaaqq,Biomechanical being,čkaqq,,,noun,TRUE,,root,solid
+mɴyrx,mɴyrx,mɴyyrx,Fire,mɴyrx,,,noun,TRUE,,root,solid
+tøšq,tøʃq,FALSE,Fly,tøšq,,,noun,TRUE,,root,solid
+χiɢɬ,χiɢɬ,χiiɢɬ,Furnace,χiɢɬ,,,noun,TRUE,,root,solid
+ǆko'χ,dʒkoʔχ,FALSE,Heal,ǆko'χ,,,verb,TRUE,,root,moderate
+huqet,huqet,FALSE,Hurt,huqet,,,verb,TRUE,,root,moderate
+ɮɒ'ɣ,ɮɒʔɣ,ɮɒɒ'ɣ,Language,ɮɒ'ɣ,,,noun,FALSE,,root,likely
+oparxχ,ʔoparxχ,'opaarxχ,Limit,,,,"noun,verb",TRUE,,unclear,likely
+raφoj,raɸoj,raaφoj,Link,,,,noun,TRUE,,root,solid
+dlabz,dlabz,dlaabz,Oil,dlabz,,,noun,TRUE,,root,solid
+təmn,təmn,təəmn,Organic being,təmn,,,noun,TRUE,,root,solid
+ǩytπt,k'ytp't,ǩyytπt,Progress,ǩytπt,,,noun,TRUE,,root,likely
+tunm,tunm,FALSE,Pure,tunm,,,adjective,TRUE,,root,solid
+kyžn,kyʒn,kyyžn,Ring,kyžn,,,noun,TRUE,,root,solid
+vešt,veʃt,FALSE,Sleeper,vešt,,,adjective,TRUE,,root,solid
+kašpl,kaʃpl,FALSE,Slow,kašpl,,,adjective,TRUE,,root,likely
+solm,solm,FALSE,Smash/Hit,solm,,,verb,TRUE,,root,likely
+φarθ,ɸarθ,φaarθ,Sun,φarθ,,,noun,TRUE,,root,moderate
+'əkš,ʔəkʃ,'əəkš,Touch,'əkš,,,noun,TRUE,,root,solid
+koqšqle't,koqʃqleʔt,koqšqlee't,Toughness,,,,noun,TRUE,,composite,solid
+grjəťrk,grjət'rk,grjəəťrk,Tyrant,grjəťrk,,,noun,TRUE,,root,likely
+tǆyφt,tdʒyɸt,tǆyyφt,War,tǆyφt,,,noun,TRUE,,root,likely
+twøφt,twøɸt,twøøφt,Weapon,twøφt,,,noun,TRUE,,root,likely
+xe,xe,FALSE,"Indicative, Present",FALSE,FALSE,,,TRUE,,marker,solid
+'u,ʔu,FALSE,Past,FALSE,FALSE,,,TRUE,,marker,solid
+ŋo,ŋo,FALSE,Interrogative,FALSE,FALSE,,,TRUE,,marker,solid
+ǩaπa,k'ap'a,FALSE,Jussive (shall/will),FALSE,FALSE,,,TRUE,,marker,solid
+ba,ba,FALSE,Conditional (if),FALSE,FALSE,,,TRUE,,marker,solid
+bu,bu,FALSE,Conditional negative (if not),FALSE,FALSE,,,TRUE,,marker,solid
+xwe,xwe,FALSE,Deontic (may),FALSE,FALSE,,,TRUE,,marker,solid
+lo,lo,FALSE,Imperative,FALSE,FALSE,,,TRUE,,marker,solid
+ðə,ðə,FALSE,Alternative (or),FALSE,FALSE,,,TRUE,,marker,solid
+xə,xə,FALSE,Addition (and),FALSE,FALSE,,,TRUE,,marker,solid
+əx,əx,FALSE,"Negative (un-, not)",FALSE,FALSE,,,TRUE,,marker,solid
+əl,əl,FALSE,negative (anti-affirmative/double negative),FALSE,FALSE,,,TRUE,,marker,likely
+'a,ʔa,FALSE,obligation/necessity (must),FALSE,FALSE,,,TRUE,,marker,poor
+qə,qə,FALSE,subordinative (that),FALSE,FALSE,,,TRUE,,marker,solid
+ťe,t'e,FALSE,Permissive/ableness (can/may),FALSE,FALSE,,,TRUE,,marker,moderate
+əq,əq,FALSE,'Unless',FALSE,FALSE,,,TRUE,,marker,solid
+xẅots,xɯots,FALSE,Consequential (thus),FALSE,FALSE,,,TRUE,,marker,solid
+xuφ,xuφ,FALSE,Relative (when) ,FALSE,FALSE,,,TRUE,Paired mood with conditional (if) or past,marker,solid
+qilx,qilx,FALSE,Conditional (would),FALSE,FALSE,,,TRUE,Paired mood with if,marker,solid
+qit,qit,FALSE,Alternative (instead/but),FALSE,FALSE,,,TRUE,Paired with many other moods,marker,solid
+šta,ʃta,FALSE,Historical/evidential,FALSE,FALSE,,,TRUE,Paired with past,marker,solid

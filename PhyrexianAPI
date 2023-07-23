@@ -3,7 +3,7 @@
         "0": {
             "phyrexian": "'əǆɒnii'",
             "IPA": "ʔədʒɒniiʔ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Ajani",
             "root": null,
             "composition": null,
@@ -19,7 +19,7 @@
         "1": {
             "phyrexian": "'avričt",
             "IPA": "ʔavritʃt",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Avaricta",
             "root": null,
             "composition": null,
@@ -35,7 +35,7 @@
         "2": {
             "phyrexian": "'elš",
             "IPA": "ʔelʃ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Elesh",
             "root": null,
             "composition": null,
@@ -52,7 +52,7 @@
         "3": {
             "phyrexian": "ɢytx",
             "IPA": "ɢytx",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Gitaxias",
             "root": null,
             "composition": null,
@@ -69,7 +69,7 @@
         "4": {
             "phyrexian": "ǆes",
             "IPA": "dʒes",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Jace",
             "root": null,
             "composition": null,
@@ -85,7 +85,7 @@
         "5": {
             "phyrexian": "ǆi'n",
             "IPA": "dʒiʔn",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Jin",
             "root": null,
             "composition": null,
@@ -102,7 +102,7 @@
         "6": {
             "phyrexian": "ǩərrk",
             "IPA": "k'ərrk",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "K'rrik",
             "root": null,
             "composition": null,
@@ -118,7 +118,7 @@
         "7": {
             "phyrexian": "lyku'",
             "IPA": "lykuʔ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Lukka",
             "root": null,
             "composition": null,
@@ -134,7 +134,7 @@
         "8": {
             "phyrexian": "nhirii'",
             "IPA": "nhiriiʔ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Nahiri",
             "root": null,
             "composition": null,
@@ -150,7 +150,7 @@
         "9": {
             "phyrexian": "nisə'",
             "IPA": "nisəʔ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Nissa",
             "root": null,
             "composition": null,
@@ -166,7 +166,7 @@
         "10": {
             "phyrexian": "norn",
             "IPA": "norn",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Norn",
             "root": null,
             "composition": null,
@@ -184,7 +184,7 @@
         "11": {
             "phyrexian": "φyrxkeθəɢð",
             "IPA": "ɸyrxkeθəɢð",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Phyrexia (plane)",
             "root": [
                 "φyrx",
@@ -210,7 +210,7 @@
         "12": {
             "phyrexian": "šøldrd",
             "IPA": "ʃøldrd",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Sheoldred",
             "root": null,
             "composition": null,
@@ -228,7 +228,7 @@
         "13": {
             "phyrexian": "'urbrask",
             "IPA": "ʔurbrask",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Urabrask",
             "root": null,
             "composition": null,
@@ -246,7 +246,7 @@
         "14": {
             "phyrexian": "vornχlx",
             "IPA": "vornχlx",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Vorinclex",
             "root": null,
             "composition": null,
@@ -263,7 +263,7 @@
         "15": {
             "phyrexian": "vraskə'",
             "IPA": "vraskəʔ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Vraska",
             "root": null,
             "composition": null,
@@ -279,7 +279,7 @@
         "16": {
             "phyrexian": "tam'joo'",
             "IPA": "tamʔjooʔ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Tamiyo",
             "root": null,
             "composition": null,
@@ -295,7 +295,7 @@
         "17": {
             "phyrexian": "jɒ'gmo'θ",
             "IPA": "jɒʔgmoʔθ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Yawgmoth",
             "root": null,
             "composition": null,
@@ -313,7 +313,7 @@
         "18": {
             "phyrexian": "ɣøπi't",
             "IPA": "ɣøp'iʔt",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Basic",
             "root": null,
             "composition": null,
@@ -334,7 +334,7 @@
         "19": {
             "phyrexian": "ʁajg",
             "IPA": "ʁajg",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Legendary",
             "root": [
                 "ʁajg"
@@ -907,7 +907,7 @@
         "44": {
             "phyrexian": "plinexs",
             "IPA": "plinexs",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Compleated",
             "root": [
                 "plinexs"
@@ -935,7 +935,7 @@
         "45": {
             "phyrexian": "ɣwiθuqx'əkš",
             "IPA": "ɣwiθuqxʔəkʃ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Deathtouch",
             "root": [
                 "θuqx",
@@ -954,7 +954,7 @@
         "46": {
             "phyrexian": "qiplt",
             "IPA": "qiplt",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Equip",
             "root": [
                 "qiplt"
@@ -972,7 +972,7 @@
         "47": {
             "phyrexian": "ɣwiziklʁums",
             "IPA": "ɣwiziklʁums",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Flash",
             "root": [
                 "zikl",
@@ -991,7 +991,7 @@
         "48": {
             "phyrexian": "ɣwitøšq",
             "IPA": "ɣwitøʃq",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Flying",
             "root": [
                 "tøšq"
@@ -1009,7 +1009,7 @@
         "49": {
             "phyrexian": "ɣwiziklvuwk",
             "IPA": "ɣwiziklvuwk",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Haste",
             "root": [
                 "zikl",
@@ -1030,7 +1030,7 @@
         "50": {
             "phyrexian": "ɣwiɮəɣð",
             "IPA": "ɣwiɮəɣð",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Infect",
             "root": [
                 "ɮəɣð"
@@ -1050,7 +1050,7 @@
         "51": {
             "phyrexian": "ɣwinsa'qraφoj",
             "IPA": "ɣwinsaʔqraɸoj",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Lifelink",
             "root": [
                 "nsa'q",
@@ -1070,7 +1070,7 @@
         "52": {
             "phyrexian": "jektlexøq",
             "IPA": "jektlexøq",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Proliferate",
             "root": [
                 "jekt",
@@ -1089,7 +1089,7 @@
         "53": {
             "phyrexian": "ɣwiqaškmjment",
             "IPA": "ɣwiqaʃkmjment",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Swampwalk",
             "root": [
                 "qaškm",
@@ -1108,7 +1108,7 @@
         "54": {
             "phyrexian": "ɣwikfɒǧpan'g",
             "IPA": "ɣwikfɒg'panʔg",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Trample",
             "root": [
                 "pan'g"
@@ -1127,7 +1127,7 @@
         "55": {
             "phyrexian": "ɬaʁq",
             "IPA": "ɬaʁq",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Toxic",
             "root": [
                 "ɬaʁq"
@@ -1145,7 +1145,7 @@
         "56": {
             "phyrexian": "ɣwipnrukm",
             "IPA": "ɣwipnrukm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Vigilance",
             "root": [
                 "rukm"
@@ -1410,7 +1410,7 @@
         "68": {
             "phyrexian": "faxt",
             "IPA": "faxt",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Black",
             "root": [
                 "faxt"
@@ -1428,7 +1428,7 @@
         "69": {
             "phyrexian": "ɮiww",
             "IPA": "ɮiww",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Green",
             "root": [
                 "ɮiww"
@@ -1467,7 +1467,7 @@
         "71": {
             "phyrexian": "gʁičtx",
             "IPA": "gʁitʃtx",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Attack",
             "root": [
                 "gʁičtx"
@@ -1485,7 +1485,7 @@
         "72": {
             "phyrexian": "kfɒ'ǧ'",
             "IPA": "kfɒʔg'ʔ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Block (action)",
             "root": [
                 "kfɒ'ǧ'"
@@ -1573,7 +1573,7 @@
         "76": {
             "phyrexian": "qxuπl",
             "IPA": "qxup'l",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Control",
             "root": [
                 "qxuπl"
@@ -1641,7 +1641,7 @@
         "79": {
             "phyrexian": "šuqn",
             "IPA": "ʃuqn",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Counter (action)",
             "root": [
                 "šuqn"
@@ -1679,7 +1679,7 @@
         "81": {
             "phyrexian": "naǩm",
             "IPA": "nak'm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Create",
             "root": [
                 "naǩm"
@@ -1702,7 +1702,7 @@
         "82": {
             "phyrexian": "ðpačk",
             "IPA": "ðpatʃk",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Damage",
             "root": [
                 "ðpačk"
@@ -1720,7 +1720,7 @@
         "83": {
             "phyrexian": "qab'",
             "IPA": "qabʔ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Destroy",
             "root": [
                 "qab'"
@@ -1739,7 +1739,7 @@
         "84": {
             "phyrexian": "šteǧʁ",
             "IPA": "ʃteg'ʁ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Discard",
             "root": [
                 "šteǧʁ"
@@ -1757,7 +1757,7 @@
         "85": {
             "phyrexian": "mprasw",
             "IPA": "mprasw",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Draw",
             "root": [
                 "mprasw"
@@ -1800,7 +1800,7 @@
         "87": {
             "phyrexian": "čxət'",
             "IPA": "tʃxətʔ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Exile (action)",
             "root": [
                 "čxət'"
@@ -1821,7 +1821,7 @@
         "88": {
             "phyrexian": "φ'kitv",
             "IPA": "ɸʔkitv",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Foil",
             "root": [
                 "φ'kitv"
@@ -1840,7 +1840,7 @@
         "89": {
             "phyrexian": "huqtkeɴyt",
             "IPA": "huqtkeɴyt",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Loyalty",
             "root": [
                 "huqt",
@@ -1881,7 +1881,7 @@
         "91": {
             "phyrexian": "ẅəpk",
             "IPA": "ɯəpk",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Mill",
             "root": [
                 "ẅəpk"
@@ -1946,7 +1946,7 @@
         "94": {
             "phyrexian": "huqɬgøťt",
             "IPA": "huqɬgøt't",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Pay",
             "root": null,
             "composition": null,
@@ -1983,7 +1983,7 @@
         "96": {
             "phyrexian": "bukð",
             "IPA": "bukð",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Play",
             "root": [
                 "bukð"
@@ -2070,7 +2070,7 @@
         "100": {
             "phyrexian": "krepg",
             "IPA": "krepg",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Reveal",
             "root": [
                 "krepg"
@@ -2088,7 +2088,7 @@
         "101": {
             "phyrexian": "no'b'ugm",
             "IPA": "noʔbʔugm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Sacrifice",
             "root": null,
             "composition": null,
@@ -2105,7 +2105,7 @@
         "102": {
             "phyrexian": "ɣypm",
             "IPA": "ɣypm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Tap",
             "root": [
                 "ɣypm"
@@ -2125,7 +2125,7 @@
         "103": {
             "phyrexian": "žyxt",
             "IPA": "ʒyxt",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Target",
             "root": [
                 "žyxt"
@@ -2172,7 +2172,7 @@
         "105": {
             "phyrexian": "ǩažð",
             "IPA": "k'aʒð",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Trigger",
             "root": [
                 "ǩažð"
@@ -2230,7 +2230,7 @@
         "108": {
             "phyrexian": "'ii",
             "IPA": "ʔii",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "One",
             "root": [
                 "'ii"
@@ -2266,7 +2266,7 @@
         "109": {
             "phyrexian": "ķu",
             "IPA": "kʰu",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Two",
             "root": [
                 "ķu"
@@ -2287,7 +2287,7 @@
         "110": {
             "phyrexian": "ķi",
             "IPA": "kʰi",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Three",
             "root": [
                 "ķi"
@@ -2308,7 +2308,7 @@
         "111": {
             "phyrexian": "ķus'ər",
             "IPA": "kʰusʔər",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Twice",
             "root": [
                 "ķu",
@@ -2327,7 +2327,7 @@
         "112": {
             "phyrexian": "əxķus'ər",
             "IPA": "əxkʰusʔər",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Half",
             "root": [
                 "ķu",
@@ -2364,7 +2364,7 @@
         "114": {
             "phyrexian": "čtəčpliɣn",
             "IPA": "tʃtətʃpliɣn",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Activate",
             "root": null,
             "composition": null,
@@ -2380,7 +2380,7 @@
         "115": {
             "phyrexian": "babg",
             "IPA": "babg",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Add",
             "root": [
                 "babg"
@@ -2492,7 +2492,7 @@
         "121": {
             "phyrexian": "pnmenθ",
             "IPA": "pnmenθ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Ascended",
             "root": [
                 "menθ"
@@ -2510,7 +2510,7 @@
         "122": {
             "phyrexian": "pn'ətsxn",
             "IPA": "pnʔətsxn",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Beg",
             "root": [
                 "'ətsxn"
@@ -2552,7 +2552,7 @@
         "124": {
             "phyrexian": "χtena",
             "IPA": "χtena",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Behold",
             "root": [
                 "χten"
@@ -2590,7 +2590,7 @@
         "126": {
             "phyrexian": "ɮzətɣð",
             "IPA": "ɮzətɣð",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Blighted",
             "root": null,
             "composition": null,
@@ -2627,7 +2627,7 @@
         "128": {
             "phyrexian": "ǩeǆylqitsodrm",
             "IPA": "k'edʒylqitsodrm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Bottom",
             "root": null,
             "composition": null,
@@ -2644,7 +2644,7 @@
         "129": {
             "phyrexian": "keɴyt",
             "IPA": "keɴyt",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Bound",
             "root": [
                 "keɴyt"
@@ -2663,7 +2663,7 @@
         "130": {
             "phyrexian": "pən'g",
             "IPA": "pənʔg",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Break",
             "root": [
                 "pən'g"
@@ -2683,7 +2683,7 @@
         "131": {
             "phyrexian": "sər",
             "IPA": "sər",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "By",
             "root": null,
             "composition": null,
@@ -2727,7 +2727,7 @@
         "133": {
             "phyrexian": "ʁšθaǩɴ",
             "IPA": "ʁʃθak'ɴ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Choose",
             "root": null,
             "composition": null,
@@ -2743,13 +2743,12 @@
         "134": {
             "phyrexian": "'aliθt",
             "IPA": "ʔaliθt",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Cleanse",
             "root": null,
             "composition": null,
             "examples": [
                 "Merch",
-                "BRO_BoneSaw",
                 "ONE_Trailer",
                 "ONE_Solphim"
             ],
@@ -2762,7 +2761,7 @@
         "135": {
             "phyrexian": "močq",
             "IPA": "motʃq",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Come",
             "root": [
                 "močq"
@@ -2781,7 +2780,7 @@
         "136": {
             "phyrexian": "φlnaķm",
             "IPA": "ɸlnakʰm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Complete",
             "root": [
                 "naķm"
@@ -2841,7 +2840,7 @@
         "139": {
             "phyrexian": "čəxkefa'qsemr",
             "IPA": "tʃəxkefaʔqsemr",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Dismember",
             "root": null,
             "composition": null,
@@ -2857,7 +2856,7 @@
         "140": {
             "phyrexian": "χɬkevk",
             "IPA": "χɬkevk",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Distribute",
             "root": null,
             "composition": null,
@@ -2873,7 +2872,7 @@
         "141": {
             "phyrexian": "aχəw'",
             "IPA": "aχəwʔ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Each",
             "root": [
                 "aχəw'"
@@ -2895,7 +2894,7 @@
         "142": {
             "phyrexian": "xɬiwj",
             "IPA": "xɬiwj",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Early",
             "root": [
                 "xɬiwj"
@@ -2931,7 +2930,7 @@
         "144": {
             "phyrexian": "ǆ'ynpp",
             "IPA": "dʒʔynpp",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Equal",
             "root": null,
             "composition": null,
@@ -2969,7 +2968,7 @@
         "146": {
             "phyrexian": "ķoɮǩm",
             "IPA": "kʰoɮk'm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Fall",
             "root": [
                 "ķoɮǩm"
@@ -3073,7 +3072,7 @@
         "151": {
             "phyrexian": "ķuɮaθǩv",
             "IPA": "kʰuɮaθk'v",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "February",
             "root": [
                 "ķu",
@@ -3092,7 +3091,7 @@
         "152": {
             "phyrexian": "bɬølπ",
             "IPA": "bɬølp'",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Fill",
             "root": [
                 "bɬølπ"
@@ -3110,7 +3109,7 @@
         "153": {
             "phyrexian": "ɣɒzɢ",
             "IPA": "ɣɒzɢ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Flay",
             "root": [
                 "ɣɒzɢ"
@@ -3149,7 +3148,7 @@
         "155": {
             "phyrexian": "tapq",
             "IPA": "tapq",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Get",
             "root": [
                 "tapq"
@@ -3199,7 +3198,7 @@
         "157": {
             "phyrexian": "φ'kitv",
             "IPA": "ɸʔkitv",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Glisten",
             "root": [
                 "φ'kitv"
@@ -3256,7 +3255,7 @@
         "160": {
             "phyrexian": "šχa'θ",
             "IPA": "ʃχaʔθ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Great",
             "root": [
                 "šχa'θ"
@@ -3295,7 +3294,7 @@
         "162": {
             "phyrexian": "əxťeķibrs",
             "IPA": "əxt'ekʰibrs",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Hidden",
             "root": null,
             "composition": null,
@@ -3329,7 +3328,7 @@
         "164": {
             "phyrexian": "ɣwiəxťeθuqx",
             "IPA": "ɣwiəxt'eθuqx",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Immortality",
             "root": [
                 "θuqx"
@@ -3355,7 +3354,6 @@
             "composition": null,
             "examples": [
                 "Merch",
-                "BRO_BoneSaw",
                 "ONE_Trailer",
                 "ONE_Solphim"
             ],
@@ -3368,7 +3366,7 @@
         "166": {
             "phyrexian": "grmɒɣg",
             "IPA": "grmɒɣg",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Less than (fewer)",
             "root": [
                 "mɒɣg"
@@ -3512,7 +3510,7 @@
         "172": {
             "phyrexian": "korxgr",
             "IPA": "korxgr",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "More (than)",
             "root": [
                 "korx"
@@ -3573,7 +3571,7 @@
         "175": {
             "phyrexian": "vuwk",
             "IPA": "vuwk",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Move",
             "root": [
                 "vuwk"
@@ -3610,7 +3608,7 @@
         "177": {
             "phyrexian": "ɢnagɮ",
             "IPA": "ɢnagɮ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Next",
             "root": [
                 "ɢnagɮ"
@@ -3632,7 +3630,7 @@
         "178": {
             "phyrexian": "šoprapt",
             "IPA": "ʃoprapt",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "New",
             "root": null,
             "composition": null,
@@ -3722,7 +3720,7 @@
         "183": {
             "phyrexian": "sall",
             "IPA": "sall",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Other",
             "root": [
                 "sall"
@@ -3741,7 +3739,7 @@
         "184": {
             "phyrexian": "jnaķm",
             "IPA": "jnakʰm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Perfect(ion)",
             "root": [
                 "naķm"
@@ -3787,7 +3785,7 @@
         "186": {
             "phyrexian": "ŋeǩydm",
             "IPA": "ŋek'ydm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Produce",
             "root": null,
             "composition": null,
@@ -3819,7 +3817,7 @@
         "188": {
             "phyrexian": "ţə''",
             "IPA": "tʰəʔʔ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Put",
             "root": [
                 "ţə''"
@@ -3839,7 +3837,7 @@
         "189": {
             "phyrexian": "mɒɣg",
             "IPA": "mɒɣg",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Reduce",
             "root": [
                 "mɒɣg"
@@ -3877,7 +3875,7 @@
         "191": {
             "phyrexian": "'iţpənn",
             "IPA": "ʔitʰpənn",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Return",
             "root": null,
             "composition": null,
@@ -3947,7 +3945,7 @@
         "195": {
             "phyrexian": "rukm",
             "IPA": "rukm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "See",
             "root": [
                 "rukm"
@@ -3971,7 +3969,7 @@
         "196": {
             "phyrexian": "txš",
             "IPA": "txʃ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Skin",
             "root": [
                 "txš"
@@ -4008,7 +4006,7 @@
         "198": {
             "phyrexian": "θwiχš",
             "IPA": "θwiχʃ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Sow",
             "root": [
                 "θwiχš"
@@ -4028,7 +4026,7 @@
         "199": {
             "phyrexian": "hisp",
             "IPA": "hisp",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Spend",
             "root": [
                 "hisp"
@@ -4046,7 +4044,7 @@
         "200": {
             "phyrexian": "čpan'g",
             "IPA": "tʃpanʔg",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Splinter",
             "root": [
                 "pan'g"
@@ -4082,7 +4080,7 @@
         "202": {
             "phyrexian": "lups",
             "IPA": "lups",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Stop",
             "root": [
                 "lups"
@@ -4101,7 +4099,7 @@
         "203": {
             "phyrexian": "zťøsǆ",
             "IPA": "zt'øsdʒ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Subscribe",
             "root": [
                 "zťøsǆ"
@@ -4119,7 +4117,7 @@
         "204": {
             "phyrexian": "pnsča'θ",
             "IPA": "pnstʃaʔθ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Surrender",
             "root": [
                 "sča'θ"
@@ -4156,7 +4154,7 @@
         "206": {
             "phyrexian": "wtultm",
             "IPA": "wtultm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Suspect",
             "root": [
                 "wtultm"
@@ -4190,7 +4188,7 @@
         "208": {
             "phyrexian": "tøwp",
             "IPA": "tøwp",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Times (multiplication)",
             "root": [
                 "tøwp"
@@ -4226,7 +4224,7 @@
         "210": {
             "phyrexian": "žki",
             "IPA": "ʒki",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Until",
             "root": null,
             "composition": null,
@@ -4282,7 +4280,7 @@
         "213": {
             "phyrexian": "ment",
             "IPA": "ment",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Walk",
             "root": [
                 "ment"
@@ -4407,6 +4405,24 @@
             "confidence": "solid"
         },
         "219": {
+            "phyrexian": "tøšq",
+            "IPA": "tøʃq",
+            "plural": "FALSE",
+            "translation": "Fly",
+            "root": [
+                "tøšq"
+            ],
+            "composition": null,
+            "examples": [
+                "NPH_InkNexus"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "220": {
             "phyrexian": "χiɢɬ",
             "IPA": "χiɢɬ",
             "plural": "χiiɢɬ",
@@ -4424,10 +4440,10 @@
             "type": "root",
             "confidence": "solid"
         },
-        "220": {
+        "221": {
             "phyrexian": "ǆko'χ",
             "IPA": "dʒkoʔχ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Heal",
             "root": [
                 "ǆko'χ"
@@ -4442,10 +4458,10 @@
             "type": "root",
             "confidence": "moderate"
         },
-        "221": {
+        "222": {
             "phyrexian": "huqet",
             "IPA": "huqet",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Hurt",
             "root": [
                 "huqet"
@@ -4461,7 +4477,7 @@
             "type": "root",
             "confidence": "moderate"
         },
-        "222": {
+        "223": {
             "phyrexian": "ɮɒ'ɣ",
             "IPA": "ɮɒʔɣ",
             "plural": "ɮɒɒ'ɣ",
@@ -4479,7 +4495,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "223": {
+        "224": {
             "phyrexian": "oparxχ",
             "IPA": "ʔoparxχ",
             "plural": "'opaarxχ",
@@ -4496,7 +4512,7 @@
             "type": "unclear",
             "confidence": "likely"
         },
-        "224": {
+        "225": {
             "phyrexian": "raφoj",
             "IPA": "raɸoj",
             "plural": "raaφoj",
@@ -4513,7 +4529,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "225": {
+        "226": {
             "phyrexian": "dlabz",
             "IPA": "dlabz",
             "plural": "dlaabz",
@@ -4533,7 +4549,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "226": {
+        "227": {
             "phyrexian": "təmn",
             "IPA": "təmn",
             "plural": "təəmn",
@@ -4551,7 +4567,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "227": {
+        "228": {
             "phyrexian": "ǩytπt",
             "IPA": "k'ytp't",
             "plural": "ǩyytπt",
@@ -4570,10 +4586,10 @@
             "type": "root",
             "confidence": "likely"
         },
-        "228": {
+        "229": {
             "phyrexian": "tunm",
             "IPA": "tunm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Pure",
             "root": [
                 "tunm"
@@ -4581,7 +4597,6 @@
             "composition": null,
             "examples": [
                 "Merch",
-                "BRO_BoneSaw",
                 "ONE_Trailer",
                 "ONE_Solphim"
             ],
@@ -4591,7 +4606,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "229": {
+        "230": {
             "phyrexian": "kyžn",
             "IPA": "kyʒn",
             "plural": "kyyžn",
@@ -4609,10 +4624,10 @@
             "type": "root",
             "confidence": "solid"
         },
-        "230": {
+        "231": {
             "phyrexian": "vešt",
             "IPA": "veʃt",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Sleeper",
             "root": [
                 "vešt"
@@ -4627,10 +4642,10 @@
             "type": "root",
             "confidence": "solid"
         },
-        "231": {
+        "232": {
             "phyrexian": "kašpl",
             "IPA": "kaʃpl",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Slow",
             "root": [
                 "kašpl"
@@ -4646,10 +4661,10 @@
             "type": "root",
             "confidence": "likely"
         },
-        "232": {
+        "233": {
             "phyrexian": "solm",
             "IPA": "solm",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Smash/Hit",
             "root": [
                 "solm"
@@ -4662,7 +4677,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "233": {
+        "234": {
             "phyrexian": "φarθ",
             "IPA": "ɸarθ",
             "plural": "φaarθ",
@@ -4680,7 +4695,7 @@
             "type": "root",
             "confidence": "moderate"
         },
-        "234": {
+        "235": {
             "phyrexian": "'əkš",
             "IPA": "ʔəkʃ",
             "plural": "'əəkš",
@@ -4698,7 +4713,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "235": {
+        "236": {
             "phyrexian": "koqšqle't",
             "IPA": "koqʃqleʔt",
             "plural": "koqšqlee't",
@@ -4714,7 +4729,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "236": {
+        "237": {
             "phyrexian": "grjəťrk",
             "IPA": "grjət'rk",
             "plural": "grjəəťrk",
@@ -4732,7 +4747,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "237": {
+        "238": {
             "phyrexian": "tǆyφt",
             "IPA": "tdʒyɸt",
             "plural": "tǆyyφt",
@@ -4750,7 +4765,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "238": {
+        "239": {
             "phyrexian": "twøφt",
             "IPA": "twøɸt",
             "plural": "twøøφt",
@@ -4768,13 +4783,15 @@
             "type": "root",
             "confidence": "likely"
         },
-        "239": {
+        "240": {
             "phyrexian": "xe",
             "IPA": "xe",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Indicative, Present",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Norn",
                 "NPH_Ura",
@@ -4808,13 +4825,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "240": {
+        "241": {
             "phyrexian": "'u",
             "IPA": "ʔu",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Past",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Ura",
                 "NPH_Vorin",
@@ -4833,13 +4852,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "241": {
+        "242": {
             "phyrexian": "ŋo",
             "IPA": "ŋo",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Interrogative",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "ONE_Panel"
             ],
@@ -4849,13 +4870,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "242": {
+        "243": {
             "phyrexian": "ǩaπa",
             "IPA": "k'ap'a",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Jussive (shall/will)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Norn",
                 "MBS_Trailer",
@@ -4865,7 +4888,6 @@
                 "Merch",
                 "ONE_Article",
                 "ONE_Live",
-                "BRO_BoneSaw",
                 "ONE_Lukka",
                 "ONE_Trailer",
                 "ONE_Solphim",
@@ -4877,13 +4899,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "243": {
+        "244": {
             "phyrexian": "ba",
             "IPA": "ba",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Conditional (if)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Norn",
                 "NPH_Ura",
@@ -4910,13 +4934,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "244": {
+        "245": {
             "phyrexian": "bu",
             "IPA": "bu",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Conditional negative (if not)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "DMU_Ajani",
                 "ONE_Jace"
@@ -4927,13 +4953,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "245": {
+        "246": {
             "phyrexian": "xwe",
             "IPA": "xwe",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Deontic (may)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "DMU_Ajani",
                 "ONE_Mountain",
@@ -4947,13 +4975,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "246": {
+        "247": {
             "phyrexian": "lo",
             "IPA": "lo",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Imperative",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Ura",
                 "NPH_Jin",
@@ -4992,13 +5022,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "247": {
+        "248": {
             "phyrexian": "ðə",
             "IPA": "ðə",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Alternative (or)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [],
             "class": null,
             "native": true,
@@ -5006,13 +5038,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "248": {
+        "249": {
             "phyrexian": "xə",
             "IPA": "xə",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Addition (and)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Norn",
                 "NPH_Sheo",
@@ -5040,13 +5074,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "249": {
+        "250": {
             "phyrexian": "əx",
             "IPA": "əx",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Negative (un-, not)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Jin",
                 "ONE_Norn",
@@ -5060,13 +5096,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "250": {
+        "251": {
             "phyrexian": "əl",
             "IPA": "əl",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "negative (anti-affirmative/double negative)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Vorin",
                 "NEO_Tami",
@@ -5079,13 +5117,15 @@
             "type": "marker",
             "confidence": "likely"
         },
-        "251": {
+        "252": {
             "phyrexian": "'a",
             "IPA": "ʔa",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "obligation/necessity (must)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [],
             "class": null,
             "native": true,
@@ -5093,13 +5133,15 @@
             "type": "marker",
             "confidence": "poor"
         },
-        "252": {
+        "253": {
             "phyrexian": "qə",
             "IPA": "qə",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "subordinative (that)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Norn",
                 "NPH_Ura",
@@ -5120,13 +5162,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "253": {
+        "254": {
             "phyrexian": "ťe",
             "IPA": "t'e",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Permissive/ableness (can/may)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NEO_Jin",
                 "Yawg_Test",
@@ -5139,13 +5183,15 @@
             "type": "marker",
             "confidence": "moderate"
         },
-        "254": {
+        "255": {
             "phyrexian": "əq",
             "IPA": "əq",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "'Unless'",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Annex"
             ],
@@ -5155,13 +5201,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "255": {
+        "256": {
             "phyrexian": "xẅots",
             "IPA": "xɯots",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Consequential (thus)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "DOM_Scriptures",
                 "NPH_Elf"
@@ -5172,13 +5220,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "256": {
+        "257": {
             "phyrexian": "xuφ",
             "IPA": "xuφ",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Relative (when) ",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Ura",
                 "NPH_Jin",
@@ -5200,13 +5250,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "257": {
+        "258": {
             "phyrexian": "qilx",
             "IPA": "qilx",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Conditional (would)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Ura",
                 "KHM_Vorin",
@@ -5219,13 +5271,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "258": {
+        "259": {
             "phyrexian": "qit",
             "IPA": "qit",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Alternative (instead/but)",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "NPH_Jin",
                 "KHM_Vorin",
@@ -5241,13 +5295,15 @@
             "type": "marker",
             "confidence": "solid"
         },
-        "259": {
+        "260": {
             "phyrexian": "šta",
             "IPA": "ʃta",
-            "plural": false,
+            "plural": "FALSE",
             "translation": "Historical/evidential",
-            "root": false,
-            "composition": 0.0,
+            "root": [
+                "FALSE"
+            ],
+            "composition": false,
             "examples": [
                 "DOM_Scriptures",
                 "UMA_Altar",
@@ -5455,184 +5511,177 @@
             "Regular": "^'ičql.^mǩaπa-jɒɒ'g-žɒðyʁ-χtenaa.^ɣøπi't-θəɢð 'ičql.",
             "English": "Plains. Basic Land — Plains.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "plains.(shall) [pl.]machine [4>3]mother [2>1]behold.basic land plains"
         },
         "28": {
             "Name": "ONE_Island",
             "Regular": "^kẅθəɢð.^xe-jnaķm-ǩoθaǩ-χiǆ'ynpep.^ɣøπi't-θəɢð kẅθəɢð.",
             "English": "Island. Basic Land — Island.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "island.(indicative) perfect [?>?]? ?_[3>4]equal.basic land island"
         },
         "29": {
             "Name": "ONE_Swamp",
             "Regular": "^qaškm.^lo-xwixč-θwiχaš-gøẅrφ-'ičaq.^ɣøπi't-θəɢð qaškm.",
             "English": "Swamp. Basic Land — Swamp.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "swamp.(imperative) fear [1>3]sow ? [?>?]?.basic land swamp"
         },
         "30": {
             "Name": "ONE_Mountain",
             "Regular": "^ktakx.^xwe-šχa'θnaķm-ǩeǆ'ǥeθ.^ɣøπi't-θəɢð ktakx.",
             "English": "Mountain. Basic Land — Mountain.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "mountain.(may) great_work [3>4]?.basic land mountain"
         },
         "31": {
             "Name": "ONE_Forest",
             "Regular": "^'oɢθəsð.^xe-xe'ii'ə-ə'ufɬrøʁɴ-ɢises.^ɣøπi't-θəɢð 'oɢθəsð.",
             "English": "Forest. Basic Land — Forest.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "forest.(indicative) frequency_one ? [3>4]evolve.basic land forest"
         },
         "32": {
             "Name": "ONE_Article",
-            "Regular": "^čkaqq.^təmn.^jɒɒ'g-mo'yθ.^jɒ'gžɒðʁ.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^kaπa-dlikχanuj-šχa'yθ.^ǩaπa-š'iimashaǩ.",
+            "Regular": "^jɒɒ'g-mo'yθ.^ǩaπa-dlikχanuj-šχa'yθ.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^jɒ'gžɒðʁ.^ǩaπa-š'iimashaǩ.^čkaqq.^təmn.",
             "English": "Greatness, at any cost. Fall to your knees and welcome our embrace. Mother of Machines. All will be one. A mixed organic and non-organic sentient being, or a fully non-organic sentient being. A fully organic sentient being.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "[pl.]machine [4>3]father.(shall) in_?_cost [4>3]great.(shall) [2>2]knee [2>3]fall (shall-and) [?>?]embrace [2>3]welcome.machine_mother.(shall) ?_one_[?>?]?.biomechanical_being.organic_being"
         },
         "33": {
             "Name": "BeadleGrimms",
             "Regular": "^ɣẅbiidlɢrimsxə-mǩaπa-šopraptφyrxkeθəɢð-χtena.^lo-jnaķm-əšb-ķuɮaθǩv-pnsča'uθ.^lo-zťøsaaǆ-loxe-ɢţrɒsd-šdeχaad.",
             "English": "From Beadle & Grimm's: Behold New Phyrexia! Surrender to perfection on February 18, 2023. Subscribe and welcome our embrace.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "from_beadle_grimms_and (shall) new_phrexian_world [4>1]behold.(imperative) perfection on_{18}_february_{2023}_[2>3]behold.(imperative) [2>1]subscribe (imperative-and) embrace [2>1]welcome"
         },
         "34": {
             "Name": "ONE_Live",
             "Regular": "^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.",
             "English": "We are Phyrexia. We will sow perfection into the soft flesh of this world.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "(indicative) phyrexian_world.(shall) perfection ? in_[4>3]flesh this_world [1>3]sow"
         },
         "35": {
-            "Name": "BRO_BoneSaw",
-            "Regular": "^ǩaπa-əxtuneem-'aliθat.",
-            "English": "We will cleanse their impurities.",
-            "Notes": "Same text as some merch.",
-            "Breakdown": null
-        },
-        "36": {
             "Name": "NPH_Agent",
             "Regular": "^ɮzətɣð-ganwr.^φe'x φyrx-'ønəķ-θutlzətč.^ɣwiɮəɣð.^əx-ɮzətɣð-ganwr-kfɒ'q'.^xwe-'urbrask-χheruǩum-ʁiwtultm əlqit-lups.^'avričt ɢyytx-ɮportt.",
             "English": "Blighted Agent. Creature — Phyrexian Human Rogue. Infect. Blighted Agent can’t be blocked. “Urabrask may suspect our surveillance, but he cannot stop it.” — Avaricta, Gitaxian sective.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "blighted agent.creature phyrexian human rogue.infect.(not) blighted agent [3>3]block.(may) urabrask  [2>3]surveilance ?_suspect (not-but) [?>?]stop.avaricta [pl.]gitaxian sective"
         },
-        "37": {
+        "36": {
             "Name": "NPH_Elf",
             "Regular": "^naķmφ'kitv-jalf.^φe'x φyrx-jalf-naķmtǆyφt.^ɣwiɮəɣð.^xwe-nsa'q-pn'ətsxaan-ťexẅots-wφyrxjnaķm-'ɒjbť-bɬølaπ.",
-            "English": "Glistener Elf. Creature — Phyrexian Elf Warrior. Infect.",
+            "English": "Glistener Elf. Creature — Phyrexian Elf Warrior. Infect. Beg me for life, and I will fill ou with the glory of phyrexian perfection.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "make-foil elf.creature phyrexian elf make-war.infect.may life [2>1]beg (can-thus) of_phyrexian-perfection glory [1>?]fill"
         },
-        "38": {
+        "37": {
             "Name": "NPH_Batterskull",
             "Regular": "^kšaπɢždɒ'ķ.^qxuna'k qipmt.^čkaqqtwøφt.^xe-qipltφe'x-ɣwipnrukm-ɣwinsa'qraφoj-ʁitapyq.^kšaπɢždɒ'ķ-hnaķmkeφe'xnaql-ʁi'iţpənun.^qiplt.",
             "English": "Batterskull. Artifact — Equipment. Living weapon. Equipped creature gets +4/+4 and has vigilance and lifelink. Return Batterskull to its owner’s hand. Equip.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "?-?.artifact equipment.biomechanical_being-weapon.(indicative) equip-creature {+4/+4} vigilance lifelink ?_[4>3]get. ?-? to_make-own-hand ?_[2>?]return.equip"
         },
-        "39": {
+        "38": {
             "Name": "NPH_InkNexus",
             "Regular": "^dlabzǆfyll'əqd.^θəɢð.^bɒb'g.^dlabzǆfyll'əqd-φyrx-dlabzǆfyll-qxuna'kφe'x-žkiɢəronɣ-ʁitapeq.^ɣwitøšq-ɣwiɮəɣð-pareɴ.",
             "English": "Inkmoth Nexus. Land. Add. Inkmoth Nexus becomes a 1/1 Phyrexian Blinkmoth artifact creature with flying and infect until end of turn. It’s still a land. ",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "oil-moth-nexus.land.{T}.add {1}.{1}.oil-moth-nexus phyrexian oil-moth {1/1} artifact-creature for_this_turn [3>4]get.flying infect [3>4]?"
         },
-        "40": {
+        "39": {
             "Name": "C19_Krrik",
             "Regular": "^ǩərrk 'i'yl-jɒ'gmo'θ.^ʁajgφe'x φyrx-šχʁɒčx-'əqoq'.^ɣwinsa'qraφoj.^xwe-aχəw'-'štrχanj-ʁihuqɬgøťut xweqit-nsa'q-huqɬgøťut.^baxuφ-faxt-ʁums-buǩuð-lo-juχẅķ-əšqǩərrk-'i'yl-jɒ'gmo'θ-ʁiţə'u'.",
             "English": "K'rrik, Son of Yawgmoth. Legendary Creature — Phyrexian Horror Minion. Lifelink. For each B in a cost, you may pay 2 life rather than pay that mana. Whenever you cast a black spell, put a +1/+1 counter on K'rrik, Son of Yawgmoth.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "krrik [4>3]son yawgmoth. legendary-creature phyrexian horror minion.lifelink.(may) each {B} ?_cost ?_[2>3]pay (may-but) life [2>3]pay.(if-when) black spell [2>3]play (imperative) {+1/+1} counter on_krrik [4>3]son yawgmoth ?_[2>3]put"
         },
-        "41": {
+        "40": {
             "Name": "ONE_Arena",
             "Regular": "^φyrx-qab'θəxt.^myθž.^baxuφ-ðlabzqpønuč-'iixtfu'q-lo-ɢwinš-mprasuw-loxə-sər-huqøt.",
             "English": "Phyrexian Arena. Enchantment. At the beginning of your upkeep, you draw a card and you lose 1 life.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "phyrexian arena.enchantment.(if-when) upkeep [3>3]begin (imperative) card [2>3]draw (imperative-and) by {1} [2>4]hurt"
         },
-        "42": {
+        "41": {
             "Name": "NPH_Annex",
             "Regular": "^norn-ǩlətkyk.^qxuna'k.^əx-πee'x-čkɒquq-qə-qxuπul-xexə-ʁajgnmhupmeentðə-gʁyčtx-loəq-qxuπyl-xe'štaχəw'φe'x'ə-huqɬgøtet.",
             "English": "Norn's Annex. Artifact. Creatures can’t attack you or planeswalkers you control unless their controller pays W/P for each of those creatures.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "norn [4>3]annex.artifact.(not) creatures [2>2]biomechanical_being (that) [2>?]control (indicative-and) [pl.]planeswalker_or attack (imperative-?) [4>3]control {W/P} frequency_for_each_creature pay"
         },
-        "43": {
+        "42": {
             "Name": "ONE_Jace",
-            "Regular": "^ǆes jnaķm-'təɮirt.^ʁajgnmhupment ǆes.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-φɒ'ɢnagɮronuɣ-tapuq.^lo-nɒqč-žyxut-loxə-sər-ẅəpek.^ba-θuqxiwwθəxt-lyφkorxgrǆ'ynppðə-ɢwiinš-lo-mprasuw.^bu-ɢwinš-mprasuw.^lo-nɒqč-žyxut-loxə-sər-ķi-tøwp-ẅəpyk.",
+            "Regular": "^ǆes jnaķm-'təɮirt.^ʁajgnmhupment ǆes.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-φɒ'ɢnagɮronuɣ-tapyq.^lo-nɒqč-žyxut-loxə-sər-ẅəpek.^ba-θuqxiwwθəxt-lyφkorxgrǆ'ynppðə-ɢwiinš-lo-mprasuw.^bu-ɢwinš-mprasuw.^lo-nɒqč-žyxut-loxə-sər-ķi-tøwp-ẅəpyk.",
             "English": "Jace, the Perfected Mind. Legendary Planeswalker — Jace. Compleated. Until your next turn, up to one target creature gets -3/-0. Target player mills three cards. Then if a graveyard has twenty or more cards in it, you draw three cards. Otherwise, you draw a card. Target player mills three times X cards.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "jace perfect mind.legendary-planeswalker jace.compleat.(imperative) creature frequency_not_more_than_one [2>3]target (imperative-and) {-3/-0} until_next_[2>?]turn [4>3]get.(imperative) player [2>?]target (imperative-and) by {3} [3>4]mill.(if) graveyard {20} ?_more_than_equal_or [pl.]card (imperative) [2>3]draw. (if_not) card [2>3]draw.(imperative) player [2>?]target (imperative-and) by {X} times [4>3]mill"
         },
-        "44": {
+        "43": {
             "Name": "ONE_Vraska",
-            "Regular": "^vraskə' πnokx-'afy'.^ʁajgnmhufment vraskə'.^plinexs.^lo-ɢwinš-mprasuw-loxə-sər-huǧt.^lo-jektlexøq.^lo-φe'x-žyxut-qxuna'k-ǧliŋš-tlexeq.^xe-sall-ɢwinšπøøkkɣwii'txə-'oparxuχ.^xe-tapeq-no'b'ugum-'ɒpsopšikt-'ii-ma'n-babug.^lo-nɒqč-žyxut-baxe-grmɒɣg-ʁiheeɬeɬ-dlgeftʁiheeɮɮ-lo-tapeq.",
+            "Regular": "^vraskə' πnokx-'afy'.^ʁajgnmhufment vraskə'.^plinexs.^lo-ɢwinš-mprasuw-loxə-sər-huǧt.^lo-jektlexøq.^lo-φe'x-žyxut-qxuna'k-ǧliŋš-tlexeq.^xe-sall-ɢwinšπøøkkɣwii'txə-'oparxuχ.^xe-tapeq-no'b'ugum-'ɒpsopšikt-'ii-ma'n-babug.^lo-nɒqč-žyxut-baxe-grmɒɣg-ʁiheeɬeɬ-dlgeftʁiheeɬɬ-lo-tapeq.",
             "English": "Vraska, Betrayal's Sting. Legendary Planeswalker — Vraska. Compleated. You draw a card and you lose 1 life. Proliferate. Target creature becomes a Treasure artifact with “Sacrifice this artifact: Add one mana of any color” and loses all other card types and abilities. If target player has fewer than nine poison counters, they get a number of poison counters equal to the difference.",
             "Notes": null,
-            "Breakdown": null
+            "Breakdown": "vraska betrayal [4>3]sting.legendary-planeswalker vraska.compleat.(imperative) card [2>3]draw (imperative-and) by {1} [?>?]hurt.(imperative) [2>4]proliferate.(imperative) creature [2>?] target artifact treasure [3>4]?.(indicative) other card-[pl.]type-[pl.]ability_and [2>3]limit.(indicative) [3>4]get.[2>?]sacrifice.any_color one mana [2>3]add.(imperative) player [2>?]target (if-indicative) less_than {9} [pl.,3>4]poison in_?-[pl.]poison (imperative) [3>4]get"
         },
-        "45": {
+        "44": {
             "Name": "ONE_Lukka",
             "Regular": "^lyku' keɴt-hfwežφ.^ʁajgnmhupment lyku'.^plinexs.^lo-babug.^ǩaπa-ɢəma'n-φee'xčtəčpliɣnɣwi'ytðə-xe'ii'ə-ʁihisup.^lo-ɮiwwφyrxpnpe'kφe'xfa'ipθ-naǩum.^xe-ɬaʁq-tapeq.^lo-'ɒpasərθφee'xʁajgnmhuupmentxəðə-žyxut.^lo-lyku'-sər-'ɒpžyyxgɮəsuv-ðpačuk.^'u-qə-qxuπul-'uxə-ðazpnkorxnu'fφee'x-loxuπ-xwi't-čtəčpliɣun-ʁiǆ'ynpp.",
             "English": "Lukka, Bound to Ruin. Legendary Planeswalker — Lukka. Compleated. Add R/G. Spend this mana only to cast creature spells or activate abilities of creatures. Create a 3/3 green Phyrexian Beast creature token with toxic 1. Lukka deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is the greatest power among creatures you controlled as you activated this ability.",
             "Notes": null,
             "Breakdown": null
         },
-        "46": {
+        "45": {
             "Name": "ONE_Nissa",
             "Regular": "^nisə' pnmenθ-naķmnsa'q.^ʁajgnmhupment nisə'.^plinexs.^lo-ɮiwwφyrxšχʁɒčxφe'xfa'ipθ-naǩum xexə-nisə' pnmenθ-naķmnsa'q-huqtkeɴyt-ʁiǆ'ynpep.^lo-qxuna'k-qab'θəxtðə-žyxut-loxə-qabu'.^xe-qə-qxuπul-xexə-πee'x-sər-aχəw'oɢθəsð-ɣwikfɒǧpən'gxə-žkiɢəronɣ-tapyq.",
             "English": "Nissa, Ascended Animist. Legendary Planeswalker — Nissa. Compleated. Create an X/X green Phyrexian Horror creature token, where X is Nissa, Ascended Animist’s loyalty. Destroy target artifact or enchantment. Until end of turn, creatures you control get +1/+1 for each Forest you control and gain trample.",
             "Notes": "Enchantment is written here with the word for arena.",
             "Breakdown": null
         },
-        "47": {
+        "46": {
             "Name": "ONE_Nahiri",
             "Regular": "^nhirii' ŋyqχ.^ʁajgnmhupment nhirii'.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-ɢəφe'x-nɒqč-φɒ'ɢnagɮronuɣ-xet'eaχəw'twøǩx'ə-ʁigʁičtex.^lo-ɢwinš-šteǧuʁ-loxə-ɢwinš-mprasuw.^lo-qərχanjasərθgrmɒɣgnhirii'huqtkeɴyt-xexə-φe'xequipmentðə-ɣẅθuqxiwwθəxut-žyxut-loxə-ɢəɢwinš-čxət'.^lo-qə-ɢəɢwinš-tluxtnaķm-loxə-fa'ipθ-naǩum.^xe-ɢəɢwinš-ɣwiziklvuwk-ʁitapyq.^baxuφ-πlnaķmqpenč-'iixtfu'q lo-ɢəɢwinš-čxəťu'.",
             "English": "Nahiri, the Unforgiving. Legendary Planeswalker — Nahiri. Compleated. Until your next turn, up to one target creature attacks a player each combat if able. Discard a card, then draw a card. Exile target creature or Equipment card with mana value less than Nahiri’s loyalty from your graveyard. Create a token that’s a copy of it. That token gains haste. Exile it at the beginning of the next end step.",
             "Notes": "An instance of equipment here is just written in english.",
             "Breakdown": null
         },
-        "48": {
+        "47": {
             "Name": "ONE_Trailer",
             "Regular": "^lo-kytθ-əxjnɒķum-ǩlɒkem.^xba-wǆetɢ-θxhikeb lo-πyyrex-ťraǩaq.^ǩaπa-əxtuneem-'aliθat.^lo-φyrxkeθəɢyð-'št'ečel'-'əpyryx-keθəɢð-'ičuq.^xe-ťəəmen-qə'ičyq-ǩaπa-keφe'x.^xe-čǩaaǧeq-naķmkep'ee'ox.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^lo-jnaķm-pnsča'eθ.^ǩaπa-š'iimashaǩ.",
             "English": null,
             "Notes": "English voiceover does not directly translate to written text on screen.",
             "Breakdown": null
         },
-        "49": {
+        "48": {
             "Name": "ONE_Solphim",
             "Regular": "^ǩaπa-šoprapt-φyrxkeθəɢð-χtena.^φyrxkevəɢð.^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.^lo-jnaķm-pnsča'eθ.^naķmpihš.^φyrxkevəɢð.^ǩaπa-əxtuneem-'aliθat.^naķmzept.",
             "English": null,
             "Notes": null,
             "Breakdown": null
         },
-        "50": {
+        "49": {
             "Name": "Keyboard",
             "Regular": "^ɮøht.^πaǆť.^plinexs.^qxuπyl.^nɒţm.^kšķiπχ.^θomk.",
             "English": null,
             "Notes": "Bad resolution makes it hard to get some of the glyphs right.",
             "Breakdown": null
         },
-        "51": {
+        "50": {
             "Name": "NPH_Misstep",
             "Regular": "^ɬšeɴazyv-təɮirt.^ziklʁums.^lo-φrχanjasərθ'ii'ʁums-žyxut-loxə-šuǧun.",
             "English": "Mental Misstep. Instant. Counter target spell with mana value 1.",
             "Notes": null,
             "Breakdown": null
         },
-        "52": {
+        "51": {
             "Name": "ONE_Panel",
             "Regular": "^lo-ronuɣ.^ŋo-ronoɣ.^xe-twøǩox.^əl-kfɒ'ǧa'.^lo-φarθkyžun-ɬšeɴazyv-təɮirat.",
             "English": null,
             "Notes": null,
             "Breakdown": null
         },
-        "53": {
+        "52": {
             "Name": "MOM_Teaser",
             "Regular": "^əx-φyrxkeθəɢð-jəŋθm-štodam.^šǩa-š'hupš-pn'ẅ'uzɮ.^əx-twøǩx-gøẅruφ.^ǩaπa-š'iimashaǩ.",
             "English": null,

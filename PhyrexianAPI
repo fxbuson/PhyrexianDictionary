@@ -41,7 +41,8 @@
             "composition": null,
             "examples": [
                 "NPH_Norn",
-                "ONE_Norn"
+                "ONE_Norn",
+                "BeadleGrimms_Guide"
             ],
             "class": "noun",
             "native": true,
@@ -173,7 +174,8 @@
             "examples": [
                 "NPH_Norn",
                 "ONE_Norn",
-                "NPH_Annex"
+                "NPH_Annex",
+                "BeadleGrimms_Guide"
             ],
             "class": "noun",
             "native": true,
@@ -192,14 +194,15 @@
             ],
             "composition": null,
             "examples": [
-                "NPH_Norn",
                 "DOM_Scriptures",
-                "MTGA",
-                "BeadleGrimms",
+                "NPH_Norn",
                 "ONE_Live",
                 "ONE_Trailer",
+                "MOM_Teaser",
                 "ONE_Solphim",
-                "MOM_Teaser"
+                "MTGA",
+                "BeadleGrimms",
+                "BeadleGrimms_Guide"
             ],
             "class": "noun",
             "native": true,
@@ -216,8 +219,8 @@
             "composition": null,
             "examples": [
                 "NPH_Sheo",
-                "Swamp_Lore",
-                "DMU_Sheo"
+                "DMU_Sheo",
+                "Swamp_Lore"
             ],
             "class": "noun",
             "native": true,
@@ -301,8 +304,8 @@
             "composition": null,
             "examples": [
                 "DOM_Scriptures",
-                "MTGA",
-                "C19_Krrik"
+                "C19_Krrik",
+                "MTGA"
             ],
             "class": "noun",
             "native": true,
@@ -318,12 +321,12 @@
             "root": null,
             "composition": null,
             "examples": [
-                "SLD_Swamp",
                 "ONE_Plains",
                 "ONE_Island",
                 "ONE_Swamp",
                 "ONE_Mountain",
-                "ONE_Forest"
+                "ONE_Forest",
+                "SLD_Praetors"
             ],
             "class": "adjective",
             "native": true,
@@ -353,13 +356,13 @@
                 "DMU_Sheo",
                 "DMU_Ajani",
                 "ONE_Norn",
-                "C19_Krrik",
-                "NPH_Annex",
                 "ONE_Jace",
                 "ONE_Vraska",
                 "ONE_Lukka",
                 "ONE_Nissa",
-                "ONE_Nahiri"
+                "ONE_Nahiri",
+                "C19_Krrik",
+                "NPH_Annex"
             ],
             "class": "adjective",
             "native": true,
@@ -379,12 +382,12 @@
             "examples": [
                 "NEO_Jin",
                 "NEO_Tami",
-                "MBS_PsyCrawl",
+                "ONE_Vraska",
+                "ONE_Nissa",
                 "NPH_Batterskull",
                 "NPH_InkNexus",
-                "NPH_Annex",
-                "ONE_Vraska",
-                "ONE_Nissa"
+                "MBS_PsyCrawl",
+                "NPH_Annex"
             ],
             "class": "noun",
             "native": true,
@@ -410,24 +413,24 @@
                 "KHM_Vorin",
                 "NEO_Jin",
                 "NEO_Tami",
-                "Swamp_Lore",
                 "SNC_Ura",
                 "DMU_Sheo",
                 "DMU_Ajani",
-                "NPH_Dismember",
-                "MBS_PsyCrawl",
                 "ONE_Norn",
-                "NPH_Agent",
-                "NPH_Elf",
-                "NPH_Batterskull",
-                "NPH_InkNexus",
-                "C19_Krrik",
-                "NPH_Annex",
                 "ONE_Jace",
                 "ONE_Vraska",
                 "ONE_Lukka",
                 "ONE_Nissa",
                 "ONE_Nahiri",
+                "NPH_Agent",
+                "NPH_Elf",
+                "NPH_Batterskull",
+                "NPH_InkNexus",
+                "C19_Krrik",
+                "NPH_Dismember",
+                "MBS_PsyCrawl",
+                "NPH_Annex",
+                "Swamp_Lore",
                 "ONE_Trailer"
             ],
             "class": "noun",
@@ -487,8 +490,8 @@
             ],
             "composition": null,
             "examples": [
-                "NEO_Jin",
-                "Yawg_Test"
+                "Yawg_Test",
+                "NEO_Jin"
             ],
             "class": "noun",
             "native": true,
@@ -506,22 +509,23 @@
             ],
             "composition": null,
             "examples": [
+                "DOM_Scriptures",
                 "NPH_Norn",
                 "NPH_Vorin",
-                "DOM_Scriptures",
-                "SLD_Swamp",
-                "MTGA",
                 "ONE_Plains",
                 "ONE_Island",
                 "ONE_Swamp",
                 "ONE_Mountain",
                 "ONE_Forest",
-                "BeadleGrimms",
-                "ONE_Live",
                 "NPH_InkNexus",
+                "SLD_Praetors",
+                "ONE_Live",
                 "ONE_Trailer",
+                "MOM_Teaser",
                 "ONE_Solphim",
-                "MOM_Teaser"
+                "MTGA",
+                "BeadleGrimms",
+                "BeadleGrimms_Guide"
             ],
             "class": "noun",
             "native": true,
@@ -541,11 +545,11 @@
             "examples": [
                 "NEO_Tami",
                 "DMU_Ajani",
-                "NPH_Annex",
                 "ONE_Jace",
                 "ONE_Lukka",
                 "ONE_Nissa",
-                "ONE_Nahiri"
+                "ONE_Nahiri",
+                "NPH_Annex"
             ],
             "class": "noun",
             "native": true,
@@ -600,9 +604,9 @@
             "composition": null,
             "examples": [
                 "NPH_Sheo",
-                "SLD_Swamp",
-                "Swamp_Lore",
-                "ONE_Swamp"
+                "ONE_Swamp",
+                "SLD_Praetors",
+                "Swamp_Lore"
             ],
             "class": "noun",
             "native": true,
@@ -638,8 +642,8 @@
             ],
             "composition": null,
             "examples": [
-                "ONE_Forest",
-                "ONE_Nissa"
+                "ONE_Nissa",
+                "ONE_Forest"
             ],
             "class": "noun",
             "native": true,
@@ -728,9 +732,9 @@
             "root": null,
             "composition": null,
             "examples": [
-                "MBS_PsyCrawl",
+                "ONE_Nissa",
                 "C19_Krrik",
-                "ONE_Nissa"
+                "MBS_PsyCrawl"
             ],
             "class": "noun",
             "native": true,
@@ -784,6 +788,7 @@
             ],
             "composition": null,
             "examples": [
+                "DOM_Scriptures",
                 "NPH_Norn",
                 "NPH_Ura",
                 "NPH_Jin",
@@ -791,28 +796,28 @@
                 "NPH_Vorin",
                 "KHM_Vorin",
                 "NEO_Jin",
-                "DOM_Scriptures",
-                "MBS_Trailer",
-                "NPH_Trailer",
-                "SLD_Praetors",
-                "MTGSalvation",
                 "SNC_Ura",
                 "DMU_Sheo",
-                "MBS_PsyCrawl",
-                "MTGA",
                 "ONE_Norn",
-                "BeadleGrimms",
-                "ONE_Live",
+                "ONE_Lukka",
+                "ONE_Nissa",
+                "ONE_Arena",
                 "NPH_Agent",
                 "NPH_Elf",
                 "NPH_InkNexus",
                 "C19_Krrik",
-                "ONE_Arena",
-                "ONE_Lukka",
-                "ONE_Nissa",
+                "MBS_PsyCrawl",
+                "SLD_Swamp",
+                "ONE_Live",
+                "MBS_Trailer",
+                "NPH_Trailer",
                 "ONE_Trailer",
+                "MOM_Teaser",
                 "ONE_Solphim",
-                "MOM_Teaser"
+                "MTGSalvation",
+                "MTGA",
+                "BeadleGrimms",
+                "BeadleGrimms_Guide"
             ],
             "class": "noun",
             "native": true,
@@ -837,10 +842,10 @@
                 "NPH_Vorin",
                 "KHM_Vorin",
                 "NEO_Jin",
-                "SLD_Praetors",
                 "SNC_Ura",
                 "DMU_Sheo",
-                "ONE_Norn"
+                "ONE_Norn",
+                "SLD_Swamp"
             ],
             "class": "noun",
             "native": false,
@@ -915,16 +920,17 @@
             "composition": null,
             "examples": [
                 "NEO_Tami",
-                "SLD_Praetors",
-                "Swamp_Lore",
                 "DMU_Ajani",
-                "Merch",
                 "ONE_Jace",
                 "ONE_Vraska",
                 "ONE_Lukka",
                 "ONE_Nissa",
                 "ONE_Nahiri",
-                "Keyboard"
+                "SLD_Swamp",
+                "Swamp_Lore",
+                "Merch",
+                "Keyboard",
+                "BeadleGrimms_Guide"
             ],
             "class": "adjective",
             "native": true,
@@ -1214,9 +1220,9 @@
             ],
             "composition": null,
             "examples": [
+                "Yawg_Test",
                 "NPH_Sheo",
                 "NEO_Tami",
-                "Yawg_Test",
                 "ONE_Jace",
                 "ONE_Nahiri"
             ],
@@ -1276,18 +1282,18 @@
             ],
             "composition": null,
             "examples": [
+                "Yawg_Test",
                 "NPH_Ura",
                 "NPH_Jin",
                 "NPH_Sheo",
                 "NEO_Tami",
-                "Yawg_Test",
                 "SNC_Ura",
                 "DMU_Ajani",
                 "ONE_Norn",
-                "ONE_Arena",
                 "ONE_Jace",
                 "ONE_Nissa",
-                "ONE_Nahiri"
+                "ONE_Nahiri",
+                "ONE_Arena"
             ],
             "class": "noun",
             "native": true,
@@ -1390,15 +1396,15 @@
             ],
             "composition": null,
             "examples": [
-                "NEO_Jin",
                 "Yawg_Test",
+                "NEO_Jin",
                 "SNC_Ura",
                 "DMU_Ajani",
-                "NPH_Dismember",
-                "NPH_InkNexus",
                 "ONE_Jace",
                 "ONE_Nissa",
                 "ONE_Nahiri",
+                "NPH_InkNexus",
+                "NPH_Dismember",
                 "ONE_Panel"
             ],
             "class": "noun",
@@ -1513,15 +1519,15 @@
                 "NPH_Jin",
                 "NPH_Sheo",
                 "NEO_Tami",
-                "SLD_Praetors",
                 "SNC_Ura",
                 "DMU_Sheo",
                 "DMU_Ajani",
-                "MBS_PsyCrawl",
-                "ONE_Arena",
                 "ONE_Jace",
                 "ONE_Vraska",
-                "ONE_Nahiri"
+                "ONE_Nahiri",
+                "ONE_Arena",
+                "MBS_PsyCrawl",
+                "SLD_Swamp"
             ],
             "class": "noun",
             "native": true,
@@ -1539,12 +1545,12 @@
             ],
             "composition": null,
             "examples": [
+                "Yawg_Test",
                 "NPH_Jin",
                 "NEO_Jin",
                 "NEO_Tami",
-                "Yawg_Test",
-                "NPH_Dismember",
                 "C19_Krrik",
+                "NPH_Dismember",
                 "NPH_Misstep"
             ],
             "class": "noun,verb",
@@ -1584,9 +1590,9 @@
                 "NPH_Ura",
                 "NPH_Vorin",
                 "NEO_Tami",
-                "NPH_Annex",
                 "ONE_Lukka",
                 "ONE_Nissa",
+                "NPH_Annex",
                 "Keyboard"
             ],
             "class": "verb",
@@ -1627,10 +1633,10 @@
             "composition": null,
             "examples": [
                 "NEO_Tami",
-                "ONE_Article",
-                "C19_Krrik",
                 "ONE_Nahiri",
-                "NPH_Misstep"
+                "C19_Krrik",
+                "NPH_Misstep",
+                "ONE_Article"
             ],
             "class": "noun",
             "native": true,
@@ -1721,14 +1727,14 @@
             "phyrexian": "qab'",
             "IPA": "qabʔ",
             "plural": "FALSE",
-            "translation": "Destroy",
+            "translation": "Kill",
             "root": [
                 "qab'"
             ],
             "composition": null,
             "examples": [
-                "ONE_Arena",
-                "ONE_Nissa"
+                "ONE_Nissa",
+                "ONE_Arena"
             ],
             "class": "verb",
             "native": true,
@@ -1767,11 +1773,11 @@
                 "NEO_Tami",
                 "SNC_Ura",
                 "DMU_Sheo",
-                "MBS_PsyCrawl",
-                "ONE_Arena",
                 "ONE_Jace",
                 "ONE_Vraska",
-                "ONE_Nahiri"
+                "ONE_Nahiri",
+                "ONE_Arena",
+                "MBS_PsyCrawl"
             ],
             "class": "verb",
             "native": true,
@@ -1801,14 +1807,14 @@
             "phyrexian": "čxət'",
             "IPA": "tʃxətʔ",
             "plural": "FALSE",
-            "translation": "Exile (action)",
+            "translation": "Exile/Reject",
             "root": [
                 "čxət'"
             ],
             "composition": null,
             "examples": [
-                "NEO_Tami",
                 "Yawg_Test",
+                "NEO_Tami",
                 "SNC_Ura",
                 "ONE_Nahiri"
             ],
@@ -1828,10 +1834,11 @@
             ],
             "composition": null,
             "examples": [
-                "SLD_Praetors",
-                "NPH_Elf"
+                "NPH_Elf",
+                "SLD_Swamp",
+                "BeadleGrimms_Guide"
             ],
-            "class": "adjective, noun",
+            "class": "adjective,noun",
             "native": true,
             "notes": null,
             "type": "root",
@@ -1868,9 +1875,9 @@
             "composition": null,
             "examples": [
                 "NPH_Vorin",
-                "NPH_Trailer",
                 "ONE_Vraska",
-                "ONE_Lukka"
+                "ONE_Lukka",
+                "NPH_Trailer"
             ],
             "class": "noun",
             "native": false,
@@ -1928,7 +1935,7 @@
             "phyrexian": "naķmkeφe'x",
             "IPA": "nakʰmkeɸeʔx",
             "plural": "naķmkeφee'x",
-            "translation": "Owner",
+            "translation": "Owner/Herder",
             "root": [
                 "naķm",
                 "φe'x"
@@ -1951,8 +1958,8 @@
             "root": null,
             "composition": null,
             "examples": [
-                "Ads",
-                "C19_Krrik"
+                "C19_Krrik",
+                "Ads"
             ],
             "class": "verb",
             "native": true,
@@ -1984,7 +1991,7 @@
             "phyrexian": "bukð",
             "IPA": "bukð",
             "plural": "FALSE",
-            "translation": "Play",
+            "translation": "Play/Cast",
             "root": [
                 "bukð"
             ],
@@ -2020,10 +2027,10 @@
                 "SNC_Ura",
                 "DMU_Sheo",
                 "DMU_Ajani",
-                "MBS_PsyCrawl",
                 "ONE_Jace",
                 "ONE_Vraska",
-                "ONE_Nahiri"
+                "ONE_Nahiri",
+                "MBS_PsyCrawl"
             ],
             "class": "noun",
             "native": true,
@@ -2058,8 +2065,8 @@
             ],
             "composition": null,
             "examples": [
-                "MBS_PsyCrawl",
-                "ONE_Lukka"
+                "ONE_Lukka",
+                "MBS_PsyCrawl"
             ],
             "class": "noun",
             "native": true,
@@ -2136,12 +2143,12 @@
                 "NEO_Jin",
                 "NEO_Tami",
                 "DMU_Ajani",
-                "NPH_Dismember",
                 "ONE_Jace",
                 "ONE_Vraska",
                 "ONE_Lukka",
                 "ONE_Nissa",
                 "ONE_Nahiri",
+                "NPH_Dismember",
                 "NPH_Misstep"
             ],
             "class": "verb",
@@ -2216,9 +2223,9 @@
             "composition": null,
             "examples": [
                 "NEO_Tami",
-                "MBS_PsyCrawl",
                 "ONE_Lukka",
                 "ONE_Nahiri",
+                "MBS_PsyCrawl",
                 "NPH_Misstep"
             ],
             "class": "noun",
@@ -2237,25 +2244,25 @@
             ],
             "composition": null,
             "examples": [
+                "DOM_Scriptures",
                 "NPH_Jin",
                 "NPH_Sheo",
                 "NEO_Jin",
                 "NEO_Tami",
-                "DOM_Scriptures",
-                "MBS_Trailer",
                 "SNC_Ura",
                 "DMU_Ajani",
-                "Merch",
-                "ONE_Forest",
-                "ONE_Article",
-                "ONE_Arena",
                 "ONE_Jace",
                 "ONE_Vraska",
                 "ONE_Lukka",
                 "ONE_Nahiri",
-                "ONE_Trailer",
+                "ONE_Forest",
+                "ONE_Arena",
                 "NPH_Misstep",
-                "MOM_Teaser"
+                "ONE_Article",
+                "MBS_Trailer",
+                "ONE_Trailer",
+                "MOM_Teaser",
+                "Merch"
             ],
             "class": "noun",
             "native": true,
@@ -2275,8 +2282,8 @@
             "examples": [
                 "KHM_Vorin",
                 "DMU_Ajani",
-                "BeadleGrimms",
-                "ONE_Trailer"
+                "ONE_Trailer",
+                "BeadleGrimms"
             ],
             "class": "noun",
             "native": true,
@@ -2297,7 +2304,8 @@
                 "NPH_Ura",
                 "DMU_Ajani",
                 "ONE_Jace",
-                "Keyboard"
+                "Keyboard",
+                "BeadleGrimms_Guide"
             ],
             "class": "noun",
             "native": true,
@@ -2480,8 +2488,8 @@
             ],
             "composition": null,
             "examples": [
-                "ONE_Arena",
-                "ONE_Nissa"
+                "ONE_Nissa",
+                "ONE_Arena"
             ],
             "class": "noun",
             "native": true,
@@ -2535,13 +2543,13 @@
             ],
             "composition": null,
             "examples": [
+                "DOM_Scriptures",
                 "NPH_Jin",
                 "NPH_Sheo",
-                "DOM_Scriptures",
-                "MBS_Trailer",
                 "SNC_Ura",
+                "ONE_Nahiri",
                 "ONE_Arena",
-                "ONE_Nahiri"
+                "MBS_Trailer"
             ],
             "class": "noun",
             "native": true,
@@ -2560,8 +2568,9 @@
             "composition": null,
             "examples": [
                 "ONE_Plains",
+                "ONE_Solphim",
                 "BeadleGrimms",
-                "ONE_Solphim"
+                "BeadleGrimms_Guide"
             ],
             "class": "verb",
             "native": true,
@@ -2604,6 +2613,28 @@
             "confidence": "solid"
         },
         "127": {
+            "phyrexian": "huqt",
+            "IPA": "huqt",
+            "plural": "FALSE",
+            "translation": "Blood",
+            "root": [
+                "huqt"
+            ],
+            "composition": null,
+            "examples": [
+                "DMU_Sheo",
+                "ONE_Nissa",
+                "ONE_Nahiri",
+                "ONE_Arena",
+                "MBS_PsyCrawl"
+            ],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "128": {
             "phyrexian": "tekt",
             "IPA": "tekt",
             "plural": "teekt",
@@ -2613,8 +2644,8 @@
             ],
             "composition": null,
             "examples": [
-                "NEO_Tami",
                 "Yawg_Test",
+                "NEO_Tami",
                 "SNC_Ura",
                 "DMU_Ajani"
             ],
@@ -2624,7 +2655,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "128": {
+        "129": {
             "phyrexian": "ǩeǆylqitsodrm",
             "IPA": "k'edʒylqitsodrm",
             "plural": "FALSE",
@@ -2641,7 +2672,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "129": {
+        "130": {
             "phyrexian": "keɴyt",
             "IPA": "keɴyt",
             "plural": "FALSE",
@@ -2660,7 +2691,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "130": {
+        "131": {
             "phyrexian": "pən'g",
             "IPA": "pənʔg",
             "plural": "FALSE",
@@ -2670,9 +2701,9 @@
             ],
             "composition": null,
             "examples": [
+                "ONE_Nissa",
                 "MBS_Trailer",
-                "Merch",
-                "ONE_Nissa"
+                "Merch"
             ],
             "class": "verb",
             "native": true,
@@ -2680,7 +2711,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "131": {
+        "132": {
             "phyrexian": "sər",
             "IPA": "sər",
             "plural": "FALSE",
@@ -2691,13 +2722,13 @@
                 "NPH_Jin",
                 "NEO_Tami",
                 "DMU_Sheo",
-                "MBS_PsyCrawl",
-                "ONE_Arena",
                 "ONE_Jace",
                 "ONE_Vraska",
                 "ONE_Lukka",
                 "ONE_Nissa",
                 "ONE_Nahiri",
+                "ONE_Arena",
+                "MBS_PsyCrawl",
                 "NPH_Misstep"
             ],
             "class": "preposition",
@@ -2706,7 +2737,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "132": {
+        "133": {
             "phyrexian": "ǆønobt",
             "IPA": "dʒønobt",
             "plural": "ǆønoobt",
@@ -2724,7 +2755,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "133": {
+        "134": {
             "phyrexian": "ʁšθaǩɴ",
             "IPA": "ʁʃθak'ɴ",
             "plural": "FALSE",
@@ -2740,7 +2771,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "134": {
+        "135": {
             "phyrexian": "'aliθt",
             "IPA": "ʔaliθt",
             "plural": "FALSE",
@@ -2748,9 +2779,10 @@
             "root": null,
             "composition": null,
             "examples": [
-                "Merch",
                 "ONE_Trailer",
-                "ONE_Solphim"
+                "ONE_Solphim",
+                "Merch",
+                "BeadleGrimms_Guide"
             ],
             "class": "verb",
             "native": true,
@@ -2758,7 +2790,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "135": {
+        "136": {
             "phyrexian": "močq",
             "IPA": "motʃq",
             "plural": "FALSE",
@@ -2777,7 +2809,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "136": {
+        "137": {
             "phyrexian": "φlnaķm",
             "IPA": "ɸlnakʰm",
             "plural": "FALSE",
@@ -2795,7 +2827,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "137": {
+        "138": {
             "phyrexian": "bwedn",
             "IPA": "bwedn",
             "plural": "bweedn",
@@ -2813,7 +2845,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "138": {
+        "139": {
             "phyrexian": "θuqx",
             "IPA": "θuqx",
             "plural": "θuuqx",
@@ -2823,13 +2855,13 @@
             ],
             "composition": null,
             "examples": [
+                "Yawg_Test",
                 "NPH_Sheo",
                 "NEO_Tami",
-                "Yawg_Test",
-                "MBS_Trailer",
                 "DMU_Sheo",
                 "ONE_Jace",
-                "ONE_Nahiri"
+                "ONE_Nahiri",
+                "MBS_Trailer"
             ],
             "class": "noun",
             "native": true,
@@ -2837,7 +2869,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "139": {
+        "140": {
             "phyrexian": "čəxkefa'qsemr",
             "IPA": "tʃəxkefaʔqsemr",
             "plural": "FALSE",
@@ -2853,7 +2885,7 @@
             "type": "composite",
             "confidence": "likely"
         },
-        "140": {
+        "141": {
             "phyrexian": "χɬkevk",
             "IPA": "χɬkevk",
             "plural": "FALSE",
@@ -2869,7 +2901,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "141": {
+        "142": {
             "phyrexian": "aχəw'",
             "IPA": "aχəwʔ",
             "plural": "FALSE",
@@ -2879,11 +2911,11 @@
             ],
             "composition": null,
             "examples": [
-                "MBS_PsyCrawl",
-                "C19_Krrik",
-                "NPH_Annex",
                 "ONE_Nissa",
-                "ONE_Nahiri"
+                "ONE_Nahiri",
+                "C19_Krrik",
+                "MBS_PsyCrawl",
+                "NPH_Annex"
             ],
             "class": "adverb",
             "native": true,
@@ -2891,7 +2923,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "142": {
+        "143": {
             "phyrexian": "xɬiwj",
             "IPA": "xɬiwj",
             "plural": "FALSE",
@@ -2909,7 +2941,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "143": {
+        "144": {
             "phyrexian": "ɢţrɒsd",
             "IPA": "ɢtʰrɒsd",
             "plural": "ɢţrɒɒsd",
@@ -2918,8 +2950,8 @@
             "composition": null,
             "examples": [
                 "ONE_Article",
-                "BeadleGrimms",
-                "ONE_Trailer"
+                "ONE_Trailer",
+                "BeadleGrimms"
             ],
             "class": "noun",
             "native": true,
@@ -2927,7 +2959,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "144": {
+        "145": {
             "phyrexian": "ǆ'ynpp",
             "IPA": "dʒʔynpp",
             "plural": "FALSE",
@@ -2935,10 +2967,10 @@
             "root": null,
             "composition": null,
             "examples": [
-                "ONE_Island",
                 "ONE_Jace",
                 "ONE_Lukka",
-                "ONE_Nissa"
+                "ONE_Nissa",
+                "ONE_Island"
             ],
             "class": "verb",
             "native": true,
@@ -2946,7 +2978,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "145": {
+        "146": {
             "phyrexian": "ɢiss",
             "IPA": "ɢiss",
             "plural": "ɢiiss",
@@ -2965,7 +2997,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "146": {
+        "147": {
             "phyrexian": "ķoɮǩm",
             "IPA": "kʰoɮk'm",
             "plural": "FALSE",
@@ -2984,7 +3016,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "147": {
+        "148": {
             "phyrexian": "zikl",
             "IPA": "zikl",
             "plural": "zikl",
@@ -2999,8 +3031,8 @@
                 "KHM_Vorin",
                 "NEO_Jin",
                 "SNC_Ura",
-                "NPH_Dismember",
                 "ONE_Nahiri",
+                "NPH_Dismember",
                 "NPH_Misstep"
             ],
             "class": "adjective",
@@ -3009,7 +3041,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "148": {
+        "149": {
             "phyrexian": "mo'θ",
             "IPA": "moʔθ",
             "plural": "moo'θ",
@@ -3019,13 +3051,13 @@
             ],
             "composition": null,
             "examples": [
-                "Yawg_Test",
                 "DOM_Scriptures",
+                "Yawg_Test",
+                "C19_Krrik",
+                "ONE_Article",
                 "NPH_Trailer",
                 "Dark_Discov",
-                "MTGA",
-                "ONE_Article",
-                "C19_Krrik"
+                "MTGA"
             ],
             "class": "noun",
             "native": true,
@@ -3033,7 +3065,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "149": {
+        "150": {
             "phyrexian": "jɒ'gmo'yθ",
             "IPA": "jɒʔgmoʔyθ",
             "plural": "jɒ'gmoo'yθ",
@@ -3050,7 +3082,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "150": {
+        "151": {
             "phyrexian": "xwixč",
             "IPA": "xwixtʃ",
             "plural": "xwiixč",
@@ -3060,8 +3092,8 @@
             ],
             "composition": null,
             "examples": [
-                "MBS_Trailer",
-                "ONE_Swamp"
+                "ONE_Swamp",
+                "MBS_Trailer"
             ],
             "class": "noun",
             "native": true,
@@ -3069,7 +3101,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "151": {
+        "152": {
             "phyrexian": "ķuɮaθǩv",
             "IPA": "kʰuɮaθk'v",
             "plural": "FALSE",
@@ -3088,7 +3120,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "152": {
+        "153": {
             "phyrexian": "bɬølπ",
             "IPA": "bɬølp'",
             "plural": "FALSE",
@@ -3106,7 +3138,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "153": {
+        "154": {
             "phyrexian": "ɣɒzɢ",
             "IPA": "ɣɒzɢ",
             "plural": "FALSE",
@@ -3124,7 +3156,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "154": {
+        "155": {
             "phyrexian": "'əpyrx",
             "IPA": "ʔəpyrx",
             "plural": "'əpyyrx",
@@ -3134,10 +3166,11 @@
             ],
             "composition": null,
             "examples": [
-                "MBS_Trailer",
                 "ONE_Live",
+                "MBS_Trailer",
                 "ONE_Trailer",
-                "ONE_Solphim"
+                "ONE_Solphim",
+                "BeadleGrimms_Guide"
             ],
             "class": "noun",
             "native": true,
@@ -3145,7 +3178,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "155": {
+        "156": {
             "phyrexian": "tapq",
             "IPA": "tapq",
             "plural": "FALSE",
@@ -3159,14 +3192,14 @@
                 "NPH_Ura",
                 "NEO_Tami",
                 "DMU_Ajani",
-                "NPH_Dismember",
-                "NPH_Batterskull",
-                "NPH_InkNexus",
                 "ONE_Jace",
                 "ONE_Vraska",
                 "ONE_Lukka",
                 "ONE_Nissa",
-                "ONE_Nahiri"
+                "ONE_Nahiri",
+                "NPH_Batterskull",
+                "NPH_InkNexus",
+                "NPH_Dismember"
             ],
             "class": "verb",
             "native": true,
@@ -3174,7 +3207,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "156": {
+        "157": {
             "phyrexian": "ɢytx",
             "IPA": "ɢytx",
             "plural": "ɢyytx",
@@ -3195,7 +3228,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "157": {
+        "158": {
             "phyrexian": "φ'kitv",
             "IPA": "ɸʔkitv",
             "plural": "FALSE",
@@ -3205,8 +3238,9 @@
             ],
             "composition": null,
             "examples": [
-                "SLD_Praetors",
-                "NPH_Elf"
+                "NPH_Elf",
+                "SLD_Swamp",
+                "BeadleGrimms_Guide"
             ],
             "class": "verb",
             "native": true,
@@ -3214,7 +3248,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "158": {
+        "159": {
             "phyrexian": "'ɒjbť",
             "IPA": "ʔɒjbt'",
             "plural": "'ɒɒjbť",
@@ -3224,16 +3258,16 @@
             ],
             "composition": null,
             "examples": [
-                "MTGA",
-                "NPH_Elf"
+                "NPH_Elf",
+                "MTGA"
             ],
             "class": "noun",
             "native": true,
             "notes": null,
             "type": "root",
-            "confidence": "solid"
+            "confidence": "moderate"
         },
-        "159": {
+        "160": {
             "phyrexian": "πllupsθəxt",
             "IPA": "p'llupsθəxt",
             "plural": "πllupsθəəxt",
@@ -3252,7 +3286,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "160": {
+        "161": {
             "phyrexian": "šχa'θ",
             "IPA": "ʃχaʔθ",
             "plural": "FALSE",
@@ -3262,12 +3296,13 @@
             ],
             "composition": null,
             "examples": [
-                "NPH_Norn",
                 "DOM_Scriptures",
+                "NPH_Norn",
+                "ONE_Mountain",
+                "ONE_Article",
                 "MBS_Trailer",
                 "NPH_Trailer",
-                "ONE_Mountain",
-                "ONE_Article"
+                "BeadleGrimms_Guide"
             ],
             "class": "adjective",
             "native": true,
@@ -3275,7 +3310,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "161": {
+        "162": {
             "phyrexian": "ɴk'ykg",
             "IPA": "ɴkʔykg",
             "plural": "ɴk'yykg",
@@ -3291,7 +3326,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "162": {
+        "163": {
             "phyrexian": "əxťeķibrs",
             "IPA": "əxt'ekʰibrs",
             "plural": "FALSE",
@@ -3307,25 +3342,23 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "163": {
-            "phyrexian": "gagg",
-            "IPA": "gagg",
-            "plural": "gaagg",
+        "164": {
+            "phyrexian": "gegg",
+            "IPA": "gegg",
+            "plural": "geegg",
             "translation": "Hunger",
             "root": [
-                "gagg"
+                "gegg"
             ],
             "composition": null,
-            "examples": [
-                "NPH_Vorin"
-            ],
+            "examples": [],
             "class": "noun",
             "native": true,
             "notes": null,
             "type": "root",
             "confidence": "solid"
         },
-        "164": {
+        "165": {
             "phyrexian": "ɣwiəxťeθuqx",
             "IPA": "ɣwiəxt'eθuqx",
             "plural": "FALSE",
@@ -3343,7 +3376,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "165": {
+        "166": {
             "phyrexian": "əxtunm",
             "IPA": "əxtunm",
             "plural": "əxtuunm",
@@ -3353,9 +3386,10 @@
             ],
             "composition": null,
             "examples": [
-                "Merch",
                 "ONE_Trailer",
-                "ONE_Solphim"
+                "ONE_Solphim",
+                "Merch",
+                "BeadleGrimms_Guide"
             ],
             "class": "noun",
             "native": true,
@@ -3363,7 +3397,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "166": {
+        "167": {
             "phyrexian": "grmɒɣg",
             "IPA": "grmɒɣg",
             "plural": "FALSE",
@@ -3382,7 +3416,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "167": {
+        "168": {
             "phyrexian": "nsa'q",
             "IPA": "nsaʔq",
             "plural": "nsaa'q",
@@ -3392,34 +3426,9 @@
             ],
             "composition": null,
             "examples": [
+                "ONE_Nissa",
                 "NPH_Elf",
                 "NPH_Batterskull",
-                "C19_Krrik",
-                "ONE_Nissa"
-            ],
-            "class": "noun",
-            "native": true,
-            "notes": null,
-            "type": "root",
-            "confidence": "solid"
-        },
-        "168": {
-            "phyrexian": "jɒ'g",
-            "IPA": "jɒʔg",
-            "plural": "jɒɒ'g",
-            "translation": "Machine",
-            "root": [
-                "jɒ'g"
-            ],
-            "composition": null,
-            "examples": [
-                "Yawg_Test",
-                "DOM_Scriptures",
-                "NPH_Trailer",
-                "MTGA",
-                "ONE_Norn",
-                "ONE_Plains",
-                "ONE_Article",
                 "C19_Krrik"
             ],
             "class": "noun",
@@ -3429,6 +3438,31 @@
             "confidence": "solid"
         },
         "169": {
+            "phyrexian": "jɒ'g",
+            "IPA": "jɒʔg",
+            "plural": "jɒɒ'g",
+            "translation": "Machine",
+            "root": [
+                "jɒ'g"
+            ],
+            "composition": null,
+            "examples": [
+                "DOM_Scriptures",
+                "Yawg_Test",
+                "ONE_Norn",
+                "ONE_Plains",
+                "C19_Krrik",
+                "ONE_Article",
+                "NPH_Trailer",
+                "MTGA"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "170": {
             "phyrexian": "naķm",
             "IPA": "nakʰm",
             "plural": "naaķm",
@@ -3438,28 +3472,29 @@
             ],
             "composition": null,
             "examples": [
+                "DOM_Scriptures",
                 "NPH_Jin",
                 "NPH_Sheo",
                 "NPH_Vorin",
                 "NEO_Jin",
                 "NEO_Tami",
-                "DOM_Scriptures",
-                "MBS_Trailer",
-                "NPH_Trailer",
-                "Swamp_Lore",
-                "Merch",
-                "MTGA",
-                "ONE_Island",
-                "ONE_Mountain",
-                "BeadleGrimms",
-                "ONE_Live",
-                "NPH_Elf",
-                "NPH_Batterskull",
                 "ONE_Jace",
                 "ONE_Nissa",
                 "ONE_Nahiri",
+                "ONE_Island",
+                "ONE_Mountain",
+                "NPH_Elf",
+                "NPH_Batterskull",
+                "Swamp_Lore",
+                "ONE_Live",
+                "MBS_Trailer",
+                "NPH_Trailer",
                 "ONE_Trailer",
-                "ONE_Solphim"
+                "ONE_Solphim",
+                "Merch",
+                "MTGA",
+                "BeadleGrimms",
+                "BeadleGrimms_Guide"
             ],
             "class": "noun,verb",
             "native": true,
@@ -3467,18 +3502,20 @@
             "type": "root",
             "confidence": "solid"
         },
-        "170": {
+        "171": {
             "phyrexian": "təɮirt",
             "IPA": "təɮirt",
             "plural": "təɮiirt",
             "translation": "Mind",
-            "root": null,
+            "root": [
+                "ɮirt"
+            ],
             "composition": null,
             "examples": [
-                "NPH_Trailer",
                 "ONE_Jace",
                 "NPH_Misstep",
-                "ONE_Panel"
+                "ONE_Panel",
+                "NPH_Trailer"
             ],
             "class": "noun",
             "native": true,
@@ -3486,7 +3523,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "171": {
+        "172": {
             "phyrexian": "mrodn",
             "IPA": "mrodn",
             "plural": "mroodn",
@@ -3497,8 +3534,8 @@
             "composition": null,
             "examples": [
                 "NPH_Ura",
-                "NPH_Trailer",
                 "Swamp_Lore",
+                "NPH_Trailer",
                 "MTGA"
             ],
             "class": "noun",
@@ -3507,7 +3544,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "172": {
+        "173": {
             "phyrexian": "korxgr",
             "IPA": "korxgr",
             "plural": "FALSE",
@@ -3528,7 +3565,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "173": {
+        "174": {
             "phyrexian": "žɒðʁ",
             "IPA": "ʒɒðʁ",
             "plural": "žɒɒðʁ",
@@ -3548,7 +3585,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "174": {
+        "175": {
             "phyrexian": "jɒ'gžɒðʁ",
             "IPA": "jɒʔgʒɒðʁ",
             "plural": "jɒ'gžɒɒðʁ",
@@ -3568,7 +3605,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "175": {
+        "176": {
             "phyrexian": "vuwk",
             "IPA": "vuwk",
             "plural": "FALSE",
@@ -3578,9 +3615,9 @@
             ],
             "composition": null,
             "examples": [
+                "Yawg_Test",
                 "NPH_Ura",
                 "KHM_Vorin",
-                "Yawg_Test",
                 "ONE_Nahiri"
             ],
             "class": "verb",
@@ -3589,7 +3626,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "176": {
+        "177": {
             "phyrexian": "ǆfyll",
             "IPA": "dʒfyll",
             "plural": "ǆfyyll",
@@ -3605,7 +3642,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "177": {
+        "178": {
             "phyrexian": "ɢnagɮ",
             "IPA": "ɢnagɮ",
             "plural": "FALSE",
@@ -3627,7 +3664,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "178": {
+        "179": {
             "phyrexian": "šoprapt",
             "IPA": "ʃoprapt",
             "plural": "FALSE",
@@ -3637,8 +3674,9 @@
             "examples": [
                 "NEO_Jin",
                 "NPH_Trailer",
+                "ONE_Solphim",
                 "BeadleGrimms",
-                "ONE_Solphim"
+                "BeadleGrimms_Guide"
             ],
             "class": "adjective",
             "native": true,
@@ -3646,7 +3684,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "179": {
+        "180": {
             "phyrexian": "'əqd",
             "IPA": "ʔəqd",
             "plural": "'əqd",
@@ -3664,7 +3702,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "180": {
+        "181": {
             "phyrexian": "rukx",
             "IPA": "rukx",
             "plural": "rukx",
@@ -3682,7 +3720,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "181": {
+        "182": {
             "phyrexian": "rukxtekt",
             "IPA": "rukxtekt",
             "plural": "rukxtekt",
@@ -3701,7 +3739,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "182": {
+        "183": {
             "phyrexian": "'ug'əχw",
             "IPA": "ʔugʔəχw",
             "plural": "ug'əəχw",
@@ -3717,7 +3755,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "183": {
+        "184": {
             "phyrexian": "sall",
             "IPA": "sall",
             "plural": "FALSE",
@@ -3736,7 +3774,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "184": {
+        "185": {
             "phyrexian": "jnaķm",
             "IPA": "jnakʰm",
             "plural": "FALSE",
@@ -3746,17 +3784,18 @@
             ],
             "composition": null,
             "examples": [
-                "NPH_Jin",
                 "DOM_Scriptures",
+                "NPH_Jin",
+                "ONE_Jace",
+                "ONE_Island",
+                "NPH_Elf",
+                "ONE_Live",
+                "ONE_Trailer",
+                "ONE_Solphim",
                 "Merch",
                 "MTGA",
-                "ONE_Island",
                 "BeadleGrimms",
-                "ONE_Live",
-                "NPH_Elf",
-                "ONE_Jace",
-                "ONE_Trailer",
-                "ONE_Solphim"
+                "BeadleGrimms_Guide"
             ],
             "class": "noun",
             "native": true,
@@ -3764,7 +3803,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "185": {
+        "186": {
             "phyrexian": "qpenčodrm",
             "IPA": "qpentʃodrm",
             "plural": "qpenčoodrm",
@@ -3782,7 +3821,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "186": {
+        "187": {
             "phyrexian": "ŋeǩydm",
             "IPA": "ŋek'ydm",
             "plural": "FALSE",
@@ -3798,7 +3837,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "187": {
+        "188": {
             "phyrexian": "jiǥgɣwi'v",
             "IPA": "jigʰgɣwiʔv",
             "plural": "jiǥgɣwii'v",
@@ -3814,7 +3853,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "188": {
+        "189": {
             "phyrexian": "ţə''",
             "IPA": "tʰəʔʔ",
             "plural": "FALSE",
@@ -3825,8 +3864,8 @@
             "composition": null,
             "examples": [
                 "KHM_Vorin",
-                "MTGA",
-                "C19_Krrik"
+                "C19_Krrik",
+                "MTGA"
             ],
             "class": "verb",
             "native": true,
@@ -3834,7 +3873,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "189": {
+        "190": {
             "phyrexian": "mɒɣg",
             "IPA": "mɒɣg",
             "plural": "FALSE",
@@ -3855,7 +3894,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "190": {
+        "191": {
             "phyrexian": "qẅrɮwi'g",
             "IPA": "qɯrɮwiʔg",
             "plural": "qẅrɮwii'g",
@@ -3872,12 +3911,14 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "191": {
+        "192": {
             "phyrexian": "'iţpənn",
             "IPA": "ʔitʰpənn",
             "plural": "FALSE",
             "translation": "Return",
-            "root": null,
+            "root": [
+                "pənn"
+            ],
             "composition": null,
             "examples": [
                 "NPH_Batterskull"
@@ -3888,7 +3929,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "192": {
+        "193": {
             "phyrexian": "hfwežφ",
             "IPA": "hfweʒɸ",
             "plural": "hfweežφ",
@@ -3906,7 +3947,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "193": {
+        "194": {
             "phyrexian": "føvɣ",
             "IPA": "føvɣ",
             "plural": "føøvɣ",
@@ -3924,7 +3965,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "194": {
+        "195": {
             "phyrexian": "ɮportt",
             "IPA": "ɮportt",
             "plural": "ɮpoortt",
@@ -3942,7 +3983,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "195": {
+        "196": {
             "phyrexian": "rukm",
             "IPA": "rukm",
             "plural": "FALSE",
@@ -3952,13 +3993,13 @@
             ],
             "composition": null,
             "examples": [
+                "DOM_Scriptures",
                 "NPH_Norn",
                 "NPH_Jin",
-                "DOM_Scriptures",
-                "Swamp_Lore",
                 "DMU_Ajani",
                 "ONE_Norn",
-                "NPH_Batterskull"
+                "NPH_Batterskull",
+                "Swamp_Lore"
             ],
             "class": "verb",
             "native": true,
@@ -3966,7 +4007,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "196": {
+        "197": {
             "phyrexian": "txš",
             "IPA": "txʃ",
             "plural": "FALSE",
@@ -3985,7 +4026,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "197": {
+        "198": {
             "phyrexian": "'i'l",
             "IPA": "ʔiʔl",
             "plural": "'ii'l",
@@ -4003,7 +4044,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "198": {
+        "199": {
             "phyrexian": "θwiχš",
             "IPA": "θwiχʃ",
             "plural": "FALSE",
@@ -4015,7 +4056,8 @@
             "examples": [
                 "ONE_Swamp",
                 "ONE_Live",
-                "ONE_Solphim"
+                "ONE_Solphim",
+                "BeadleGrimms_Guide"
             ],
             "class": "verb",
             "native": true,
@@ -4023,7 +4065,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "199": {
+        "200": {
             "phyrexian": "hisp",
             "IPA": "hisp",
             "plural": "FALSE",
@@ -4041,7 +4083,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "200": {
+        "201": {
             "phyrexian": "čpan'g",
             "IPA": "tʃpanʔg",
             "plural": "FALSE",
@@ -4059,7 +4101,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "201": {
+        "202": {
             "phyrexian": "'af'",
             "IPA": "ʔafʔ",
             "plural": "'aaf'",
@@ -4077,7 +4119,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "202": {
+        "203": {
             "phyrexian": "lups",
             "IPA": "lups",
             "plural": "FALSE",
@@ -4096,7 +4138,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "203": {
+        "204": {
             "phyrexian": "zťøsǆ",
             "IPA": "zt'øsdʒ",
             "plural": "FALSE",
@@ -4114,7 +4156,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "204": {
+        "205": {
             "phyrexian": "pnsča'θ",
             "IPA": "pnstʃaʔθ",
             "plural": "FALSE",
@@ -4124,10 +4166,11 @@
             ],
             "composition": null,
             "examples": [
+                "ONE_Trailer",
+                "ONE_Solphim",
                 "Merch",
                 "BeadleGrimms",
-                "ONE_Trailer",
-                "ONE_Solphim"
+                "BeadleGrimms_Guide"
             ],
             "class": "verb",
             "native": true,
@@ -4135,7 +4178,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "205": {
+        "206": {
             "phyrexian": "χherukm",
             "IPA": "χheruk'm",
             "plural": "χheruuǩm",
@@ -4151,7 +4194,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "206": {
+        "207": {
             "phyrexian": "wtultm",
             "IPA": "wtultm",
             "plural": "FALSE",
@@ -4169,7 +4212,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "207": {
+        "208": {
             "phyrexian": "fedχstsqylm",
             "IPA": "fedχstsqylm",
             "plural": "fedχstsqyylm",
@@ -4185,7 +4228,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "208": {
+        "209": {
             "phyrexian": "tøwp",
             "IPA": "tøwp",
             "plural": "FALSE",
@@ -4203,7 +4246,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "209": {
+        "210": {
             "phyrexian": "ŋyqχ",
             "IPA": "ŋyqχ",
             "plural": "ŋyyqχ",
@@ -4221,7 +4264,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "210": {
+        "211": {
             "phyrexian": "žki",
             "IPA": "ʒki",
             "plural": "FALSE",
@@ -4232,9 +4275,9 @@
                 "Yawg_Test",
                 "SNC_Ura",
                 "DMU_Ajani",
-                "NPH_Dismember",
+                "ONE_Nissa",
                 "NPH_InkNexus",
-                "ONE_Nissa"
+                "NPH_Dismember"
             ],
             "class": null,
             "native": true,
@@ -4242,7 +4285,7 @@
             "type": "unclear",
             "confidence": "solid"
         },
-        "211": {
+        "212": {
             "phyrexian": "xutšv",
             "IPA": "xutʃv",
             "plural": "xuutšv",
@@ -4261,7 +4304,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "212": {
+        "213": {
             "phyrexian": "əixiww",
             "IPA": "əixiww",
             "plural": "əixiiww",
@@ -4277,7 +4320,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "213": {
+        "214": {
             "phyrexian": "ment",
             "IPA": "ment",
             "plural": "FALSE",
@@ -4290,12 +4333,12 @@
                 "NPH_Sheo",
                 "NEO_Tami",
                 "DMU_Ajani",
-                "NPH_Annex",
                 "ONE_Jace",
                 "ONE_Vraska",
                 "ONE_Lukka",
                 "ONE_Nissa",
-                "ONE_Nahiri"
+                "ONE_Nahiri",
+                "NPH_Annex"
             ],
             "class": "verb",
             "native": true,
@@ -4303,7 +4346,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "214": {
+        "215": {
             "phyrexian": "šdeχd",
             "IPA": "ʃdeχd",
             "plural": "šdeeχd",
@@ -4314,8 +4357,8 @@
             "composition": null,
             "examples": [
                 "ONE_Article",
-                "BeadleGrimms",
-                "ONE_Trailer"
+                "ONE_Trailer",
+                "BeadleGrimms"
             ],
             "class": "noun,verb",
             "native": true,
@@ -4323,7 +4366,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "215": {
+        "216": {
             "phyrexian": "'iǆe't",
             "IPA": "ʔidʒeʔt",
             "plural": "'iǆee't",
@@ -4333,8 +4376,8 @@
             "examples": [
                 "NPH_Norn",
                 "NPH_Sheo",
-                "NPH_Trailer",
-                "Swamp_Lore"
+                "Swamp_Lore",
+                "NPH_Trailer"
             ],
             "class": "noun,verb",
             "native": true,
@@ -4342,7 +4385,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "216": {
+        "217": {
             "phyrexian": "keθəɢð",
             "IPA": "keθəɢð",
             "plural": "keθəəɢð",
@@ -4352,14 +4395,15 @@
             ],
             "composition": null,
             "examples": [
-                "NPH_Norn",
                 "DOM_Scriptures",
-                "MTGA",
-                "BeadleGrimms",
+                "NPH_Norn",
                 "ONE_Live",
                 "ONE_Trailer",
+                "MOM_Teaser",
                 "ONE_Solphim",
-                "MOM_Teaser"
+                "MTGA",
+                "BeadleGrimms",
+                "BeadleGrimms_Guide"
             ],
             "class": "noun",
             "native": true,
@@ -4367,7 +4411,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "217": {
+        "218": {
             "phyrexian": "čkaqq",
             "IPA": "tʃkaqq",
             "plural": "čkaaqq",
@@ -4377,26 +4421,8 @@
             ],
             "composition": null,
             "examples": [
-                "ONE_Article",
-                "NPH_Batterskull"
-            ],
-            "class": "noun",
-            "native": true,
-            "notes": null,
-            "type": "root",
-            "confidence": "solid"
-        },
-        "218": {
-            "phyrexian": "mɴyrx",
-            "IPA": "mɴyrx",
-            "plural": "mɴyyrx",
-            "translation": "Fire",
-            "root": [
-                "mɴyrx"
-            ],
-            "composition": null,
-            "examples": [
-                "NPH_Trailer"
+                "NPH_Batterskull",
+                "ONE_Article"
             ],
             "class": "noun",
             "native": true,
@@ -4405,6 +4431,25 @@
             "confidence": "solid"
         },
         "219": {
+            "phyrexian": "mɴyrx",
+            "IPA": "mɴyrx",
+            "plural": "mɴyyrx",
+            "translation": "Fire/Spread",
+            "root": [
+                "mɴyrx"
+            ],
+            "composition": null,
+            "examples": [
+                "NPH_Trailer",
+                "BeadleGrimms_Guide"
+            ],
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "220": {
             "phyrexian": "tøšq",
             "IPA": "tøʃq",
             "plural": "FALSE",
@@ -4422,7 +4467,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "220": {
+        "221": {
             "phyrexian": "χiɢɬ",
             "IPA": "χiɢɬ",
             "plural": "χiiɢɬ",
@@ -4440,7 +4485,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "221": {
+        "222": {
             "phyrexian": "ǆko'χ",
             "IPA": "dʒkoʔχ",
             "plural": "FALSE",
@@ -4451,25 +4496,6 @@
             "composition": null,
             "examples": [
                 "DMU_Sheo"
-            ],
-            "class": "verb",
-            "native": true,
-            "notes": null,
-            "type": "root",
-            "confidence": "moderate"
-        },
-        "222": {
-            "phyrexian": "huqet",
-            "IPA": "huqet",
-            "plural": "FALSE",
-            "translation": "Hurt",
-            "root": [
-                "huqet"
-            ],
-            "composition": null,
-            "examples": [
-                "DMU_Sheo",
-                "MBS_PsyCrawl"
             ],
             "class": "verb",
             "native": true,
@@ -4493,7 +4519,7 @@
             "native": false,
             "notes": null,
             "type": "root",
-            "confidence": "likely"
+            "confidence": "solid"
         },
         "224": {
             "phyrexian": "oparxχ",
@@ -4541,7 +4567,8 @@
             "examples": [
                 "NPH_Sheo",
                 "SNC_Ura",
-                "NPH_InkNexus"
+                "NPH_InkNexus",
+                "BeadleGrimms_Guide"
             ],
             "class": "noun",
             "native": true,
@@ -4584,7 +4611,7 @@
             "native": true,
             "notes": null,
             "type": "root",
-            "confidence": "likely"
+            "confidence": "solid"
         },
         "229": {
             "phyrexian": "tunm",
@@ -4596,9 +4623,10 @@
             ],
             "composition": null,
             "examples": [
-                "Merch",
                 "ONE_Trailer",
-                "ONE_Solphim"
+                "ONE_Solphim",
+                "Merch",
+                "BeadleGrimms_Guide"
             ],
             "class": "adjective",
             "native": true,
@@ -4652,8 +4680,8 @@
             ],
             "composition": null,
             "examples": [
-                "NEO_Jin",
-                "Yawg_Test"
+                "Yawg_Test",
+                "NEO_Jin"
             ],
             "class": "adjective",
             "native": true,
@@ -4784,907 +4812,1921 @@
             "confidence": "likely"
         },
         "240": {
-            "phyrexian": "xe",
-            "IPA": "xe",
-            "plural": "FALSE",
-            "translation": "Indicative, Present",
+            "phyrexian": "bə'l",
+            "IPA": "bəʔl",
+            "plural": "bəə'l",
+            "translation": "Advice",
             "root": [
-                "FALSE"
+                "bə'l"
             ],
-            "composition": false,
-            "examples": [
-                "NPH_Norn",
-                "NPH_Ura",
-                "NPH_Jin",
-                "NEO_Jin",
-                "NEO_Tami",
-                "Yawg_Test",
-                "MBS_Trailer",
-                "NPH_Trailer",
-                "Swamp_Lore",
-                "MBS_PsyCrawl",
-                "MTGA",
-                "ONE_Norn",
-                "ONE_Island",
-                "ONE_Forest",
-                "BeadleGrimms",
-                "ONE_Live",
-                "NPH_Batterskull",
-                "NPH_Annex",
-                "ONE_Vraska",
-                "ONE_Lukka",
-                "ONE_Nissa",
-                "ONE_Nahiri",
-                "ONE_Trailer",
-                "ONE_Solphim",
-                "ONE_Panel"
-            ],
-            "class": null,
+            "composition": null,
+            "examples": [],
+            "class": "noun",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "root",
             "confidence": "solid"
         },
         "241": {
-            "phyrexian": "'u",
-            "IPA": "ʔu",
-            "plural": "FALSE",
-            "translation": "Past",
-            "root": [
-                "FALSE"
-            ],
-            "composition": false,
-            "examples": [
-                "NPH_Ura",
-                "NPH_Vorin",
-                "DOM_Scriptures",
-                "UMA_Altar",
-                "MBS_Trailer",
-                "NPH_Trailer",
-                "Swamp_Lore",
-                "Merch",
-                "MTGA",
-                "ONE_Lukka"
-            ],
-            "class": null,
+            "phyrexian": "θyjǆəbɴ",
+            "IPA": "θyjdʒəbɴ",
+            "plural": "θyjǆəəbɴ",
+            "translation": "Agony",
+            "root": null,
+            "composition": null,
+            "examples": [],
+            "class": "noun",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "composite",
             "confidence": "solid"
         },
         "242": {
-            "phyrexian": "ŋo",
-            "IPA": "ŋo",
+            "phyrexian": "'ətsxn",
+            "IPA": "ʔətsxn",
             "plural": "FALSE",
-            "translation": "Interrogative",
+            "translation": "Ask",
             "root": [
-                "FALSE"
+                "ʔətsxn"
             ],
-            "composition": false,
+            "composition": null,
             "examples": [
-                "ONE_Panel"
+                "NPH_Ura",
+                "NPH_Elf"
             ],
-            "class": null,
+            "class": "verb",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "root",
             "confidence": "solid"
         },
         "243": {
-            "phyrexian": "ǩaπa",
-            "IPA": "k'ap'a",
-            "plural": "FALSE",
-            "translation": "Jussive (shall/will)",
+            "phyrexian": "'uɬč",
+            "IPA": "ʔuɬtʃ",
+            "plural": "'uuɬč",
+            "translation": "Astray",
             "root": [
-                "FALSE"
+                "'uɬč"
             ],
-            "composition": false,
-            "examples": [
-                "NPH_Norn",
-                "MBS_Trailer",
-                "NPH_Trailer",
-                "Swamp_Lore",
-                "Dark_Discov",
-                "Merch",
-                "ONE_Article",
-                "ONE_Live",
-                "ONE_Lukka",
-                "ONE_Trailer",
-                "ONE_Solphim",
-                "MOM_Teaser"
-            ],
-            "class": null,
+            "composition": null,
+            "examples": [],
+            "class": "adjective,noun",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "root",
             "confidence": "solid"
         },
         "244": {
-            "phyrexian": "ba",
-            "IPA": "ba",
-            "plural": "FALSE",
-            "translation": "Conditional (if)",
+            "phyrexian": "dekp",
+            "IPA": "dekp",
+            "plural": "deekp",
+            "translation": "Blame",
             "root": [
-                "FALSE"
+                "dekp"
             ],
-            "composition": false,
-            "examples": [
-                "NPH_Norn",
-                "NPH_Ura",
-                "NPH_Jin",
-                "NPH_Sheo",
-                "NPH_Vorin",
-                "KHM_Vorin",
-                "NEO_Jin",
-                "Yawg_Test",
-                "SNC_Ura",
-                "DMU_Sheo",
-                "DMU_Ajani",
-                "MBS_PsyCrawl",
-                "ONE_Norn",
-                "C19_Krrik",
-                "ONE_Arena",
-                "ONE_Jace",
-                "ONE_Vraska",
-                "ONE_Nahiri"
-            ],
-            "class": null,
+            "composition": null,
+            "examples": [],
+            "class": "noun",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "root",
             "confidence": "solid"
         },
         "245": {
-            "phyrexian": "bu",
-            "IPA": "bu",
+            "phyrexian": "fuɢx",
+            "IPA": "fuɢx",
             "plural": "FALSE",
-            "translation": "Conditional negative (if not)",
+            "translation": "Boil",
             "root": [
-                "FALSE"
+                "fuɢx"
             ],
-            "composition": false,
-            "examples": [
-                "DMU_Ajani",
-                "ONE_Jace"
-            ],
-            "class": null,
+            "composition": null,
+            "examples": [],
+            "class": "verb",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "root",
             "confidence": "solid"
         },
         "246": {
-            "phyrexian": "xwe",
-            "IPA": "xwe",
-            "plural": "FALSE",
-            "translation": "Deontic (may)",
+            "phyrexian": "naķmpənn",
+            "IPA": "nakʰmpənn",
+            "plural": "naķmpəənn",
+            "translation": "Carrier",
             "root": [
-                "FALSE"
+                "pənn"
             ],
-            "composition": false,
-            "examples": [
-                "DMU_Ajani",
-                "ONE_Mountain",
-                "NPH_Agent",
-                "NPH_Elf",
-                "C19_Krrik"
-            ],
-            "class": null,
+            "composition": null,
+            "examples": [],
+            "class": "noun",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "composite",
             "confidence": "solid"
         },
         "247": {
-            "phyrexian": "lo",
-            "IPA": "lo",
+            "phyrexian": "pənn",
+            "IPA": "pənn",
             "plural": "FALSE",
-            "translation": "Imperative",
+            "translation": "Carry",
             "root": [
-                "FALSE"
+                "pənn"
             ],
-            "composition": false,
+            "composition": null,
             "examples": [
-                "NPH_Ura",
-                "NPH_Jin",
-                "NPH_Sheo",
-                "NPH_Vorin",
-                "KHM_Vorin",
-                "NEO_Jin",
-                "NEO_Tami",
-                "Yawg_Test",
-                "SNC_Ura",
-                "DMU_Sheo",
-                "DMU_Ajani",
-                "Merch",
-                "NPH_Dismember",
-                "MBS_PsyCrawl",
-                "MTGA",
-                "ONE_Norn",
-                "ONE_Swamp",
-                "BeadleGrimms",
-                "C19_Krrik",
-                "ONE_Arena",
-                "NPH_Annex",
-                "ONE_Jace",
-                "ONE_Vraska",
-                "ONE_Lukka",
-                "ONE_Nissa",
-                "ONE_Nahiri",
-                "ONE_Trailer",
-                "ONE_Solphim",
-                "NPH_Misstep",
-                "ONE_Panel"
+                "NPH_Norn",
+                "NPH_Batterskull"
             ],
-            "class": null,
+            "class": "verb",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "root",
             "confidence": "solid"
         },
         "248": {
-            "phyrexian": "ðə",
-            "IPA": "ðə",
-            "plural": "FALSE",
-            "translation": "Alternative (or)",
+            "phyrexian": "xørnš",
+            "IPA": "xørnʃ",
+            "plural": "xøørnš",
+            "translation": "Cave",
             "root": [
-                "FALSE"
+                "xørnš"
             ],
-            "composition": false,
-            "examples": [],
-            "class": null,
+            "composition": null,
+            "examples": [
+                "MTGA"
+            ],
+            "class": "noun",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "root",
             "confidence": "solid"
         },
         "249": {
-            "phyrexian": "xə",
-            "IPA": "xə",
-            "plural": "FALSE",
-            "translation": "Addition (and)",
+            "phyrexian": "hibd",
+            "IPA": "hibd",
+            "plural": "hiibd",
+            "translation": "Circle",
             "root": [
-                "FALSE"
+                "hibd"
             ],
-            "composition": false,
-            "examples": [
-                "NPH_Norn",
-                "NPH_Sheo",
-                "NEO_Tami",
-                "Yawg_Test",
-                "MBS_Trailer",
-                "DMU_Ajani",
-                "NPH_Dismember",
-                "MBS_PsyCrawl",
-                "ONE_Norn",
-                "ONE_Article",
-                "ONE_Arena",
-                "NPH_Annex",
-                "ONE_Jace",
-                "ONE_Vraska",
-                "ONE_Lukka",
-                "ONE_Nissa",
-                "ONE_Nahiri",
-                "ONE_Trailer",
-                "NPH_Misstep"
-            ],
-            "class": null,
+            "composition": null,
+            "examples": [],
+            "class": "noun",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "root",
             "confidence": "solid"
         },
         "250": {
-            "phyrexian": "əx",
-            "IPA": "əx",
-            "plural": "FALSE",
-            "translation": "Negative (un-, not)",
+            "phyrexian": "ždičp",
+            "IPA": "ʒditʃp",
+            "plural": "ždiičp",
+            "translation": "City",
             "root": [
-                "FALSE"
+                "ždičp"
             ],
-            "composition": false,
-            "examples": [
-                "NPH_Jin",
-                "ONE_Norn",
-                "NPH_Agent",
-                "NPH_Annex",
-                "MOM_Teaser"
-            ],
-            "class": null,
+            "composition": null,
+            "examples": [],
+            "class": "noun",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "root",
             "confidence": "solid"
         },
         "251": {
-            "phyrexian": "əl",
-            "IPA": "əl",
-            "plural": "FALSE",
-            "translation": "negative (anti-affirmative/double negative)",
+            "phyrexian": "'ipθ",
+            "IPA": "ʔipθ",
+            "plural": "'iipθ",
+            "translation": "Child/Newt",
             "root": [
-                "FALSE"
+                "'ipθ"
             ],
-            "composition": false,
+            "composition": null,
             "examples": [
-                "NPH_Vorin",
                 "NEO_Tami",
-                "NPH_Agent",
-                "ONE_Panel"
-            ],
-            "class": null,
-            "native": true,
-            "notes": null,
-            "type": "marker",
-            "confidence": "likely"
-        },
-        "252": {
-            "phyrexian": "'a",
-            "IPA": "ʔa",
-            "plural": "FALSE",
-            "translation": "obligation/necessity (must)",
-            "root": [
-                "FALSE"
-            ],
-            "composition": false,
-            "examples": [],
-            "class": null,
-            "native": true,
-            "notes": null,
-            "type": "marker",
-            "confidence": "poor"
-        },
-        "253": {
-            "phyrexian": "qə",
-            "IPA": "qə",
-            "plural": "FALSE",
-            "translation": "subordinative (that)",
-            "root": [
-                "FALSE"
-            ],
-            "composition": false,
-            "examples": [
-                "NPH_Norn",
-                "NPH_Ura",
-                "NPH_Vorin",
-                "Yawg_Test",
-                "MBS_Trailer",
-                "Swamp_Lore",
-                "MBS_PsyCrawl",
-                "ONE_Norn",
-                "NPH_Annex",
                 "ONE_Lukka",
                 "ONE_Nissa",
                 "ONE_Nahiri"
             ],
-            "class": null,
+            "class": "noun",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "root",
+            "confidence": "solid"
+        },
+        "252": {
+            "phyrexian": "'uxq",
+            "IPA": "ʔuxq",
+            "plural": "'uuxq",
+            "translation": "Command",
+            "root": [
+                "'uxq"
+            ],
+            "composition": null,
+            "examples": [
+                "BeadleGrimms_Guide"
+            ],
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "253": {
+            "phyrexian": "θuqxiww",
+            "IPA": "θuqxiww",
+            "plural": "θuqxiiww",
+            "translation": "Corpse",
+            "root": [
+                "θuqx"
+            ],
+            "composition": null,
+            "examples": [
+                "Yawg_Test",
+                "NPH_Sheo",
+                "NEO_Tami",
+                "ONE_Jace",
+                "ONE_Nahiri"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
             "confidence": "solid"
         },
         "254": {
-            "phyrexian": "ťe",
-            "IPA": "t'e",
+            "phyrexian": "ɮəɣð",
+            "IPA": "ɮəɣð",
             "plural": "FALSE",
-            "translation": "Permissive/ableness (can/may)",
+            "translation": "Corrupt",
             "root": [
-                "FALSE"
+                "ɮəɣð"
             ],
-            "composition": false,
+            "composition": null,
             "examples": [
-                "NEO_Jin",
-                "Yawg_Test",
-                "SNC_Ura",
-                "NPH_Elf"
+                "NPH_Agent",
+                "NPH_Elf",
+                "NPH_InkNexus"
             ],
-            "class": null,
+            "class": "verb",
             "native": true,
             "notes": null,
-            "type": "marker",
-            "confidence": "moderate"
-        },
-        "255": {
-            "phyrexian": "əq",
-            "IPA": "əq",
-            "plural": "FALSE",
-            "translation": "'Unless'",
-            "root": [
-                "FALSE"
-            ],
-            "composition": false,
-            "examples": [
-                "NPH_Annex"
-            ],
-            "class": null,
-            "native": true,
-            "notes": null,
-            "type": "marker",
+            "type": "root",
             "confidence": "solid"
         },
-        "256": {
-            "phyrexian": "xẅots",
-            "IPA": "xɯots",
-            "plural": "FALSE",
-            "translation": "Consequential (thus)",
-            "root": [
-                "FALSE"
-            ],
-            "composition": false,
-            "examples": [
-                "DOM_Scriptures",
-                "NPH_Elf"
-            ],
-            "class": null,
+        "255": {
+            "phyrexian": "χivšŋaǩrimqɢɬ",
+            "IPA": "χivʃŋakʔrimqɢɬ",
+            "plural": null,
+            "translation": "Creation",
+            "root": null,
+            "composition": null,
+            "examples": [],
+            "class": "noun",
             "native": true,
             "notes": null,
-            "type": "marker",
+            "type": "composite",
+            "confidence": "moderate"
+        },
+        "256": {
+            "phyrexian": "sxɬəčj",
+            "IPA": "sxɬətʃj",
+            "plural": "sxɬəəčj",
+            "translation": "Day",
+            "root": [
+                "sxɬəčj"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
             "confidence": "solid"
         },
         "257": {
-            "phyrexian": "xuφ",
-            "IPA": "xuφ",
-            "plural": "FALSE",
-            "translation": "Relative (when) ",
+            "phyrexian": "wjətls",
+            "IPA": "wjətls",
+            "plural": "wjəətls",
+            "translation": "Debris",
             "root": [
-                "FALSE"
+                "wjətls"
             ],
-            "composition": false,
-            "examples": [
-                "NPH_Ura",
-                "NPH_Jin",
-                "NPH_Sheo",
-                "NPH_Vorin",
-                "NEO_Jin",
-                "SNC_Ura",
-                "DMU_Sheo",
-                "DMU_Ajani",
-                "MBS_PsyCrawl",
-                "MTGA",
-                "C19_Krrik",
-                "ONE_Arena",
-                "ONE_Nahiri"
-            ],
-            "class": null,
+            "composition": null,
+            "examples": [],
+            "class": "noun",
             "native": true,
-            "notes": "Paired mood with conditional (if) or past",
-            "type": "marker",
+            "notes": null,
+            "type": "root",
             "confidence": "solid"
         },
         "258": {
-            "phyrexian": "qilx",
-            "IPA": "qilx",
+            "phyrexian": "zept",
+            "IPA": "zept",
             "plural": "FALSE",
-            "translation": "Conditional (would)",
+            "translation": "Defile",
             "root": [
-                "FALSE"
+                "zept"
             ],
-            "composition": false,
+            "composition": null,
             "examples": [
-                "NPH_Ura",
-                "KHM_Vorin",
-                "Yawg_Test",
-                "SNC_Ura"
+                "ONE_Solphim",
+                "BeadleGrimms_Guide"
             ],
-            "class": null,
+            "class": "verb",
             "native": true,
-            "notes": "Paired mood with if",
-            "type": "marker",
+            "notes": null,
+            "type": "root",
             "confidence": "solid"
         },
         "259": {
-            "phyrexian": "qit",
-            "IPA": "qit",
-            "plural": "FALSE",
-            "translation": "Alternative (instead/but)",
+            "phyrexian": "naķmzept",
+            "IPA": "nakʰmzept",
+            "plural": "nakʰmzeept",
+            "translation": "Defiler",
             "root": [
-                "FALSE"
+                "naķm",
+                "zept"
             ],
-            "composition": false,
+            "composition": null,
             "examples": [
-                "NPH_Jin",
-                "KHM_Vorin",
-                "Yawg_Test",
-                "NPH_Trailer",
-                "SNC_Ura",
-                "NPH_Agent",
-                "C19_Krrik"
+                "ONE_Solphim",
+                "BeadleGrimms_Guide"
             ],
-            "class": null,
+            "class": "noun",
             "native": true,
-            "notes": "Paired with many other moods",
-            "type": "marker",
+            "notes": null,
+            "type": "composite",
             "confidence": "solid"
         },
         "260": {
-            "phyrexian": "šta",
-            "IPA": "ʃta",
-            "plural": "FALSE",
-            "translation": "Historical/evidential",
+            "phyrexian": "čmo'n",
+            "IPA": "tʃmoʔn",
+            "plural": "čmoo'n",
+            "translation": "Demon",
             "root": [
-                "FALSE"
+                "čmo'n"
             ],
-            "composition": false,
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "261": {
+            "phyrexian": "x'uφənx",
+            "IPA": "xʔuφənx",
+            "plural": "FALSE",
+            "translation": "Destroy",
+            "root": [
+                "φənx"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "262": {
+            "phyrexian": "pnpl",
+            "IPA": "pnpl",
+            "plural": "FALSE",
+            "translation": "Doomed",
+            "root": [
+                "pnpl"
+            ],
+            "composition": null,
             "examples": [
-                "DOM_Scriptures",
-                "UMA_Altar",
                 "MTGA"
             ],
-            "class": null,
+            "class": "adjective",
             "native": true,
-            "notes": "Paired with past",
-            "type": "marker",
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "263": {
+            "phyrexian": "pnplštɬiɬq",
+            "IPA": "pnplʃtɬiɬq",
+            "plural": "pnplʃtɬiiɬq",
+            "translation": "Doomsday",
+            "root": [
+                "pnpl",
+                "ʃtɬiiɬq"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "264": {
+            "phyrexian": "nwi'n",
+            "IPA": "nwiʔn",
+            "plural": "nwii'n",
+            "translation": "Energy",
+            "root": [
+                "nwi'n"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "265": {
+            "phyrexian": "ɮiwx",
+            "IPA": "ɮiwx",
+            "plural": "ɮiiwx",
+            "translation": "Engine",
+            "root": [
+                "ɮiwx"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "266": {
+            "phyrexian": "ʁaχǧ",
+            "IPA": "ʁaχg'",
+            "plural": "ʁaaχǧ",
+            "translation": "Faith (belief)",
+            "root": [
+                "ʁaχǧ"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "267": {
+            "phyrexian": "wija'x",
+            "IPA": "wijaʔx",
+            "plural": "wijaa'x",
+            "translation": "Faith (trust)",
+            "root": [
+                "wija'x"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "268": {
+            "phyrexian": "kezn",
+            "IPA": "kezn",
+            "plural": "keezn",
+            "translation": "Family",
+            "root": [
+                "kezn"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "269": {
+            "phyrexian": "koɣt",
+            "IPA": "koɣt",
+            "plural": "FALSE",
+            "translation": "Forged",
+            "root": [
+                "koɣt"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "270": {
+            "phyrexian": "'ečel'",
+            "IPA": "ʔetʃelʔ",
+            "plural": "'ečeel'",
+            "translation": "Glory",
+            "root": [
+                "'ečel'"
+            ],
+            "composition": null,
+            "examples": [
+                "ONE_Trailer",
+                "Merch",
+                "BeadleGrimms_Guide"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "271": {
+            "phyrexian": "'atn",
+            "IPA": "ʔatn",
+            "plural": "FALSE",
+            "translation": "Greet",
+            "root": [
+                "'atn"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "272": {
+            "phyrexian": "porg",
+            "IPA": "porg",
+            "plural": "poorg",
+            "translation": "Group",
+            "root": [
+                "porg"
+            ],
+            "composition": null,
+            "examples": [
+                "NPH_Norn",
+                "SLD_Swamp"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "273": {
+            "phyrexian": "ɢabn",
+            "IPA": "ɢabn",
+            "plural": "ɢaabn",
+            "translation": "Guard",
+            "root": [
+                "ɢabn"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "274": {
+            "phyrexian": "mǆno'χ",
+            "IPA": "mdʒnoʔχ",
+            "plural": "FALSE",
+            "translation": "Heal",
+            "root": null,
+            "composition": null,
+            "examples": [],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "275": {
+            "phyrexian": "'əbə'w",
+            "IPA": "ʔəbəʔw",
+            "plural": "əbəə'w",
+            "translation": "Heart",
+            "root": [
+                "bə'w"
+            ],
+            "composition": null,
+            "examples": [
+                "NPH_Trailer"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "276": {
+            "phyrexian": "keφe'x",
+            "IPA": "keφeʔx",
+            "plural": "keφee'x",
+            "translation": "Herd/Stock",
+            "root": [
+                "φe'x"
+            ],
+            "composition": null,
+            "examples": [
+                "NPH_Batterskull",
+                "ONE_Trailer"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "277": {
+            "phyrexian": "nsonq",
+            "IPA": "nsonq",
+            "plural": "nsoonq",
+            "translation": "Hulk",
+            "root": [
+                "nsonq"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "278": {
+            "phyrexian": "φørw",
+            "IPA": "φørw",
+            "plural": "φøørw",
+            "translation": "Ichor",
+            "root": [
+                "φørw"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "279": {
+            "phyrexian": "əxťeθuqx",
+            "IPA": "əxt'eθuqx",
+            "plural": "FALSE",
+            "translation": "Immortal",
+            "root": [
+                "θuqx"
+            ],
+            "composition": null,
+            "examples": [
+                "MBS_Trailer"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "280": {
+            "phyrexian": "mijens",
+            "IPA": "mijens",
+            "plural": "FALSE",
+            "translation": "Imprison",
+            "root": [
+                "jens"
+            ],
+            "composition": null,
+            "examples": [
+                "Dark_Discov"
+            ],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "281": {
+            "phyrexian": "vriθkv",
+            "IPA": "vriθkv",
+            "plural": "FALSE",
+            "translation": "Inevitable",
+            "root": [
+                "vriθkv"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "282": {
+            "phyrexian": "bən'",
+            "IPA": "bənʔ",
+            "plural": "FALSE",
+            "translation": "Intelligent",
+            "root": [
+                "bən'"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "283": {
+            "phyrexian": "'ohux",
+            "IPA": "ʔohux",
+            "plural": "'oohux",
+            "translation": "Knight",
+            "root": [
+                "'ohx"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "284": {
+            "phyrexian": "kont",
+            "IPA": "kont",
+            "plural": "FALSE",
+            "translation": "Leave",
+            "root": [
+                "kont"
+            ],
+            "composition": null,
+            "examples": [
+                "MTGA"
+            ],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "285": {
+            "phyrexian": "xro'd",
+            "IPA": "xroʔd",
+            "plural": "xrooʔd",
+            "translation": "Level",
+            "root": [
+                "xro'd"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "286": {
+            "phyrexian": "ťewn",
+            "IPA": "t'ewn",
+            "plural": "ťeewn",
+            "translation": "List",
+            "root": [
+                "ťewn"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "287": {
+            "phyrexian": "samk",
+            "IPA": "samk",
+            "plural": "FALSE",
+            "translation": "Long",
+            "root": [
+                "samk"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "288": {
+            "phyrexian": "žɒðk",
+            "IPA": "ʒɒðk",
+            "plural": "žɒɒðk",
+            "translation": "Matrix",
+            "root": [
+                "žɒðk"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "289": {
+            "phyrexian": "koqšq",
+            "IPA": "koqʃq",
+            "plural": "kooqšq",
+            "translation": "Metal",
+            "root": [
+                "koqšq"
+            ],
+            "composition": null,
+            "examples": [
+                "MBS_PsyCrawl"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "290": {
+            "phyrexian": "fxarl",
+            "IPA": "fxarl",
+            "plural": "fxaarl",
+            "translation": "Monster",
+            "root": [
+                "fxarl"
+            ],
+            "composition": null,
+            "examples": [
+                "KHM_Vorin"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "291": {
+            "phyrexian": "ťeθuqx",
+            "IPA": "t'eθuqx",
+            "plural": "ťeθuuqx",
+            "translation": "Mortal",
+            "root": [
+                "θuqx"
+            ],
+            "composition": null,
+            "examples": [
+                "MBS_Trailer"
+            ],
+            "class": "adjective,noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "292": {
+            "phyrexian": "kšiπχ",
+            "IPA": "kʃiπχ",
+            "plural": "FALSE",
+            "translation": "Obliterate",
+            "root": [
+                "kšiπχ"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "293": {
+            "phyrexian": "'ə'wgwəww",
+            "IPA": "ʔəʔwgwəww",
+            "plural": "'ə'wgwəəww",
+            "translation": "Orthodox",
+            "root": null,
+            "composition": null,
+            "examples": [
+                "NPH_Trailer"
+            ],
+            "class": "adjective,noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "294": {
+            "phyrexian": "'ɴuŋəža",
+            "IPA": "ʔɴuŋəža",
+            "plural": "FALSE",
+            "translation": "Persistent",
+            "root": [
+                "ŋəža"
+            ],
+            "composition": null,
+            "examples": [
+                "BeadleGrimms_Guide"
+            ],
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "295": {
+            "phyrexian": "ǆøzkǩ",
+            "IPA": "dʒøzkǩ",
+            "plural": "ǆøøzkǩ",
+            "translation": "Practice",
+            "root": [
+                "ǆøzkǩ"
+            ],
+            "composition": null,
+            "examples": [
+                "BeadleGrimms_Guide"
+            ],
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "296": {
+            "phyrexian": "mǥeţǧx",
+            "IPA": "mgʰetʰg'x",
+            "plural": "mǥeeţǧx",
+            "translation": "Predator",
+            "root": [
+                "mǥeţǧx"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "297": {
+            "phyrexian": "'emqrukm",
+            "IPA": "ʔemqrukm",
+            "plural": "'emqruukm",
+            "translation": "Prediction",
+            "root": [
+                "'emq",
+                "rukm"
+            ],
+            "composition": null,
+            "examples": [
+                "NPH_Jin"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "298": {
+            "phyrexian": "ǧytπt",
+            "IPA": "g'ytp't",
+            "plural": "ǧyytπt",
+            "translation": "Progress",
+            "root": [
+                "ǩytπt"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "299": {
+            "phyrexian": "ežkatm",
+            "IPA": "eʒkatm",
+            "plural": "ežkaatm",
+            "translation": "Raid",
+            "root": [
+                "katm"
+            ],
+            "composition": null,
+            "examples": [
+                "KHM_Vorin"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "300": {
+            "phyrexian": "kiǆkø'χ",
+            "IPA": "kidʒkøʔχ",
+            "plural": "kiǆkøø'χ",
+            "translation": "Repair",
+            "root": [
+                "ǆkø'χ"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "301": {
+            "phyrexian": "brøtjt",
+            "IPA": "brøtjt",
+            "plural": "brøøtjt",
+            "translation": "Research",
+            "root": [
+                "brøtjt"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "302": {
+            "phyrexian": "ŋulžm",
+            "IPA": "ŋulʒm",
+            "plural": "FALSE",
+            "translation": "Rest",
+            "root": [
+                "ŋulžm"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "303": {
+            "phyrexian": "ǥo'θ",
+            "IPA": "ǥoʔθ",
+            "plural": "ǥoo'θ",
+            "translation": "Sister",
+            "root": [
+                "ǥo'θ"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "304": {
+            "phyrexian": "klesk",
+            "IPA": "klesk",
+            "plural": "kleesk",
+            "translation": "Snow",
+            "root": [
+                "klesk"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "305": {
+            "phyrexian": "weɢw",
+            "IPA": "weɢw",
+            "plural": "FALSE",
+            "translation": "Soft",
+            "root": [
+                "weɢw"
+            ],
+            "composition": null,
+            "examples": [
+                "ONE_Live",
+                "ONE_Solphim",
+                "BeadleGrimms_Guide"
+            ],
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "306": {
+            "phyrexian": "'eǆe't",
+            "IPA": "ʔedʒeʔt",
+            "plural": "'eǆe't",
+            "translation": "Song",
+            "root": [
+                "ǆe't"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "307": {
+            "phyrexian": "'ɴŋexx",
+            "IPA": "ʔɴŋexx",
+            "plural": "'ɴŋeexx",
+            "translation": "Source",
+            "root": null,
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "308": {
+            "phyrexian": "pihš",
+            "IPA": "pihʃ",
+            "plural": "FALSE",
+            "translation": "Speak",
+            "root": [
+                "pihš"
+            ],
+            "composition": null,
+            "examples": [
+                "ONE_Solphim"
+            ],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "309": {
+            "phyrexian": "naķmpihš",
+            "IPA": "nakʰmpihʃ",
+            "plural": "naķmpiihš",
+            "translation": "Speaker",
+            "root": [
+                "naķm",
+                "pihš"
+            ],
+            "composition": null,
+            "examples": [
+                "ONE_Solphim"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "310": {
+            "phyrexian": "na'istz",
+            "IPA": "naʔistz",
+            "plural": "na'iistz",
+            "translation": "Stone",
+            "root": null,
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "311": {
+            "phyrexian": "φə'q",
+            "IPA": "φəʔq",
+            "plural": "φəə'q",
+            "translation": "Study",
+            "root": [
+                "φə'q"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "312": {
+            "phyrexian": "'iəbniθbš",
+            "IPA": "ʔiəbniθbʃ",
+            "plural": "'iəbniiθbš",
+            "translation": "Synthesis",
+            "root": null,
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "313": {
+            "phyrexian": "gẅəww",
+            "IPA": "gɯəww",
+            "plural": "FALSE",
+            "translation": "Think (inorganic)",
+            "root": [
+                "gẅəww"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "314": {
+            "phyrexian": "ɮirt",
+            "IPA": "ɮirt",
+            "plural": "FALSE",
+            "translation": "Think (organic)",
+            "root": [
+                "ɮirt"
+            ],
+            "composition": null,
+            "examples": [
+                "ONE_Jace",
+                "NPH_Misstep",
+                "ONE_Panel",
+                "NPH_Trailer"
+            ],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "315": {
+            "phyrexian": "šxẅonɣ",
+            "IPA": "ʃxɯonɣ",
+            "plural": "šxẅoonɣ",
+            "translation": "Time",
+            "root": [
+                "šxẅonɣ"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "316": {
+            "phyrexian": "naǆɢ",
+            "IPA": "nadʒɢ",
+            "plural": "naaǆɢ",
+            "translation": "Torture",
+            "root": [
+                "naǆɢ"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "317": {
+            "phyrexian": "ɣypm",
+            "IPA": "ɣypm",
+            "plural": "ɣyypm",
+            "translation": "Turn (rotate)",
+            "root": null,
+            "composition": null,
+            "examples": [
+                "NPH_Ura",
+                "NPH_Vorin",
+                "NEO_Tami"
+            ],
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "318": {
+            "phyrexian": "xušv",
+            "IPA": "xuʃv",
+            "plural": "xuušv",
+            "translation": "Voice",
+            "root": [
+                "xušv"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "319": {
+            "phyrexian": "bə'l",
+            "IPA": "bəʔl",
+            "plural": "bə'l",
+            "translation": "Vow",
+            "root": [
+                "bə'l"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "320": {
+            "phyrexian": "sodrm",
+            "IPA": "sodrm",
+            "plural": "soodrm",
+            "translation": "Way",
+            "root": [
+                "sodrm"
+            ],
+            "composition": null,
+            "examples": [
+                "Yawg_Test",
+                "DMU_Ajani"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "321": {
+            "phyrexian": "xweq",
+            "IPA": "xweq",
+            "plural": null,
+            "translation": "Will",
+            "root": [
+                "xweq"
+            ],
+            "composition": null,
+            "examples": [
+                "C19_Krrik"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "322": {
+            "phyrexian": "θpoŋkp",
+            "IPA": "θpoŋkp",
+            "plural": "FALSE",
+            "translation": "Worship",
+            "root": [
+                "θpoŋkp"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "323": {
+            "phyrexian": "dmənr",
+            "IPA": "dmənr",
+            "plural": "FALSE",
+            "translation": "Dominaria",
+            "root": [
+                "dmənr"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "name",
+            "confidence": "solid"
+        },
+        "324": {
+            "phyrexian": "sylx",
+            "IPA": "sylx",
+            "plural": "syylx",
+            "translation": "Sylex",
+            "root": [
+                "sylx"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "noun",
+            "native": false,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "325": {
+            "phyrexian": "sə'mx",
+            "IPA": "səʔmx",
+            "plural": "səə'mx",
+            "translation": "Rule",
+            "root": [
+                "sə'mx"
+            ],
+            "composition": null,
+            "examples": [
+                "BeadleGrimms_Guide"
+            ],
+            "class": "noun,verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "326": {
+            "phyrexian": "θtatlmi'l",
+            "IPA": "θtatlmiʔl",
+            "plural": "θtatlmii'l",
+            "translation": "Commandment",
+            "root": null,
+            "composition": null,
+            "examples": [
+                "BeadleGrimms_Guide"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "327": {
+            "phyrexian": "šotm",
+            "IPA": "ʃotm",
+            "plural": "šootm",
+            "translation": "Apostle",
+            "root": [
+                "šotm"
+            ],
+            "composition": null,
+            "examples": [
+                "BeadleGrimms_Guide"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "328": {
+            "phyrexian": "vqitz",
+            "IPA": "vqitz",
+            "plural": "FALSE",
+            "translation": "Rise",
+            "root": [
+                "vqitz"
+            ],
+            "composition": null,
+            "examples": [
+                "BeadleGrimms_Guide"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "329": {
+            "phyrexian": "ẅ'uzɮšķiɴţk",
+            "IPA": "ɯʔuzɮʃkʰiɴtʰk",
+            "plural": "FALSE",
+            "translation": "Fair Basilica",
+            "root": null,
+            "composition": null,
+            "examples": [
+                "BeadleGrimms_Guide"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "solid"
+        },
+        "330": {
+            "phyrexian": "ķøvxǆav'ɴt",
+            "IPA": "kʰøvxdʒavʔɴt",
+            "plural": "FALSE",
+            "translation": "Surgical Bay",
+            "root": null,
+            "composition": null,
+            "examples": [
+                "BeadleGrimms_Guide"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
             "confidence": "solid"
         }
     },
     "samples": {
         "0": {
-            "Name": "NPH_Norn",
-            "Regular": "^'elš-norn šχa'θǆønobt.^ʁajgφe'x φyrx-pxajtr.^ɣwipnrukm.^xe-sall-qə-qxuπul-xexə-πee'x-ʁitapeq.^xe-qə-əxnɒɒqč-qxuπel-xe-πee'x-ʁitapeq.^xe-porgəxt-ɢyytx-sallkeθəəɢð-ʁi'iǆe'et.^ba-ɢyytx pənan-ǩaπa-ha-φyrxkeθəɢð-'ešχa'θnapyt.",
-            "English": "Elesh Norn, Grand Cenobite. Legendary Creature — Phyrexian Praetor. Vigilance. Other creatures you control get +2/+2. Creatures your opponents control get -2/-2. “The Gitaxians whisper among themselves of other worlds. If they exist, we must bring Phyrexia’s magnificence to them.”",
-            "Notes": "There's a difference between the MTGA and judge promo of this card. The judge promo version is believed to be the correct one.",
-            "Breakdown": "elesh norn grand-cenobite.legendary-creature phyrexian praetor.vigilance.(indicative) other (that) [2>?]control (indicative-addition) [pl]creature {+2/+2} ?_[3>4]get.(indicative) (that) [pl]opponent [3>4]control (indicative) [pl]creature {-2/-2} ?_[3>4]get.(indicative) group-? [pl]gitaxian other-[pl]world ?_[3>4]whisper.(if) [pl]gitaxian ? (shall) (must) phyrexian-world ?_great_[4>3]?"
-        },
-        "1": {
-            "Name": "NPH_Ura",
-            "Regular": "^'urbrask əxťeķibrs.^ʁajgφe'x φyrx-pxajtr.^xe-qə-qxuπul-xe-πee'x-ɣwiziklvuwk-ʁitapeq.^baqilx-qə-əxnɒqč-qxuπel-xe-φe'x-əšqtwøǩxθəxt lo-ɣypym.^'uxuφ-mrodnqẅrɮwi'g-močq-χi'ətsxen-'u-'urbrask-χiɢɬčǩaaqq-tǥoθχm.^'u-'asm-keqxǆuɣyp:prosuj-lo.",
-            "English": "Urabrask the Hidden. Legendary Creature — Phyrexian Praetor. Creatures you control have haste. Creatures your opponents control enter the battlefield tapped. When the Mirran resistance arrived, the furnace dwellers looked to Urabrask for guidance. His decree stunned the others: “Let them be.”",
-            "Notes": null,
-            "Breakdown": "urabrask not_?.legendary-creature phyrexian praetor.(indicative) (that) [2>?]control (indicative) [pl]creature haste ?_[3>4]get.(if-would) (that) opponent [3>4]control (indicative) creature on_battlefield [4>3]tap.(past-when) mirrodin-resistance come ?_[3>4]ask (past) urabrask furnace-[pl]biomechanical ?.(past) decree [4>3]stun.? (imperative)"
-        },
-        "2": {
-            "Name": "NPH_Jin",
-            "Regular": "^ǆi'n-ɢytx dl'emqrukm.^ʁajgφe'x φyrx-pxajtr.^ɣwiziklʁums.^baxuφ-πlnaķmqpønuč-'iixtfu'q-lo-ɢwiinš-mprɒsuw.^xe-əxnɒɒqč-naql'oparxyχ-sər-mɒɣyg.^əx-πllupsθəxt-xeqit-qpenčodrm:jnaķmφyrxkeθəgð-naķym-qpenčodrm.",
-            "English": "Jin-Gitaxias, Core Augur. Legendary Creature — Phyrexian Praetor. Flash. At the beginning of your end step, draw seven cards. Each opponent’s maximum hand size is reduced by seven. “It is not a goal, but a process—the process of creating the perfect Phyrexia.”",
-            "Notes": null,
-            "Breakdown": "jin gitaxias complete_?_see.legendary-creature phyrexian praetor.flash.(if-when) complete-[2>2]step begin (imperative) {7} [pl]card [2>2]draw.(indicative) [pl]opponent [4>3]hand-limit by {7} [4>3]reduce.(not) goal (indicative-but) process.perfect-phyrexian-world [4>3]make process"
-        },
-        "3": {
-            "Name": "NPH_Sheo",
-            "Regular": "^šøldrd naķm'iǆee't.^ʁajgφe'x φyrx-pxajtr.^ɣwiqaškmjment.^baxuφ-dlabzqpønuč-'iixtfu'q-lo-dlθuqxiwwθəxut-φe'xɢwinš-žyxut-loxə-əšqtwøǩxθəxut.^baxuφ-əxnɒqč-dlabzqpenyč-'iixtfu'q lo-φe'yx-no'b'ugym.",
-            "English": "Sheoldred, Whispering One. Legendary Creature — Phyrexian Praetor. Swampwalk. At the beginning of your upkeep, return target creature card from your graveyard to the battlefield. At the beginning of each opponent’s upkeep, that player sacrifices a creature.",
-            "Notes": null,
-            "Breakdown": "sheoldred make-[pl]whisper.legendary-creature phyrexian praetor.swampwalk.(if-when) [2>2]upkeep begin (imperative) [2>?]graveyard creature-card [2>?]target (imperative-and) on_[2>?]battlefield.(if-when) opponent [4>3]upkeep begin (imperative) [4>3]creature [4>3]sacrifice"
-        },
-        "4": {
-            "Name": "NPH_Vorin",
-            "Regular": "^vornχlx gagg-xutšyv.^ʁajgφe'x φyrx-pxajtr.^ɣwikfɒǧpan'g.^baxuφ-θəɢð-ma'nɣyπum lo-qə-ŋeǩydym-'u-ma'npøkk-babug.^baxuφ-əxnɒqč-θəɢð-ʁima'nɣypem-əl-naķmqxuπl-ɢəčθəɢð-ɢnagɮəxɣypmqpenyčpxe-ʁiəxɣypem.",
-            "English": "Vorinclex, Voice of Hunger. Legendary Creature — Phyrexian Praetor. Trample. Whenever you tap a land for mana, add one mana of any type that land produced. Whenever an opponent taps a land for mana, that land doesn’t untap during its controller’s next untap step.",
-            "Notes": null,
-            "Breakdown": "vorinclex hunger [4>3]voice.legendary-creature phyrexian praetor.trample.(if-when) land mana-[2>3]tap (imperative) {1} (that) [4>3]produce (past) mana-type [2>?]add.(if-when) opponent land ?_mana-[3>4]tap (not) make-control this-?_land next-not_tap-[4>3]step-? ?_not_tap"
-        },
-        "5": {
-            "Name": "KHM_Vorin",
-            "Regular": "^vornχlx 'ežkatmfxarl.^ʁajgφe'x φyrx-pxajtr.^ɣwikfɒǧpan'g ɣwiziklvuwk.^baqilx-əšqnɒqč-əšq'astiwwðə-juuχẅķ-ţə'u'-loqit-ķus'ər-ţə'u'.^baqilx-əxnɒqč-əšqnɒqč-əšq'astiwwðə-juuχẅķ-ʁiţə'e' loqit-plθəxķus'ər-ţə'e'.",
-            "English": "Vorinclex, Monstrous Raider. Legendary Creature — Phyrexian Praetor. Trample, haste. If you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead. If an opponent would put one or more counters on a permanent or player, they put half that many of each of those kinds of counters on that permanent or player instead, rounded down.",
-            "Notes": null,
-            "Breakdown": "vorinclex ?.legendary-creature phyrexian praetor.trample haste.(if-would) on_player on_permanent_or [pl]counter [2>?]put (imperative-but) twice [2>?]put.(if-would) opponent on_player on_permanent_or [pl]counter ?_[3>4]put (imperative+but) incomplete_half [3>4]put"
-        },
-        "6": {
-            "Name": "NEO_Jin",
-            "Regular": "^ǆi'n-ɢytx ǩytπt-grjəťrk.^ʁajgφe'x φyrx-pxajtr.^baxuφ-qxuna'k-ziklʁums-kašplʁums-buǩuð lo-tluxtnaǩm.^ťe-ɢəčtluxtnaķm-šopraptžyxt-ʁšθaǩuɴ.^xe-ɢəčɣəwθ-xeronɣ'ii'ə-džəɬɢt.^baxuφ-əxnɒqč-qxuna'k-ziklʁums-kašplʁums-bukeð lo-šuqøn.^xe-ɢəčɣəwθ-xeronɣ'ii'ə-džəɬɢt.",
-            "English": "Jin-Gitaxias, Progress Tyrant. Legendary Creature — Phyrexian Praetor. Whenever you cast an artifact, instant, or sorcery spell, copy that spell. You may choose new targets for the copy. This ability triggers only once each turn. Whenever an opponent casts an artifact, instant, or sorcery spell, counter that spell. This ability triggers only once each turn.",
-            "Notes": "Meanings for ability and trigger clash with ONE_Norn",
-            "Breakdown": "jin gitaxias progress tyrant.legendary-creature phyrexian praetor.(if-when) artifact instant sorcery [2>3]play (imperative) [3>3]copy.(can) this_?_copy new-target [2>3]choose.(indicative) this_ability frequency_turn-one [3>3]trigger.(if-would) opponent artifact instant sorcery [3>4]play (imperative) [2>4]counter.(indicative) this_ability frequency_turn-one [3>3]trigger"
-        },
-        "7": {
-            "Name": "NEO_Tami",
-            "Regular": "^tam'oo' plinexs-føvɣ.^ʁajgnmhupment tam'joo'.^lo-φe'x-qxuna'k-xeəxkorxgr'ii'ə-žyxut-loxə-ɣypm əl-naķmqxuπl-ɢəč'astiww-ɢnagɮəxɣypmqpenyčpxe-ʁiəxɣypem.^lo-φlrχanjasərθ-'astiww-dlθuqxiwwθəxt-žyxut-loxə-čxət'.^lo-fa'ipθtluxtnaķm-naǩøm.^lo-tam'joo'rukxtekt-naķøm.^xe-ʁajgəxsopšiktqxuna'kfa'ipeθ.^xe-tapeq:ʁuumus-bukðrχanj-ser-mɒɣyg lo-ɢwinš-mprasuw.",
-            "English": "Tamiyo, Compleated Sage. Legendary Planeswalker — Tamiyo. Compleated. Tap up to one target artifact or creature. It doesn’t untap during its controller’s next untap step. Exile target nonland permanent card with mana value X from your graveyard. Create a token that’s a copy of that card. Create Tamiyo’s Notebook, a legendary colorless artifact token with “Spells you cast cost 2 less to cast” and “Draw a card.”",
-            "Notes": null,
-            "Breakdown": "tamiyo compleat sage.legendary-planeswalker tamiyo.compleat.(imperative) creature artifact frequency_not_more_than_one [2>?]target (imperative-and) [3>3]tap (not) make-control this_permanent next-untap-[4>3]step-? ?_[3>4]untap.(imperative) complete_cost-number {X} permanent in_graveyard [2>?]target (imperative-and) [3>3]exile.(imperative) token-copy [2>4]make.(imperative) tamiyo-note-book [2>4]make.(indicative) legendary-colorless-artifact-token.(indicative) [3>3]get.[pl,2>2]spell play-cost by {2} [4>3]reduce.{T}.(imperative) card [2>3]draw"
-        },
-        "8": {
-            "Name": "Yawg_Test",
-            "Regular": "^fedχstsqylm-jɒɒ'g-mo'yθ.^ťe-qə-dlčxət'θəxt-xe-natlč-xexə-ɢwyynuš-žkiɢəronɣ-buǩuð.^baqilx-ɢwynuš-hθuqxiwwθəxt-hčxət'θəxtðə-žkiɢəronx-vuwyk-loqit-tektθəxt-ǩeǆylqitsodrm-vuwuk.^kašplʁums.",
-            "English": "Yawgmoth's Testament. Sorcery. Until end of turn, you may play face-up cards you own from exile. If a card would be put into your graveyard or exile from anywhere this turn, put it on the bottom of your library instead.",
-            "Notes": "We're using the corrected version WotC published.",
-            "Breakdown": "testament [pl]machine [4>3]father.(can) (that) in_exile (indicative) face (indicative-and) [pl,2>2]card for_this_turn [2>3]play.(if-would) [2>2]card to_graveyard to_exile_or for_this_turn [4>3]move (imperative-but) library bottom [2>?]move.sorcery"
-        },
-        "9": {
             "Name": "DOM_Scriptures",
             "Regular": "^'ušta.^φyrxkeθəɢð-ɣẅəixiww-səkţɢiss.^šχa'θ-jɒ'gmo'θ-jɒɒ'g-mo'yθ-jnaķem-ʁirukem.^xẅots-šχa'θɢiss-'iixtfu'eq.",
             "English": "From void evolved Phyrexia. Great Yawgmoth, Father of Machines, saw its perfection. Thus the Grand Evolution began.",
             "Notes": "A couple glyphs are wrong in this art piece. See the artist's blueprint for the correct version. The translation shows up on Dark Ritual from Urza's Saga.",
             "Breakdown": "(past-narrative) phyrexian-world from_void ?-evolution great yawgmoth [pl]machine [4>3]father [3>4]perfection ?_[3>4]see.(thus) great-evolution [3>4]begin"
         },
-        "10": {
+        "1": {
             "Name": "UMA_Altar",
             "Regular": "^'ušta.^əxtxš.",
             "English": "Unskin.",
             "Notes": "Deduced from the card's flavor text.",
             "Breakdown": "(past-narrative) unskin"
         },
+        "2": {
+            "Name": "Yawg_Test",
+            "Regular": "^fedχstsqylm-jɒɒ'g-mo'yθ.^ťe-qə-dlčxət'θəxt-xe-natlč-xexə-ɢwyynuš-žkiɢəronɣ-buǩuð.^baqilx-ɢwynuš-hθuqxiwwθəxt-hčxət'θəxtðə-žkiɢəronx-vuwyk-loqit-tektθəxt-ǩeǆylqitsodrm-vuwuk.^kašplʁums.",
+            "English": "Yawgmoth's Testament. Sorcery. Until end of turn, you may play face-up cards you own from exile. If a card would be put into your graveyard or exile from anywhere this turn, put it on the bottom of your library instead.",
+            "Notes": "We're using the corrected version WotC published.",
+            "Breakdown": "testament [pl]machine [4>3]father.(can) (that) in_exile (indicative) face (indicative-and) [pl,2>2]card for_this_turn [2>3]play.(if-would) [2>2]card to_graveyard to_exile_or for_this_turn [4>3]move (imperative-but) library bottom [2>?]move.sorcery"
+        },
+        "3": {
+            "Name": "NPH_Norn",
+            "Regular": "^'elš-norn šχa'θǆønobt.^ʁajgφe'x φyrx-pxajtr.^ɣwipnrukm.^xe-sall-qə-qxuπul-xexə-πee'x-ʁitapeq.^xe-qə-əxnɒɒqč-qxuπel-xe-πee'x-ʁitapeq.^xe-porgəxt-ɢyytx-sallkeθəəɢð-ʁi'iǆe'et.^ba-ɢyytx pənan-ǩaπa-ha-φyrxkeθəɢð-'ešχa'θnapyt.",
+            "English": "Elesh Norn, Grand Cenobite. Legendary Creature — Phyrexian Praetor. Vigilance. Other creatures you control get +2/+2. Creatures your opponents control get -2/-2. “The Gitaxians whisper among themselves of other worlds. If they exist, we must bring Phyrexia’s magnificence to them.”",
+            "Notes": "There's a difference between the MTGA and judge promo of this card. The judge promo version is believed to be the correct one.",
+            "Breakdown": "elesh norn grand-cenobite.legendary-creature phyrexian praetor.vigilance.(indicative) other (that) [2>?]control (indicative-addition) [pl]creature {+2/+2} ?_[3>4]get.(indicative) (that) [pl]opponent [3>4]control (indicative) [pl]creature {-2/-2} ?_[3>4]get.(indicative) group-? [pl]gitaxian other-[pl]world ?_[3>4]whisper.(if) [pl]gitaxian ? (shall) (must) phyrexian-world ?_great_[4>3]?"
+        },
+        "4": {
+            "Name": "NPH_Ura",
+            "Regular": "^'urbrask əxťeķibrs.^ʁajgφe'x φyrx-pxajtr.^xe-qə-qxuπul-xe-πee'x-ɣwiziklvuwk-ʁitapeq.^baqilx-qə-əxnɒqč-qxuπel-xe-φe'x-əšqtwøǩxθəxt lo-ɣypym.^'uxuφ-mrodnqẅrɮwi'g-močq-χi'ətsxen-'u-'urbrask-χiɢɬčǩaaqq-tǥoθχm.^'u-'asm-keqxǆuɣyp:prosuj-lo.",
+            "English": "Urabrask the Hidden. Legendary Creature — Phyrexian Praetor. Creatures you control have haste. Creatures your opponents control enter the battlefield tapped. When the Mirran resistance arrived, the furnace dwellers looked to Urabrask for guidance. His decree stunned the others: “Let them be.”",
+            "Notes": null,
+            "Breakdown": "urabrask not_?.legendary-creature phyrexian praetor.(indicative) (that) [2>?]control (indicative) [pl]creature haste ?_[3>4]get.(if-would) (that) opponent [3>4]control (indicative) creature on_battlefield [4>3]tap.(past-when) mirrodin-resistance come ?_[3>4]ask (past) urabrask furnace-[pl]biomechanical ?.(past) decree [4>3]stun.? (imperative)"
+        },
+        "5": {
+            "Name": "NPH_Jin",
+            "Regular": "^ǆi'n-ɢytx dl'emqrukm.^ʁajgφe'x φyrx-pxajtr.^ɣwiziklʁums.^baxuφ-πlnaķmqpønuč-'iixtfu'q-lo-ɢwiinš-mprɒsuw.^xe-əxnɒɒqč-naql'oparxyχ-sər-mɒɣyg.^əx-πllupsθəxt-xeqit-qpenčodrm:jnaķmφyrxkeθəgð-naķym-qpenčodrm.",
+            "English": "Jin-Gitaxias, Core Augur. Legendary Creature — Phyrexian Praetor. Flash. At the beginning of your end step, draw seven cards. Each opponent’s maximum hand size is reduced by seven. “It is not a goal, but a process—the process of creating the perfect Phyrexia.”",
+            "Notes": null,
+            "Breakdown": "jin gitaxias complete_?_see.legendary-creature phyrexian praetor.flash.(if-when) complete-[2>2]step begin (imperative) {7} [pl]card [2>2]draw.(indicative) [pl]opponent [4>3]hand-limit by {7} [4>3]reduce.(not) goal (indicative-but) process.perfect-phyrexian-world [4>3]make process"
+        },
+        "6": {
+            "Name": "NPH_Sheo",
+            "Regular": "^šøldrd naķm'iǆee't.^ʁajgφe'x φyrx-pxajtr.^ɣwiqaškmjment.^baxuφ-dlabzqpønuč-'iixtfu'q-lo-dlθuqxiwwθəxut-φe'xɢwinš-žyxut-loxə-əšqtwøǩxθəxut.^baxuφ-əxnɒqč-dlabzqpenyč-'iixtfu'q lo-φe'yx-no'b'ugym.",
+            "English": "Sheoldred, Whispering One. Legendary Creature — Phyrexian Praetor. Swampwalk. At the beginning of your upkeep, return target creature card from your graveyard to the battlefield. At the beginning of each opponent’s upkeep, that player sacrifices a creature.",
+            "Notes": null,
+            "Breakdown": "sheoldred make-[pl]whisper.legendary-creature phyrexian praetor.swampwalk.(if-when) [2>2]upkeep begin (imperative) [2>?]graveyard creature-card [2>?]target (imperative-and) on_[2>?]battlefield.(if-when) opponent [4>3]upkeep begin (imperative) [4>3]creature [4>3]sacrifice"
+        },
+        "7": {
+            "Name": "NPH_Vorin",
+            "Regular": "^vornχlx gagg-xutšyv.^ʁajgφe'x φyrx-pxajtr.^ɣwikfɒǧpan'g.^baxuφ-θəɢð-ma'nɣyπum lo-qə-ŋeǩydym-'u-ma'npøkk-babug.^baxuφ-əxnɒqč-θəɢð-ʁima'nɣypem-əl-naķmqxuπl-ɢəčθəɢð-ɢnagɮəxɣypmqpenyčpxe-ʁiəxɣypem.",
+            "English": "Vorinclex, Voice of Hunger. Legendary Creature — Phyrexian Praetor. Trample. Whenever you tap a land for mana, add one mana of any type that land produced. Whenever an opponent taps a land for mana, that land doesn’t untap during its controller’s next untap step.",
+            "Notes": null,
+            "Breakdown": "vorinclex hunger [4>3]voice.legendary-creature phyrexian praetor.trample.(if-when) land mana-[2>3]tap (imperative) {1} (that) [4>3]produce (past) mana-type [2>?]add.(if-when) opponent land ?_mana-[3>4]tap (not) make-control this-?_land next-not_tap-[4>3]step-? ?_not_tap"
+        },
+        "8": {
+            "Name": "KHM_Vorin",
+            "Regular": "^vornχlx 'ežkatmfxarl.^ʁajgφe'x φyrx-pxajtr.^ɣwikfɒǧpan'g ɣwiziklvuwk.^baqilx-əšqnɒqč-əšq'astiwwðə-juuχẅķ-ţə'u'-loqit-ķus'ər-ţə'u'.^baqilx-əxnɒqč-əšqnɒqč-əšq'astiwwðə-juuχẅķ-ʁiţə'e' loqit-plθəxķus'ər-ţə'e'.",
+            "English": "Vorinclex, Monstrous Raider. Legendary Creature — Phyrexian Praetor. Trample, haste. If you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead. If an opponent would put one or more counters on a permanent or player, they put half that many of each of those kinds of counters on that permanent or player instead, rounded down.",
+            "Notes": null,
+            "Breakdown": "vorinclex ?.legendary-creature phyrexian praetor.trample haste.(if-would) on_player on_permanent_or [pl]counter [2>?]put (imperative-but) twice [2>?]put.(if-would) opponent on_player on_permanent_or [pl]counter ?_[3>4]put (imperative+but) incomplete_half [3>4]put"
+        },
+        "9": {
+            "Name": "NEO_Jin",
+            "Regular": "^ǆi'n-ɢytx ǩytπt-grjəťrk.^ʁajgφe'x φyrx-pxajtr.^baxuφ-qxuna'k-ziklʁums-kašplʁums-buǩuð lo-tluxtnaǩm.^ťe-ɢəčtluxtnaķm-šopraptžyxt-ʁšθaǩuɴ.^xe-ɢəčɣəwθ-xeronɣ'ii'ə-džəɬɢt.^baxuφ-əxnɒqč-qxuna'k-ziklʁums-kašplʁums-bukeð lo-šuqøn.^xe-ɢəčɣəwθ-xeronɣ'ii'ə-džəɬɢt.",
+            "English": "Jin-Gitaxias, Progress Tyrant. Legendary Creature — Phyrexian Praetor. Whenever you cast an artifact, instant, or sorcery spell, copy that spell. You may choose new targets for the copy. This ability triggers only once each turn. Whenever an opponent casts an artifact, instant, or sorcery spell, counter that spell. This ability triggers only once each turn.",
+            "Notes": "Meanings for ability and trigger clash with ONE_Norn",
+            "Breakdown": "jin gitaxias progress tyrant.legendary-creature phyrexian praetor.(if-when) artifact instant sorcery [2>3]play (imperative) [3>3]copy.(can) this_?_copy new-target [2>3]choose.(indicative) this_ability frequency_turn-one [3>3]trigger.(if-would) opponent artifact instant sorcery [3>4]play (imperative) [2>4]counter.(indicative) this_ability frequency_turn-one [3>3]trigger"
+        },
+        "10": {
+            "Name": "NEO_Tami",
+            "Regular": "^tam'oo' plinexs-føvɣ.^ʁajgnmhupment tam'joo'.^lo-φe'x-qxuna'k-xeəxkorxgr'ii'ə-žyxut-loxə-ɣypm əl-naķmqxuπl-ɢəč'astiww-ɢnagɮəxɣypmqpenyčpxe-ʁiəxɣypem.^lo-φlrχanjasərθ-'astiww-dlθuqxiwwθəxt-žyxut-loxə-čxət'.^lo-fa'ipθtluxtnaķm-naǩøm.^lo-tam'joo'rukxtekt-naķøm.^xe-ʁajgəxsopšiktqxuna'kfa'ipeθ.^xe-tapeq:ʁuumus-bukðrχanj-ser-mɒɣyg lo-ɢwinš-mprasuw.",
+            "English": "Tamiyo, Compleated Sage. Legendary Planeswalker — Tamiyo. Compleated. Tap up to one target artifact or creature. It doesn’t untap during its controller’s next untap step. Exile target nonland permanent card with mana value X from your graveyard. Create a token that’s a copy of that card. Create Tamiyo’s Notebook, a legendary colorless artifact token with “Spells you cast cost 2 less to cast” and “Draw a card.”",
+            "Notes": null,
+            "Breakdown": "tamiyo compleat sage.legendary-planeswalker tamiyo.compleat.(imperative) creature artifact frequency_not_more_than_one [2>?]target (imperative-and) [3>3]tap (not) make-control this_permanent next-untap-[4>3]step-? ?_[3>4]untap.(imperative) complete_cost-number {X} permanent in_graveyard [2>?]target (imperative-and) [3>3]exile.(imperative) token-copy [2>4]make.(imperative) tamiyo-note-book [2>4]make.(indicative) legendary-colorless-artifact-token.(indicative) [3>3]get.[pl,2>2]spell play-cost by {2} [4>3]reduce.{T}.(imperative) card [2>3]draw"
+        },
         "11": {
-            "Name": "SLD_Swamp",
-            "Regular": "^qaškm.^ɣøπi'tθəɢð qaškm.",
-            "English": "Swamp. Basic Land — Swamp.",
-            "Notes": null,
-            "Breakdown": "swamp.basic-land swamp"
-        },
-        "12": {
-            "Name": "MBS_Trailer",
-            "Regular": "^xe-qə-'əpyrxnaķym-xe-jneķom.^xe-xutšav.^qə-'uɮyč-xe-pən'yg-xexə-hπee'x-šək-Nxayep.^xe-θuqx-xwixyč-dlik-ɣwiəxťeθuqx-'ug'əχw.^ǩaπa-ɢəkeθəgð-bytptxyš-ɣɒzaɢ.^xe'um-šoprapφyrxkeθygð-natlič-krepyg.^'u-šχa'θnaķm-'iixtfu'eq.",
-            "English": "We are perfection made flesh. Our voice calls out to the lost and the broken. They fear death, even as we offer immortality. We will flay the false skin of this world, to reveal the face of a New Phyrexia. The great work has begun.",
-            "Notes": "Resolution is very low quality and confidence on the correctness of every glyph is shaky.",
-            "Breakdown": null
-        },
-        "13": {
-            "Name": "NPH_Trailer",
-            "Regular": "^'u-šoprptφyrxkeθəgð-šχa'θnķym-φlnaķem.^xe-jɒ'g'ə'wgwəww-ma'n-šoprapt'ɴnexyx-ʁilu'ef.^xemrodn-'əbə'yw-φyrx-pltxexyš-əšqmɴyryx.^xe-pxənnn-xeqit-'iǆee't-təɮirt-ʁičpan'eg.^jɒɒ'g-mo'yθ-močeq-ǩaπa.^naķməxφlɢiqoš.",
-            "English": "The great work of New Phyrexia is complete. New sources of mana power the Machine Orthodoxy. Beneath phyrexian skin, the heart of mirrodin burns. The body is whole, but whispers splinter the mind. The father of machines is coming. Destroyer.",
-            "Notes": "Resolution is very low quality and confidence on the correctness of every glyph is shaky.",
-            "Breakdown": null
-        },
-        "14": {
-            "Name": "SLD_Praetors",
-            "Regular": "^φyrxkeθəgð-pxaajtyr:plinexs-ɢwinšporg.^φyrxkeθəgð-pxaajtyr:plinexs-ɢwinšporg.^φ'kitv-wnšprg.",
-            "English": "Phyrexian Praetors. Compleat Edition. Phyrexian Praetors. Compleat Edition. Foil Edition",
-            "Notes": null,
-            "Breakdown": "phyrexian-world [pl]praetor.compleat card-group.phyrexian [pl]praetor.compleat card-group.foil card-group"
-        },
-        "15": {
-            "Name": "Swamp_Lore",
-            "Regular": "^qaškm.^ǩa-qẅrɮwi'g-φe'yx-ruǩam.^xe-mrodn-plinexs.^ǩaπa-əšqmefidrs-qə-naķym-πlnaķym-'u-naķmčəxɬišok-pnrukem.^šøldrd naķm'iǆee't.",
-            "English": null,
-            "Notes": null,
-            "Breakdown": "swamp.(?) resistance [4>3]creature [1>3]see.(indicative) mirrodin compleat. (shall) on_mephidross (that) [4>3]work [4>3]complete (past) make-?_not_? [3>4]greater_see.sheoldred make-[pl]whisper"
-        },
-        "16": {
-            "Name": "Dark_Discov",
-            "Regular": "^ťattnakmmijens.^ťattnakmmijenž.^əkπa-əjnaqoč-səkdspyig-žəkdspyig.^ǩaπa-dlpχajtr-ťəwolam.^χəə'oχmŋe-dlmo'oθ-wčtəčč.",
-            "English": null,
-            "Notes": null,
-            "Breakdown": null
-        },
-        "17": {
-            "Name": "MTGSalvation",
-            "Regular": "^φyrxɮɒ'ɣ.",
-            "English": "Phyrexian Language.",
-            "Notes": "Deduced from context.",
-            "Breakdown": "phyrexian-language"
-        },
-        "18": {
             "Name": "SNC_Ura",
             "Regular": "^'urbrask-ɴk'ykg-pxajtr.^ʁajgφe'x φyrx-pxajtr.^ɣwiziklvuw'k.^baxuφ-dlabzqpønuč-'iixtfu'q lo-tektθəxut-'iitčɢwinyš-čxəťu'.^ťe-ɢəɢwinš-žkiɢəronɣ-buǩuð.^baxuφ-əxnɒqč-dlabzqpenyč-'iixtfu'q baqilx-ɢəroneɣɢnagɮɢwinyš-mprasew loqit-tektθəxet-'iitčɢwinyš-čxəte'.^ťe-ɢəɢwinš-žkiɢəronɣ-bukeð.",
             "English": "Urabrask, Heretic Praetor. Legendary Creature — Phyrexian Praetor. Haste. At the beginning of your upkeep, exile the top card of your library. You may play it this turn. At the beginning of each opponent’s upkeep, the next time they would draw a card this turn, instead they exile the top card of their library. They may play it this turn.",
             "Notes": null,
             "Breakdown": "urabrask heretic praetor. legendary-creature phyrexian praetor.haste.(if-when) [2>2]upkeep begin (imperative) [2>?]library first-[4>3]card [2>3]exile.(can) this_card for_this_turn [2>3]play.(if-when) opponent [4>3]upkeep begin (if-would) this_[3>4]turn-next-[4>3]card [3>4]draw (if-but) [3>4]library first-[4>3]card [3>4]exile.(can) this_card for_this_turn [3>4]play"
         },
-        "19": {
+        "12": {
             "Name": "DMU_Sheo",
             "Regular": "^šøldrd-niťamg.^ʁajgφe'x φyrx-pxajtr.^ɣwiθuqx'əkš.^baxuφ-ɢwinš-mprasuw lo-sər-ǆko'uχ.^baxuφ-əxnɒqč-ɢwinš-mprasw lo-ser-huqet.",
             "English": "Sheoldred, the Apocalypse. Legendary Creature — Phyrexian Praetor. Deathtouch. Whenever you draw a card, you gain 2 life. Whenever an opponent draws a card, they lose 2 life.",
             "Notes": null,
             "Breakdown": "sheoldred apocalypse. legendary-creature phyrexian praetor.deathtouch.(if-when) card [2>3]draw (imperative) by {2} [2>?]heal.(if-when) opponent card draw (imperative) by {2} [3>4]hurt"
         },
-        "20": {
+        "13": {
             "Name": "DMU_Ajani",
             "Regular": "^'əǆɒnii' veštganwr.^ʁajgnmhupment 'əǆɒnii'.^plinexs.^lo-tektθəx'ut-'iitčɢwinyš-kreπug.^ba-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-ɢzyzšel-vuw'uk-lo-nɒqul.^bu-ɢəɢwinš-ʁiφe'x-ʁajgnmhupmentðə-vuw'uk-xwe-tektθəxut-ǩeǆylqitsodrm.^lo-πee'x-xeəxkorxgrķi'ə-žyxut.^lo-ķi-juuχẅķ-kuplɢəπee'x-χɬkevuk.^ɢəπee'x-ɣwipnrukm-žkiɢəronɣ-tapyq.^lo-čkalakm-naǩum.^lo-tapeq:baxuφ-φe'x-ʁajgnmhupmentðə-buǩuð lo-əxnɒqč-žyxut loxə-ķu-ʁiheeɬɬ-θapeq.",
             "English": "Ajani, Sleeper Agent. Legendary Planeswalker — Ajani. Compleated. Reveal the top card of your library. If it’s a creature or planeswalker card, put it into your hand. Otherwise, you may put it on the bottom of your library. Distribute three +1/+1 counters among up to three target creatures. They gain vigilance until end of turn. You get an emblem with “Whenever you cast a creature or planeswalker spell, target opponent gets two poison counters.”",
             "Notes": null,
             "Breakdown": "ajani sleeper-agent. legendary-planeswalker ajani.compleat.(imperative) [2>3]library first-[4>3]card [2>3] reveal.(if) this_card ?_creature ?_planeswalker_or [3>4]? [2>3]move (imperative) [2>2]hand.(ifnot) this_card ?_creature ?planeswalker_or [2>3]move (may) [2>?]library bottom.(imperative) [pl]creature frequency_not_more_than_three [2>?]target.(imperative) three [pl]counter among_this_[pl]creature [2>3]distribute.this [pl]creature vigilance for_this_turn [4>3]get.(imperative) emblem [2>3]make.(imperative) [3>4]get.(if-when) creature planeswalker_or (ifnot) (imperative) opponent [2>?]target (imperative-and) three ?_[pl]poison [3>4]get"
         },
-        "21": {
-            "Name": "Ads",
-            "Regular": "^mǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut.^xɬiwjvižuǥ.",
-            "English": null,
-            "Notes": null,
-            "Breakdown": null
-        },
-        "22": {
-            "Name": "Merch",
-            "Regular": "^ǩaπa-š'iimashaǩ.^'u-kulx-pən'yg.^lo-jnaķm-pnsča'eθ.^ǩaπa-əxtuneem-'aliθat.^plinexs.^jnaķm.^'ečel'.^'aliθt.",
-            "English": null,
-            "Notes": null,
-            "Breakdown": null
-        },
-        "23": {
-            "Name": "NPH_Dismember",
-            "Regular": "^čəxkefa'qsemr.^ziklʁums.^lo-φe'x-žyxut-loxə-žkiɢəronɣ-tapyq.",
-            "English": "Dismember. Instant. Target creature gets -5/-5 until end of turn.",
-            "Notes": null,
-            "Breakdown": "dismember.instant.(imperative) creature [2>?]target (imperative-and) for_this_turn {-5/-5} [4>3]get"
-        },
-        "24": {
-            "Name": "MBS_PsyCrawl",
-            "Regular": "^jiǥgɣwi'v-bwedn.^qxuna'kφe'x φyrx-šχʁɒčx.^xe-jiǥgɣwi'v-bwedn-nu'fkoqšqle'yt-xə-qə-dlnɒqul-xexə-asərθ-wɢwiinš-ʁiǆ'ynπup.^baxuφ-ɢwinš-mprasuw-lo-aχəw'əxnɒqč-sər-huqet.",
-            "English": "Psychosis Crawler. Artifact Creature — Phyrexian Horror. Psychosis Crawler’s power and toughness are each equal to the number of cards in your hand. Whenever you draw a card, each opponent loses 1 life.",
-            "Notes": null,
-            "Breakdown": "psychosis crawler.artifact-creature phyrexian horror.(indicative) psychosis crawler power-[4>3]toughness (and) (that) [2>2]hand (indicative-and) each [pl.]card ?_[2>3]equal.(if-when) card [2>3]draw (imperative) each_opponent by {1} [3>4]hurt"
-        },
-        "25": {
-            "Name": "MTGA",
-            "Regular": "^'uštaxuφ-xørnyš-pnplťəəmn-konet-'ušta-jɒ'gmo'θ-jnaķm-'əţə'a'.^ɴetsxap-'əţə'o'-'štmrodaan-xexuφ-φyrxkeθəɢð-pnťwə'u'-ʁiɢkyxt'yw.^xe gøẅroφ luπes.^πrøtjt-ǩytπt.^lo φyrxkeθəɢð'ɒjbť-ẅɬnesuš.",
-            "English": null,
-            "Notes": null,
-            "Breakdown": null
-        },
-        "26": {
+        "14": {
             "Name": "ONE_Norn",
             "Regular": "^'elš-norn jɒ'gžɒðʁ.^ʁajgφe'x φyrx-pxajtr.^ɣwipnrukm.^ba-qə-twøǩxθəxt-xexə-'astiww-w'astywuw-ɣwi't-ʁiǩažeð tluxt-ķažyð-lo-ɢəɣwi't.^əx-qə-twøǩxθəxt-xexə-'astiww-w'astiww-ɣwi't-ǩažeð.",
             "English": "Elesh Norn, Mother of Machines. Legendary Creature — Phyrexian Praetor. Vigilance. If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. Permanents entering the battlefield don’t cause abilities of permanents your opponents control to trigger.",
             "Notes": "Meanings for ability and trigger clash with NEO_Jin",
             "Breakdown": "elesh norn machine_mother.legendary_creature phyrexian praetor.vigilance.(if) (that) battlefield (indicative-and) permanent of_[2>2]permanent ability ?_[3>4]trigger copy [4>3]trigger (imperative) this-ability.(not) (that) battlefield (indicative-and) permanent of_permanent ability [3>4]trigger"
         },
-        "27": {
-            "Name": "ONE_Plains",
-            "Regular": "^'ičql.^mǩaπa-jɒɒ'g-žɒðyʁ-χtenaa.^ɣøπi't-θəɢð 'ičql.",
-            "English": "Plains. Basic Land — Plains.",
-            "Notes": null,
-            "Breakdown": "plains.(shall) [pl.]machine [4>3]mother [2>1]behold.basic land plains"
-        },
-        "28": {
-            "Name": "ONE_Island",
-            "Regular": "^kẅθəɢð.^xe-jnaķm-ǩoθaǩ-χiǆ'ynpep.^ɣøπi't-θəɢð kẅθəɢð.",
-            "English": "Island. Basic Land — Island.",
-            "Notes": null,
-            "Breakdown": "island.(indicative) perfect [?>?]? ?_[3>4]equal.basic land island"
-        },
-        "29": {
-            "Name": "ONE_Swamp",
-            "Regular": "^qaškm.^lo-xwixč-θwiχaš-gøẅrφ-'ičaq.^ɣøπi't-θəɢð qaškm.",
-            "English": "Swamp. Basic Land — Swamp.",
-            "Notes": null,
-            "Breakdown": "swamp.(imperative) fear [1>3]sow ? [?>?]?.basic land swamp"
-        },
-        "30": {
-            "Name": "ONE_Mountain",
-            "Regular": "^ktakx.^xwe-šχa'θnaķm-ǩeǆ'ǥeθ.^ɣøπi't-θəɢð ktakx.",
-            "English": "Mountain. Basic Land — Mountain.",
-            "Notes": null,
-            "Breakdown": "mountain.(may) great_work [3>4]?.basic land mountain"
-        },
-        "31": {
-            "Name": "ONE_Forest",
-            "Regular": "^'oɢθəsð.^xe-xe'ii'ə-ə'ufɬrøʁɴ-ɢises.^ɣøπi't-θəɢð 'oɢθəsð.",
-            "English": "Forest. Basic Land — Forest.",
-            "Notes": null,
-            "Breakdown": "forest.(indicative) frequency_one ? [3>4]evolve.basic land forest"
-        },
-        "32": {
-            "Name": "ONE_Article",
-            "Regular": "^jɒɒ'g-mo'yθ.^ǩaπa-dlikχanuj-šχa'yθ.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^jɒ'gžɒðʁ.^ǩaπa-š'iimashaǩ.^čkaqq.^təmn.",
-            "English": "Greatness, at any cost. Fall to your knees and welcome our embrace. Mother of Machines. All will be one. A mixed organic and non-organic sentient being, or a fully non-organic sentient being. A fully organic sentient being.",
-            "Notes": null,
-            "Breakdown": "[pl.]machine [4>3]father.(shall) in_?_cost [4>3]great.(shall) [2>2]knee [2>3]fall (shall-and) [?>?]embrace [2>3]welcome.machine_mother.(shall) ?_one_[?>?]?.biomechanical_being.organic_being"
-        },
-        "33": {
-            "Name": "BeadleGrimms",
-            "Regular": "^ɣẅbiidlɢrimsxə-mǩaπa-šopraptφyrxkeθəɢð-χtena.^lo-jnaķm-əšb-ķuɮaθǩv-pnsča'uθ.^lo-zťøsaaǆ-loxe-ɢţrɒsd-šdeχaad.",
-            "English": "From Beadle & Grimm's: Behold New Phyrexia! Surrender to perfection on February 18, 2023. Subscribe and welcome our embrace.",
-            "Notes": null,
-            "Breakdown": "from_beadle_grimms_and (shall) new_phrexian_world [4>1]behold.(imperative) perfection on_{18}_february_{2023}_[2>3]behold.(imperative) [2>1]subscribe (imperative-and) embrace [2>1]welcome"
-        },
-        "34": {
-            "Name": "ONE_Live",
-            "Regular": "^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.",
-            "English": "We are Phyrexia. We will sow perfection into the soft flesh of this world.",
-            "Notes": null,
-            "Breakdown": "(indicative) phyrexian_world.(shall) perfection ? in_[4>3]flesh this_world [1>3]sow"
-        },
-        "35": {
-            "Name": "NPH_Agent",
-            "Regular": "^ɮzətɣð-ganwr.^φe'x φyrx-'ønəķ-θutlzətč.^ɣwiɮəɣð.^əx-ɮzətɣð-ganwr-kfɒ'q'.^xwe-'urbrask-χheruǩum-ʁiwtultm əlqit-lups.^'avričt ɢyytx-ɮportt.",
-            "English": "Blighted Agent. Creature — Phyrexian Human Rogue. Infect. Blighted Agent can’t be blocked. “Urabrask may suspect our surveillance, but he cannot stop it.” — Avaricta, Gitaxian sective.",
-            "Notes": null,
-            "Breakdown": "blighted agent.creature phyrexian human rogue.infect.(not) blighted agent [3>3]block.(may) urabrask  [2>3]surveilance ?_suspect (not-but) [?>?]stop.avaricta [pl.]gitaxian sective"
-        },
-        "36": {
-            "Name": "NPH_Elf",
-            "Regular": "^naķmφ'kitv-jalf.^φe'x φyrx-jalf-naķmtǆyφt.^ɣwiɮəɣð.^xwe-nsa'q-pn'ətsxaan-ťexẅots-wφyrxjnaķm-'ɒjbť-bɬølaπ.",
-            "English": "Glistener Elf. Creature — Phyrexian Elf Warrior. Infect. Beg me for life, and I will fill ou with the glory of phyrexian perfection.",
-            "Notes": null,
-            "Breakdown": "make-foil elf.creature phyrexian elf make-war.infect.may life [2>1]beg (can-thus) of_phyrexian-perfection glory [1>?]fill"
-        },
-        "37": {
-            "Name": "NPH_Batterskull",
-            "Regular": "^kšaπɢždɒ'ķ.^qxuna'k qipmt.^čkaqqtwøφt.^xe-qipltφe'x-ɣwipnrukm-ɣwinsa'qraφoj-ʁitapyq.^kšaπɢždɒ'ķ-hnaķmkeφe'xnaql-ʁi'iţpənun.^qiplt.",
-            "English": "Batterskull. Artifact — Equipment. Living weapon. Equipped creature gets +4/+4 and has vigilance and lifelink. Return Batterskull to its owner’s hand. Equip.",
-            "Notes": null,
-            "Breakdown": "?-?.artifact equipment.biomechanical_being-weapon.(indicative) equip-creature {+4/+4} vigilance lifelink ?_[4>3]get. ?-? to_make-own-hand ?_[2>?]return.equip"
-        },
-        "38": {
-            "Name": "NPH_InkNexus",
-            "Regular": "^dlabzǆfyll'əqd.^θəɢð.^bɒb'g.^dlabzǆfyll'əqd-φyrx-dlabzǆfyll-qxuna'kφe'x-žkiɢəronɣ-ʁitapeq.^ɣwitøšq-ɣwiɮəɣð-pareɴ.",
-            "English": "Inkmoth Nexus. Land. Add. Inkmoth Nexus becomes a 1/1 Phyrexian Blinkmoth artifact creature with flying and infect until end of turn. It’s still a land. ",
-            "Notes": null,
-            "Breakdown": "oil-moth-nexus.land.{T}.add {1}.{1}.oil-moth-nexus phyrexian oil-moth {1/1} artifact-creature for_this_turn [3>4]get.flying infect [3>4]?"
-        },
-        "39": {
-            "Name": "C19_Krrik",
-            "Regular": "^ǩərrk 'i'yl-jɒ'gmo'θ.^ʁajgφe'x φyrx-šχʁɒčx-'əqoq'.^ɣwinsa'qraφoj.^xwe-aχəw'-'štrχanj-ʁihuqɬgøťut xweqit-nsa'q-huqɬgøťut.^baxuφ-faxt-ʁums-buǩuð-lo-juχẅķ-əšqǩərrk-'i'yl-jɒ'gmo'θ-ʁiţə'u'.",
-            "English": "K'rrik, Son of Yawgmoth. Legendary Creature — Phyrexian Horror Minion. Lifelink. For each B in a cost, you may pay 2 life rather than pay that mana. Whenever you cast a black spell, put a +1/+1 counter on K'rrik, Son of Yawgmoth.",
-            "Notes": null,
-            "Breakdown": "krrik [4>3]son yawgmoth. legendary-creature phyrexian horror minion.lifelink.(may) each {B} ?_cost ?_[2>3]pay (may-but) life [2>3]pay.(if-when) black spell [2>3]play (imperative) {+1/+1} counter on_krrik [4>3]son yawgmoth ?_[2>3]put"
-        },
-        "40": {
-            "Name": "ONE_Arena",
-            "Regular": "^φyrx-qab'θəxt.^myθž.^baxuφ-ðlabzqpønuč-'iixtfu'q-lo-ɢwinš-mprasuw-loxə-sər-huqøt.",
-            "English": "Phyrexian Arena. Enchantment. At the beginning of your upkeep, you draw a card and you lose 1 life.",
-            "Notes": null,
-            "Breakdown": "phyrexian arena.enchantment.(if-when) upkeep [3>3]begin (imperative) card [2>3]draw (imperative-and) by {1} [2>4]hurt"
-        },
-        "41": {
-            "Name": "NPH_Annex",
-            "Regular": "^norn-ǩlətkyk.^qxuna'k.^əx-πee'x-čkɒquq-qə-qxuπul-xexə-ʁajgnmhupmeentðə-gʁyčtx-loəq-qxuπyl-xe'štaχəw'φe'x'ə-huqɬgøtet.",
-            "English": "Norn's Annex. Artifact. Creatures can’t attack you or planeswalkers you control unless their controller pays W/P for each of those creatures.",
-            "Notes": null,
-            "Breakdown": "norn [4>3]annex.artifact.(not) creatures [2>2]biomechanical_being (that) [2>?]control (indicative-and) [pl.]planeswalker_or attack (imperative-?) [4>3]control {W/P} frequency_for_each_creature pay"
-        },
-        "42": {
+        "15": {
             "Name": "ONE_Jace",
             "Regular": "^ǆes jnaķm-'təɮirt.^ʁajgnmhupment ǆes.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-φɒ'ɢnagɮronuɣ-tapyq.^lo-nɒqč-žyxut-loxə-sər-ẅəpek.^ba-θuqxiwwθəxt-lyφkorxgrǆ'ynppðə-ɢwiinš-lo-mprasuw.^bu-ɢwinš-mprasuw.^lo-nɒqč-žyxut-loxə-sər-ķi-tøwp-ẅəpyk.",
             "English": "Jace, the Perfected Mind. Legendary Planeswalker — Jace. Compleated. Until your next turn, up to one target creature gets -3/-0. Target player mills three cards. Then if a graveyard has twenty or more cards in it, you draw three cards. Otherwise, you draw a card. Target player mills three times X cards.",
             "Notes": null,
             "Breakdown": "jace perfect mind.legendary-planeswalker jace.compleat.(imperative) creature frequency_not_more_than_one [2>3]target (imperative-and) {-3/-0} until_next_[2>?]turn [4>3]get.(imperative) player [2>?]target (imperative-and) by {3} [3>4]mill.(if) graveyard {20} ?_more_than_equal_or [pl.]card (imperative) [2>3]draw. (if_not) card [2>3]draw.(imperative) player [2>?]target (imperative-and) by {X} times [4>3]mill"
         },
-        "43": {
+        "16": {
             "Name": "ONE_Vraska",
             "Regular": "^vraskə' πnokx-'afy'.^ʁajgnmhufment vraskə'.^plinexs.^lo-ɢwinš-mprasuw-loxə-sər-huǧt.^lo-jektlexøq.^lo-φe'x-žyxut-qxuna'k-ǧliŋš-tlexeq.^xe-sall-ɢwinšπøøkkɣwii'txə-'oparxuχ.^xe-tapeq-no'b'ugum-'ɒpsopšikt-'ii-ma'n-babug.^lo-nɒqč-žyxut-baxe-grmɒɣg-ʁiheeɬeɬ-dlgeftʁiheeɬɬ-lo-tapeq.",
             "English": "Vraska, Betrayal's Sting. Legendary Planeswalker — Vraska. Compleated. You draw a card and you lose 1 life. Proliferate. Target creature becomes a Treasure artifact with “Sacrifice this artifact: Add one mana of any color” and loses all other card types and abilities. If target player has fewer than nine poison counters, they get a number of poison counters equal to the difference.",
             "Notes": null,
             "Breakdown": "vraska betrayal [4>3]sting.legendary-planeswalker vraska.compleat.(imperative) card [2>3]draw (imperative-and) by {1} [?>?]hurt.(imperative) [2>4]proliferate.(imperative) creature [2>?] target artifact treasure [3>4]?.(indicative) other card-[pl.]type-[pl.]ability_and [2>3]limit.(indicative) [3>4]get.[2>?]sacrifice.any_color one mana [2>3]add.(imperative) player [2>?]target (if-indicative) less_than {9} [pl.,3>4]poison in_?-[pl.]poison (imperative) [3>4]get"
         },
-        "44": {
+        "17": {
             "Name": "ONE_Lukka",
             "Regular": "^lyku' keɴt-hfwežφ.^ʁajgnmhupment lyku'.^plinexs.^lo-babug.^ǩaπa-ɢəma'n-φee'xčtəčpliɣnɣwi'ytðə-xe'ii'ə-ʁihisup.^lo-ɮiwwφyrxpnpe'kφe'xfa'ipθ-naǩum.^xe-ɬaʁq-tapeq.^lo-'ɒpasərθφee'xʁajgnmhuupmentxəðə-žyxut.^lo-lyku'-sər-'ɒpžyyxgɮəsuv-ðpačuk.^'u-qə-qxuπul-'uxə-ðazpnkorxnu'fφee'x-loxuπ-xwi't-čtəčpliɣun-ʁiǆ'ynpp.",
             "English": "Lukka, Bound to Ruin. Legendary Planeswalker — Lukka. Compleated. Add R/G. Spend this mana only to cast creature spells or activate abilities of creatures. Create a 3/3 green Phyrexian Beast creature token with toxic 1. Lukka deals X damage divided as you choose among any number of target creatures and/or planeswalkers, where X is the greatest power among creatures you controlled as you activated this ability.",
             "Notes": null,
             "Breakdown": "lukka bound in_ruin.legendary-planeswalker lukka.compleat.(imperative) {RG} [2>3]add.(shall) this_mana [pl.]creature-activate-[4>3]ability_or frequency_one ?_[2>3]spend.(imperative) {3/3} green-phyrexian-beast-creature-token [2>3]make.(indicative) toxic {1} [3>4]get.(imperative) any_number-[pl.]creature-[pl.]/planeswalker_and_or [2>3]target.(imperative) lukka by {X} ? [2>?]damage.(past) {X} (that) [2>?]control (past-and) ?-more-power-[pl.]creature (imperative-?) ability [2>3]activate equal"
         },
-        "45": {
+        "18": {
             "Name": "ONE_Nissa",
             "Regular": "^nisə' pnmenθ-naķmnsa'q.^ʁajgnmhupment nisə'.^plinexs.^lo-ɮiwwφyrxšχʁɒčxφe'xfa'ipθ-naǩum xexə-nisə' pnmenθ-naķmnsa'q-huqtkeɴyt-ʁiǆ'ynpep.^lo-qxuna'k-qab'θəxtðə-žyxut-loxə-qabu'.^xe-qə-qxuπul-xexə-πee'x-sər-aχəw'oɢθəsð-ɣwikfɒǧpən'gxə-žkiɢəronɣ-tapyq.",
             "English": "Nissa, Ascended Animist. Legendary Planeswalker — Nissa. Compleated. Create an X/X green Phyrexian Horror creature token, where X is Nissa, Ascended Animist’s loyalty. Destroy target artifact or enchantment. Until end of turn, creatures you control get +1/+1 for each Forest you control and gain trample.",
             "Notes": "Enchantment is written here with the word for arena.",
             "Breakdown": "nissa ascended make-life.legendary-planeswalker nissa.compleat.(imperative) {X/X} green-phyrexian horror creature token [2>3]create (indicative-and) {X} nissa ascended make-life loyalty ?_equal.(imperative) artifact arena_or [2>3]target (imperative-and) [2>3]kill.(indicative) (that) [2>?]control (indicative-and) [pl.]creature {+1/+1} by each-forest trample_and for_this_turn [4>3]get"
         },
-        "46": {
+        "19": {
             "Name": "ONE_Nahiri",
             "Regular": "^nhirii' ŋyqχ.^ʁajgnmhupment nhirii'.^plinexs.^lo-φe'x-xeəxkorxgr'ii'ə-žyxut-loxə-ɢəφe'x-nɒqč-φɒ'ɢnagɮronuɣ-xet'eaχəw'twøǩx'ə-ʁigʁičtex.^lo-ɢwinš-šteǧuʁ-loxə-ɢwinš-mprasuw.^lo-qərχanjasərθgrmɒɣgnhirii'huqtkeɴyt-xexə-φe'xequipmentðə-ɣẅθuqxiwwθəxut-žyxut-loxə-ɢəɢwinš-čxət'.^lo-qə-ɢəɢwinš-tluxtnaķm-loxə-fa'ipθ-naǩum.^xe-ɢəɢwinš-ɣwiziklvuwk-ʁitapyq.^baxuφ-πlnaķmqpenč-'iixtfu'q lo-ɢəɢwinš-čxəťu'.",
             "English": "Nahiri, the Unforgiving. Legendary Planeswalker — Nahiri. Compleated. Until your next turn, up to one target creature attacks a player each combat if able. Discard a card, then draw a card. Exile target creature or Equipment card with mana value less than Nahiri’s loyalty from your graveyard. Create a token that’s a copy of it. That token gains haste. Exile it at the beginning of the next end step.",
             "Notes": "An instance of equipment here is just written in english.",
             "Breakdown": "nahiri unforgiving.legendary planeswalker nahiri.compleat.(imperative) creature frequency_not_more_than-one [2>?]target (imperative-and) this_creature player until_next-[2>?]turn frequency_?_each-combat ?_[3>4]attack.(imperative) card [2>3]discard (imperative-and) card [2>3]draw.(imperative) ?_cost-number-than_less-nahiri loyalty (indicative-and) creature-equipment_or from_[2>2]graveyard [2>?]target (imperative-and) this_card exile.(imperative) (that) this_card copy (imperative-and) token [2>3]make.(indicative) this_card haste ?_[4>3]get.(if-when) end-step begin (imperative) this_card [2>3]exile"
         },
-        "47": {
-            "Name": "ONE_Trailer",
-            "Regular": "^lo-kytθ-əxjnɒķum-ǩlɒkem.^xba-wǆetɢ-θxhikeb lo-πyyrex-ťraǩaq.^ǩaπa-əxtuneem-'aliθat.^lo-φyrxkeθəɢyð-'št'ečel'-'əpyryx-keθəɢð-'ičuq.^xe-ťəəmen-qə'ičyq-ǩaπa-keφe'x.^xe-čǩaaǧeq-naķmkep'ee'ox.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^lo-jnaķm-pnsča'eθ.^ǩaπa-š'iimashaǩ.",
-            "English": null,
-            "Notes": "English voiceover does not directly translate to written text on screen.",
-            "Breakdown": null
-        },
-        "48": {
-            "Name": "ONE_Solphim",
-            "Regular": "^ǩaπa-šoprapt-φyrxkeθəɢð-χtena.^φyrxkevəɢð.^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-wedw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.^lo-jnaķm-pnsča'eθ.^naķmpihš.^φyrxkevəɢð.^ǩaπa-əxtuneem-'aliθat.^naķmzept.",
-            "English": null,
+        "20": {
+            "Name": "ONE_Plains",
+            "Regular": "^'ičql.^mǩaπa-jɒɒ'g-žɒðyʁ-χtenaa.^ɣøπi't-θəɢð 'ičql.",
+            "English": "Plains. Basic Land — Plains.",
             "Notes": null,
-            "Breakdown": "(shall) new phyrexian-world [1>3]behold.phyrexian-world.(indicative) phyrexian_world.(shall) perfection ? in_[4>3]flesh this_world [1>3]sow.(imperative) perfection [3>4] surrender.make-?.phyrexian-world.(shall) not-[pl.]pure [1>3]cleanse.make-?"
+            "Breakdown": "plains.(shall) [pl.]machine [4>3]mother [2>1]behold.basic land plains"
         },
-        "49": {
-            "Name": "Keyboard",
-            "Regular": "^ɮøht.^πaǆť.^plinexs.^qxuπyl.^nɒţm.^kšķiπχ.^θomk.",
-            "English": null,
-            "Notes": "Bad resolution makes it hard to get some of the glyphs right.",
-            "Breakdown": null
+        "21": {
+            "Name": "ONE_Island",
+            "Regular": "^kẅθəɢð.^xe-jnaķm-ǩoθaǩ-χiǆ'ynpep.^ɣøπi't-θəɢð kẅθəɢð.",
+            "English": "Island. Basic Land — Island.",
+            "Notes": null,
+            "Breakdown": "island.(indicative) perfect [?>?]? ?_[3>4]equal.basic land island"
         },
-        "50": {
+        "22": {
+            "Name": "ONE_Swamp",
+            "Regular": "^qaškm.^lo-xwixč-θwiχaš-gøẅrφ-'ičaq.^ɣøπi't-θəɢð qaškm.",
+            "English": "Swamp. Basic Land — Swamp.",
+            "Notes": null,
+            "Breakdown": "swamp.(imperative) fear [1>3]sow ? [?>?]?.basic land swamp"
+        },
+        "23": {
+            "Name": "ONE_Mountain",
+            "Regular": "^ktakx.^xwe-šχa'θnaķm-ǩeǆ'ǥeθ.^ɣøπi't-θəɢð ktakx.",
+            "English": "Mountain. Basic Land — Mountain.",
+            "Notes": null,
+            "Breakdown": "mountain.(may) great_work [3>4]?.basic land mountain"
+        },
+        "24": {
+            "Name": "ONE_Forest",
+            "Regular": "^'oɢθəsð.^xe-xe'ii'ə-ə'ufɬrøʁɴ-ɢises.^ɣøπi't-θəɢð 'oɢθəsð.",
+            "English": "Forest. Basic Land — Forest.",
+            "Notes": null,
+            "Breakdown": "forest.(indicative) frequency_one ? [3>4]evolve.basic land forest"
+        },
+        "25": {
+            "Name": "ONE_Arena",
+            "Regular": "^φyrx-qab'θəxt.^myθž.^baxuφ-ðlabzqpønuč-'iixtfu'q-lo-ɢwinš-mprasuw-loxə-sər-huqøt.",
+            "English": "Phyrexian Arena. Enchantment. At the beginning of your upkeep, you draw a card and you lose 1 life.",
+            "Notes": null,
+            "Breakdown": "phyrexian arena.enchantment.(if-when) upkeep [3>3]begin (imperative) card [2>3]draw (imperative-and) by {1} [2>4]hurt"
+        },
+        "26": {
+            "Name": "NPH_Agent",
+            "Regular": "^ɮzətɣð-ganwr.^φe'x φyrx-'ønəķ-θutlzətč.^ɣwiɮəɣð.^əx-ɮzətɣð-ganwr-kfɒ'q'.^xwe-'urbrask-χheruǩum-ʁiwtultm əlqit-lups.^'avričt ɢyytx-ɮportt.",
+            "English": "Blighted Agent. Creature — Phyrexian Human Rogue. Infect. Blighted Agent can’t be blocked. “Urabrask may suspect our surveillance, but he cannot stop it.” — Avaricta, Gitaxian sective.",
+            "Notes": null,
+            "Breakdown": "blighted agent.creature phyrexian human rogue.infect.(not) blighted agent [3>3]block.(may) urabrask  [2>3]surveilance ?_suspect (not-but) [?>?]stop.avaricta [pl.]gitaxian sective"
+        },
+        "27": {
+            "Name": "NPH_Elf",
+            "Regular": "^naķmφ'kitv-jalf.^φe'x φyrx-jalf-naķmtǆyφt.^ɣwiɮəɣð.^xwe-nsa'q-pn'ətsxaan-ťexẅots-wφyrxjnaķm-'ɒjbť-bɬølaπ.",
+            "English": "Glistener Elf. Creature — Phyrexian Elf Warrior. Infect. Beg me for life, and I will fill ou with the glory of phyrexian perfection.",
+            "Notes": null,
+            "Breakdown": "make-foil elf.creature phyrexian elf make-war.infect.may life [2>1]beg (can-thus) of_phyrexian-perfection glory [1>?]fill"
+        },
+        "28": {
+            "Name": "NPH_Batterskull",
+            "Regular": "^kšaπɢždɒ'ķ.^qxuna'k qipmt.^čkaqqtwøφt.^xe-qipltφe'x-ɣwipnrukm-ɣwinsa'qraφoj-ʁitapyq.^kšaπɢždɒ'ķ-hnaķmkeφe'xnaql-ʁi'iţpənun.^qiplt.",
+            "English": "Batterskull. Artifact — Equipment. Living weapon. Equipped creature gets +4/+4 and has vigilance and lifelink. Return Batterskull to its owner’s hand. Equip.",
+            "Notes": null,
+            "Breakdown": "?-?.artifact equipment.biomechanical_being-weapon.(indicative) equip-creature {+4/+4} vigilance lifelink ?_[4>3]get. ?-? to_make-own-hand ?_[2>?]return.equip"
+        },
+        "29": {
+            "Name": "NPH_InkNexus",
+            "Regular": "^dlabzǆfyll'əqd.^θəɢð.^bɒb'g.^dlabzǆfyll'əqd-φyrx-dlabzǆfyll-qxuna'kφe'x-žkiɢəronɣ-ʁitapeq.^ɣwitøšq-ɣwiɮəɣð-pareɴ.",
+            "English": "Inkmoth Nexus. Land. Add. Inkmoth Nexus becomes a 1/1 Phyrexian Blinkmoth artifact creature with flying and infect until end of turn. It’s still a land. ",
+            "Notes": null,
+            "Breakdown": "oil-moth-nexus.land.{T}.add {1}.{1}.oil-moth-nexus phyrexian oil-moth {1/1} artifact-creature for_this_turn [3>4]get.flying infect [3>4]?"
+        },
+        "30": {
+            "Name": "C19_Krrik",
+            "Regular": "^ǩərrk 'i'yl-jɒ'gmo'θ.^ʁajgφe'x φyrx-šχʁɒčx-'əqoq'.^ɣwinsa'qraφoj.^xwe-aχəw'-'štrχanj-ʁihuqɬgøťut xweqit-nsa'q-huqɬgøťut.^baxuφ-faxt-ʁums-buǩuð-lo-juχẅķ-əšqǩərrk-'i'yl-jɒ'gmo'θ-ʁiţə'u'.",
+            "English": "K'rrik, Son of Yawgmoth. Legendary Creature — Phyrexian Horror Minion. Lifelink. For each B in a cost, you may pay 2 life rather than pay that mana. Whenever you cast a black spell, put a +1/+1 counter on K'rrik, Son of Yawgmoth.",
+            "Notes": null,
+            "Breakdown": "krrik [4>3]son yawgmoth. legendary-creature phyrexian horror minion.lifelink.(may) each {B} ?_cost ?_[2>3]pay (may-but) life [2>3]pay.(if-when) black spell [2>3]play (imperative) {+1/+1} counter on_krrik [4>3]son yawgmoth ?_[2>3]put"
+        },
+        "31": {
+            "Name": "NPH_Dismember",
+            "Regular": "^čəxkefa'qsemr.^ziklʁums.^lo-φe'x-žyxut-loxə-žkiɢəronɣ-tapyq.",
+            "English": "Dismember. Instant. Target creature gets -5/-5 until end of turn.",
+            "Notes": null,
+            "Breakdown": "dismember.instant.(imperative) creature [2>?]target (imperative-and) for_this_turn {-5/-5} [4>3]get"
+        },
+        "32": {
+            "Name": "MBS_PsyCrawl",
+            "Regular": "^jiǥgɣwi'v-bwedn.^qxuna'kφe'x φyrx-šχʁɒčx.^xe-jiǥgɣwi'v-bwedn-nu'fkoqšqle'yt-xə-qə-dlnɒqul-xexə-asərθ-wɢwiinš-ʁiǆ'ynπup.^baxuφ-ɢwinš-mprasuw-lo-aχəw'əxnɒqč-sər-huqet.",
+            "English": "Psychosis Crawler. Artifact Creature — Phyrexian Horror. Psychosis Crawler’s power and toughness are each equal to the number of cards in your hand. Whenever you draw a card, each opponent loses 1 life.",
+            "Notes": null,
+            "Breakdown": "psychosis crawler.artifact-creature phyrexian horror.(indicative) psychosis crawler power-[4>3]toughness (and) (that) [2>2]hand (indicative-and) each [pl.]card ?_[2>3]equal.(if-when) card [2>3]draw (imperative) each_opponent by {1} [3>4]hurt"
+        },
+        "33": {
+            "Name": "NPH_Annex",
+            "Regular": "^norn-ǩlətkyk.^qxuna'k.^əx-πee'x-čkɒquq-qə-qxuπul-xexə-ʁajgnmhupmeentðə-gʁyčtx-loəq-qxuπyl-xe'štaχəw'φe'x'ə-huqɬgøtet.",
+            "English": "Norn's Annex. Artifact. Creatures can’t attack you or planeswalkers you control unless their controller pays W/P for each of those creatures.",
+            "Notes": null,
+            "Breakdown": "norn [4>3]annex.artifact.(not) creatures [2>2]biomechanical_being (that) [2>?]control (indicative-and) [pl.]planeswalker_or attack (imperative-?) [4>3]control {W/P} frequency_for_each_creature pay"
+        },
+        "34": {
             "Name": "NPH_Misstep",
             "Regular": "^ɬšeɴazyv-təɮirt.^ziklʁums.^lo-φrχanjasərθ'ii'ʁums-žyxut-loxə-šuǧun.",
             "English": "Mental Misstep. Instant. Counter target spell with mana value 1.",
             "Notes": null,
             "Breakdown": "[4>3]? mind.instant.(imperative) complete_cost-number-one-?_spell [2>3]target (imperative-and) [2>3]counter"
         },
-        "51": {
+        "35": {
+            "Name": "SLD_Praetors",
+            "Regular": "^qaškm.^ɣøπi'tθəɢð qaškm.",
+            "English": "Swamp. Basic Land — Swamp.",
+            "Notes": null,
+            "Breakdown": "swamp.basic-land swamp"
+        },
+        "36": {
+            "Name": "SLD_Swamp",
+            "Regular": "^φyrxkeθəgð-pxaajtyr:plinexs-ɢwinšporg.^φyrxkeθəgð-pxaajtyr:plinexs-ɢwinšporg.^φ'kitv-wnšprg.",
+            "English": "Phyrexian Praetors. Compleat Edition. Phyrexian Praetors. Compleat Edition. Foil Edition",
+            "Notes": null,
+            "Breakdown": "phyrexian-world [pl]praetor.compleat card-group.phyrexian [pl]praetor.compleat card-group.foil card-group"
+        },
+        "37": {
+            "Name": "Swamp_Lore",
+            "Regular": "^qaškm.^ǩa-qẅrɮwi'g-φe'yx-ruǩam.^xe-mrodn-plinexs.^ǩaπa-əšqmefidrs-qə-naķym-πlnaķym-'u-naķmčəxɬišok-pnrukem.^šøldrd naķm'iǆee't.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": "swamp.(?) resistance [4>3]creature [1>3]see.(indicative) mirrodin compleat. (shall) on_mephidross (that) [4>3]work [4>3]complete (past) make-?_not_? [3>4]greater_see.sheoldred make-[pl]whisper"
+        },
+        "38": {
+            "Name": "ONE_Article",
+            "Regular": "^jɒɒ'g-mo'yθ.^ǩaπa-dlikχanuj-šχa'yθ.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^jɒ'gžɒðʁ.^ǩaπa-š'iimashaǩ.^čkaqq.^təmn.",
+            "English": "Greatness, at any cost. Fall to your knees and welcome our embrace. Mother of Machines. All will be one. A mixed organic and non-organic sentient being, or a fully non-organic sentient being. A fully organic sentient being.",
+            "Notes": null,
+            "Breakdown": "[pl.]machine [4>3]father.(shall) in_?_cost [4>3]great.(shall) [2>2]knee [2>3]fall (shall-and) [?>?]embrace [2>3]welcome.machine_mother.(shall) ?_one_[?>?]?.biomechanical_being.organic_being"
+        },
+        "39": {
+            "Name": "ONE_Live",
+            "Regular": "^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-weɢw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.",
+            "English": "We are Phyrexia. We will sow perfection into the soft flesh of this world.",
+            "Notes": null,
+            "Breakdown": "(indicative) phyrexian_world.(shall) perfection ? in_[4>3]flesh this_world [1>3]sow"
+        },
+        "40": {
             "Name": "ONE_Panel",
             "Regular": "^lo-ronuɣ.^ŋo-ronoɣ.^xe-twøǩox.^əl-kfɒ'ǧa'.^lo-φarθkyžun-ɬšeɴazyv-təɮirat.",
             "English": null,
             "Notes": null,
             "Breakdown": "(imperative) [2>?]turn.(interrogative) [1>1]turn.(indicative) [1>1]combat.(negative) [?>?]block.(imperative) sun-[2>2]ring ? [1>3]mind"
         },
-        "52": {
+        "41": {
+            "Name": "MBS_Trailer",
+            "Regular": "^xe-qə-'əpyrxnaķym-xe-jneķom.^xe-xutšav.^qə-'uɮyč-xe-pən'yg-xexə-hπee'x-šək-Nxayep.^xe-θuqx-xwixyč-dlik-ɣwiəxťeθuqx-'ug'əχw.^ǩaπa-ɢəkeθəgð-bytptxyš-ɣɒzaɢ.^xe'um-šoprapφyrxkeθygð-natlič-krepyg.^'u-šχa'θnaķm-'iixtfu'eq.",
+            "English": "We are perfection made flesh. Our voice calls out to the lost and the broken. They fear death, even as we offer immortality. We will flay the false skin of this world, to reveal the face of a New Phyrexia. The great work has begun.",
+            "Notes": "Resolution is very low quality and confidence on the correctness of every glyph is shaky.",
+            "Breakdown": null
+        },
+        "42": {
+            "Name": "NPH_Trailer",
+            "Regular": "^'u-šoprptφyrxkeθəgð-šχa'θnķym-φlnaķem.^xe-jɒ'g'ə'wgwəww-ma'n-šoprapt'ɴnexyx-ʁilu'ef.^xemrodn-'əbə'yw-φyrx-pltxexyš-əšqmɴyryx.^xe-pxənnn-xeqit-'iǆee't-təɮirt-ʁičpan'eg.^jɒɒ'g-mo'yθ-močeq-ǩaπa.^naķməxφlɢiqoš.",
+            "English": "The great work of New Phyrexia is complete. New sources of mana power the Machine Orthodoxy. Beneath phyrexian skin, the heart of mirrodin burns. The body is whole, but whispers splinter the mind. The father of machines is coming. Destroyer.",
+            "Notes": "Resolution is very low quality and confidence on the correctness of every glyph is shaky.",
+            "Breakdown": null
+        },
+        "43": {
+            "Name": "ONE_Trailer",
+            "Regular": "^lo-kytθ-əxjnɒķum-ǩlɒkem.^xba-wǆetɢ-θxhikeb lo-πyyrex-ťraǩaq.^ǩaπa-əxtuneem-'aliθat.^lo-φyrxkeθəɢyð-'št'ečel'-'əpyryx-keθəɢð-'ičuq.^xe-ťəəmen-qə'ičyq-ǩaπa-keφe'x.^xe-čǩaaǧeq-naķmkep'ee'ox.^ǩaπa-hπŋotux-ķoɮǩum-ǩaπaxə-ɢţrɒsad-šdeχud.^lo-jnaķm-pnsča'eθ.^ǩaπa-š'iimashaǩ.",
+            "English": null,
+            "Notes": "English voiceover does not directly translate to written text on screen.",
+            "Breakdown": null
+        },
+        "44": {
             "Name": "MOM_Teaser",
             "Regular": "^əx-φyrxkeθəɢð-jəŋθm-štodam.^šǩa-š'hupš-pn'ẅ'uzɮ.^əx-twøǩx-gøẅruφ.^ǩaπa-š'iimashaǩ.",
             "English": null,
+            "Notes": null,
+            "Breakdown": null
+        },
+        "45": {
+            "Name": "ONE_Solphim",
+            "Regular": "^ǩaπa-šoprapt-φyrxkeθəɢð-χtena.^φyrxkevəɢð.^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-weɢw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.^lo-jnaķm-pnsča'eθ.^naķmpihš.^φyrxkevəɢð.^ǩaπa-əxtuneem-'aliθat.^naķmzept.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": "(shall) new phyrexian-world [1>3]behold.phyrexian-world.(indicative) phyrexian_world.(shall) perfection ? in_[4>3]flesh this_world [1>3]sow.(imperative) perfection [3>4] surrender.make-?.phyrexian-world.(shall) not-[pl.]pure [1>3]cleanse.make-?"
+        },
+        "46": {
+            "Name": "Dark_Discov",
+            "Regular": "^ťattnakmmijens.^ťattnakmmijenž.^əkπa-əjnaqoč-səkdspyig-žəkdspyig.^ǩaπa-dlpχajtr-ťəwolam.^χəə'oχmŋe-dlmo'oθ-wčtəčč.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null
+        },
+        "47": {
+            "Name": "MTGSalvation",
+            "Regular": "^φyrxɮɒ'ɣ.",
+            "English": "Phyrexian Language.",
+            "Notes": "Deduced from context.",
+            "Breakdown": "phyrexian-language"
+        },
+        "48": {
+            "Name": "Ads",
+            "Regular": "^mǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut.^xɬiwjvižuǥ.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null
+        },
+        "49": {
+            "Name": "Merch",
+            "Regular": "^ǩaπa-š'iimashaǩ.^'u-kulx-pən'yg.^lo-jnaķm-pnsča'eθ.^ǩaπa-əxtuneem-'aliθat.^plinexs.^jnaķm.^'ečel'.^'aliθt.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null
+        },
+        "50": {
+            "Name": "MTGA",
+            "Regular": "^'uštaxuφ-xørnyš-pnplťəəmn-konet-'ušta-jɒ'gmo'θ-jnaķm-'əţə'a'.^ɴetsxap-'əţə'o'-'štmrodaan-xexuφ-φyrxkeθəɢð-pnťwə'u'-ʁiɢkyxt'yw.^xe gøẅroφ luπes.^πrøtjt-ǩytπt.^lo φyrxkeθəɢð'ɒjbť-ẅɬnesuš.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null
+        },
+        "51": {
+            "Name": "Keyboard",
+            "Regular": "^ɮøht.^πaǆť.^plinexs.^qxuπyl.^nɒţm.^kšķiπχ.^θomk.",
+            "English": null,
+            "Notes": "Bad resolution makes it hard to get some of the glyphs right.",
+            "Breakdown": null
+        },
+        "52": {
+            "Name": "BeadleGrimms",
+            "Regular": "^ɣẅbiidlɢrimsxə-mǩaπa-šopraptφyrxkeθəɢð-χtena.^lo-jnaķm-əšb-ķuɮaθǩv-pnsča'uθ.^lo-zťøsaaǆ-loxe-ɢţrɒsd-šdeχaad.",
+            "English": "From Beadle & Grimm's: Behold New Phyrexia! Surrender to perfection on February 18, 2023. Subscribe and welcome our embrace.",
+            "Notes": null,
+            "Breakdown": "from_beadle_grimms_and (shall) new_phrexian_world [4>1]behold.(imperative) perfection on_{18}_february_{2023}_[2>3]behold.(imperative) [2>1]subscribe (imperative-and) embrace [2>1]welcome"
+        },
+        "53": {
+            "Name": "BeadleGrimms_Guide",
+            "Regular": "^naķmzept.^φyrxkeθəɢð.^'elš-norn.^'ečel'.^jnaķm.^naķmqxupl.^keθəɢð.^φ'kitvdlabz.^ǩaπa-šoprapt-φyrxkeθəɢð-χtena.^ǩaπa-əxtuneem-'aliθat.^lo-jnaķm-pnsča'eθ.^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-weɢw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.^'ušta-'elš-norn-ẅ'uzɮšķiɴţk-jnaķem.^'ušta-φ'kitvdlabz-ķøvxǆav'ɴt-χimɴyrex-'uštaxə-plinexs-vl'elšnorn'ɴuŋəžl'asə'mx-'uxeq.^'ušta-θtatlmi'yl-'elš-norn-'ɴuŋəžal-ǆøzkaǩxə.^šxwə-šotym-norn-vqitz-šxwəxẅots-əšqšχa'θsoφys.",
+            "English": "Defiler.Phyrexia. Elesh Norn. Glory. Perfection. Controller. World. Glistening Oil. Behold New Phyrexia. We shall cleanse their impurities. Surrender to perfection. ____. Elesh Norn has perfected the Fair Basilica. The Surgical Bay spread Glistening Oil and commanded compleation under Elesh Norn's persistent rule. Elesh Norn's commandments were persistent and practiced. May the Apostles of Norn have risen, so may they have been recognized.",
             "Notes": null,
             "Breakdown": null
         }

@@ -326,7 +326,7 @@
                 "ONE_Swamp",
                 "ONE_Mountain",
                 "ONE_Forest",
-                "SLD_Praetors"
+                "SLD_Swamp"
             ],
             "class": "adjective",
             "native": true,
@@ -518,7 +518,7 @@
                 "ONE_Mountain",
                 "ONE_Forest",
                 "NPH_InkNexus",
-                "SLD_Praetors",
+                "SLD_Swamp",
                 "ONE_Live",
                 "ONE_Trailer",
                 "MOM_Teaser",
@@ -605,7 +605,7 @@
             "examples": [
                 "NPH_Sheo",
                 "ONE_Swamp",
-                "SLD_Praetors",
+                "SLD_Swamp",
                 "Swamp_Lore"
             ],
             "class": "noun",
@@ -807,7 +807,7 @@
                 "NPH_InkNexus",
                 "C19_Krrik",
                 "MBS_PsyCrawl",
-                "SLD_Swamp",
+                "SLD_Praetors",
                 "ONE_Live",
                 "MBS_Trailer",
                 "NPH_Trailer",
@@ -845,7 +845,7 @@
                 "SNC_Ura",
                 "DMU_Sheo",
                 "ONE_Norn",
-                "SLD_Swamp"
+                "SLD_Praetors"
             ],
             "class": "noun",
             "native": false,
@@ -926,7 +926,7 @@
                 "ONE_Lukka",
                 "ONE_Nissa",
                 "ONE_Nahiri",
-                "SLD_Swamp",
+                "SLD_Praetors",
                 "Swamp_Lore",
                 "Merch",
                 "Keyboard",
@@ -1527,7 +1527,7 @@
                 "ONE_Nahiri",
                 "ONE_Arena",
                 "MBS_PsyCrawl",
-                "SLD_Swamp"
+                "SLD_Praetors"
             ],
             "class": "noun",
             "native": true,
@@ -1835,7 +1835,7 @@
             "composition": null,
             "examples": [
                 "NPH_Elf",
-                "SLD_Swamp",
+                "SLD_Praetors",
                 "BeadleGrimms_Guide"
             ],
             "class": "adjective,noun",
@@ -3239,7 +3239,7 @@
             "composition": null,
             "examples": [
                 "NPH_Elf",
-                "SLD_Swamp",
+                "SLD_Praetors",
                 "BeadleGrimms_Guide"
             ],
             "class": "verb",
@@ -3252,7 +3252,7 @@
             "phyrexian": "'ɒjbť",
             "IPA": "ʔɒjbt'",
             "plural": "'ɒɒjbť",
-            "translation": "Glory",
+            "translation": "Glory*",
             "root": [
                 "'ɒjbť"
             ],
@@ -4289,7 +4289,7 @@
             "phyrexian": "xutšv",
             "IPA": "xutʃv",
             "plural": "xuutšv",
-            "translation": "Voice",
+            "translation": "Voice*",
             "root": [
                 "xutšv"
             ],
@@ -4489,7 +4489,7 @@
             "phyrexian": "ǆko'χ",
             "IPA": "dʒkoʔχ",
             "plural": "FALSE",
-            "translation": "Heal",
+            "translation": "Heal*",
             "root": [
                 "ǆko'χ"
             ],
@@ -4522,7 +4522,7 @@
             "confidence": "solid"
         },
         "224": {
-            "phyrexian": "oparxχ",
+            "phyrexian": "'oparxχ",
             "IPA": "ʔoparxχ",
             "plural": "'opaarxχ",
             "translation": "Limit",
@@ -4598,7 +4598,7 @@
             "phyrexian": "ǩytπt",
             "IPA": "k'ytp't",
             "plural": "ǩyytπt",
-            "translation": "Progress",
+            "translation": "Progress*",
             "root": [
                 "ǩytπt"
             ],
@@ -5369,7 +5369,7 @@
             "composition": null,
             "examples": [
                 "NPH_Norn",
-                "SLD_Swamp"
+                "SLD_Praetors"
             ],
             "class": "noun",
             "native": true,
@@ -6413,7 +6413,7 @@
             "Regular": "^vornχlx 'ežkatmfxarl.^ʁajgφe'x φyrx-pxajtr.^ɣwikfɒǧpan'g ɣwiziklvuwk.^baqilx-əšqnɒqč-əšq'astiwwðə-juuχẅķ-ţə'u'-loqit-ķus'ər-ţə'u'.^baqilx-əxnɒqč-əšqnɒqč-əšq'astiwwðə-juuχẅķ-ʁiţə'e' loqit-plθəxķus'ər-ţə'e'.",
             "English": "Vorinclex, Monstrous Raider. Legendary Creature — Phyrexian Praetor. Trample, haste. If you would put one or more counters on a permanent or player, put twice that many of each of those kinds of counters on that permanent or player instead. If an opponent would put one or more counters on a permanent or player, they put half that many of each of those kinds of counters on that permanent or player instead, rounded down.",
             "Notes": null,
-            "Breakdown": "vorinclex ?.legendary-creature phyrexian praetor.trample haste.(if-would) on_player on_permanent_or [pl]counter [2>?]put (imperative-but) twice [2>?]put.(if-would) opponent on_player on_permanent_or [pl]counter ?_[3>4]put (imperative+but) incomplete_half [3>4]put"
+            "Breakdown": "vorinclex raid-monster.legendary-creature phyrexian praetor.trample haste.(if-would) on_player on_permanent_or [pl]counter [2>?]put (imperative-but) twice [2>?]put.(if-would) opponent on_player on_permanent_or [pl]counter ?_[3>4]put (imperative+but) incomplete_half [3>4]put"
         },
         "9": {
             "Name": "NEO_Jin",
@@ -6441,7 +6441,7 @@
             "Regular": "^šøldrd-niťamg.^ʁajgφe'x φyrx-pxajtr.^ɣwiθuqx'əkš.^baxuφ-ɢwinš-mprasuw lo-sər-ǆko'uχ.^baxuφ-əxnɒqč-ɢwinš-mprasw lo-ser-huqet.",
             "English": "Sheoldred, the Apocalypse. Legendary Creature — Phyrexian Praetor. Deathtouch. Whenever you draw a card, you gain 2 life. Whenever an opponent draws a card, they lose 2 life.",
             "Notes": null,
-            "Breakdown": "sheoldred apocalypse. legendary-creature phyrexian praetor.deathtouch.(if-when) card [2>3]draw (imperative) by {2} [2>?]heal.(if-when) opponent card draw (imperative) by {2} [3>4]hurt"
+            "Breakdown": "sheoldred apocalypse. legendary-creature phyrexian praetor.deathtouch.(if-when) card [2>3]draw (imperative) by {2} [2>?]heal.(if-when) opponent card draw (imperative) by {2} [3>4]bleed"
         },
         "13": {
             "Name": "DMU_Ajani",
@@ -6532,7 +6532,7 @@
             "Regular": "^φyrx-qab'θəxt.^myθž.^baxuφ-ðlabzqpønuč-'iixtfu'q-lo-ɢwinš-mprasuw-loxə-sər-huqøt.",
             "English": "Phyrexian Arena. Enchantment. At the beginning of your upkeep, you draw a card and you lose 1 life.",
             "Notes": null,
-            "Breakdown": "phyrexian arena.enchantment.(if-when) upkeep [3>3]begin (imperative) card [2>3]draw (imperative-and) by {1} [2>4]hurt"
+            "Breakdown": "phyrexian arena.enchantment.(if-when) upkeep [3>3]begin (imperative) card [2>3]draw (imperative-and) by {1} [2>4]bleed"
         },
         "26": {
             "Name": "NPH_Agent",
@@ -6581,7 +6581,7 @@
             "Regular": "^jiǥgɣwi'v-bwedn.^qxuna'kφe'x φyrx-šχʁɒčx.^xe-jiǥgɣwi'v-bwedn-nu'fkoqšqle'yt-xə-qə-dlnɒqul-xexə-asərθ-wɢwiinš-ʁiǆ'ynπup.^baxuφ-ɢwinš-mprasuw-lo-aχəw'əxnɒqč-sər-huqet.",
             "English": "Psychosis Crawler. Artifact Creature — Phyrexian Horror. Psychosis Crawler’s power and toughness are each equal to the number of cards in your hand. Whenever you draw a card, each opponent loses 1 life.",
             "Notes": null,
-            "Breakdown": "psychosis crawler.artifact-creature phyrexian horror.(indicative) psychosis crawler power-[4>3]toughness (and) (that) [2>2]hand (indicative-and) each [pl.]card ?_[2>3]equal.(if-when) card [2>3]draw (imperative) each_opponent by {1} [3>4]hurt"
+            "Breakdown": "psychosis crawler.artifact-creature phyrexian horror.(indicative) psychosis crawler power-[4>3]toughness (and) (that) [2>2]hand (indicative-and) each [pl.]card ?_[2>3]equal.(if-when) card [2>3]draw (imperative) each_opponent by {1} [3>4]bleed"
         },
         "33": {
             "Name": "NPH_Annex",
@@ -6599,17 +6599,17 @@
         },
         "35": {
             "Name": "SLD_Praetors",
-            "Regular": "^qaškm.^ɣøπi'tθəɢð qaškm.",
-            "English": "Swamp. Basic Land — Swamp.",
-            "Notes": null,
-            "Breakdown": "swamp.basic-land swamp"
-        },
-        "36": {
-            "Name": "SLD_Swamp",
             "Regular": "^φyrxkeθəgð-pxaajtyr:plinexs-ɢwinšporg.^φyrxkeθəgð-pxaajtyr:plinexs-ɢwinšporg.^φ'kitv-wnšprg.",
             "English": "Phyrexian Praetors. Compleat Edition. Phyrexian Praetors. Compleat Edition. Foil Edition",
             "Notes": null,
             "Breakdown": "phyrexian-world [pl]praetor.compleat card-group.phyrexian [pl]praetor.compleat card-group.foil card-group"
+        },
+        "36": {
+            "Name": "SLD_Swamp",
+            "Regular": "^qaškm.^ɣøπi'tθəɢð qaškm.",
+            "English": "Swamp. Basic Land — Swamp.",
+            "Notes": null,
+            "Breakdown": "swamp.basic-land swamp"
         },
         "37": {
             "Name": "Swamp_Lore",
@@ -6641,7 +6641,7 @@
         },
         "41": {
             "Name": "MBS_Trailer",
-            "Regular": "^xe-qə-'əpyrxnaķym-xe-jneķom.^xe-xutšav.^qə-'uɮyč-xe-pən'yg-xexə-hπee'x-šək-Nxayep.^xe-θuqx-xwixyč-dlik-ɣwiəxťeθuqx-'ug'əχw.^ǩaπa-ɢəkeθəgð-bytptxyš-ɣɒzaɢ.^xe'um-šoprapφyrxkeθygð-natlič-krepyg.^'u-šχa'θnaķm-'iixtfu'eq.",
+            "Regular": "^xe-qə-'əpyrxnaķym-xe-jneķom.^xe-xutšav.^qə-'uɮyč-xe-pən'yg-xexə-hπee'x-šəkţayep.^xe-θuqx-xwixyč-dlik-ɣwiəxťeθuqx-'ug'əχw.^ǩaπa-ɢəkeθəgð-bytptxyš-ɣɒzaɢ.^xe'um-šoprapφyrxkeθygð-natlič-krepyg.^'u-šχa'θnaķm-'iixtfu'eq.",
             "English": "We are perfection made flesh. Our voice calls out to the lost and the broken. They fear death, even as we offer immortality. We will flay the false skin of this world, to reveal the face of a New Phyrexia. The great work has begun.",
             "Notes": "Resolution is very low quality and confidence on the correctness of every glyph is shaky.",
             "Breakdown": null
@@ -6669,7 +6669,7 @@
         },
         "45": {
             "Name": "ONE_Solphim",
-            "Regular": "^ǩaπa-šoprapt-φyrxkeθəɢð-χtena.^φyrxkevəɢð.^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-weɢw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.^lo-jnaķm-pnsča'eθ.^naķmpihš.^φyrxkevəɢð.^ǩaπa-əxtuneem-'aliθat.^naķmzept.",
+            "Regular": "^ǩaπa-šoprapt-φyrxkeθəɢð-χtena.^φyrxkevəɢð.^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-weɢw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.^lo-jnaķm-pnsča'eθ.^naķmpihš.^φyrxkeθəɢð.^ǩaπa-əxtuneem-'aliθat.^naķmzept.",
             "English": null,
             "Notes": null,
             "Breakdown": "(shall) new phyrexian-world [1>3]behold.phyrexian-world.(indicative) phyrexian_world.(shall) perfection ? in_[4>3]flesh this_world [1>3]sow.(imperative) perfection [3>4] surrender.make-?.phyrexian-world.(shall) not-[pl.]pure [1>3]cleanse.make-?"

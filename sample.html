@@ -70,6 +70,16 @@ title: Dictionary Entry
         return phy;
     }
 
+    function unmetalize(phy){
+        const metalics = [['t','ţť'], ['g', 'ǥǧ'], ['k', 'ķǩ'], ['p', 'φπ']];
+
+        for (cons in metalics){
+            for (variant in metalics[cons][1]){
+                phy = phy.replaceAll(metalics[cons][variant], metalics[cons][0]);
+            }
+        }
+    }
+
     function selection_search(){
         const sel = rangy.getSelection(document.getElementById('searchable'));
         var query = ''
@@ -96,10 +106,10 @@ title: Dictionary Entry
         }
         else{
             document.getElementById('query-region').innerHTML = query;
-            const unvow_query = unvowel(query);
+            const simplified_query = unmetalize(unvowel(query));
             for (idx in data.dictionary){
                 let word = data.dictionary[idx].phyrexian;
-                let unvow_word = unvowel(word)
+                let simplified_word = unmetalize(unvowel(word));
                 switch (data.dictionary[idx].type){
                     case 'number':
                     case 'marker':
@@ -108,7 +118,7 @@ title: Dictionary Entry
                         }
                         break;
                     default:
-                        if (unvow_query.includes(unvow_word)){
+                        if (simplified_query.includes(simplified_word)){
                             document.getElementById('search-results').innerHTML += '<p><span class="phy_fonted">'+ word +'</span> - <a href="{{site.baseurl}}/entry?id='+ idx +'">'+ word +'</a> - '+ data.dictionary[idx].translation +'</p>';
                         }
                 }

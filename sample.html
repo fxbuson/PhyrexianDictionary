@@ -74,9 +74,9 @@ title: Dictionary Entry
         const metalics = [['t','ţť'], ['g', 'ǥǧ'], ['k', 'ķǩ'], ['p', 'φπ']];
 
         for (cons in metalics){
-            console.log(metalics[cons][0])
+            console.log(metalics[cons][0]);
             for (variant in metalics[cons][1]){
-                console.log(metalics[cons][variant])
+                console.log(metalics[cons][variant]);
                 phy = phy.replaceAll(metalics[cons][variant], metalics[cons][0]);
             }
         }

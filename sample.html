@@ -108,8 +108,6 @@ title: Dictionary Entry
         else{
             document.getElementById('query-region').innerHTML = query;
             const simplified_query = unmetalize(unvowel(query));
-            console.log('query:');
-            console.log(simplified_query);
             for (idx in data.dictionary){
                 let word = data.dictionary[idx].phyrexian;
                 let simplified_word = unmetalize(unvowel(word));

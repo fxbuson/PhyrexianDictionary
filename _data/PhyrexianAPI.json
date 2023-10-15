@@ -2113,7 +2113,7 @@
             "phyrexian": "ɣypm",
             "IPA": "ɣypm",
             "plural": "FALSE",
-            "translation": "Tap",
+            "translation": "Tap/Turn",
             "root": [
                 "ɣypm"
             ],
@@ -2123,7 +2123,7 @@
                 "NPH_Vorin",
                 "NEO_Tami"
             ],
-            "class": "verb",
+            "class": "noun,verb",
             "native": true,
             "notes": null,
             "type": "root",
@@ -2464,9 +2464,7 @@
             "IPA": "nit'amg",
             "plural": "niťaamg",
             "translation": "Apocalypse",
-            "root": [
-                "ťamg"
-            ],
+            "root": null,
             "composition": null,
             "examples": [
                 "DMU_Sheo"
@@ -2756,15 +2754,13 @@
             "confidence": "solid"
         },
         "134": {
-            "phyrexian": "ʁšθaǩɴ",
-            "IPA": "ʁʃθak'ɴ",
+            "phyrexian": "ʁšθakɴ",
+            "IPA": "ʁʃθakɴ",
             "plural": "FALSE",
             "translation": "Choose",
             "root": null,
             "composition": null,
-            "examples": [
-                "NEO_Jin"
-            ],
+            "examples": [],
             "class": "verb",
             "native": true,
             "notes": null,
@@ -4265,27 +4261,6 @@
             "confidence": "solid"
         },
         "211": {
-            "phyrexian": "žki",
-            "IPA": "ʒki",
-            "plural": "FALSE",
-            "translation": "Until",
-            "root": null,
-            "composition": null,
-            "examples": [
-                "Yawg_Test",
-                "SNC_Ura",
-                "DMU_Ajani",
-                "ONE_Nissa",
-                "NPH_InkNexus",
-                "NPH_Dismember"
-            ],
-            "class": null,
-            "native": true,
-            "notes": null,
-            "type": "unclear",
-            "confidence": "solid"
-        },
-        "212": {
             "phyrexian": "xutšv",
             "IPA": "xutʃv",
             "plural": "xuutšv",
@@ -4304,7 +4279,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "213": {
+        "212": {
             "phyrexian": "əixiww",
             "IPA": "əixiww",
             "plural": "əixiiww",
@@ -4320,7 +4295,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "214": {
+        "213": {
             "phyrexian": "ment",
             "IPA": "ment",
             "plural": "FALSE",
@@ -4346,7 +4321,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "215": {
+        "214": {
             "phyrexian": "šdeχd",
             "IPA": "ʃdeχd",
             "plural": "šdeeχd",
@@ -4366,7 +4341,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "216": {
+        "215": {
             "phyrexian": "'iǆe't",
             "IPA": "ʔidʒeʔt",
             "plural": "'iǆee't",
@@ -4385,7 +4360,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "217": {
+        "216": {
             "phyrexian": "keθəɢð",
             "IPA": "keθəɢð",
             "plural": "keθəəɢð",
@@ -4411,7 +4386,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "218": {
+        "217": {
             "phyrexian": "čkaqq",
             "IPA": "tʃkaqq",
             "plural": "čkaaqq",
@@ -4430,7 +4405,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "219": {
+        "218": {
             "phyrexian": "mɴyrx",
             "IPA": "mɴyrx",
             "plural": "mɴyyrx",
@@ -4449,7 +4424,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "220": {
+        "219": {
             "phyrexian": "tøšq",
             "IPA": "tøʃq",
             "plural": "FALSE",
@@ -4467,7 +4442,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "221": {
+        "220": {
             "phyrexian": "χiɢɬ",
             "IPA": "χiɢɬ",
             "plural": "χiiɢɬ",
@@ -4485,7 +4460,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "222": {
+        "221": {
             "phyrexian": "ǆko'χ",
             "IPA": "dʒkoʔχ",
             "plural": "FALSE",
@@ -4503,7 +4478,7 @@
             "type": "root",
             "confidence": "moderate"
         },
-        "223": {
+        "222": {
             "phyrexian": "ɮɒ'ɣ",
             "IPA": "ɮɒʔɣ",
             "plural": "ɮɒɒ'ɣ",
@@ -4521,7 +4496,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "224": {
+        "223": {
             "phyrexian": "'oparxχ",
             "IPA": "ʔoparxχ",
             "plural": "'opaarxχ",
@@ -4538,7 +4513,7 @@
             "type": "unclear",
             "confidence": "likely"
         },
-        "225": {
+        "224": {
             "phyrexian": "raφoj",
             "IPA": "raɸoj",
             "plural": "raaφoj",
@@ -4555,7 +4530,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "226": {
+        "225": {
             "phyrexian": "dlabz",
             "IPA": "dlabz",
             "plural": "dlaabz",
@@ -4576,7 +4551,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "227": {
+        "226": {
             "phyrexian": "təmn",
             "IPA": "təmn",
             "plural": "təəmn",
@@ -4594,7 +4569,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "228": {
+        "227": {
             "phyrexian": "ǩytπt",
             "IPA": "k'ytp't",
             "plural": "ǩyytπt",
@@ -4613,7 +4588,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "229": {
+        "228": {
             "phyrexian": "tunm",
             "IPA": "tunm",
             "plural": "FALSE",
@@ -4634,7 +4609,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "230": {
+        "229": {
             "phyrexian": "kyžn",
             "IPA": "kyʒn",
             "plural": "kyyžn",
@@ -4652,7 +4627,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "231": {
+        "230": {
             "phyrexian": "vešt",
             "IPA": "veʃt",
             "plural": "FALSE",
@@ -4670,7 +4645,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "232": {
+        "231": {
             "phyrexian": "kašpl",
             "IPA": "kaʃpl",
             "plural": "FALSE",
@@ -4689,7 +4664,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "233": {
+        "232": {
             "phyrexian": "solm",
             "IPA": "solm",
             "plural": "FALSE",
@@ -4705,7 +4680,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "234": {
+        "233": {
             "phyrexian": "φarθ",
             "IPA": "ɸarθ",
             "plural": "φaarθ",
@@ -4723,7 +4698,7 @@
             "type": "root",
             "confidence": "moderate"
         },
-        "235": {
+        "234": {
             "phyrexian": "'əkš",
             "IPA": "ʔəkʃ",
             "plural": "'əəkš",
@@ -4741,7 +4716,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "236": {
+        "235": {
             "phyrexian": "koqšqle't",
             "IPA": "koqʃqleʔt",
             "plural": "koqšqlee't",
@@ -4757,7 +4732,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "237": {
+        "236": {
             "phyrexian": "grjəťrk",
             "IPA": "grjət'rk",
             "plural": "grjəəťrk",
@@ -4775,7 +4750,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "238": {
+        "237": {
             "phyrexian": "tǆyφt",
             "IPA": "tdʒyɸt",
             "plural": "tǆyyφt",
@@ -4793,7 +4768,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "239": {
+        "238": {
             "phyrexian": "twøφt",
             "IPA": "twøɸt",
             "plural": "twøøφt",
@@ -4811,7 +4786,7 @@
             "type": "root",
             "confidence": "likely"
         },
-        "240": {
+        "239": {
             "phyrexian": "bə'l",
             "IPA": "bəʔl",
             "plural": "bəə'l",
@@ -4827,7 +4802,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "241": {
+        "240": {
             "phyrexian": "θyjǆəbɴ",
             "IPA": "θyjdʒəbɴ",
             "plural": "θyjǆəəbɴ",
@@ -4841,7 +4816,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "242": {
+        "241": {
             "phyrexian": "'ətsxn",
             "IPA": "ʔətsxn",
             "plural": "FALSE",
@@ -4860,7 +4835,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "243": {
+        "242": {
             "phyrexian": "'uɬč",
             "IPA": "ʔuɬtʃ",
             "plural": "'uuɬč",
@@ -4876,7 +4851,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "244": {
+        "243": {
             "phyrexian": "dekp",
             "IPA": "dekp",
             "plural": "deekp",
@@ -4892,7 +4867,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "245": {
+        "244": {
             "phyrexian": "fuɢx",
             "IPA": "fuɢx",
             "plural": "FALSE",
@@ -4908,7 +4883,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "246": {
+        "245": {
             "phyrexian": "naķmpənn",
             "IPA": "nakʰmpənn",
             "plural": "naķmpəənn",
@@ -4924,7 +4899,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "247": {
+        "246": {
             "phyrexian": "pənn",
             "IPA": "pənn",
             "plural": "FALSE",
@@ -4943,7 +4918,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "248": {
+        "247": {
             "phyrexian": "xørnš",
             "IPA": "xørnʃ",
             "plural": "xøørnš",
@@ -4961,7 +4936,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "249": {
+        "248": {
             "phyrexian": "hibd",
             "IPA": "hibd",
             "plural": "hiibd",
@@ -4977,7 +4952,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "250": {
+        "249": {
             "phyrexian": "ždičp",
             "IPA": "ʒditʃp",
             "plural": "ždiičp",
@@ -4993,7 +4968,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "251": {
+        "250": {
             "phyrexian": "'ipθ",
             "IPA": "ʔipθ",
             "plural": "'iipθ",
@@ -5014,7 +4989,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "252": {
+        "251": {
             "phyrexian": "'uxq",
             "IPA": "ʔuxq",
             "plural": "'uuxq",
@@ -5032,7 +5007,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "253": {
+        "252": {
             "phyrexian": "θuqxiww",
             "IPA": "θuqxiww",
             "plural": "θuqxiiww",
@@ -5054,7 +5029,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "254": {
+        "253": {
             "phyrexian": "ɮəɣð",
             "IPA": "ɮəɣð",
             "plural": "FALSE",
@@ -5074,7 +5049,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "255": {
+        "254": {
             "phyrexian": "χivšŋaǩrimqɢɬ",
             "IPA": "χivʃŋakʔrimqɢɬ",
             "plural": null,
@@ -5088,7 +5063,7 @@
             "type": "composite",
             "confidence": "moderate"
         },
-        "256": {
+        "255": {
             "phyrexian": "sxɬəčj",
             "IPA": "sxɬətʃj",
             "plural": "sxɬəəčj",
@@ -5104,7 +5079,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "257": {
+        "256": {
             "phyrexian": "wjətls",
             "IPA": "wjətls",
             "plural": "wjəətls",
@@ -5120,7 +5095,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "258": {
+        "257": {
             "phyrexian": "zept",
             "IPA": "zept",
             "plural": "FALSE",
@@ -5139,7 +5114,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "259": {
+        "258": {
             "phyrexian": "naķmzept",
             "IPA": "nakʰmzept",
             "plural": "nakʰmzeept",
@@ -5159,7 +5134,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "260": {
+        "259": {
             "phyrexian": "čmo'n",
             "IPA": "tʃmoʔn",
             "plural": "čmoo'n",
@@ -5175,7 +5150,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "261": {
+        "260": {
             "phyrexian": "x'uφənx",
             "IPA": "xʔuφənx",
             "plural": "FALSE",
@@ -5191,7 +5166,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "262": {
+        "261": {
             "phyrexian": "pnpl",
             "IPA": "pnpl",
             "plural": "FALSE",
@@ -5209,7 +5184,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "263": {
+        "262": {
             "phyrexian": "pnplštɬiɬq",
             "IPA": "pnplʃtɬiɬq",
             "plural": "pnplʃtɬiiɬq",
@@ -5226,7 +5201,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "264": {
+        "263": {
             "phyrexian": "nwi'n",
             "IPA": "nwiʔn",
             "plural": "nwii'n",
@@ -5242,7 +5217,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "265": {
+        "264": {
             "phyrexian": "ɮiwx",
             "IPA": "ɮiwx",
             "plural": "ɮiiwx",
@@ -5258,7 +5233,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "266": {
+        "265": {
             "phyrexian": "ʁaχǧ",
             "IPA": "ʁaχg'",
             "plural": "ʁaaχǧ",
@@ -5274,7 +5249,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "267": {
+        "266": {
             "phyrexian": "wija'x",
             "IPA": "wijaʔx",
             "plural": "wijaa'x",
@@ -5290,7 +5265,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "268": {
+        "267": {
             "phyrexian": "kezn",
             "IPA": "kezn",
             "plural": "keezn",
@@ -5306,7 +5281,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "269": {
+        "268": {
             "phyrexian": "koɣt",
             "IPA": "koɣt",
             "plural": "FALSE",
@@ -5322,7 +5297,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "270": {
+        "269": {
             "phyrexian": "'ečel'",
             "IPA": "ʔetʃelʔ",
             "plural": "'ečeel'",
@@ -5342,7 +5317,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "271": {
+        "270": {
             "phyrexian": "'atn",
             "IPA": "ʔatn",
             "plural": "FALSE",
@@ -5358,7 +5333,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "272": {
+        "271": {
             "phyrexian": "porg",
             "IPA": "porg",
             "plural": "poorg",
@@ -5377,7 +5352,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "273": {
+        "272": {
             "phyrexian": "ɢabn",
             "IPA": "ɢabn",
             "plural": "ɢaabn",
@@ -5393,7 +5368,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "274": {
+        "273": {
             "phyrexian": "mǆno'χ",
             "IPA": "mdʒnoʔχ",
             "plural": "FALSE",
@@ -5407,7 +5382,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "275": {
+        "274": {
             "phyrexian": "'əbə'w",
             "IPA": "ʔəbəʔw",
             "plural": "əbəə'w",
@@ -5425,7 +5400,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "276": {
+        "275": {
             "phyrexian": "keφe'x",
             "IPA": "keφeʔx",
             "plural": "keφee'x",
@@ -5444,7 +5419,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "277": {
+        "276": {
             "phyrexian": "nsonq",
             "IPA": "nsonq",
             "plural": "nsoonq",
@@ -5460,7 +5435,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "278": {
+        "277": {
             "phyrexian": "φørw",
             "IPA": "φørw",
             "plural": "φøørw",
@@ -5476,7 +5451,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "279": {
+        "278": {
             "phyrexian": "əxťeθuqx",
             "IPA": "əxt'eθuqx",
             "plural": "FALSE",
@@ -5494,7 +5469,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "280": {
+        "279": {
             "phyrexian": "mijens",
             "IPA": "mijens",
             "plural": "FALSE",
@@ -5512,7 +5487,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "281": {
+        "280": {
             "phyrexian": "vriθkv",
             "IPA": "vriθkv",
             "plural": "FALSE",
@@ -5528,7 +5503,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "282": {
+        "281": {
             "phyrexian": "bən'",
             "IPA": "bənʔ",
             "plural": "FALSE",
@@ -5544,7 +5519,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "283": {
+        "282": {
             "phyrexian": "'ohux",
             "IPA": "ʔohux",
             "plural": "'oohux",
@@ -5560,7 +5535,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "284": {
+        "283": {
             "phyrexian": "kont",
             "IPA": "kont",
             "plural": "FALSE",
@@ -5578,7 +5553,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "285": {
+        "284": {
             "phyrexian": "xro'd",
             "IPA": "xroʔd",
             "plural": "xrooʔd",
@@ -5594,7 +5569,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "286": {
+        "285": {
             "phyrexian": "ťewn",
             "IPA": "t'ewn",
             "plural": "ťeewn",
@@ -5610,7 +5585,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "287": {
+        "286": {
             "phyrexian": "samk",
             "IPA": "samk",
             "plural": "FALSE",
@@ -5626,7 +5601,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "288": {
+        "287": {
             "phyrexian": "žɒðk",
             "IPA": "ʒɒðk",
             "plural": "žɒɒðk",
@@ -5642,7 +5617,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "289": {
+        "288": {
             "phyrexian": "koqšq",
             "IPA": "koqʃq",
             "plural": "kooqšq",
@@ -5660,7 +5635,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "290": {
+        "289": {
             "phyrexian": "fxarl",
             "IPA": "fxarl",
             "plural": "fxaarl",
@@ -5678,7 +5653,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "291": {
+        "290": {
             "phyrexian": "ťeθuqx",
             "IPA": "t'eθuqx",
             "plural": "ťeθuuqx",
@@ -5696,7 +5671,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "292": {
+        "291": {
             "phyrexian": "kšiπχ",
             "IPA": "kʃiπχ",
             "plural": "FALSE",
@@ -5712,7 +5687,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "293": {
+        "292": {
             "phyrexian": "'ə'wgwəww",
             "IPA": "ʔəʔwgwəww",
             "plural": "'ə'wgwəəww",
@@ -5728,7 +5703,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "294": {
+        "293": {
             "phyrexian": "'ɴuŋəža",
             "IPA": "ʔɴuŋəža",
             "plural": "FALSE",
@@ -5746,7 +5721,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "295": {
+        "294": {
             "phyrexian": "ǆøzkǩ",
             "IPA": "dʒøzkǩ",
             "plural": "ǆøøzkǩ",
@@ -5764,7 +5739,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "296": {
+        "295": {
             "phyrexian": "mǥeţǧx",
             "IPA": "mgʰetʰg'x",
             "plural": "mǥeeţǧx",
@@ -5780,7 +5755,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "297": {
+        "296": {
             "phyrexian": "'emqrukm",
             "IPA": "ʔemqrukm",
             "plural": "'emqruukm",
@@ -5799,7 +5774,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "298": {
+        "297": {
             "phyrexian": "ǧytπt",
             "IPA": "g'ytp't",
             "plural": "ǧyytπt",
@@ -5815,7 +5790,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "299": {
+        "298": {
             "phyrexian": "ežkatm",
             "IPA": "eʒkatm",
             "plural": "ežkaatm",
@@ -5833,7 +5808,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "300": {
+        "299": {
             "phyrexian": "kiǆkø'χ",
             "IPA": "kidʒkøʔχ",
             "plural": "kiǆkøø'χ",
@@ -5849,7 +5824,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "301": {
+        "300": {
             "phyrexian": "brøtjt",
             "IPA": "brøtjt",
             "plural": "brøøtjt",
@@ -5865,7 +5840,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "302": {
+        "301": {
             "phyrexian": "ŋulžm",
             "IPA": "ŋulʒm",
             "plural": "FALSE",
@@ -5881,7 +5856,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "303": {
+        "302": {
             "phyrexian": "ǥo'θ",
             "IPA": "ǥoʔθ",
             "plural": "ǥoo'θ",
@@ -5897,7 +5872,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "304": {
+        "303": {
             "phyrexian": "klesk",
             "IPA": "klesk",
             "plural": "kleesk",
@@ -5913,7 +5888,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "305": {
+        "304": {
             "phyrexian": "weɢw",
             "IPA": "weɢw",
             "plural": "FALSE",
@@ -5933,7 +5908,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "306": {
+        "305": {
             "phyrexian": "'eǆe't",
             "IPA": "ʔedʒeʔt",
             "plural": "'eǆe't",
@@ -5949,21 +5924,23 @@
             "type": "root",
             "confidence": "solid"
         },
-        "307": {
-            "phyrexian": "'ɴŋexx",
+        "306": {
+            "phyrexian": "ɴŋexx",
             "IPA": "ʔɴŋexx",
             "plural": "'ɴŋeexx",
             "translation": "Source",
             "root": null,
             "composition": null,
-            "examples": [],
+            "examples": [
+                "NPH_Trailer"
+            ],
             "class": "noun",
             "native": true,
             "notes": null,
             "type": "root",
             "confidence": "solid"
         },
-        "308": {
+        "307": {
             "phyrexian": "pihš",
             "IPA": "pihʃ",
             "plural": "FALSE",
@@ -5981,7 +5958,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "309": {
+        "308": {
             "phyrexian": "naķmpihš",
             "IPA": "nakʰmpihʃ",
             "plural": "naķmpiihš",
@@ -6000,7 +5977,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "310": {
+        "309": {
             "phyrexian": "na'istz",
             "IPA": "naʔistz",
             "plural": "na'iistz",
@@ -6014,7 +5991,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "311": {
+        "310": {
             "phyrexian": "φə'q",
             "IPA": "φəʔq",
             "plural": "φəə'q",
@@ -6030,7 +6007,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "312": {
+        "311": {
             "phyrexian": "'iəbniθbš",
             "IPA": "ʔiəbniθbʃ",
             "plural": "'iəbniiθbš",
@@ -6044,7 +6021,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "313": {
+        "312": {
             "phyrexian": "gẅəww",
             "IPA": "gɯəww",
             "plural": "FALSE",
@@ -6060,7 +6037,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "314": {
+        "313": {
             "phyrexian": "ɮirt",
             "IPA": "ɮirt",
             "plural": "FALSE",
@@ -6081,7 +6058,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "315": {
+        "314": {
             "phyrexian": "šxẅonɣ",
             "IPA": "ʃxɯonɣ",
             "plural": "šxẅoonɣ",
@@ -6097,7 +6074,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "316": {
+        "315": {
             "phyrexian": "naǆɢ",
             "IPA": "nadʒɢ",
             "plural": "naaǆɢ",
@@ -6113,25 +6090,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "317": {
-            "phyrexian": "ɣypm",
-            "IPA": "ɣypm",
-            "plural": "ɣyypm",
-            "translation": "Turn (rotate)",
-            "root": null,
-            "composition": null,
-            "examples": [
-                "NPH_Ura",
-                "NPH_Vorin",
-                "NEO_Tami"
-            ],
-            "class": "noun,verb",
-            "native": true,
-            "notes": null,
-            "type": "root",
-            "confidence": "solid"
-        },
-        "318": {
+        "316": {
             "phyrexian": "xušv",
             "IPA": "xuʃv",
             "plural": "xuušv",
@@ -6147,7 +6106,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "319": {
+        "317": {
             "phyrexian": "bə'l",
             "IPA": "bəʔl",
             "plural": "bə'l",
@@ -6163,7 +6122,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "320": {
+        "318": {
             "phyrexian": "sodrm",
             "IPA": "sodrm",
             "plural": "soodrm",
@@ -6182,7 +6141,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "321": {
+        "319": {
             "phyrexian": "xweq",
             "IPA": "xweq",
             "plural": null,
@@ -6200,7 +6159,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "322": {
+        "320": {
             "phyrexian": "θpoŋkp",
             "IPA": "θpoŋkp",
             "plural": "FALSE",
@@ -6216,7 +6175,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "323": {
+        "321": {
             "phyrexian": "dmənr",
             "IPA": "dmənr",
             "plural": "FALSE",
@@ -6232,7 +6191,7 @@
             "type": "name",
             "confidence": "solid"
         },
-        "324": {
+        "322": {
             "phyrexian": "sylx",
             "IPA": "sylx",
             "plural": "syylx",
@@ -6248,7 +6207,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "325": {
+        "323": {
             "phyrexian": "sə'mx",
             "IPA": "səʔmx",
             "plural": "səə'mx",
@@ -6266,7 +6225,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "326": {
+        "324": {
             "phyrexian": "θtatlmi'l",
             "IPA": "θtatlmiʔl",
             "plural": "θtatlmii'l",
@@ -6282,7 +6241,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "327": {
+        "325": {
             "phyrexian": "šotm",
             "IPA": "ʃotm",
             "plural": "šootm",
@@ -6300,7 +6259,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "328": {
+        "326": {
             "phyrexian": "vqitz",
             "IPA": "vqitz",
             "plural": "FALSE",
@@ -6318,7 +6277,7 @@
             "type": "root",
             "confidence": "solid"
         },
-        "329": {
+        "327": {
             "phyrexian": "ẅ'uzɮšķiɴţk",
             "IPA": "ɯʔuzɮʃkʰiɴtʰk",
             "plural": "FALSE",
@@ -6334,7 +6293,7 @@
             "type": "composite",
             "confidence": "solid"
         },
-        "330": {
+        "328": {
             "phyrexian": "ķøvxǆav'ɴt",
             "IPA": "kʰøvxdʒavʔɴt",
             "plural": "FALSE",
@@ -6349,6 +6308,286 @@
             "notes": null,
             "type": "composite",
             "confidence": "solid"
+        },
+        "329": {
+            "phyrexian": "natlč",
+            "IPA": "natltʃ",
+            "plural": "naatlč",
+            "translation": "Face",
+            "root": [
+                "natlč"
+            ],
+            "composition": null,
+            "examples": [
+                "Yawg_Test",
+                "MBS_Trailer"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "solid"
+        },
+        "330": {
+            "phyrexian": "'asm",
+            "IPA": "ʔasm",
+            "plural": "'aasm",
+            "translation": "Decree",
+            "root": [
+                "'asm"
+            ],
+            "composition": null,
+            "examples": [
+                "NPH_Ura"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "likely"
+        },
+        "331": {
+            "phyrexian": "keqxǆuɣp",
+            "IPA": "keqxdʒuɣp",
+            "plural": "FALSE",
+            "translation": "Stun",
+            "root": null,
+            "composition": null,
+            "examples": [
+                "NPH_Ura"
+            ],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "likely"
+        },
+        "332": {
+            "phyrexian": "prosj",
+            "IPA": "prosj",
+            "plural": "FALSE",
+            "translation": "Allow/Ignore",
+            "root": [
+                "prosj"
+            ],
+            "composition": null,
+            "examples": [
+                "NPH_Ura"
+            ],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "moderate"
+        },
+        "333": {
+            "phyrexian": "čɣəwθ",
+            "IPA": "tʃɣəwθ",
+            "plural": "čɣəəwθ",
+            "translation": "Effect",
+            "root": [
+                "čɣəwθ"
+            ],
+            "composition": null,
+            "examples": [
+                "NEO_Jin"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "moderate"
+        },
+        "334": {
+            "phyrexian": "džəɬɢt",
+            "IPA": "dʒəɬɢt",
+            "plural": "FALSE",
+            "translation": "Happen",
+            "root": [
+                "džəɬɢt"
+            ],
+            "composition": null,
+            "examples": [
+                "NEO_Jin"
+            ],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "moderate"
+        },
+        "335": {
+            "phyrexian": "'iitč",
+            "IPA": "ʔiittʃ",
+            "plural": "FALSE",
+            "translation": "First",
+            "root": [
+                "'ii"
+            ],
+            "composition": null,
+            "examples": [
+                "SNC_Ura",
+                "DMU_Ajani"
+            ],
+            "class": "adverb",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "likely"
+        },
+        "336": {
+            "phyrexian": "ķutč",
+            "IPA": "kʰuttʃ",
+            "plural": "FALSE",
+            "translation": "Second",
+            "root": [
+                "ķu"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "adverb",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "moderate"
+        },
+        "337": {
+            "phyrexian": "ķitč",
+            "IPA": "kʰittʃ",
+            "plural": "FALSE",
+            "translation": "Third",
+            "root": [
+                "ķi"
+            ],
+            "composition": null,
+            "examples": [],
+            "class": "adverb",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "moderate"
+        },
+        "338": {
+            "phyrexian": "geft",
+            "IPA": "geft",
+            "plural": "FALSE",
+            "translation": "Remaining",
+            "root": [
+                "geft"
+            ],
+            "composition": null,
+            "examples": [
+                "ONE_Vraska"
+            ],
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "moderate"
+        },
+        "339": {
+            "phyrexian": "kšaπɢždɒ'ķ",
+            "IPA": "kʃaπɢʒdɒ'kʰ",
+            "plural": null,
+            "translation": "Batteskull",
+            "root": null,
+            "composition": null,
+            "examples": [
+                "NPH_Batterskull"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "likely"
+        },
+        "340": {
+            "phyrexian": "ɬšeɴazv",
+            "IPA": "ɬʃeɴazv",
+            "plural": "ɬʃeɴaazv",
+            "translation": "Mistake",
+            "root": null,
+            "composition": null,
+            "examples": [
+                "NPH_Misstep",
+                "ONE_Panel"
+            ],
+            "class": "noun",
+            "native": true,
+            "notes": null,
+            "type": "composite",
+            "confidence": "likely"
+        },
+        "341": {
+            "phyrexian": "'uɮč",
+            "IPA": "ʔuɮtʃ",
+            "plural": "FALSE",
+            "translation": "Lose",
+            "root": null,
+            "composition": null,
+            "examples": [
+                "MBS_Trailer"
+            ],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "likely"
+        },
+        "342": {
+            "phyrexian": "dlik",
+            "IPA": "dlik",
+            "plural": "FALSE",
+            "translation": "Despite",
+            "root": [
+                "dlik"
+            ],
+            "composition": null,
+            "examples": [
+                "ONE_Article",
+                "MBS_Trailer"
+            ],
+            "class": null,
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "moderate"
+        },
+        "343": {
+            "phyrexian": "bytp",
+            "IPA": "bytp",
+            "plural": "FALSE",
+            "translation": "False",
+            "root": [
+                "bytp"
+            ],
+            "composition": null,
+            "examples": [
+                "MBS_Trailer"
+            ],
+            "class": "adjective",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "likely"
+        },
+        "344": {
+            "phyrexian": "lu'f",
+            "IPA": "luʔf",
+            "plural": "FALSE",
+            "translation": "Power/Energize",
+            "root": [
+                "lu'f"
+            ],
+            "composition": null,
+            "examples": [
+                "NPH_Trailer"
+            ],
+            "class": "verb",
+            "native": true,
+            "notes": null,
+            "type": "root",
+            "confidence": "likely"
         }
     },
     "samples": {
@@ -6648,7 +6887,7 @@
         },
         "42": {
             "Name": "NPH_Trailer",
-            "Regular": "^'u-šoprptφyrxkeθəgð-šχa'θnķym-φlnaķem.^xe-jɒ'g'ə'wgwəww-ma'n-šoprapt'ɴnexyx-ʁilu'ef.^xemrodn-'əbə'yw-φyrx-pltxexyš-əšqmɴyryx.^xe-pxənnn-xeqit-'iǆee't-təɮirt-ʁičpan'eg.^jɒɒ'g-mo'yθ-močeq-ǩaπa.^naķməxφlɢiqoš.",
+            "Regular": "^'u-šoprptφyrxkeθəgð-šχa'θnķym-φlnaķem.^xe-jɒ'g'ə'wgwəww-ma'n-šoprapt'ɴŋexyx-ʁilu'ef.^xemrodn-'əbə'yw-φyrx-pltxexyš-əšqmɴyryx.^xe-pxənnn-xeqit-'iǆee't-təɮirt-ʁičpan'eg.^jɒɒ'g-mo'yθ-močeq-ǩaπa.^naķməxφlɢiqoš.",
             "English": "The great work of New Phyrexia is complete. New sources of mana power the Machine Orthodoxy. Beneath phyrexian skin, the heart of mirrodin burns. The body is whole, but whispers splinter the mind. The father of machines is coming. Destroyer.",
             "Notes": "Resolution is very low quality and confidence on the correctness of every glyph is shaky.",
             "Breakdown": null
@@ -6712,7 +6951,7 @@
         "51": {
             "Name": "Keyboard",
             "Regular": "^ɮøht.^πaǆť.^plinexs.^qxuπyl.^nɒţm.^kšķiπχ.^θomk.",
-            "English": null,
+            "English": "Tab. Caps Lock. Compleat. Control. Alt. Obliterate. Enter",
             "Notes": "Bad resolution makes it hard to get some of the glyphs right.",
             "Breakdown": null
         },

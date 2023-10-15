@@ -101,7 +101,7 @@ nɒqč,nɒqtʃ,nɒɒqč,Player,nɒqč,,,noun,TRUE,,root,solid
 nu'f,nuʔf,nuu'f,Power,nu'f,,,noun,TRUE,,root,solid
 krepg,krepg,FALSE,Reveal,krepg,,,verb,TRUE,,root,solid
 no'b'ugm,noʔbʔugm,FALSE,Sacrifice,,,,verb,TRUE,,composite,solid
-ɣypm,ɣypm,FALSE,Tap,ɣypm,,,verb,TRUE,,root,solid
+ɣypm,ɣypm,FALSE,Tap/Turn,ɣypm,,,"noun,verb",TRUE,,root,solid
 žyxt,ʒyxt,FALSE,Target,žyxt,,,verb,TRUE,,root,solid
 fa'ipθ,faʔipθ,fa'iipθ,Token,,,,noun,TRUE,,composite,solid
 ǩažð,k'aʒð,FALSE,Trigger,ǩažð,,,verb,TRUE,,root,solid
@@ -118,7 +118,7 @@ babg,babg,FALSE,Add,babg,,,verb,TRUE,,root,solid
 ganwr,ganwr,gaanwr,Agent,ganwr,,,noun,TRUE,,root,solid
 naķmnsa'q,nakʰmnsaʔq,naķmnsaa'q,Animist,"naķm,nsa'q",,,noun,TRUE,,composite,solid
 ǩlətkk,k'lətkk,ǩləətkk,Annex,,,,noun,TRUE,,unclear,solid
-niťamg,nit'amg,niťaamg,Apocalypse,ťamg,,,noun,TRUE,,composite,solid
+niťamg,nit'amg,niťaamg,Apocalypse,,,,noun,TRUE,,composite,solid
 qab'θəxt,qabʔθəxt,qab'θəəxt,Arena,"qab',θəxt",,,noun,TRUE,,composite,solid
 pnmenθ,pnmenθ,FALSE,Ascended,menθ,,,adjective,TRUE,,composite,solid
 pn'ətsxn,pnʔətsxn,FALSE,Beg,'ətsxn,,,verb,TRUE,,composite,solid
@@ -133,7 +133,7 @@ keɴyt,keɴyt,FALSE,Bound,keɴyt,,,adjective,TRUE,,root,solid
 pən'g,pənʔg,FALSE,Break,pən'g,,,verb,TRUE,,root,solid
 sər,sər,FALSE,By,,,,preposition,TRUE,,unclear,solid
 ǆønobt,dʒønobt,ǆønoobt,Cenobite,ǆønobt,,,noun,FALSE,,root,solid
-ʁšθaǩɴ,ʁʃθak'ɴ,FALSE,Choose,,,,verb,TRUE,,composite,solid
+ʁšθakɴ,ʁʃθakɴ,FALSE,Choose,,,,verb,TRUE,,composite,solid
 'aliθt,ʔaliθt,FALSE,Cleanse,,,,verb,TRUE,,composite,solid
 močq,motʃq,FALSE,Come,močq,,,verb,TRUE,,root,solid
 φlnaķm,ɸlnakʰm,FALSE,Complete,naķm,,,adjective,TRUE,,composite,solid
@@ -210,7 +210,6 @@ wtultm,wtultm,FALSE,Suspect,wtultm,,,verb,TRUE,,root,solid
 fedχstsqylm,fedχstsqylm,fedχstsqyylm,Testament,,,,noun,TRUE,,composite,solid
 tøwp,tøwp,FALSE,Times (multiplication),tøwp,,,,TRUE,,root,likely
 ŋyqχ,ŋyqχ,ŋyyqχ,Unforgiving,ŋyqχ,,,noun,TRUE,,root,solid
-žki,ʒki,FALSE,Until,,,,,TRUE,,unclear,solid
 xutšv,xutʃv,xuutšv,Voice*,xutšv,,,noun,TRUE,,root,solid
 əixiww,əixiww,əixiiww,Void,,,,noun,TRUE,,composite,solid
 ment,ment,FALSE,Walk,ment,,,verb,TRUE,,root,solid
@@ -306,7 +305,7 @@ brøtjt,brøtjt,brøøtjt,Research,brøtjt,,,"noun,verb",TRUE,,root,solid
 klesk,klesk,kleesk,Snow,klesk,,,noun,TRUE,,root,solid
 weɢw,weɢw,FALSE,Soft,weɢw,,,adjective,TRUE,,root,solid
 'eǆe't,ʔedʒeʔt,'eǆe't,Song,ǆe't,,,noun,TRUE,,root,solid
-'ɴŋexx,ʔɴŋexx,'ɴŋeexx,Source,,,,noun,TRUE,,root,solid
+ɴŋexx,ʔɴŋexx,'ɴŋeexx,Source,,,,noun,TRUE,,root,solid
 pihš,pihʃ,FALSE,Speak,pihš,,,verb,TRUE,,root,solid
 naķmpihš,nakʰmpihʃ,naķmpiihš,Speaker,"naķm,pihš",,,noun,TRUE,,root,solid
 na'istz,naʔistz,na'iistz,Stone,,,,noun,TRUE,,composite,solid
@@ -316,7 +315,6 @@ gẅəww,gɯəww,FALSE,Think (inorganic),gẅəww,,,verb,TRUE,,root,solid
 ɮirt,ɮirt,FALSE,Think (organic),ɮirt,,,verb,TRUE,,root,solid
 šxẅonɣ,ʃxɯonɣ,šxẅoonɣ,Time,šxẅonɣ,,,noun,TRUE,,root,solid
 naǆɢ,nadʒɢ,naaǆɢ,Torture,naǆɢ,,,noun,TRUE,,root,solid
-ɣypm,ɣypm,ɣyypm,Turn (rotate),,,,"noun,verb",TRUE,,root,solid
 xušv,xuʃv,xuušv,Voice,xušv,,,noun,TRUE,,root,solid
 bə'l,bəʔl,bə'l,Vow,bə'l,,,noun,TRUE,,root,solid
 sodrm,sodrm,soodrm,Way,sodrm,,,noun,TRUE,,root,solid
@@ -330,3 +328,19 @@ sə'mx,səʔmx,səə'mx,Rule,sə'mx,,,"noun,verb",TRUE,,root,solid
 vqitz,vqitz,FALSE,Rise,vqitz,,,noun,TRUE,,root,solid
 ẅ'uzɮšķiɴţk,ɯʔuzɮʃkʰiɴtʰk,FALSE,Fair Basilica,,,,noun,TRUE,,composite,solid
 ķøvxǆav'ɴt,kʰøvxdʒavʔɴt,FALSE,Surgical Bay,,,,noun,TRUE,,composite,solid
+natlč,natltʃ,naatlč,Face,natlč,,,noun,TRUE,,root,solid
+'asm,ʔasm,'aasm,Decree,'asm,,,noun,TRUE,,root,likely
+keqxǆuɣp,keqxdʒuɣp,FALSE,Stun,,,,verb,TRUE,,composite,likely
+prosj,prosj,FALSE,Allow/Ignore,prosj,,,verb,TRUE,,root,moderate
+čɣəwθ,tʃɣəwθ,čɣəəwθ,Effect,čɣəwθ,,,noun,TRUE,,root,moderate
+džəɬɢt,dʒəɬɢt,FALSE,Happen,džəɬɢt,,,verb,TRUE,,root,moderate
+'iitč,ʔiittʃ,FALSE,First,'ii,,,adverb,TRUE,,composite,likely
+ķutč,kʰuttʃ,FALSE,Second,ķu,,,adverb,TRUE,,composite,moderate
+ķitč,kʰittʃ,FALSE,Third,ķi,,,adverb,TRUE,,composite,moderate
+geft,geft,FALSE,Remaining,geft,,,adjective,TRUE,,root,moderate
+kšaπɢždɒ'ķ,kʃaπɢʒdɒ'kʰ,,Batteskull,,,,noun,TRUE,,composite,likely
+ɬšeɴazv,ɬʃeɴazv,ɬʃeɴaazv,Mistake,,,,noun,TRUE,,composite,likely
+'uɮč,ʔuɮtʃ,FALSE,Lose,,,,verb,TRUE,,root,likely
+dlik,dlik,FALSE,Despite,dlik,,,,TRUE,,root,moderate
+bytp,bytp,FALSE,False,bytp,,,adjective,TRUE,,root,likely
+lu'f,luʔf,FALSE,Power/Energize,lu'f,,,verb,TRUE,,root,likely

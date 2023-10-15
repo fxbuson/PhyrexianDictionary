@@ -23,22 +23,26 @@ title: Phyrexian Dictionary
         <h3>Entries</h3>
         <!-- <table class='table-sort table-arrows remember-sort entry-table'> -->
         <table id='word_list'>
-            <tr>
-                <th class="punc-sort">Phyrexian</th>
-                <th>English</th>
-                <th>Type</th>
-                <th>Class</th>
-                <th>Confidence</th>
-            </tr>
+            <thead>
+                <tr>
+                    <th class="punc-sort">Phyrexian</th>
+                    <th>English</th>
+                    <th>Type</th>
+                    <th>Class</th>
+                    <th>Confidence</th>
+                </tr>
+            </thead>
+            <tbody>
             {% for entry in site.data.PhyrexianAPI.dictionary %}
-            <tr>
-                <td><a href="{{site.baseurl}}/entry?id={{entry[0]}}">{{ entry[1].phyrexian }}</a></td>
-                <td>{{ entry[1].translation }}</td>
-                <td>{{ entry[1].type }}</td>
-                <td>{{ entry[1].class }}</td>
-                <td>{{ entry[1].confidence }}</td>
-            </tr>
+                <tr>
+                    <td><a href="{{site.baseurl}}/entry?id={{entry[0]}}">{{ entry[1].phyrexian }}</a></td>
+                    <td>{{ entry[1].translation }}</td>
+                    <td>{{ entry[1].type }}</td>
+                    <td>{{ entry[1].class }}</td>
+                    <td>{{ entry[1].confidence }}</td>
+                </tr>
             {% endfor %}
+            </tbody>
         </table>
     </div>
     <div>

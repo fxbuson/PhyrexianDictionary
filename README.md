@@ -1,6 +1,8 @@
 # PhyrexianDictionary
 Phyrexian Dictionary
 
+Find the webpage that this repo generates [here](https://fxbuson.github.io/PhyrexianDictionary/)
+
 Goal:
 
 To craeate a website where people can look up all known information about the Phyrexian language

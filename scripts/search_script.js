@@ -259,10 +259,10 @@ function unmetalize(phy){
 function Osmago_search(){
   query_obj.innerHTML = phyrexianText.innerHTML;
   var query = query_obj.innerHTML
+  var simplified_query = unmetalize(unvowel(query));
   results.innerHTML = '';
 
-  if (query != ''){
-      const simplified_query = unmetalize(unvowel(query));
+  if (query != '' && simplified_query != ''){
       for (idx in data.dictionary){
           let word = data.dictionary[idx].phyrexian;
           let simplified_word = unmetalize(unvowel(word));

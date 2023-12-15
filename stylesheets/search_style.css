@@ -1,0 +1,63 @@
+@font-face {
+  font-family: phyrexian;
+  src: url("../fonts/Phyrexian-Regular.ttf");
+}
+
+@font-face {
+  font-family: beleren;
+  src: url("../fonts/Beleren2016-Bold.woff");
+}
+
+.beleren {
+  font-family: beleren;
+}
+
+.phyrexian {
+  font-family: phyrexian;
+}
+
+.horizontal {
+  writing-mode: horizontal-tb;
+}
+
+.vertical {
+  writing-mode: vertical-lr;
+}
+
+.keyboard-frame {
+  background-color: lightgray;
+  font-size: 1.5em;
+}
+
+.results-frame {
+  background-color: lightgray;
+}
+
+.key {
+  cursor: default;
+  user-select: none;
+}
+
+.key-transcription {
+  display: contents;
+}
+
+.key-notation {
+  display: none;
+}
+
+.ultimate {
+  writing-mode: vertical-lr;
+  font-size: 4em;
+}
+
+.hover-img-link span{
+  position:absolute;
+  display:none;
+  z-index:99; 
+  pointer-events: none;
+}
+
+.hover-img-link:hover span{
+  display: inline;
+}

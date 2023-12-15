@@ -270,12 +270,12 @@ function Osmago_search(){
               case 'number':
               case 'marker':
                   if (query.includes(word)){
-                    results.innerHTML += '<p><span class="phy_fonted">'+ word +'</span> - <a href="{{site.baseurl}}/entry?id='+ idx +'">'+ word +'</a> - '+ data.dictionary[idx].translation +'</p>';
+                    results.innerHTML += '<p><span class="phy_fonted">'+ word +'</span> - <a href="'+url+'/entry?id='+ idx +'">'+ word +'</a> - '+ data.dictionary[idx].translation +'</p>';
                   }
                   break;
               default:
                   if (simplified_word.includes(simplified_query)){
-                    results.innerHTML += '<p><span class="phy_fonted">'+ word +'</span> - <a href="{{site.baseurl}}/entry?id='+ idx +'">'+ word +'</a> - '+ data.dictionary[idx].translation +'</p>';
+                    results.innerHTML += '<p><span class="phy_fonted">'+ word +'</span> - <a href="'+url+'/entry?id='+ idx +'">'+ word +'</a> - '+ data.dictionary[idx].translation +'</p>';
                   }
           }
       }
@@ -283,7 +283,7 @@ function Osmago_search(){
         let par = data.samples[idx].Regular;
         let simplified_par = unmetalize(unvowel(par));
         if (simplified_par.includes(simplified_query)){
-          results.innerHTML += "<p><a class='hover-img-link' href='{{site.baseurl}}/sample?id="+ idx +"'>"+ data.samples[idx].Name +"<span><img src='{{site.baseurl}}/images/"+ data.samples[idx].Name +".jpg' height = '200px''></span></a></p>"
+          results.innerHTML += "<p><a class='hover-img-link' href='"+url+"/sample?id="+ idx +"'>"+ data.samples[idx].Name +"<span><img src='"+url+"/images/"+ data.samples[idx].Name +".jpg' height = '200px''></span></a></p>"
         }
       }
   }

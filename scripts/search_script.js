@@ -245,6 +245,16 @@ function unvowel(phy){
   return phy;
 }
 
+function undiac(phy){
+  const diacs = [['m', 'nŋɴ'],['b',"ptkqπφťǩķǧǥdgɢ'"],['v','ţfvθðxɣχʁh'],['s','šzž'],['ɬ','ɮ'],['č','ǆ'],['w','jẅ']]
+  for (cons in diacs){
+      for (variant in diacs[cons][1]){
+          phy = phy.replaceAll(diacs[cons][1][variant], diacs[cons][0]);
+      }
+  }
+  return phy;
+}
+
 function unmetalize(phy){
   const metalics = [['t','ţť'], ['g', 'ǥǧ'], ['k', 'ķǩ'], ['p', 'φπ']];
 
@@ -256,16 +266,32 @@ function unmetalize(phy){
   return phy;
 }
 
+function simplify(word){
+  if (document.getElementById('ig_vowels').checked){
+    word = unvowel(word);
+  }
+  
+  if (document.getElementById('ig_diac').checked){
+    word = undiac(word);
+  }
+  else if(document.getElementById('ig_metalics').checked){
+    word = unmetalize(word);
+  }
+  return word;
+}
+
 function Osmago_search(){
   query_obj.innerHTML = phyrexianText.innerHTML;
   var query = query_obj.innerHTML
-  var simplified_query = unmetalize(unvowel(query));
+
+  var simplified_query = simplify(query);
+  
   results.innerHTML = '';
 
   if (query != '' && simplified_query != ''){
       for (idx in data.dictionary){
           let word = data.dictionary[idx].phyrexian;
-          let simplified_word = unmetalize(unvowel(word));
+          let simplified_word = simplify(word);
           switch (data.dictionary[idx].type){
               case 'number':
               case 'marker':
@@ -281,7 +307,7 @@ function Osmago_search(){
       }
       for (idx in data.samples){
         let par = data.samples[idx].Regular;
-        let simplified_par = unmetalize(unvowel(par));
+        let simplified_par = simplify(par);
         if (simplified_par.includes(simplified_query)){
           results.innerHTML += "<p><a class='hover-img-link' href='"+url+"/sample?id="+ idx +"'>"+ data.samples[idx].Name +"<span><img src='"+url+"/images/"+ data.samples[idx].Name +".jpg' height = '200px''></span></a></p>"
         }

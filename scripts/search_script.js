@@ -232,8 +232,6 @@ createLetterKey("ɒ", 9);
 
 // --------------------  Osmago's Code  --------------------
 
-const json = `{{ site.data.PhyrexianAPI | jsonify }}`
-
 const query_obj = document.getElementById('cur_query');
 const results = document.getElementById('search-results');
 

@@ -6795,7 +6795,7 @@
         "27": {
             "Name": "NPH_Elf",
             "Regular": "^naķmφ'kitv-jalf.^φe'x φyrx-jalf-naķmtǆyφt.^ɣwiɮəɣð.^xwe-nsa'q-pn'ətsxaan-ťexẅots-wφyrxjnaķm-'ɒjbť-bɬølaπ.",
-            "English": "Glistener Elf. Creature — Phyrexian Elf Warrior. Infect. Beg me for life, and I will fill ou with the glory of phyrexian perfection.",
+            "English": "Glistener Elf. Creature — Phyrexian Elf Warrior. Infect. Beg me for life, and I will fill you with the glory of phyrexian perfection.",
             "Notes": null,
             "Breakdown": "make-foil elf.creature phyrexian elf make-war.infect.may life [2>1]beg (can-thus) of_phyrexian-perfection glory [1>?]fill"
         },

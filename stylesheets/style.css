@@ -94,6 +94,15 @@ body {
     padding-right: 10px;
 }
 
+.symbols_table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.symbols_table td{
+    padding-bottom: 20px;
+}
+
 .hover-img-link span{
     position:absolute;
     display:none;

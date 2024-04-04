@@ -100,7 +100,8 @@ body {
     margin-right: auto;
 }
 .symbols_table td{
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .hover-img-link span{

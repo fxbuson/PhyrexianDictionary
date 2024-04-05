@@ -502,7 +502,7 @@ title: Phy Tutorial
 <script>
     const url = new URL(window.location.href);
     const params = new URLSearchParams(url.search);
-    const chap = params.get('chapter');
+    const chap = parseInt(params.get('chapter'));
 
     const max_chap = document.getElementById("summary").childElementCount - 1;
 
@@ -511,7 +511,7 @@ title: Phy Tutorial
 
     document.getElementById("next").href = "{{site.baseurl}}/tutorial?chapter=" + ((chap + 1).toString());
     
-    if(chap.toString() + 1 > max_chap){
+    if(chap + 1 > max_chap){
         document.getElementById("next").style = "display: none;"
     }
 

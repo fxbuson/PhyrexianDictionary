@@ -11,7 +11,8 @@ title: Phy Tutorial
     <ul id="summary">
         <li><a href="{{site.baseurl}}/tutorial?chapter=0">Chapter 0 - Introduction</a></li>
         <li><a href="{{site.baseurl}}/tutorial?chapter=1">Chapter 1 - Reading and Writing</a></li>
-        <li><a href="{{site.baseurl}}/tutorial?chapter=2">Chapter 2 - Sentence Structure</a></li>
+        <li><a href="{{site.baseurl}}/tutorial?chapter=2">Chapter 2 - Building Words</a></li>
+        <li><a href="{{site.baseurl}}/tutorial?chapter=2">Chapter 3 - Sentence Structure</a></li>
     </ul>
 </div>
 
@@ -56,11 +57,11 @@ title: Phy Tutorial
     <h3>Writing</h3>
 
     <p>
-        To write your own text in phyrexian (in the computer), you will have to install one of the fonts you can find on the
+        To write your own text in phyrexian (in the computer), you will have to <u>install one of the fonts</u> you can find on the
         <a href="https://github.com/fxbuson/PhyrexianDictionary/tree/main/fonts">github repository</a> for this website. 
     </p>
     <p>
-        Phyrexian Regular is the official font used for cards. Two fonts (Phyrexian Regular and Basilica) are directly converted from official phyrexian text (symbols on table below).
+        <u>Phyrexian Regular</u> is the official font used for cards. Two fonts (Phyrexian Regular and Basilica) are directly converted from official phyrexian text (symbols on table below).
         The others have been designed for ease of typing in common keyboards.
     </p>
     <p>
@@ -437,6 +438,11 @@ title: Phy Tutorial
         While not present in the main fonts (these just use arabic numerals along the connecting line), we hypothesize this is how Phyrexian should properly represent numbers along their text.
     </p>
     <p>
+        The <u>Basilica font</u>, in turn, implements these numbers with the 0-9 and A-F portions of the "Mathematical Monospace" part of Unicode
+        (the universal code table for most symbols from different languages). Use <a href="https://fancytextdecorator.com/monospace-text-generator">this website</a>
+        to type whichever numbers you like and paste in text with the Basilica font to get the numbers.
+    </p>
+    <p>
         Here's a visual explanation from the Beadle & Grimm's guide:
     </p>
     <img src="images/tutorial_1_3.png" style="display:flex; margin-left: auto; margin-right: auto;width: 70%;">
@@ -444,7 +450,60 @@ title: Phy Tutorial
 </div>
 
 <div id="chap_2">
-    <h2>Chapter 2 - Sentence Structure</h2>
+    <h2>Chapter 2 - Building Words</h2>
+    <h3>Word Roots</h3>
+    <p>
+        In general, words in Phyrexian are short and formed of mostly consonants, with vowels and prefixes changing to adapt the meaning of a root word.
+        Words roots begin and end with a consonant, generally in the format <b>CVCC</b> (C for consonant and V for vowel), but also CCVCC in some cases.
+    </p>
+    <p>
+        Here are some examples:
+    </p>
+    <ul>
+        <li>
+            <p>Death: <span class="phy_fonted" style="font-size: large;">θuqx</span></p>
+        </li>
+        <li>
+            <p>Life: <span class="phy_fonted" style="font-size: large;">nsa'q</span></p>
+        </li>
+        <li>
+            <p>Blood: <span class="phy_fonted" style="font-size: large;">huqt</span></p>
+        </li>
+    </ul>
+    <h3>Names</h3>
+    <p>
+        Native Phyrexian names are similar to their spelling in English, but often drop vowels in their spelling.
+        It's unclear wether the vowels should be inferred or if we should assume that, in universe, the vowels were introduced into the English spelling to make them more "human readable".
+    </p>
+    <p>
+        When adapting names and foreign words to Phyrexian, we try to replicate the word's phonemes with the Phyrexian letters. 
+        The rule for consonants at the beginning and end is mantained, and glottal stops are used to enforce it.
+    </p>
+    <p>
+        Here are some examples:
+    </p>
+    <ul>
+        <li>
+            <p>Sheoldred: <span class="phy_fonted" style="font-size: large;">šøldrd</span></p>
+        </li>
+        <li>
+            <p>Jace: <span class="phy_fonted" style="font-size: large;">ǆes</span></p>
+        </li>
+        <li>
+            <p>Vraska: <span class="phy_fonted" style="font-size: large;">vraskə'</span></p>
+        </li>
+        <li>
+            <p>Tamiyo: <span class="phy_fonted" style="font-size: large;">tam'oo'</span></p>
+        </li>
+        <li>
+            <p>Ajani: <span class="phy_fonted" style="font-size: large;">'əǆɒnii'</span></p>
+        </li>
+    </ul>
+
+</div>
+
+<div id="chap_3" style="display: none;">
+    <h2>Chapter 3 - Sentence Structure</h2>
 
     <p>
         For this chapter, we will analyse the following phrase: 
@@ -500,6 +559,39 @@ title: Phy Tutorial
             ^<span style="color:crimson;">'u</span>-jɒ'gmo'θ-'ərza'-qabe'.
         </p>
     </div>
+
+    <p>
+        The next chapters will go more into the different types of verbs and mood markers.
+    </p>
+</div>
+
+<div id="chap_3" style="display: none;">
+    <h2>Word roots and conjugation</h2>
+
+    <h3>Roots</h3>
+
+    <p>
+        Nouns and verbs in Phyrexian can be altered to take on aditional meaning, indicate the subject and object of a verb, or even relations between nouns such as posession.
+    </p>
+
+    <p>
+        As discussed in the last chapter, verbs in English are often modified to indicate tense (walks / walked / will walk), but they also change depending on the subject of the action
+        (grammatical person: I walk / she walks). In Phyrexian, verbs change based both on the subject and the object of their action. 
+        This is especially important when the subject or object is not determined in the phrase, because <u>Phyrexian does not use personal pronouns</u> (I, you, he, she, they). 
+    </p>
+    <p>
+        This change is indicated by inserting a vowel before the last consonant of a verb:
+    </p>
+
+    <div style="margin-left: 30px;">
+        <p>
+            I see you
+        </p>
+        <p class="phy_fonted">
+            ^xe-ruk_m.
+        </p>
+    </div>
+
 </div>
 
 <a id="next">Next Chapter</a>

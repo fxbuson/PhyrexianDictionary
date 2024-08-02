@@ -111,6 +111,10 @@ body {
     height:3px;
 }
 
+.red{
+    color: red;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #050505;

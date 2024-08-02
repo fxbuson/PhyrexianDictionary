@@ -112,7 +112,7 @@ body {
 }
 
 .red{
-    color: red;
+    color: crimson;
 }
 
 @media (prefers-color-scheme: dark) {

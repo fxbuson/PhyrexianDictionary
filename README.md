@@ -1,7 +1,14 @@
 # PhyrexianDictionary
-Phyrexian Dictionary
 
 Find the webpage that this repo generates [here](https://fxbuson.github.io/PhyrexianDictionary/)
+
+## To-do list
+
+*   Fill out compositions
+*   Add breakdown of trailers and text we're unsure of
+*   Continuous: revise texts and ensure correctness
+
+---
 
 Goal:
 

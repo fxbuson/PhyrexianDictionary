@@ -6745,10 +6745,10 @@
         },
         "20": {
             "Name": "ONE_Plains",
-            "Regular": "^'ičql.^mǩaπa-jɒɒ'g-žɒðyʁ-χtenaa.^ɣøπi't-θəɢð 'ičql.",
+            "Regular": "^'ičql.!ǩaπa-jɒɒ'g-žɒðyʁ-χtenaa.^ɣøπi't-θəɢð 'ičql.",
             "English": "Plains. Basic Land — Plains.",
             "Notes": null,
-            "Breakdown": "plains.(shall) [pl.]machine [4>3]mother [2>1]behold.basic land plains"
+            "Breakdown": "plains.(!shall) [pl.]machine [4>3]mother [2>1]behold.basic land plains"
         },
         "21": {
             "Name": "ONE_Island",

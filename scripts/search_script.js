@@ -256,7 +256,7 @@ function undiac(phy){
 }
 
 function unmetalize(phy){
-  const metalics = [['t','ţť'], ['g', 'ǥǧ'], ['k', 'ķǩ'], ['p', 'φπ']];
+  const metalics = [['t','ţť'], ['q', 'ǥǧ'], ['k', 'ķǩ'], ['p', 'φπ']];
 
   for (cons in metalics){
       for (variant in metalics[cons][1]){

@@ -1,0 +1,346 @@
+,phyrexian,IPA,plural,translation,root,composition,examples,class,native,notes,type,confidence
+0,'əǆɒnii',ʔədʒɒniiʔ,FALSE,Ajani,,,['DMU_Ajani'],noun,False,,name,solid
+1,'avričt,ʔavritʃt,FALSE,Avaricta,,,['NPH_Agent'],noun,True,,name,solid
+2,'elš,ʔelʃ,FALSE,Elesh,,,"['NPH_Norn', 'ONE_Norn', 'BeadleGrimms_Guide']",noun,True,,name,solid
+3,ɢytx,ɢytx,FALSE,Gitaxias,,,"['NPH_Jin', 'NEO_Jin']",noun,True,,name,solid
+4,ǆes,dʒes,FALSE,Jace,,,['ONE_Jace'],noun,False,,name,solid
+5,ǆi'n,dʒiʔn,FALSE,Jin,,,"['NPH_Jin', 'NEO_Jin']",noun,True,,name,solid
+6,ǩərrk,k'ərrk,FALSE,K'rrik,,,['C19_Krrik'],noun,True,,name,solid
+7,lyku',lykuʔ,FALSE,Lukka,,,['ONE_Lukka'],noun,False,,name,solid
+8,nhirii',nhiriiʔ,FALSE,Nahiri,,,['ONE_Nahiri'],noun,False,,name,solid
+9,nisə',nisəʔ,FALSE,Nissa,,,['ONE_Nissa'],noun,False,,name,solid
+10,norn,norn,FALSE,Norn,,,"['NPH_Norn', 'ONE_Norn', 'NPH_Annex', 'BeadleGrimms_Guide']",noun,True,,name,solid
+11,φyrxkeθəɢð,ɸyrxkeθəɢð,FALSE,Phyrexia (plane),"['φyrx', 'θəɢð']",,"['DOM_Scriptures', 'NPH_Norn', 'ONE_Live', 'ONE_Trailer', 'MOM_Teaser', 'ONE_Solphim', 'MTGA', 'BeadleGrimms', 'BeadleGrimms_Guide']",noun,True,,composite,solid
+12,šøldrd,ʃøldrd,FALSE,Sheoldred,,,"['NPH_Sheo', 'DMU_Sheo', 'Swamp_Lore']",noun,True,,name,solid
+13,'urbrask,ʔurbrask,FALSE,Urabrask,,,"['NPH_Ura', 'SNC_Ura', 'NPH_Agent']",noun,True,,name,solid
+14,vornχlx,vornχlx,FALSE,Vorinclex,,,"['NPH_Vorin', 'KHM_Vorin']",noun,True,,name,solid
+15,vraskə',vraskəʔ,FALSE,Vraska,,,['ONE_Vraska'],noun,False,,name,solid
+16,tam'joo',tamʔjooʔ,FALSE,Tamiyo,,,['NEO_Tami'],noun,False,,name,solid
+17,jɒ'gmo'θ,jɒʔgmoʔθ,FALSE,Yawgmoth,,,"['DOM_Scriptures', 'C19_Krrik', 'MTGA']",noun,True,,name,solid
+18,ɣøπi't,ɣøp'iʔt,FALSE,Basic,,,"['ONE_Plains', 'ONE_Island', 'ONE_Swamp', 'ONE_Mountain', 'ONE_Forest', 'SLD_Swamp']",adjective,True,,root,solid
+19,ʁajg,ʁajg,FALSE,Legendary,['ʁajg'],,"['NPH_Norn', 'NPH_Ura', 'NPH_Jin', 'NPH_Sheo', 'NPH_Vorin', 'KHM_Vorin', 'NEO_Jin', 'NEO_Tami', 'SNC_Ura', 'DMU_Sheo', 'DMU_Ajani', 'ONE_Norn', 'ONE_Jace', 'ONE_Vraska', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Nahiri', 'C19_Krrik', 'NPH_Annex']",adjective,True,,root,solid
+20,qxuna'k,qxunaʔk,qxunaa'k,Artifact,"[""qxuna'k""]",,"['NEO_Jin', 'NEO_Tami', 'ONE_Vraska', 'ONE_Nissa', 'NPH_Batterskull', 'NPH_InkNexus', 'MBS_PsyCrawl', 'NPH_Annex']",noun,True,,root,solid
+21,φe'x,ɸeʔx,φee'x,Creature,"[""φe'x""]",,"['NPH_Norn', 'NPH_Ura', 'NPH_Jin', 'NPH_Sheo', 'NPH_Vorin', 'KHM_Vorin', 'NEO_Jin', 'NEO_Tami', 'SNC_Ura', 'DMU_Sheo', 'DMU_Ajani', 'ONE_Norn', 'ONE_Jace', 'ONE_Vraska', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Nahiri', 'NPH_Agent', 'NPH_Elf', 'NPH_Batterskull', 'NPH_InkNexus', 'C19_Krrik', 'NPH_Dismember', 'MBS_PsyCrawl', 'NPH_Annex', 'Swamp_Lore', 'ONE_Trailer']",noun,True,,root,solid
+22,myθž,myθʒ,myyθž,Enchantment,['myθž'],,['ONE_Arena'],noun,True,,root,solid
+23,ziklʁums,ziklʁums,ziklʁuums,Instant,"['zikl', 'ʁums']",,"['NPH_Jin', 'NEO_Jin', 'NPH_Dismember', 'NPH_Misstep', 'NPH_BeastWithin']",noun,True,,composite,solid
+24,kašplʁums,kaʃplʁums,kašplʁuums,Sorcery,"['kašpl', 'ʁums']",,"['Yawg_Test', 'NEO_Jin']",noun,True,,composite,solid
+25,θəɢð,θəɢð,θəəɢð,Land,['θəɢð'],,"['DOM_Scriptures', 'NPH_Norn', 'NPH_Vorin', 'ONE_Plains', 'ONE_Island', 'ONE_Swamp', 'ONE_Mountain', 'ONE_Forest', 'NPH_InkNexus', 'SLD_Swamp', 'ONE_Live', 'ONE_Trailer', 'MOM_Teaser', 'ONE_Solphim', 'MTGA', 'BeadleGrimms', 'BeadleGrimms_Guide']",noun,True,,root,solid
+26,nmhupment,nmhupment,nmhupment,Planeswalker,['ment'],,"['NEO_Tami', 'DMU_Ajani', 'ONE_Jace', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Nahiri', 'NPH_Annex']",noun,True,,composite,solid
+27,'ičql,ʔitʃql,'iičql,Plains,"[""'ičql""]",,['ONE_Plains'],noun,True,,composite,solid
+28,kẅθəɢð,kɯθəɢð,kẅθəəɢð,Island,['θəɢð'],,['ONE_Island'],noun,True,,composite,solid
+29,qaškm,qaʃkm,qaaškm,Swamp,['qaškm'],,"['NPH_Sheo', 'ONE_Swamp', 'SLD_Swamp', 'Swamp_Lore']",noun,True,,root,solid
+30,ktakx,ktakx,ktaakx,Mountain,['ktakx'],,['ONE_Mountain'],noun,True,,root,solid
+31,'oɢθəsð,ʔoɢθəsð,'oɢθəəsð,Forest,"[""'oɢθəsð""]",,"['ONE_Nissa', 'ONE_Forest']",noun,True,,composite,solid
+32,pnpe'k,pnpeʔk,pnpee'k,Beast,"[""pe'k""]",,"['ONE_Lukka', 'NPH_BeastWithin']",noun,True,,composite,solid
+33,dlabzǆfyll,dlabzdʒfyll,dlabzǆfyyll,Blinkmoth,"['dlabz', 'ǆfyll']",,['NPH_InkNexus'],noun,True,,composite,solid
+34,jalf,jalf,jaalf,Elf,['jalf'],,['NPH_Elf'],noun,False,,root,solid
+35,qipmt,qipmt,qiipmt,Equipment,['qipmt'],,['NPH_Batterskull'],noun,False,,root,solid
+36,šχʁɒčx,ʃχʁɒtʃx,šχʁɒɒčx,Horror,,,"['ONE_Nissa', 'C19_Krrik', 'MBS_PsyCrawl']",noun,True,,unclear,solid
+37,'ønəķ,ʔønəkʰ,'øønəķ,Human,"[""'ønəķ""]",,['NPH_Agent'],noun,True,,root,likely
+38,'əqoq',ʔəqoqʔ,'əqooq',Minion,"[""qoq'""]",,['C19_Krrik'],noun,True,,root,solid
+39,φyrx,ɸyrx,φyyrx,Phyrexian,['φyrx'],,"['DOM_Scriptures', 'NPH_Norn', 'NPH_Ura', 'NPH_Jin', 'NPH_Sheo', 'NPH_Vorin', 'KHM_Vorin', 'NEO_Jin', 'SNC_Ura', 'DMU_Sheo', 'ONE_Norn', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Arena', 'NPH_Agent', 'NPH_Elf', 'NPH_InkNexus', 'C19_Krrik', 'MBS_PsyCrawl', 'SLD_Praetors', 'ONE_Live', 'MBS_Trailer', 'NPH_Trailer', 'ONE_Trailer', 'MOM_Teaser', 'ONE_Solphim', 'MTGSalvation', 'MTGA', 'BeadleGrimms', 'BeadleGrimms_Guide']",noun,True,,root,solid
+40,pxajtr,pxajtr,pxaajtr,Praetor,['pxajtr'],,"['NPH_Norn', 'NPH_Ura', 'NPH_Jin', 'NPH_Sheo', 'NPH_Vorin', 'KHM_Vorin', 'NEO_Jin', 'SNC_Ura', 'DMU_Sheo', 'ONE_Norn', 'SLD_Praetors']",noun,False,,root,solid
+41,θutlzətč,θutlzəttʃ,θutlzəətč,Rogue,"['θutl', 'zətč']",,['NPH_Agent'],noun,True,,composite,likely
+42,ǧliŋš,g'liŋʃ,ǧliiŋš,Treasure,['ǧliŋš'],,['ONE_Vraska'],noun,True,,root,solid
+43,naķmtǆyφt,nakʰmtdʒyɸt,naķmtǆyyφt,Warrior,"['naķm', 'tǆyφt']",,['NPH_Elf'],noun,True,,composite,solid
+44,plinexs,plinexs,FALSE,Compleated,['plinexs'],,"['NEO_Tami', 'DMU_Ajani', 'ONE_Jace', 'ONE_Vraska', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Nahiri', 'SLD_Praetors', 'Swamp_Lore', 'Merch', 'Keyboard', 'BeadleGrimms_Guide']",adjective,True,,root,solid
+45,ɣwiθuqx'əkš,ɣwiθuqxʔəkʃ,FALSE,Deathtouch,"['θuqx', ""'əkš""]",,['DMU_Sheo'],noun,True,,composite,solid
+46,qiplt,qiplt,FALSE,Equip,['qiplt'],,['NPH_Batterskull'],verb,False,,root,solid
+47,ɣwiziklʁums,ɣwiziklʁums,FALSE,Flash,"['zikl', 'ʁums']",,['NPH_Jin'],noun,True,,composite,solid
+48,ɣwitøšq,ɣwitøʃq,FALSE,Flying,['tøšq'],,['NPH_InkNexus'],noun,True,,composite,solid
+49,ɣwiziklvuwk,ɣwiziklvuwk,FALSE,Haste,"['zikl', 'vuwk']",,"['NPH_Ura', 'KHM_Vorin', 'ONE_Nahiri']",noun,True,,composite,solid
+50,ɣwiɮəɣð,ɣwiɮəɣð,FALSE,Infect,['ɮəɣð'],,"['NPH_Agent', 'NPH_Elf', 'NPH_InkNexus']",noun,True,,composite,solid
+51,ɣwinsa'qraφoj,ɣwinsaʔqraɸoj,FALSE,Lifelink,"[""nsa'q"", 'raφj']",,"['NPH_Batterskull', 'C19_Krrik']",noun,True,,composite,solid
+52,jektlexøq,jektlexøq,FALSE,Proliferate,"['jekt', 'lexq']",,['ONE_Vraska'],noun,True,,composite,likely
+53,ɣwiqaškmjment,ɣwiqaʃkmjment,FALSE,Swampwalk,"['qaškm', 'ment']",,['NPH_Sheo'],noun,True,,composite,solid
+54,ɣwikfɒǧpan'g,ɣwikfɒg'panʔg,FALSE,Trample,"[""pan'g""]",,"['NPH_Vorin', 'KHM_Vorin']",noun,True,,composite,solid
+55,ɬaʁq,ɬaʁq,FALSE,Toxic,['ɬaʁq'],,['ONE_Lukka'],noun,True,,root,solid
+56,ɣwipnrukm,ɣwipnrukm,FALSE,Vigilance,['rukm'],,"['NPH_Norn', 'DMU_Ajani', 'ONE_Norn', 'NPH_Batterskull']",noun,True,,composite,solid
+57,twøǩxθəxt,twøk'xθəxt,twøǩxθəəxt,Battlefield,"['twøǩx', 'θəxt']",,"['NPH_Ura', 'NPH_Sheo', 'ONE_Norn']",noun,True,,composite,solid
+58,čxət'θəxt,tʃxətʔθəxt,čxət'θəəxt,Exile (zone),"[""čxət'"", 'θəxt']",,['Yawg_Test'],noun,True,,composite,solid
+59,θuqxiwwθəxt,θuqxiwwθəxt,θuqxiwwθəəxt,Graveyard,"['θuqx', 'θəxt']",,"['Yawg_Test', 'NPH_Sheo', 'NEO_Tami', 'ONE_Jace', 'ONE_Nahiri']",noun,True,,composite,solid
+60,naql,naql,naaql,Hand,['naql'],,"['NPH_Jin', 'NPH_Batterskull']",noun,True,,root,solid
+61,tektθəxt,tektθəxt,tektθəəxt,Library,"['tekt', 'θəxt']",,"['Yawg_Test', 'SNC_Ura', 'DMU_Ajani']",noun,True,,composite,solid
+62,θəxt,θəxt,θəəxt,Zone,['θəxt'],,"['Yawg_Test', 'NPH_Ura', 'NPH_Jin', 'NPH_Sheo', 'NEO_Tami', 'SNC_Ura', 'DMU_Ajani', 'ONE_Norn', 'ONE_Jace', 'ONE_Nissa', 'ONE_Nahiri', 'ONE_Arena']",noun,True,,root,solid
+63,dlabzqpenč,dlabzqpøntʃ,dlabzqpeenč,Upkeep,"['dlabz', 'qpenč']",,"['NPH_Sheo', 'SNC_Ura']",noun,True,,composite,solid
+64,twøǩx,twøk'x,twøøǩx,Combat,['twøǩx'],,"['NPH_Ura', 'NPH_Sheo', 'ONE_Norn', 'ONE_Nahiri', 'ONE_Panel', 'MOM_Teaser']",noun,True,,root,solid
+65,πlnaķmqpenč,p'lnakʰmqkentʃ,πlnaķmqpeenč,End step,"['naķm', 'qpenč']",,['ONE_Nahiri'],noun,True,,composite,solid
+66,qpenč,qpentʃ,qpeenč,Step,['qpenč'],,"['NPH_Jin', 'NPH_Sheo', 'NPH_Vorin', 'NEO_Tami', 'SNC_Ura', 'ONE_Nahiri']",noun,True,,root,solid
+67,ronɣ,ronɣ,roonɣ,Turn,['ronɣ'],,"['Yawg_Test', 'NEO_Jin', 'SNC_Ura', 'DMU_Ajani', 'ONE_Jace', 'ONE_Nissa', 'ONE_Nahiri', 'NPH_InkNexus', 'NPH_Dismember', 'ONE_Panel']",noun,True,,root,solid
+68,faxt,faxt,FALSE,Black,['faxt'],,['C19_Krrik'],adjective,True,,root,solid
+69,ɮiww,ɮiww,FALSE,Green,['ɮiww'],,"['ONE_Lukka', 'ONE_Nissa', 'NPH_BeastWithin']",adjective,True,,root,solid
+70,ɣwi't,ɣwiʔt,ɣwii't,Ability,"[""ɣwi't""]",,"['ONE_Norn', 'ONE_Vraska', 'ONE_Lukka']",noun,True,,root,solid
+71,gʁičtx,gʁitʃtx,FALSE,Attack,['gʁičtx'],,['ONE_Nahiri'],verb,True,,root,solid
+72,kfɒ'ǧ',kfɒʔg'ʔ,FALSE,Block (action),"[""kfɒ'ǧ'""]",,['ONE_Panel'],verb,True,,root,solid
+73,ɢwinš,ɢwinʃ,ɢwiinš,Card,['ɢwinš'],,"['NPH_Jin', 'NPH_Sheo', 'NEO_Tami', 'SNC_Ura', 'DMU_Sheo', 'DMU_Ajani', 'ONE_Jace', 'ONE_Vraska', 'ONE_Nahiri', 'ONE_Arena', 'MBS_PsyCrawl', 'SLD_Praetors']",noun,True,,root,solid
+74,ʁums,ʁums,ʁuums,Spell,['ʁums'],,"['Yawg_Test', 'NPH_Jin', 'NEO_Jin', 'NEO_Tami', 'C19_Krrik', 'NPH_Dismember', 'NPH_Misstep', 'NPH_BeastWithin']","noun,verb",True,,root,solid
+75,sopšikt,sopʃikt,sopšiikt,Color,,,"['NEO_Tami', 'ONE_Vraska']",noun,True,,unclear,solid
+76,qxuπl,qxup'l,FALSE,Control,['qxuπl'],,"['NPH_Norn', 'NPH_Ura', 'NPH_Vorin', 'NEO_Tami', 'ONE_Lukka', 'ONE_Nissa', 'NPH_Annex', 'Keyboard']",verb,True,,root,solid
+77,tluxt,tluxt,tluuxt,Copy,['tluxt'],,"['NEO_Jin', 'NEO_Tami', 'ONE_Norn', 'ONE_Nahiri']","noun,verb",True,,root,solid
+78,χanj,χanj,χaanj,Cost,['χanj'],,"['NEO_Tami', 'ONE_Nahiri', 'C19_Krrik', 'NPH_Misstep', 'ONE_Article']",noun,True,,root,solid
+79,šuqn,ʃuqn,FALSE,Counter (action),['šuqn'],,['NEO_Jin'],verb,True,,root,solid
+80,juχẅķ,juχɯkʰ,juuχẅķ,Counter (marker),['juχẅķ'],,"['KHM_Vorin', 'DMU_Ajani', 'C19_Krrik']",noun,True,,root,solid
+81,naǩm,nak'm,FALSE,Create,['naǩm'],,"['NEO_Jin', 'NEO_Tami', 'DMU_Ajani', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Nahiri']",verb,True,,root,solid
+82,ðpačk,ðpatʃk,FALSE,Damage,['ðpačk'],,['ONE_Lukka'],verb,True,,root,likely
+83,qab',qabʔ,FALSE,Kill,"[""qab'""]",,"['ONE_Nissa', 'ONE_Arena', 'NPH_BeastWithin']",verb,True,,root,likely
+84,šteǧʁ,ʃteg'ʁ,FALSE,Discard,['šteǧʁ'],,['ONE_Nahiri'],verb,True,,root,solid
+85,mprasw,mprasw,FALSE,Draw,['mprasw'],,"['NEO_Tami', 'SNC_Ura', 'DMU_Sheo', 'ONE_Jace', 'ONE_Vraska', 'ONE_Nahiri', 'ONE_Arena', 'MBS_PsyCrawl']",verb,True,,root,solid
+86,čkalakm,tʃkalakm,čkalaakm,Emblem,['čkalakm'],,['DMU_Ajani'],noun,True,,composite,solid
+87,čxət',tʃxətʔ,FALSE,Exile/Reject,"[""čxət'""]",,"['Yawg_Test', 'NEO_Tami', 'SNC_Ura', 'ONE_Nahiri']",verb,True,,root,solid
+88,φ'kitv,ɸʔkitv,FALSE,Foil,"[""φ'kitv""]",,"['NPH_Elf', 'SLD_Praetors', 'BeadleGrimms_Guide']","adjective,noun",True,,root,solid
+89,huqtkeɴyt,huqtkeɴyt,FALSE,Loyalty,"['huqt', 'keɴt']",,"['ONE_Nissa', 'ONE_Nahiri']",noun,True,,composite,solid
+90,ma'n,maʔn,maa'n,Mana,"[""ma'n""]",,"['NPH_Vorin', 'ONE_Vraska', 'ONE_Lukka', 'NPH_Trailer']",noun,False,,root,solid
+91,ẅəpk,ɯəpk,FALSE,Mill,['ẅəpk'],,['ONE_Jace'],verb,True,,root,solid
+92,əxnɒqč,əxnɒqtʃ,əxnɒɒqč,Opponent,['nɒqč'],,"['NPH_Norn', 'NPH_Ura', 'NPH_Jin', 'NPH_Sheo', 'NPH_Vorin', 'KHM_Vorin', 'NEO_Jin', 'SNC_Ura', 'DMU_Sheo', 'DMU_Ajani', 'MBS_PsyCrawl']",noun,True,,composite,solid
+93,naķmkeφe'x,nakʰmkeɸeʔx,naķmkeφee'x,Owner/Herder,"['naķm', ""φe'x""]",,['NPH_Batterskull'],noun,True,,composite,solid
+94,huqɬgøťt,huqɬgøt't,FALSE,Pay,,,"['C19_Krrik', 'Ads']",verb,True,,composite,solid
+95,'astiww,ʔastiww,'astiiww,Permanent,"[""'ast""]",,"['KHM_Vorin', 'NEO_Tami', 'ONE_Norn', 'NPH_BeastWithin']",noun,True,,composite,solid
+96,bukð,bukð,FALSE,Play/Cast,['bukð'],,"['NEO_Jin', 'NEO_Tami', 'SNC_Ura']",verb,True,,root,solid
+97,nɒqč,nɒqtʃ,nɒɒqč,Player,['nɒqč'],,"['NPH_Norn', 'NPH_Ura', 'NPH_Jin', 'NPH_Sheo', 'NPH_Vorin', 'KHM_Vorin', 'NEO_Jin', 'SNC_Ura', 'DMU_Sheo', 'DMU_Ajani', 'ONE_Jace', 'ONE_Vraska', 'ONE_Nahiri', 'MBS_PsyCrawl']",noun,True,,root,solid
+98,ʁiheɬɬ,ʁiheɬɬ,ʁiheeɬɬ,Poison,,,"['DMU_Ajani', 'ONE_Vraska']",noun,True,,unclear,likely
+99,nu'f,nuʔf,nuu'f,Power,"[""nu'f""]",,"['ONE_Lukka', 'MBS_PsyCrawl']",noun,True,,root,solid
+100,krepg,krepg,FALSE,Reveal,['krepg'],,['MBS_Trailer'],verb,True,,root,solid
+101,no'b'ugm,noʔbʔugm,FALSE,Sacrifice,,,"['NPH_Sheo', 'ONE_Vraska']",verb,True,,composite,solid
+102,ɣypm,ɣypm,FALSE,Tap/Turn,['ɣypm'],,"['NPH_Ura', 'NPH_Vorin', 'NEO_Tami']","noun,verb",True,,root,solid
+103,žyxt,ʒyxt,FALSE,Target,['žyxt'],,"['NPH_Sheo', 'NEO_Jin', 'NEO_Tami', 'DMU_Ajani', 'ONE_Jace', 'ONE_Vraska', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Nahiri', 'NPH_Dismember', 'NPH_Misstep', 'NPH_BeastWithin']",verb,True,,root,solid
+104,fa'ipθ,faʔipθ,fa'iipθ,Token,,,"['NEO_Tami', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Nahiri', 'NPH_BeastWithin']",noun,True,,composite,solid
+105,ǩažð,k'aʒð,FALSE,Trigger,['ǩažð'],,['ONE_Norn'],verb,True,,root,solid
+106,πøkk,p'økk,πøøkk,Type,['πøkk'],,['ONE_Vraska'],noun,True,,root,solid
+107,asərθ,asərθ,asəərθ,Number,['asərθ'],,"['NEO_Tami', 'ONE_Lukka', 'ONE_Nahiri', 'MBS_PsyCrawl', 'NPH_Misstep']",noun,True,,root,solid
+108,'ii,ʔii,FALSE,One,"[""'ii""]",,"['DOM_Scriptures', 'NPH_Jin', 'NPH_Sheo', 'NEO_Jin', 'NEO_Tami', 'SNC_Ura', 'DMU_Ajani', 'ONE_Jace', 'ONE_Vraska', 'ONE_Lukka', 'ONE_Nahiri', 'ONE_Forest', 'ONE_Arena', 'NPH_Misstep', 'ONE_Article', 'MBS_Trailer', 'ONE_Trailer', 'MOM_Teaser', 'Merch']",noun,True,,number,solid
+109,ķu,kʰu,FALSE,Two,['ķu'],,"['KHM_Vorin', 'DMU_Ajani', 'ONE_Trailer', 'BeadleGrimms']",noun,True,,number,solid
+110,ķi,kʰi,FALSE,Three,['ķi'],,"['NPH_Ura', 'DMU_Ajani', 'ONE_Jace', 'Keyboard', 'BeadleGrimms_Guide']",noun,True,,number,solid
+111,ķus'ər,kʰusʔər,FALSE,Twice,"['ķu', ""s'ər""]",,['KHM_Vorin'],adverb,True,,composite,solid
+112,əxķus'ər,əxkʰusʔər,FALSE,Half,"['ķu', ""s'ər""]",,['KHM_Vorin'],adverb,True,,composite,solid
+113,vižǥ,viižǥ,vižǥ,Access,['vižǥ'],,['Ads'],noun,True,,root,solid
+114,čtəčpliɣn,tʃtətʃpliɣn,FALSE,Activate,,,['ONE_Lukka'],verb,True,,composite,solid
+115,babg,babg,FALSE,Add,['babg'],,"['NPH_Vorin', 'ONE_Vraska', 'ONE_Lukka']",verb,True,,root,solid
+116,ganwr,ganwr,gaanwr,Agent,['ganwr'],,"['DMU_Ajani', 'NPH_Agent']",noun,True,,root,solid
+117,naķmnsa'q,nakʰmnsaʔq,naķmnsaa'q,Animist,"['naķm', ""nsa'q""]",,['ONE_Nissa'],noun,True,,composite,solid
+118,ǩlətkk,k'lətkk,ǩləətkk,Annex,,,['NPH_Annex'],noun,True,,unclear,solid
+119,niťamg,nit'amg,niťaamg,Apocalypse,,,['DMU_Sheo'],noun,True,,composite,solid
+120,qab'θəxt,qabʔθəxt,qab'θəəxt,Arena,"[""qab'"", 'θəxt']",,"['ONE_Nissa', 'ONE_Arena']",noun,True,,composite,solid
+121,pnmenθ,pnmenθ,FALSE,Ascended,['menθ'],,['ONE_Nissa'],adjective,True,,composite,solid
+122,pn'ətsxn,pnʔətsxn,FALSE,Beg,"[""'ətsxn""]",,['NPH_Elf'],verb,True,,composite,solid
+123,'iixtfu'q,ʔiixtfuʔq,'iixtfuu'q,Beginning,"[""'ii""]",,"['DOM_Scriptures', 'NPH_Jin', 'NPH_Sheo', 'SNC_Ura', 'ONE_Nahiri', 'ONE_Arena', 'MBS_Trailer']",noun,True,,composite,solid
+124,χtena,χtena,FALSE,Behold,['χten'],,"['ONE_Plains', 'ONE_Solphim', 'BeadleGrimms', 'BeadleGrimms_Guide']",verb,True,,root,solid
+125,πnokx,p'nokx,πnokx,Betrayal,['πnokx'],,['ONE_Vraska'],noun,True,,root,solid
+126,ɮzətɣð,ɮzətɣð,FALSE,Blighted,,,['NPH_Agent'],adjective,True,,unclear,solid
+127,huqt,huqt,FALSE,Blood,['huqt'],,"['DMU_Sheo', 'ONE_Nissa', 'ONE_Nahiri', 'ONE_Arena', 'MBS_PsyCrawl']",verb,True,,root,solid
+128,tekt,tekt,teekt,Book,['tekt'],,"['Yawg_Test', 'NEO_Tami', 'SNC_Ura', 'DMU_Ajani']",noun,False,,composite,solid
+129,ǩeǆylqitsodrm,k'edʒylqitsodrm,FALSE,Bottom,,,"['Yawg_Test', 'DMU_Ajani']",noun,True,,composite,solid
+130,keɴyt,keɴyt,FALSE,Bound,['keɴyt'],,"['ONE_Nissa', 'ONE_Nahiri']",adjective,True,,root,solid
+131,pən'g,pənʔg,FALSE,Break,"[""pən'g""]",,"['ONE_Nissa', 'MBS_Trailer', 'Merch']",verb,True,,root,solid
+132,sər,sər,FALSE,By,,,"['NPH_Jin', 'NEO_Tami', 'DMU_Sheo', 'ONE_Jace', 'ONE_Vraska', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Nahiri', 'ONE_Arena', 'MBS_PsyCrawl', 'NPH_Misstep']",preposition,True,,unclear,solid
+133,ǆønobt,dʒønobt,ǆønoobt,Cenobite,['ǆønobt'],,['NPH_Norn'],noun,False,,root,solid
+134,ʁšθakɴ,ʁʃθakɴ,FALSE,Choose,,,[],verb,True,,composite,solid
+135,'aliθt,ʔaliθt,FALSE,Cleanse,,,"['ONE_Trailer', 'ONE_Solphim', 'Merch', 'BeadleGrimms_Guide']",verb,True,,composite,solid
+136,močq,motʃq,FALSE,Come,['močq'],,"['NPH_Ura', 'NPH_Trailer']",verb,True,,root,solid
+137,φlnaķm,ɸlnakʰm,FALSE,Complete,['naķm'],,['NPH_Trailer'],adjective,True,,composite,solid
+138,bwedn,bwedn,bweedn,Crawler,['bwedn'],,['MBS_PsyCrawl'],noun,True,,root,solid
+139,θuqx,θuqx,θuuqx,Death,['θuqx'],,"['Yawg_Test', 'NPH_Sheo', 'NEO_Tami', 'DMU_Sheo', 'ONE_Jace', 'ONE_Nahiri', 'MBS_Trailer']",noun,True,,root,solid
+140,čəxkefa'qsemr,tʃəxkefaʔqsemr,FALSE,Dismember,,,['NPH_Dismember'],verb,True,,composite,likely
+141,χɬkevk,χɬkevk,FALSE,Distribute,,,['DMU_Ajani'],verb,True,,unclear,solid
+142,aχəw',aχəwʔ,FALSE,Each,"[""aχəw'""]",,"['ONE_Nissa', 'ONE_Nahiri', 'C19_Krrik', 'MBS_PsyCrawl', 'NPH_Annex']",adverb,True,,root,solid
+143,xɬiwj,xɬiwj,FALSE,Early,['xɬiwj'],,['Ads'],adjective,True,,root,solid
+144,ɢţrɒsd,ɢtʰrɒsd,ɢţrɒɒsd,Embrace,,,"['ONE_Article', 'ONE_Trailer', 'BeadleGrimms']",noun,True,,unclear,solid
+145,ǆ'ynpp,dʒʔynpp,FALSE,Equal,,,"['ONE_Jace', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Island']",verb,True,,unclear,solid
+146,ɢiss,ɢiss,ɢiiss,Evolution,['ɢiss'],,"['DOM_Scriptures', 'ONE_Forest']",noun,True,,root,solid
+147,ķoɮǩm,kʰoɮk'm,FALSE,Fall,['ķoɮǩm'],,"['ONE_Article', 'ONE_Trailer']",verb,True,,root,solid
+148,zikl,zikl,zikl,Fast,['zikl'],,"['NPH_Ura', 'NPH_Jin', 'KHM_Vorin', 'NEO_Jin', 'SNC_Ura', 'ONE_Nahiri', 'NPH_Dismember', 'NPH_Misstep', 'NPH_BeastWithin']",adjective,True,,root,solid
+149,mo'θ,moʔθ,moo'θ,Father,"[""mo'θ""]",,"['DOM_Scriptures', 'Yawg_Test', 'C19_Krrik', 'ONE_Article', 'NPH_Trailer', 'Dark_Discov', 'MTGA']",noun,True,,root,solid
+150,jɒ'gmo'yθ,jɒʔgmoʔyθ,jɒ'gmoo'yθ,Father of Machines,"[""jɒ'g"", ""mo'θ""]",,[],noun,True,,composite,solid
+151,xwixč,xwixtʃ,xwiixč,Fear,['xwixč'],,"['ONE_Swamp', 'MBS_Trailer']",noun,True,,root,solid
+152,ķuɮaθǩv,kʰuɮaθk'v,FALSE,February,"['ķu', 'ɮaθǩv']",,['BeadleGrimms'],noun,True,,composite,solid
+153,bɬølπ,bɬølp',FALSE,Fill,['bɬølπ'],,['NPH_Elf'],verb,True,,root,solid
+154,ɣɒzɢ,ɣɒzɢ,FALSE,Flay,['ɣɒzɢ'],,['MBS_Trailer'],verb,True,,root,solid
+155,'əpyrx,ʔəpyrx,'əpyyrx,Flesh,['pyrx'],,"['ONE_Live', 'MBS_Trailer', 'ONE_Trailer', 'ONE_Solphim', 'BeadleGrimms_Guide']",noun,True,,composite,solid
+156,tapq,tapq,FALSE,Get,['tapq'],,"['NPH_Norn', 'NPH_Ura', 'NEO_Tami', 'DMU_Ajani', 'ONE_Jace', 'ONE_Vraska', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Nahiri', 'NPH_Batterskull', 'NPH_InkNexus', 'NPH_Dismember']",verb,True,,root,solid
+157,ɢytx,ɢytx,ɢyytx,Gitaxian,['ɢytx'],,"['NPH_Norn', 'NPH_Jin', 'NEO_Jin', 'NPH_Agent']",noun,True,,root,solid
+158,φ'kitv,ɸʔkitv,FALSE,Glisten,"[""φ'kitv""]",,"['NPH_Elf', 'SLD_Praetors', 'BeadleGrimms_Guide']",verb,True,,root,solid
+159,'ɒjbť,ʔɒjbt','ɒɒjbť,Glory*,"[""'ɒjbť""]",,"['NPH_Elf', 'MTGA']",noun,True,,root,moderate
+160,πllupsθəxt,p'llupsθəxt,πllupsθəəxt,Goal,"['lups', 'θəxt']",,['NPH_Jin'],noun,True,,composite,solid
+161,šχa'θ,ʃχaʔθ,FALSE,Great,"[""šχa'θ""]",,"['DOM_Scriptures', 'NPH_Norn', 'ONE_Mountain', 'ONE_Article', 'MBS_Trailer', 'NPH_Trailer', 'BeadleGrimms_Guide']",adjective,True,,root,solid
+162,ɴk'ykg,ɴkʔykg,ɴk'yykg,Heretic,,,['SNC_Ura'],noun,True,,unclear,solid
+163,əxťeķibrs,əxt'ekʰibrs,FALSE,Hidden,,,['NPH_Ura'],adjective,True,,composite,solid
+164,gegg,gegg,geegg,Hunger,['gegg'],,[],noun,True,,root,solid
+165,ɣwiəxťeθuqx,ɣwiəxt'eθuqx,FALSE,Immortality,['θuqx'],,['MBS_Trailer'],noun,True,,composite,solid
+166,əxtunm,əxtunm,əxtuunm,Impurity,['tunm'],,"['ONE_Trailer', 'ONE_Solphim', 'Merch', 'BeadleGrimms_Guide']",noun,True,,composite,solid
+167,grmɒɣg,grmɒɣg,FALSE,Less than (fewer),['mɒɣg'],,"['ONE_Vraska', 'ONE_Nahiri']",,True,,composite,solid
+168,nsa'q,nsaʔq,nsaa'q,Life,"[""nsa'q""]",,"['ONE_Nissa', 'NPH_Elf', 'NPH_Batterskull', 'C19_Krrik']",noun,True,,root,solid
+169,jɒ'g,jɒʔg,jɒɒ'g,Machine,"[""jɒ'g""]",,"['DOM_Scriptures', 'Yawg_Test', 'ONE_Norn', 'ONE_Plains', 'C19_Krrik', 'ONE_Article', 'NPH_Trailer', 'MTGA']",noun,True,,root,solid
+170,naķm,nakʰm,naaķm,"Make, Work",['naķm'],,"['DOM_Scriptures', 'NPH_Jin', 'NPH_Sheo', 'NPH_Vorin', 'NEO_Jin', 'NEO_Tami', 'ONE_Jace', 'ONE_Nissa', 'ONE_Nahiri', 'ONE_Island', 'ONE_Mountain', 'NPH_Elf', 'NPH_Batterskull', 'NPH_BeastWithin', 'Swamp_Lore', 'ONE_Live', 'MBS_Trailer', 'NPH_Trailer', 'ONE_Trailer', 'ONE_Solphim', 'Merch', 'MTGA', 'BeadleGrimms', 'BeadleGrimms_Guide']","noun,verb",True,,root,solid
+171,təɮirt,təɮirt,təɮiirt,Mind,['ɮirt'],,"['ONE_Jace', 'NPH_Misstep', 'ONE_Panel', 'NPH_Trailer']",noun,True,,composite,solid
+172,mrodn,mrodn,mroodn,Mirrodin,['mrodn'],,"['NPH_Ura', 'Swamp_Lore', 'NPH_Trailer', 'MTGA']",noun,False,,root,solid
+173,korxgr,korxgr,FALSE,More (than),['korx'],,"['NEO_Tami', 'DMU_Ajani', 'ONE_Jace', 'ONE_Nahiri']",,True,,composite,solid
+174,žɒðʁ,ʒɒðʁ,žɒɒðʁ,Mother,['žɒðʁ'],,"['ONE_Norn', 'ONE_Plains', 'ONE_Article']",noun,True,,root,solid
+175,jɒ'gžɒðʁ,jɒʔgʒɒðʁ,jɒ'gžɒɒðʁ,Mother of Machines (title),"[""jɒ'g"", 'žɒðʁ']",,"['ONE_Norn', 'ONE_Article']",noun,True,,composite,solid
+176,vuwk,vuwk,FALSE,Move,['vuwk'],,"['Yawg_Test', 'NPH_Ura', 'KHM_Vorin', 'ONE_Nahiri']",verb,True,,root,solid
+177,ǆfyll,dʒfyll,ǆfyyll,Moth,,,['NPH_InkNexus'],noun,True,,unclear,solid
+178,ɢnagɮ,ɢnagɮ,FALSE,Next,['ɢnagɮ'],,"['NPH_Vorin', 'NEO_Tami', 'SNC_Ura', 'ONE_Jace', 'ONE_Nahiri']",adjective,True,,root,solid
+179,šoprapt,ʃoprapt,FALSE,New,,,"['NEO_Jin', 'NPH_Trailer', 'ONE_Solphim', 'BeadleGrimms', 'BeadleGrimms_Guide']",adjective,True,,composite,solid
+180,'əqd,ʔəqd,'əqd,Nexus,"[""'əqd""]",,['NPH_InkNexus'],noun,True,,root,solid
+181,rukx,rukx,rukx,Note,['rukx'],,['NEO_Tami'],noun,True,,root,solid
+182,rukxtekt,rukxtekt,rukxtekt,Notebook,"['rukx', 'tekt']",,['NEO_Tami'],noun,True,,composite,solid
+183,'ug'əχw,ʔugʔəχw,ug'əəχw,Offer,,,['MBS_Trailer'],"noun,verb",True,,composite,solid
+184,sall,sall,FALSE,Other,['sall'],,"['NPH_Norn', 'ONE_Vraska']",,True,,root,solid
+185,jnaķm,jnakʰm,FALSE,Perfect(ion),['naķm'],,"['DOM_Scriptures', 'NPH_Jin', 'ONE_Jace', 'ONE_Island', 'NPH_Elf', 'ONE_Live', 'ONE_Trailer', 'ONE_Solphim', 'Merch', 'MTGA', 'BeadleGrimms', 'BeadleGrimms_Guide']",noun,True,,composite,solid
+186,qpenčodrm,qpentʃodrm,qpenčoodrm,Process,['qpenč'],,['NPH_Jin'],noun,True,,composite,solid
+187,ŋeǩydm,ŋek'ydm,FALSE,Produce,,,['NPH_Vorin'],verb,True,,composite,solid
+188,jiǥgɣwi'v,jigʰgɣwiʔv,jiǥgɣwii'v,Psychosis,,,['MBS_PsyCrawl'],noun,True,,composite,solid
+189,ţə'',tʰəʔʔ,FALSE,Put,"[""ţə''""]",,"['KHM_Vorin', 'C19_Krrik', 'MTGA']",verb,True,,root,solid
+190,mɒɣg,mɒɣg,FALSE,Reduce,['mɒɣg'],,"['NPH_Jin', 'NEO_Tami', 'ONE_Vraska', 'ONE_Nahiri']",verb,True,,root,solid
+191,qẅrɮwi'g,qɯrɮwiʔg,qẅrɮwii'g,Resistence,,,"['NPH_Ura', 'Swamp_Lore']",noun,True,,composite,solid
+192,'iţpənn,ʔitʰpənn,FALSE,Return,['pənn'],,['NPH_Batterskull'],verb,True,,composite,solid
+193,hfwežφ,hfweʒɸ,hfweežφ,Ruin,['hfwežφ'],,['ONE_Lukka'],noun,True,,root,solid
+194,føvɣ,føvɣ,føøvɣ,Sage,['føvɣ'],,['NEO_Tami'],noun,True,,root,solid
+195,ɮportt,ɮportt,ɮpoortt,Sective,['ɮportt'],,['NPH_Agent'],noun,True,,root,solid
+196,rukm,rukm,FALSE,See,['rukm'],,"['DOM_Scriptures', 'NPH_Norn', 'NPH_Jin', 'DMU_Ajani', 'ONE_Norn', 'NPH_Batterskull', 'Swamp_Lore']",verb,True,,root,solid
+197,txš,txʃ,FALSE,Skin,['txš'],,"['UMA_Altar', 'MBS_Trailer']",noun,True,,root,solid
+198,'i'l,ʔiʔl,'ii'l,Son,"[""'i'l""]",,['C19_Krrik'],noun,True,,root,solid
+199,θwiχš,θwiχʃ,FALSE,Sow,['θwiχš'],,"['ONE_Swamp', 'ONE_Live', 'ONE_Solphim', 'BeadleGrimms_Guide']",verb,True,,root,solid
+200,hisp,hisp,FALSE,Spend,['hisp'],,['ONE_Lukka'],verb,True,,root,solid
+201,čpan'g,tʃpanʔg,FALSE,Splinter,"[""pan'g""]",,['NPH_Trailer'],verb,True,,composite,solid
+202,'af',ʔafʔ,'aaf',Sting,"[""'af'""]",,['ONE_Vraska'],noun,True,,root,solid
+203,lups,lups,FALSE,Stop,['lups'],,"['NPH_Jin', 'NPH_Agent']",verb,True,,root,solid
+204,zťøsǆ,zt'øsdʒ,FALSE,Subscribe,['zťøsǆ'],,['BeadleGrimms'],verb,True,,root,solid
+205,pnsča'θ,pnstʃaʔθ,FALSE,Surrender,"[""sča'θ""]",,"['ONE_Trailer', 'ONE_Solphim', 'Merch', 'BeadleGrimms', 'BeadleGrimms_Guide']",verb,True,,composite,solid
+206,χherukm,χheruk'm,χheruuǩm,Surveilance,['rukm'],,[],noun,True,,composite,solid
+207,wtultm,wtultm,FALSE,Suspect,['wtultm'],,['NPH_Agent'],verb,True,,root,solid
+208,fedχstsqylm,fedχstsqylm,fedχstsqyylm,Testament,,,['Yawg_Test'],noun,True,,composite,solid
+209,tøwp,tøwp,FALSE,Times (multiplication),['tøwp'],,['ONE_Jace'],,True,,root,likely
+210,ŋyqχ,ŋyqχ,ŋyyqχ,Unforgiving,['ŋyqχ'],,['ONE_Nahiri'],noun,True,,root,solid
+211,xutšv,xutʃv,xuutšv,Voice*,['xutšv'],,"['NPH_Vorin', 'MBS_Trailer']",noun,True,,root,solid
+212,əixiww,əixiww,əixiiww,Void,,,['DOM_Scriptures'],noun,True,,composite,solid
+213,ment,ment,FALSE,Walk,['ment'],,"['NPH_Sheo', 'NEO_Tami', 'DMU_Ajani', 'ONE_Jace', 'ONE_Vraska', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Nahiri', 'NPH_Annex']",verb,True,,root,solid
+214,šdeχd,ʃdeχd,šdeeχd,Welcome,['šdeχd'],,"['ONE_Article', 'ONE_Trailer', 'BeadleGrimms']","noun,verb",True,,root,solid
+215,'iǆe't,ʔidʒeʔt,'iǆee't,Whisper,,,"['NPH_Norn', 'NPH_Sheo', 'Swamp_Lore', 'NPH_Trailer']","noun,verb",True,,composite,solid
+216,keθəɢð,keθəɢð,keθəəɢð,World,['θəɢð'],,"['DOM_Scriptures', 'NPH_Norn', 'ONE_Live', 'ONE_Trailer', 'MOM_Teaser', 'ONE_Solphim', 'MTGA', 'BeadleGrimms', 'BeadleGrimms_Guide']",noun,True,,composite,solid
+217,čkaqq,tʃkaqq,čkaaqq,Biomechanical being,['čkaqq'],,"['NPH_Batterskull', 'NPH_BeastWithin', 'ONE_Article']",noun,True,,root,solid
+218,mɴyrx,mɴyrx,mɴyyrx,Fire/Spread,['mɴyrx'],,"['NPH_Trailer', 'BeadleGrimms_Guide']","noun,verb",True,,root,solid
+219,tøšq,tøʃq,FALSE,Fly,['tøšq'],,['NPH_InkNexus'],noun,True,,root,solid
+220,χiɢɬ,χiɢɬ,χiiɢɬ,Furnace,['χiɢɬ'],,['NPH_Ura'],noun,True,,root,solid
+221,ǆko'χ,dʒkoʔχ,FALSE,Heal*,"[""ǆko'χ""]",,['DMU_Sheo'],verb,True,,root,moderate
+222,ɮɒ'ɣ,ɮɒʔɣ,ɮɒɒ'ɣ,Language,"[""ɮɒ'ɣ""]",,['MTGSalvation'],noun,False,,root,solid
+223,'oparxχ,ʔoparxχ,'opaarxχ,Limit,,,"['NPH_Jin', 'ONE_Vraska']","noun,verb",True,,unclear,likely
+224,raφoj,raɸoj,raaφoj,Link,,,"['NPH_Batterskull', 'C19_Krrik']",noun,True,,root,solid
+225,dlabz,dlabz,dlaabz,Oil,['dlabz'],,"['NPH_Sheo', 'SNC_Ura', 'NPH_InkNexus', 'BeadleGrimms_Guide']",noun,True,,root,solid
+226,təmn,təmn,təəmn,Organic being,['təmn'],,['ONE_Article'],noun,True,,root,solid
+227,ǩytπt,k'ytp't,ǩyytπt,Progress*,['ǩytπt'],,"['NEO_Jin', 'MTGA']",noun,True,,root,solid
+228,tunm,tunm,FALSE,Pure,['tunm'],,"['ONE_Trailer', 'ONE_Solphim', 'Merch', 'BeadleGrimms_Guide']",adjective,True,,root,solid
+229,kyžn,kyʒn,kyyžn,Ring,['kyžn'],,['ONE_Panel'],noun,True,,root,solid
+230,vešt,veʃt,FALSE,Sleeper,['vešt'],,['DMU_Ajani'],adjective,True,,root,solid
+231,kašpl,kaʃpl,FALSE,Slow,['kašpl'],,"['Yawg_Test', 'NEO_Jin']",adjective,True,,root,likely
+232,solm,solm,FALSE,Smash/Hit,['solm'],,[],verb,True,,root,likely
+233,φarθ,ɸarθ,φaarθ,Sun,['φarθ'],,['ONE_Panel'],noun,True,,root,moderate
+234,'əkš,ʔəkʃ,'əəkš,Touch,"[""'əkš""]",,['DMU_Sheo'],noun,True,,root,solid
+235,koqšqle't,koqʃqleʔt,koqšqlee't,Toughness,,,['MBS_PsyCrawl'],noun,True,,composite,solid
+236,grjəťrk,grjət'rk,grjəəťrk,Tyrant,['grjəťrk'],,['NEO_Jin'],noun,True,,root,likely
+237,tǆyφt,tdʒyɸt,tǆyyφt,War,['tǆyφt'],,['NPH_Elf'],noun,True,,root,likely
+238,twøφt,twøɸt,twøøφt,Weapon,['twøφt'],,['NPH_Batterskull'],noun,True,,root,likely
+239,bə'l,bəʔl,bəə'l,Advice,"[""bə'l""]",,[],noun,True,,root,solid
+240,θyjǆəbɴ,θyjdʒəbɴ,θyjǆəəbɴ,Agony,,,[],noun,True,,composite,solid
+241,'ətsxn,ʔətsxn,FALSE,Ask,['ʔətsxn'],,"['NPH_Ura', 'NPH_Elf']",verb,True,,root,solid
+242,'uɬč,ʔuɬtʃ,'uuɬč,Astray,"[""'uɬč""]",,[],"adjective,noun",True,,root,solid
+243,dekp,dekp,deekp,Blame,['dekp'],,[],noun,True,,root,solid
+244,fuɢx,fuɢx,FALSE,Boil,['fuɢx'],,[],verb,True,,root,solid
+245,naķmpənn,nakʰmpənn,naķmpəənn,Carrier,['pənn'],,[],noun,True,,composite,solid
+246,pənn,pənn,FALSE,Carry,['pənn'],,"['NPH_Norn', 'NPH_Batterskull']",verb,True,,root,solid
+247,xørnš,xørnʃ,xøørnš,Cave,['xørnš'],,['MTGA'],noun,True,,root,solid
+248,hibd,hibd,hiibd,Circle,['hibd'],,[],noun,True,,root,solid
+249,ždičp,ʒditʃp,ždiičp,City,['ždičp'],,[],noun,True,,root,solid
+250,'ipθ,ʔipθ,'iipθ,Child/Newt,"[""'ipθ""]",,"['NEO_Tami', 'ONE_Lukka', 'ONE_Nissa', 'ONE_Nahiri', 'NPH_BeastWithin']",noun,True,,root,solid
+251,'uxq,ʔuxq,'uuxq,Command,"[""'uxq""]",,['BeadleGrimms_Guide'],"noun,verb",True,,root,solid
+252,θuqxiww,θuqxiww,θuqxiiww,Corpse,['θuqx'],,"['Yawg_Test', 'NPH_Sheo', 'NEO_Tami', 'ONE_Jace', 'ONE_Nahiri']",noun,True,,composite,solid
+253,ɮəɣð,ɮəɣð,FALSE,Corrupt,['ɮəɣð'],,"['NPH_Agent', 'NPH_Elf', 'NPH_InkNexus']",verb,True,,root,solid
+254,χivšŋaǩrimqɢɬ,χivʃŋakʔrimqɢɬ,,Creation,,,[],noun,True,,composite,moderate
+255,sxɬəčj,sxɬətʃj,sxɬəəčj,Day,['sxɬəčj'],,[],noun,True,,root,solid
+256,wjətls,wjətls,wjəətls,Debris,['wjətls'],,[],noun,True,,root,solid
+257,zept,zept,FALSE,Defile,['zept'],,"['ONE_Solphim', 'BeadleGrimms_Guide']",verb,True,,root,solid
+258,naķmzept,nakʰmzept,nakʰmzeept,Defiler,"['naķm', 'zept']",,"['ONE_Solphim', 'BeadleGrimms_Guide']",noun,True,,composite,solid
+259,čmo'n,tʃmoʔn,čmoo'n,Demon,"[""čmo'n""]",,[],noun,False,,root,solid
+260,x'uφənx,xʔuφənx,FALSE,Destroy,['φənx'],,[],verb,True,,composite,solid
+261,pnpl,pnpl,FALSE,Doomed,['pnpl'],,['MTGA'],adjective,True,,root,solid
+262,pnplštɬiɬq,pnplʃtɬiɬq,pnplʃtɬiiɬq,Doomsday,"['pnpl', 'ʃtɬiiɬq']",,[],noun,True,,composite,solid
+263,nwi'n,nwiʔn,nwii'n,Energy,"[""nwi'n""]",,[],noun,True,,root,solid
+264,ɮiwx,ɮiwx,ɮiiwx,Engine,['ɮiwx'],,[],noun,True,,root,solid
+265,ʁaχǧ,ʁaχg',ʁaaχǧ,Faith (belief),['ʁaχǧ'],,[],noun,True,,root,solid
+266,wija'x,wijaʔx,wijaa'x,Faith (trust),"[""wija'x""]",,[],noun,True,,root,solid
+267,kezn,kezn,keezn,Family,['kezn'],,[],noun,True,,root,solid
+268,koɣt,koɣt,FALSE,Forged,['koɣt'],,[],adjective,True,,root,solid
+269,'ečel',ʔetʃelʔ,'ečeel',Glory,"[""'ečel'""]",,"['ONE_Trailer', 'Merch', 'BeadleGrimms_Guide']",noun,True,,root,solid
+270,'atn,ʔatn,FALSE,Greet,"[""'atn""]",,[],verb,True,,root,solid
+271,porg,porg,poorg,Group,['porg'],,"['NPH_Norn', 'SLD_Praetors']",noun,True,,root,solid
+272,ɢabn,ɢabn,ɢaabn,Guard,['ɢabn'],,[],noun,True,,root,solid
+273,mǆno'χ,mdʒnoʔχ,FALSE,Heal,,,[],verb,True,,composite,solid
+274,'əbə'w,ʔəbəʔw,əbəə'w,Heart,"[""bə'w""]",,['NPH_Trailer'],noun,True,,composite,solid
+275,keφe'x,keφeʔx,keφee'x,Herd/Stock,"[""φe'x""]",,"['NPH_Batterskull', 'ONE_Trailer']",noun,True,,composite,solid
+276,nsonq,nsonq,nsoonq,Hulk,['nsonq'],,[],noun,True,,root,solid
+277,φørw,φørw,φøørw,Ichor,['φørw'],,[],noun,True,,root,solid
+278,əxťeθuqx,əxt'eθuqx,FALSE,Immortal,['θuqx'],,['MBS_Trailer'],noun,True,,composite,solid
+279,mijens,mijens,FALSE,Imprison,['jens'],,['Dark_Discov'],verb,True,,composite,solid
+280,vriθkv,vriθkv,FALSE,Inevitable,['vriθkv'],,[],adjective,True,,root,solid
+281,bən',bənʔ,FALSE,Intelligent,"[""bən'""]",,[],adjective,True,,root,solid
+282,'ohux,ʔohux,'oohux,Knight,"[""'ohx""]",,[],noun,True,,root,solid
+283,kont,kont,FALSE,Leave,['kont'],,['MTGA'],verb,True,,root,solid
+284,xro'd,xroʔd,xrooʔd,Level,"[""xro'd""]",,[],noun,True,,root,solid
+285,ťewn,t'ewn,ťeewn,List,['ťewn'],,[],noun,True,,root,solid
+286,samk,samk,FALSE,Long,['samk'],,[],adjective,True,,root,solid
+287,žɒðk,ʒɒðk,žɒɒðk,Matrix,['žɒðk'],,[],noun,True,,root,solid
+288,koqšq,koqʃq,kooqšq,Metal,['koqšq'],,['MBS_PsyCrawl'],noun,True,,root,solid
+289,fxarl,fxarl,fxaarl,Monster,['fxarl'],,['KHM_Vorin'],noun,True,,root,solid
+290,ťeθuqx,t'eθuqx,ťeθuuqx,Mortal,['θuqx'],,['MBS_Trailer'],"adjective,noun",True,,composite,solid
+291,kšiπχ,kʃiπχ,FALSE,Obliterate,['kšiπχ'],,[],verb,True,,root,solid
+292,'ə'wgwəww,ʔəʔwgwəww,'ə'wgwəəww,Orthodox,,,['NPH_Trailer'],"adjective,noun",True,,composite,solid
+293,'ɴuŋəža,ʔɴuŋəža,FALSE,Persistent,['ŋəža'],,['BeadleGrimms_Guide'],adjective,True,,composite,solid
+294,ǆøzkǩ,dʒøzkǩ,ǆøøzkǩ,Practice,['ǆøzkǩ'],,['BeadleGrimms_Guide'],"noun,verb",True,,root,solid
+295,mǥeţǧx,mgʰetʰg'x,mǥeeţǧx,Predator,['mǥeţǧx'],,[],noun,True,,root,solid
+296,'emqrukm,ʔemqrukm,'emqruukm,Prediction,"[""'emq"", 'rukm']",,['NPH_Jin'],noun,True,,composite,solid
+297,ǧytπt,g'ytp't,ǧyytπt,Progress,['ǩytπt'],,[],noun,True,,root,solid
+298,ežkatm,eʒkatm,ežkaatm,Raid,['katm'],,['KHM_Vorin'],noun,True,,composite,solid
+299,kiǆkø'χ,kidʒkøʔχ,kiǆkøø'χ,Repair,"[""ǆkø'χ""]",,[],"noun,verb",True,,composite,solid
+300,brøtjt,brøtjt,brøøtjt,Research,['brøtjt'],,[],"noun,verb",True,,root,solid
+301,ŋulžm,ŋulʒm,FALSE,Rest,['ŋulžm'],,[],noun,True,,root,solid
+302,ǥo'θ,ǥoʔθ,ǥoo'θ,Sister,"[""ǥo'θ""]",,[],noun,True,,root,solid
+303,klesk,klesk,kleesk,Snow,['klesk'],,[],noun,True,,root,solid
+304,weɢw,weɢw,FALSE,Soft,['weɢw'],,"['ONE_Live', 'ONE_Solphim', 'BeadleGrimms_Guide']",adjective,True,,root,solid
+305,'eǆe't,ʔedʒeʔt,'eǆe't,Song,"[""ǆe't""]",,[],noun,True,,root,solid
+306,ɴŋexx,ʔɴŋexx,'ɴŋeexx,Source,,,['NPH_Trailer'],noun,True,,root,solid
+307,pihš,pihʃ,FALSE,Speak,['pihš'],,['ONE_Solphim'],verb,True,,root,solid
+308,naķmpihš,nakʰmpihʃ,naķmpiihš,Speaker,"['naķm', 'pihš']",,['ONE_Solphim'],noun,True,,root,solid
+309,na'istz,naʔistz,na'iistz,Stone,,,[],noun,True,,composite,solid
+310,φə'q,φəʔq,φəə'q,Study,"[""φə'q""]",,[],"noun,verb",True,,root,solid
+311,'iəbniθbš,ʔiəbniθbʃ,'iəbniiθbš,Synthesis,,,[],noun,True,,composite,solid
+312,gẅəww,gɯəww,FALSE,Think (inorganic),['gẅəww'],,[],verb,True,,root,solid
+313,ɮirt,ɮirt,FALSE,Think (organic),['ɮirt'],,"['ONE_Jace', 'NPH_Misstep', 'ONE_Panel', 'NPH_Trailer']",verb,True,,root,solid
+314,šxẅonɣ,ʃxɯonɣ,šxẅoonɣ,Time,['šxẅonɣ'],,[],noun,True,,root,solid
+315,naǆɢ,nadʒɢ,naaǆɢ,Torture,['naǆɢ'],,[],noun,True,,root,solid
+316,xušv,xuʃv,xuušv,Voice,['xušv'],,[],noun,True,,root,solid
+317,bə'l,bəʔl,bə'l,Vow,"[""bə'l""]",,[],noun,True,,root,solid
+318,sodrm,sodrm,soodrm,Way,['sodrm'],,"['Yawg_Test', 'DMU_Ajani']",noun,True,,root,solid
+319,xweq,xweq,,Will,['xweq'],,['C19_Krrik'],noun,True,,root,solid
+320,θpoŋkp,θpoŋkp,FALSE,Worship,['θpoŋkp'],,[],verb,True,,root,solid
+321,dmənr,dmənr,FALSE,Dominaria,['dmənr'],,[],noun,False,,name,solid
+322,sylx,sylx,syylx,Sylex,['sylx'],,[],noun,False,,root,solid
+323,sə'mx,səʔmx,səə'mx,Rule,"[""sə'mx""]",,['BeadleGrimms_Guide'],"noun,verb",True,,root,solid
+324,θtatlmi'l,θtatlmiʔl,θtatlmii'l,Commandment,,,['BeadleGrimms_Guide'],noun,True,,composite,solid
+325,šotm,ʃotm,šootm,Apostle,['šotm'],,['BeadleGrimms_Guide'],noun,True,,root,solid
+326,vqitz,vqitz,FALSE,Rise,['vqitz'],,['BeadleGrimms_Guide'],noun,True,,root,solid
+327,ẅ'uzɮšķiɴţk,ɯʔuzɮʃkʰiɴtʰk,FALSE,Fair Basilica,,,['BeadleGrimms_Guide'],noun,True,,composite,solid
+328,ķøvxǆav'ɴt,kʰøvxdʒavʔɴt,FALSE,Surgical Bay,,,['BeadleGrimms_Guide'],noun,True,,composite,solid
+329,natlč,natltʃ,naatlč,Face,['natlč'],,"['Yawg_Test', 'MBS_Trailer']",noun,True,,root,solid
+330,'asm,ʔasm,'aasm,Decree,"[""'asm""]",,['NPH_Ura'],noun,True,,root,likely
+331,keqxǆuɣp,keqxdʒuɣp,FALSE,Stun,,,['NPH_Ura'],verb,True,,composite,likely
+332,prosj,prosj,FALSE,Allow/Ignore,['prosj'],,['NPH_Ura'],verb,True,,root,moderate
+333,čɣəwθ,tʃɣəwθ,čɣəəwθ,Effect,['čɣəwθ'],,['NEO_Jin'],noun,True,,root,moderate
+334,džəɬɢt,dʒəɬɢt,FALSE,Happen,['džəɬɢt'],,['NEO_Jin'],verb,True,,root,moderate
+335,'iitč,ʔiittʃ,FALSE,First,"[""'ii""]",,"['SNC_Ura', 'DMU_Ajani']",adverb,True,,composite,likely
+336,ķutč,kʰuttʃ,FALSE,Second,['ķu'],,[],adverb,True,,composite,moderate
+337,ķitč,kʰittʃ,FALSE,Third,['ķi'],,[],adverb,True,,composite,moderate
+338,geft,geft,FALSE,Remaining,['geft'],,['ONE_Vraska'],adjective,True,,root,moderate
+339,kšaπɢždɒ'ķ,kʃaπɢʒdɒ'kʰ,,Batteskull,,,['NPH_Batterskull'],noun,True,,composite,likely
+340,ɬšeɴazv,ɬʃeɴazv,ɬʃeɴaazv,Mistake,,,"['NPH_Misstep', 'ONE_Panel']",noun,True,,composite,likely
+341,'uɮč,ʔuɮtʃ,FALSE,Lose,,,['MBS_Trailer'],verb,True,,root,likely
+342,dlik,dlik,FALSE,Despite,['dlik'],,"['ONE_Article', 'MBS_Trailer']",,True,,root,moderate
+343,bytp,bytp,FALSE,False,['bytp'],,['MBS_Trailer'],adjective,True,,root,likely
+344,lu'f,luʔf,FALSE,Power/Energize,"[""lu'f""]",,['NPH_Trailer'],verb,True,,root,likely

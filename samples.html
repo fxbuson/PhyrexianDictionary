@@ -1,0 +1,59 @@
+---
+layout: home
+title: Phyrexian Dictionary
+---
+
+<h1 style="text-align: center;">Samples</h1>
+
+{% for sample in site.data.PhyrexianAPI.samples %}
+    <a href="{{site.baseurl}}/sample?id={{ sample[0] }}", id = "{{ sample[1].Name }}">
+        <p>{{ sample[1].Name }}</p>
+        <img src="{{site.baseurl}}/images/{{ sample[1].Name }}.jpg", width="200px">
+    </a>
+    
+{% endfor %}
+
+<div id="sample_types"></div>
+
+<script>
+    const json = `{{ site.data.PhyrexianAPI | jsonify }}`
+    const data = JSON.parse(json)
+
+    var card_types = []
+    var other_types = []
+    for (var i = 0; i < Object.keys(data.samples).length; i++){
+        var type = data.samples[i].Type
+        if (type.startsWith("Cards_")){
+            if (!card_types.includes(type)){
+                card_types.push(type)
+            }
+        }
+        else {
+            if (!other_types.includes(type)){
+                other_types.push(type)
+            }
+        }
+    }
+    
+    var types = card_types.concat(other_types)
+    for (var i = 0; i < types.length; i++){
+        const container = document.createElement("div")
+        container.id = types[i]
+        document.getElementById("sample_types").appendChild(container)
+
+        const node = document.createElement("h3")
+        const u_score = document.createElement("u")
+        const textnode = document.createTextNode(types[i])
+        u_score.appendChild(textnode)
+        node.appendChild(u_score)
+        container.appendChild(node)
+    }
+
+    
+    for (var i = 0; i < Object.keys(data.samples).length; i++){
+        var cur_sample = document.getElementById(data.samples[i].Name)
+        document.getElementById(data.samples[i].Type).appendChild(cur_sample)
+    }
+
+
+</script>

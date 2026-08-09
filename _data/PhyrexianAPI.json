@@ -6987,6 +6987,13 @@
             "English": "Defiler.Phyrexia. Elesh Norn. Glory. Perfection. Controller. World. Glistening Oil. Behold New Phyrexia. We shall cleanse their impurities. Surrender to perfection. ____. Elesh Norn has perfected the Fair Basilica. The Surgical Bay spread Glistening Oil and commanded compleation under Elesh Norn's persistent rule. Elesh Norn's commandments were persistent and practiced. May the Apostles of Norn have risen, so may they have been recognized.",
             "Notes": null,
             "Breakdown": null
+        },
+        "55": {
+            "Name": "MBC_Valko",
+            "Regular": "^xe-ťəəmøn-'štžɒɒðuʁ-lučquɬul,loxuφ-čǩaaqøq-φlφyrxvrtolkktɒmt-ɢløǆfam.^'elš-norn.",
+            "English": "",
+            "Notes": "Text apparently appears in one of the MTGA loading screens, which previously had no known translation",
+            "Breakdown": null
         }
     }
 }

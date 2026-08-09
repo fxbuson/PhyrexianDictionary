@@ -6,10 +6,14 @@ title: Phyrexian Dictionary
 <h1 style="text-align: center;">Samples</h1>
 
 {% for sample in site.data.PhyrexianAPI.samples %}
-    <a href="{{site.baseurl}}/sample?id={{ sample[0] }}", id = "{{ sample[1].Name }}">
-        <p>{{ sample[1].Name }}</p>
-        <img src="{{site.baseurl}}/images/{{ sample[1].Name }}.jpg", width="200px">
-    </a>
+    <div id = "{{ sample[1].Name }}", style="display: flex; flex-direction: column;">
+        <a href="{{site.baseurl}}/sample?id={{ sample[0] }}">
+            <p>{{ sample[1].Name }}</p>
+        </a>
+        <a href="{{site.baseurl}}/sample?id={{ sample[0] }}">
+            <img src="{{site.baseurl}}/images/{{ sample[1].Name }}.jpg", width="200px">
+        </a>
+    </div>
     
 {% endfor %}
 
@@ -37,16 +41,17 @@ title: Phyrexian Dictionary
     
     var types = card_types.concat(other_types)
     for (var i = 0; i < types.length; i++){
-        const container = document.createElement("div")
-        container.id = types[i]
-        document.getElementById("sample_types").appendChild(container)
-
         const node = document.createElement("h3")
         const u_score = document.createElement("u")
         const textnode = document.createTextNode(types[i])
         u_score.appendChild(textnode)
         node.appendChild(u_score)
-        container.appendChild(node)
+        document.getElementById("sample_types").appendChild(node)
+
+        const container = document.createElement("div")
+        container.id = types[i]
+        container.style = "display:flex; gap:20px;"
+        document.getElementById("sample_types").appendChild(container)
     }
 
     

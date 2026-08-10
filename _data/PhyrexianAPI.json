@@ -6996,24 +6996,24 @@
             "Type": "Other"
         },
         "49": {
-            "Name": "Ads",
-            "Regular": "^mǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut.^xɬiwjvižuǥ.",
+            "Name": "Ads_1",
+            "Regular": "^ǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut.^xɬiwjvižuǥ.",
             "English": null,
             "Notes": null,
             "Breakdown": null,
-            "Type": "Other"
+            "Type": "Ads"
         },
         "50": {
-            "Name": "Merch",
-            "Regular": "^ǩaπa-š'iimashaǩ.^'u-kulx-pən'yg.^lo-jnaķm-pnsča'eθ.^ǩaπa-əxtuneem-'aliθat.^plinexs.^jnaķm.^'ečel'.^'aliθt.",
+            "Name": "Merch_1",
+            "Regular": "^xe-ťəəmen-qə'ičyq-ǩaπa-keφe'x.^xe-čǩaaǧeq-naķmxep'ee'ox.",
             "English": null,
             "Notes": null,
             "Breakdown": null,
             "Type": "Merch"
         },
         "51": {
-            "Name": "MTGA",
-            "Regular": "^'uštaxuφ-xørnyš-pnplťəəmn-konet-'ušta-jɒ'gmo'θ-jnaķm-'əţə'a'.^ɴetsxap-'əţə'o'-'štmrodaan-xexuφ-φyrxkeθəɢð-pnťwə'u'-ʁiɢkyxt'yw.^xe gøẅroφ luπes.^πrøtjt-ǩytπt.^lo φyrxkeθəɢð'ɒjbť-ẅɬnesuš.",
+            "Name": "MTGA_1",
+            "Regular": "^'uštaxuφ-xørnyš-pnplťəəmn-konet-'ušta-jɒ'gmo'θ-jnaķm-'əţə'a'.",
             "English": null,
             "Notes": null,
             "Breakdown": null,
@@ -7050,6 +7050,150 @@
             "Notes": "Text apparently appears in one of the MTGA loading screens, which previously had no known translation",
             "Breakdown": null,
             "Type": "Art"
+        },
+        "56": {
+            "Name": "Ads_2",
+            "Regular": "^xɬiwjvižuǥ.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Ads"
+        },
+        "57": {
+            "Name": "Ads_3",
+            "Regular": "^ǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut.^xɬiwjvižuǥ.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Ads"
+        },
+        "58": {
+            "Name": "Merch_2",
+            "Regular": "^lo-jnaķm-pnsča'eθ.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Merch"
+        },
+        "59": {
+            "Name": "Merch_3",
+            "Regular": "^'u-kulx-pən'yg.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Merch"
+        },
+        "60": {
+            "Name": "Merch_4",
+            "Regular": "^ǩaπa-š'iimashaǩ.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Merch"
+        },
+        "61": {
+            "Name": "Merch_5",
+            "Regular": "^ǩaπa-əxtuneem-'aliθat.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Merch"
+        },
+        "62": {
+            "Name": "Merch_6",
+            "Regular": "^plinexs.^jnaķm.^'ečel'.^'aliθt.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Merch"
+        },
+        "63": {
+            "Name": "Merch_7",
+            "Regular": "^lo-jnaķm-pnsča'eθ.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Merch"
+        },
+        "64": {
+            "Name": "Merch_8",
+            "Regular": "^xexpa'-ɮπť'iibaɢ.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Merch"
+        },
+        "65": {
+            "Name": "Merch_9",
+            "Regular": "^χiǆ'ynpep.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Merch"
+        },
+        "66": {
+            "Name": "Merch_10",
+            "Regular": "^søɮiʁ,ǧπχɒʁ.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Merch"
+        },
+        "67": {
+            "Name": "MTGA_2",
+            "Regular": "^ɴetsxap-'əţə'o'-'štmrodaan-xexuφ-φyrxkeθəɢð-pnťwə'u'-ʁiɢkyxt'yw.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "MTGA"
+        },
+        "68": {
+            "Name": "MTGA_3",
+            "Regular": "^xe gøẅroφ luπes.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "MTGA"
+        },
+        "69": {
+            "Name": "MTGA_4",
+            "Regular": "^πrøtjt-ǩytπt.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "MTGA"
+        },
+        "70": {
+            "Name": "MTGA_5",
+            "Regular": "^lo-φyrxkeθəɢð'ɒjbť-ẅɬnesuš.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "MTGA"
+        },
+        "71": {
+            "Name": "MTGA_6",
+            "Regular": "^koɣt.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "MTGA"
+        },
+        "72": {
+            "Name": "MTGA_7",
+            "Regular": "^xe-ťəəmøn-'štžɒɒðuʁ-lučquɬul,loxuφ-čǩaaqøq-φlφyrxvrtolkktɒmt-ɢløǆfam.^'elš-norn.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "MTGA"
+        },
+        "73": {
+            "Name": "MTGA_8",
+            "Regular": "^ǩaπa-'əţə''jnaķm-χtønu.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "MTGA"
         }
     }
 }

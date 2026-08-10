@@ -42,7 +42,9 @@
             "examples": [
                 "NPH_Norn",
                 "ONE_Norn",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "MBC_Valko",
+                "MTGA_7"
             ],
             "class": "noun",
             "native": true,
@@ -175,7 +177,9 @@
                 "NPH_Norn",
                 "ONE_Norn",
                 "NPH_Annex",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "MBC_Valko",
+                "MTGA_7"
             ],
             "class": "noun",
             "native": true,
@@ -200,9 +204,10 @@
                 "ONE_Trailer",
                 "MOM_Teaser",
                 "ONE_Solphim",
-                "MTGA",
                 "BeadleGrimms",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "MTGA_2",
+                "MTGA_5"
             ],
             "class": "noun",
             "native": true,
@@ -305,7 +310,7 @@
             "examples": [
                 "DOM_Scriptures",
                 "C19_Krrik",
-                "MTGA"
+                "MTGA_1"
             ],
             "class": "noun",
             "native": true,
@@ -431,7 +436,8 @@
                 "MBS_PsyCrawl",
                 "NPH_Annex",
                 "Swamp_Lore",
-                "ONE_Trailer"
+                "ONE_Trailer",
+                "Merch_1"
             ],
             "class": "noun",
             "native": true,
@@ -524,9 +530,10 @@
                 "ONE_Trailer",
                 "MOM_Teaser",
                 "ONE_Solphim",
-                "MTGA",
                 "BeadleGrimms",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "MTGA_2",
+                "MTGA_5"
             ],
             "class": "noun",
             "native": true,
@@ -817,9 +824,12 @@
                 "MOM_Teaser",
                 "ONE_Solphim",
                 "MTGSalvation",
-                "MTGA",
                 "BeadleGrimms",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "MBC_Valko",
+                "MTGA_2",
+                "MTGA_5",
+                "MTGA_7"
             ],
             "class": "noun",
             "native": true,
@@ -930,9 +940,9 @@
                 "ONE_Nahiri",
                 "SLD_Praetors",
                 "Swamp_Lore",
-                "Merch",
                 "Keyboard",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "Merch_6"
             ],
             "class": "adjective",
             "native": true,
@@ -1964,7 +1974,8 @@
             "composition": null,
             "examples": [
                 "C19_Krrik",
-                "Ads"
+                "Ads_1",
+                "Ads_3"
             ],
             "class": "verb",
             "native": true,
@@ -2270,7 +2281,8 @@
                 "MBS_Trailer",
                 "ONE_Trailer",
                 "MOM_Teaser",
-                "Merch"
+                "Merch_4",
+                "Merch_8"
             ],
             "class": "noun",
             "native": true,
@@ -2369,7 +2381,9 @@
             ],
             "composition": null,
             "examples": [
-                "Ads"
+                "Ads_1",
+                "Ads_2",
+                "Ads_3"
             ],
             "class": "noun",
             "native": true,
@@ -2709,7 +2723,7 @@
             "examples": [
                 "ONE_Nissa",
                 "MBS_Trailer",
-                "Merch"
+                "Merch_3"
             ],
             "class": "verb",
             "native": true,
@@ -2785,8 +2799,9 @@
             "examples": [
                 "ONE_Trailer",
                 "ONE_Solphim",
-                "Merch",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "Merch_5",
+                "Merch_6"
             ],
             "class": "verb",
             "native": true,
@@ -2937,7 +2952,9 @@
             ],
             "composition": null,
             "examples": [
-                "Ads"
+                "Ads_1",
+                "Ads_2",
+                "Ads_3"
             ],
             "class": "adjective",
             "native": true,
@@ -2974,7 +2991,8 @@
                 "ONE_Jace",
                 "ONE_Lukka",
                 "ONE_Nissa",
-                "ONE_Island"
+                "ONE_Island",
+                "Merch_9"
             ],
             "class": "verb",
             "native": true,
@@ -3062,7 +3080,7 @@
                 "ONE_Article",
                 "NPH_Trailer",
                 "Dark_Discov",
-                "MTGA"
+                "MTGA_1"
             ],
             "class": "noun",
             "native": true,
@@ -3264,7 +3282,7 @@
             "composition": null,
             "examples": [
                 "NPH_Elf",
-                "MTGA"
+                "MTGA_5"
             ],
             "class": "noun",
             "native": true,
@@ -3393,8 +3411,8 @@
             "examples": [
                 "ONE_Trailer",
                 "ONE_Solphim",
-                "Merch",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "Merch_5"
             ],
             "class": "noun",
             "native": true,
@@ -3459,7 +3477,7 @@
                 "C19_Krrik",
                 "ONE_Article",
                 "NPH_Trailer",
-                "MTGA"
+                "MTGA_1"
             ],
             "class": "noun",
             "native": true,
@@ -3497,10 +3515,14 @@
                 "NPH_Trailer",
                 "ONE_Trailer",
                 "ONE_Solphim",
-                "Merch",
-                "MTGA",
+                "Merch_1",
+                "MTGA_1",
                 "BeadleGrimms",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "Merch_2",
+                "Merch_6",
+                "Merch_7",
+                "MTGA_8"
             ],
             "class": "noun,verb",
             "native": true,
@@ -3542,7 +3564,7 @@
                 "NPH_Ura",
                 "Swamp_Lore",
                 "NPH_Trailer",
-                "MTGA"
+                "MTGA_2"
             ],
             "class": "noun",
             "native": false,
@@ -3583,7 +3605,9 @@
             "examples": [
                 "ONE_Norn",
                 "ONE_Plains",
-                "ONE_Article"
+                "ONE_Article",
+                "MBC_Valko",
+                "MTGA_7"
             ],
             "class": "noun",
             "native": true,
@@ -3798,10 +3822,13 @@
                 "ONE_Live",
                 "ONE_Trailer",
                 "ONE_Solphim",
-                "Merch",
-                "MTGA",
+                "MTGA_1",
                 "BeadleGrimms",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "Merch_2",
+                "Merch_6",
+                "Merch_7",
+                "MTGA_8"
             ],
             "class": "noun",
             "native": true,
@@ -3871,7 +3898,9 @@
             "examples": [
                 "KHM_Vorin",
                 "C19_Krrik",
-                "MTGA"
+                "MTGA_1",
+                "MTGA_2",
+                "MTGA_8"
             ],
             "class": "verb",
             "native": true,
@@ -4174,9 +4203,10 @@
             "examples": [
                 "ONE_Trailer",
                 "ONE_Solphim",
-                "Merch",
                 "BeadleGrimms",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "Merch_2",
+                "Merch_7"
             ],
             "class": "verb",
             "native": true,
@@ -4386,9 +4416,10 @@
                 "ONE_Trailer",
                 "MOM_Teaser",
                 "ONE_Solphim",
-                "MTGA",
                 "BeadleGrimms",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "MTGA_2",
+                "MTGA_5"
             ],
             "class": "noun",
             "native": true,
@@ -4591,7 +4622,7 @@
             "composition": null,
             "examples": [
                 "NEO_Jin",
-                "MTGA"
+                "MTGA_4"
             ],
             "class": "noun",
             "native": true,
@@ -4611,8 +4642,8 @@
             "examples": [
                 "ONE_Trailer",
                 "ONE_Solphim",
-                "Merch",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "Merch_5"
             ],
             "class": "adjective",
             "native": true,
@@ -4939,7 +4970,7 @@
             ],
             "composition": null,
             "examples": [
-                "MTGA"
+                "MTGA_1"
             ],
             "class": "noun",
             "native": true,
@@ -5188,7 +5219,7 @@
             ],
             "composition": null,
             "examples": [
-                "MTGA"
+                "MTGA_1"
             ],
             "class": "adjective",
             "native": true,
@@ -5302,7 +5333,9 @@
                 "koɣt"
             ],
             "composition": null,
-            "examples": [],
+            "examples": [
+                "MTGA_6"
+            ],
             "class": "adjective",
             "native": true,
             "notes": null,
@@ -5320,8 +5353,8 @@
             "composition": null,
             "examples": [
                 "ONE_Trailer",
-                "Merch",
-                "BeadleGrimms_Guide"
+                "BeadleGrimms_Guide",
+                "Merch_6"
             ],
             "class": "noun",
             "native": true,
@@ -5423,7 +5456,8 @@
             "composition": null,
             "examples": [
                 "NPH_Batterskull",
-                "ONE_Trailer"
+                "ONE_Trailer",
+                "Merch_1"
             ],
             "class": "noun",
             "native": true,
@@ -5557,7 +5591,7 @@
             ],
             "composition": null,
             "examples": [
-                "MTGA"
+                "MTGA_1"
             ],
             "class": "verb",
             "native": true,
@@ -6996,30 +7030,6 @@
             "Type": "Other"
         },
         "49": {
-            "Name": "Ads_1",
-            "Regular": "^ǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut.^xɬiwjvižuǥ.",
-            "English": null,
-            "Notes": null,
-            "Breakdown": null,
-            "Type": "Ads"
-        },
-        "50": {
-            "Name": "Merch_1",
-            "Regular": "^xe-ťəəmen-qə'ičyq-ǩaπa-keφe'x.^xe-čǩaaǧeq-naķmxep'ee'ox.",
-            "English": null,
-            "Notes": null,
-            "Breakdown": null,
-            "Type": "Merch"
-        },
-        "51": {
-            "Name": "MTGA_1",
-            "Regular": "^'uštaxuφ-xørnyš-pnplťəəmn-konet-'ušta-jɒ'gmo'θ-jnaķm-'əţə'a'.",
-            "English": null,
-            "Notes": null,
-            "Breakdown": null,
-            "Type": "MTGA"
-        },
-        "52": {
             "Name": "Keyboard",
             "Regular": "^ɮøht.^πaǆť.^plinexs.^qxuπyl.^nɒţm.^kšķiπχ.^θomk.",
             "English": "Tab. Caps Lock. Compleat. Control. Alt. Obliterate. Enter",
@@ -7027,7 +7037,7 @@
             "Breakdown": null,
             "Type": "Merch"
         },
-        "53": {
+        "50": {
             "Name": "BeadleGrimms",
             "Regular": "^ɣẅbiidlɢrimsxə-mǩaπa-šopraptφyrxkeθəɢð-χtena.^lo-jnaķm-əšb-ķuɮaθǩv-pnsča'uθ.^lo-zťøsaaǆ-loxe-ɢţrɒsd-šdeχaad.",
             "English": "From Beadle & Grimm's: Behold New Phyrexia! Surrender to perfection on February 18, 2023. Subscribe and welcome our embrace.",
@@ -7035,7 +7045,7 @@
             "Breakdown": "from_beadle_grimms_and (shall) new_phrexian_world [4>1]behold.(imperative) perfection on_{18}_february_{2023}_[2>3]behold.(imperative) [2>1]subscribe (imperative-and) embrace [2>1]welcome",
             "Type": "Other"
         },
-        "54": {
+        "51": {
             "Name": "BeadleGrimms_Guide",
             "Regular": "^naķmzept.^φyrxkeθəɢð.^'elš-norn.^'ečel'.^jnaķm.^naķmqxupl.^keθəɢð.^φ'kitvdlabz.^ǩaπa-šoprapt-φyrxkeθəɢð-χtena.^ǩaπa-əxtuneem-'aliθat.^lo-jnaķm-pnsča'eθ.^xe-φyrxkeθəɢoð.^ǩaπa-jnaķm-weɢw-dl'əpyryx-ɢəkeθəɢð-θwiχaš.^'ušta-'elš-norn-ẅ'uzɮšķiɴţk-jnaķem.^'ušta-φ'kitvdlabz-ķøvxǆav'ɴt-χimɴyrex-'uštaxə-plinexs-vl'elšnorn'ɴuŋəžl'asə'mx-'uxeq.^'ušta-θtatlmi'yl-'elš-norn-'ɴuŋəžal-ǆøzkaǩxə.^šxwə-šotym-norn-vqitz-šxwəxẅots-əšqšχa'θsoφys.",
             "English": "Defiler.Phyrexia. Elesh Norn. Glory. Perfection. Controller. World. Glistening Oil. Behold New Phyrexia. We shall cleanse their impurities. Surrender to perfection. ____. Elesh Norn has perfected the Fair Basilica. The Surgical Bay spread Glistening Oil and commanded compleation under Elesh Norn's persistent rule. Elesh Norn's commandments were persistent and practiced. May the Apostles of Norn have risen, so may they have been recognized.",
@@ -7043,7 +7053,7 @@
             "Breakdown": null,
             "Type": "Merch"
         },
-        "55": {
+        "52": {
             "Name": "MBC_Valko",
             "Regular": "^xe-ťəəmøn-'štžɒɒðuʁ-lučquɬul,loxuφ-čǩaaqøq-φlφyrxvrtolkktɒmt-ɢløǆfam.^'elš-norn.",
             "English": "",
@@ -7051,7 +7061,15 @@
             "Breakdown": null,
             "Type": "Art"
         },
-        "56": {
+        "53": {
+            "Name": "Ads_1",
+            "Regular": "^ǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut.^xɬiwjvižuǥ.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Ads"
+        },
+        "54": {
             "Name": "Ads_2",
             "Regular": "^xɬiwjvižuǥ.",
             "English": null,
@@ -7059,7 +7077,7 @@
             "Breakdown": null,
             "Type": "Ads"
         },
-        "57": {
+        "55": {
             "Name": "Ads_3",
             "Regular": "^ǩaπa-tɬxẅačt-xɬiwjhuqɬgøťut.^xɬiwjvižuǥ.",
             "English": null,
@@ -7067,7 +7085,15 @@
             "Breakdown": null,
             "Type": "Ads"
         },
-        "58": {
+        "56": {
+            "Name": "Merch_1",
+            "Regular": "^xe-ťəəmen-qə'ičyq-ǩaπa-keφe'x.^xe-čǩaaǧeq-naķmxep'ee'ox.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "Merch"
+        },
+        "57": {
             "Name": "Merch_2",
             "Regular": "^lo-jnaķm-pnsča'eθ.",
             "English": null,
@@ -7075,7 +7101,7 @@
             "Breakdown": null,
             "Type": "Merch"
         },
-        "59": {
+        "58": {
             "Name": "Merch_3",
             "Regular": "^'u-kulx-pən'yg.",
             "English": null,
@@ -7083,7 +7109,7 @@
             "Breakdown": null,
             "Type": "Merch"
         },
-        "60": {
+        "59": {
             "Name": "Merch_4",
             "Regular": "^ǩaπa-š'iimashaǩ.",
             "English": null,
@@ -7091,7 +7117,7 @@
             "Breakdown": null,
             "Type": "Merch"
         },
-        "61": {
+        "60": {
             "Name": "Merch_5",
             "Regular": "^ǩaπa-əxtuneem-'aliθat.",
             "English": null,
@@ -7099,7 +7125,7 @@
             "Breakdown": null,
             "Type": "Merch"
         },
-        "62": {
+        "61": {
             "Name": "Merch_6",
             "Regular": "^plinexs.^jnaķm.^'ečel'.^'aliθt.",
             "English": null,
@@ -7107,7 +7133,7 @@
             "Breakdown": null,
             "Type": "Merch"
         },
-        "63": {
+        "62": {
             "Name": "Merch_7",
             "Regular": "^lo-jnaķm-pnsča'eθ.",
             "English": null,
@@ -7115,7 +7141,7 @@
             "Breakdown": null,
             "Type": "Merch"
         },
-        "64": {
+        "63": {
             "Name": "Merch_8",
             "Regular": "^xexpa'-ɮπť'iibaɢ.",
             "English": null,
@@ -7123,7 +7149,7 @@
             "Breakdown": null,
             "Type": "Merch"
         },
-        "65": {
+        "64": {
             "Name": "Merch_9",
             "Regular": "^χiǆ'ynpep.",
             "English": null,
@@ -7131,13 +7157,21 @@
             "Breakdown": null,
             "Type": "Merch"
         },
-        "66": {
+        "65": {
             "Name": "Merch_10",
             "Regular": "^søɮiʁ,ǧπχɒʁ.",
             "English": null,
             "Notes": null,
             "Breakdown": null,
             "Type": "Merch"
+        },
+        "66": {
+            "Name": "MTGA_1",
+            "Regular": "^'uštaxuφ-xørnyš-pnplťəəmn-konet-'ušta-jɒ'gmo'θ-jnaķm-'əţə'a'.",
+            "English": null,
+            "Notes": null,
+            "Breakdown": null,
+            "Type": "MTGA"
         },
         "67": {
             "Name": "MTGA_2",
